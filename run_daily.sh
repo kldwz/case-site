@@ -38,7 +38,9 @@ log "步骤4: git commit + push"
 if [ -n "$(git status --porcelain)" ]; then
     git add -A
     git commit -m "daily: $DATE 案例更新" >> "$LOG" 2>&1 || { log "!! commit 失败"; exit 1; }
-    git push >> "$LOG" 2>&1 || { log "!! push 失败"; exit 1; }
+    # 清除代理变量：本机代理对 git CONNECT 隧道不稳定（503），直连更可靠
+    env -u HTTP_PROXY -u HTTPS_PROXY -u http_proxy -u https_proxy \
+        git push >> "$LOG" 2>&1 || { log "!! push 失败"; exit 1; }
     log "  已推送"
 else
     log "  无变更，跳过提交"
