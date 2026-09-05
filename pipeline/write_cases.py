@@ -84,7 +84,7 @@ COMMUNITY_DOMAINS = {
 
 
 def get_domain_slug(candidate):
-    """slug 生成：独立官网用域名，社区/资讯链接用标题"""
+    """slug 生成：独立官网用域名，社区/资讯链接用标题。中文标题兜底用日期+序号。"""
     link = candidate.get("link", "")
     try:
         netloc = urlparse(link).netloc
@@ -105,6 +105,13 @@ def get_domain_slug(candidate):
         parts = [p for p in domain.split(".") if p]
         if parts:
             return parts[0]
+    # 兜底：中文标题被全滤光 → 用链接里的路径最后一段或日期
+    try:
+        path_part = [p for p in re.split(r"/|\?|#", urlparse(link).path) if p][-1]
+        if path_part and re.search(r"[a-z0-9]", path_part):
+            return path_part[:50].strip("-")
+    except Exception:
+        pass
     return f"case-{datetime.date.today().isoformat()}"
 
 
@@ -237,17 +244,29 @@ def build_md(candidate, data, slug):
     """用模板拼装完整 md"""
     link = candidate.get("link", "")
     source = candidate.get("source", "")
-    tags = data.get("category_tags", "独立开发 / 英文")
+    raw_tags = data.get("category_tags", "独立开发 / 英文")
+    if isinstance(raw_tags, list):
+        tags = " / ".join(str(t).strip() for t in raw_tags if str(t).strip()) or "独立开发 / 英文"
+    elif not isinstance(raw_tags, str) or not raw_tags.strip():
+        tags = "独立开发 / 英文"
+    else:
+        tags = raw_tags
     cover = f"/case-site/cases/{slug}/site.png"
 
+    def s(key, default="未官方披露"):
+        v = data.get(key)
+        if not isinstance(v, str) or not v.strip():
+            return default
+        return v.strip()
+
     fm = f"""---
-name: {data.get('name', candidate.get('title', ''))}
-一句话: {data.get('slogan', '')}
-创始人地区: {data.get('founder', '未知')}
-营收模式: {data.get('revenue', '').split(chr(10))[0][:80]}
-月收入估算: {data.get('revenue_est', '未官方披露')}
-流量来源: {data.get('traffic', '').replace(chr(10), ' ')[:100]}
-可迁移点: {data.get('lesson', '').replace(chr(10), ' ')[:150]}
+name: {s('name', candidate.get('title', ''))}
+一句话: {s('slogan')}
+创始人地区: {s('founder', '未知')}
+营收模式: {s('revenue').split(chr(10))[0][:80]}
+月收入估算: {s('revenue_est')}
+流量来源: {s('traffic').replace(chr(10), ' ')[:100]}
+可迁移点: {s('lesson').replace(chr(10), ' ')[:150]}
 原文链接: {link}
 数据口径: {source} 收录
 分类: {tags}

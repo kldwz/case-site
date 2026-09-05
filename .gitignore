@@ -10,5 +10,7 @@ __pycache__/
 *.pyc
 pipeline/seen.json
 pipeline/failures/
+inbox/
 .claude/
 .venv/
+logs/
