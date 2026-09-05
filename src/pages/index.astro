@@ -3,6 +3,10 @@ import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 
 const cases = await getCollection('cases');
+const base = import.meta.env.BASE_URL;
+// md 里的封面路径是 /case-site/cases/<slug>/site.png（适配 GitHub Pages 的硬编码）
+// 这里剥离前缀，用 BASE_URL 重新拼，保证本地/线上一致
+const stripBase = (p: string) => p.replace(/^\/case-site/, '');
 // 把 分类 字段拆成标签数组，用于筛选
 const allTags = Array.from(
   new Set(cases.flatMap((c) => c.data.分类.split('/').map((t) => t.trim())))
@@ -27,9 +31,9 @@ const allTags = Array.from(
 
   <div class="grid" id="grid">
     {cases.map((c) => (
-      <a class="card" href={`/case-site/cases/${c.slug || c.data.slug}/`} data-tags={c.data.分类}>
+      <a class="card" href={`${base}cases/${c.slug || c.data.slug}/`} data-tags={c.data.分类}>
         {c.data.封面
-          ? <img class="card-img" src={c.data.封面} alt={c.data.name} loading="lazy" />
+          ? <img class="card-img" src={base.replace(/\/$/, '') + stripBase(c.data.封面)} alt={c.data.name} loading="lazy" />
           : <div class="card-img placeholder"><span>{c.data.name}</span></div>
         }
         <div class="card-body">

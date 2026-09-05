@@ -12,7 +12,7 @@ name: 汇流直播
 封面: /case-site/cases/apple-app-apple-store/site.png
 ---
 
-![汇流直播 官网](/case-site/cases/apple-app-apple-store/site.png)
+![汇流直播 官网](/cases/apple-app-apple-store/site.png)
 
 # 汇流直播：Apple 全家桶直播聚合，免费体验核心功能，付费解锁完整版
 

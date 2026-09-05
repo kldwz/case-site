@@ -12,7 +12,7 @@ name: 岁时 Sundial
 封面: /case-site/cases/sundial-app-iphone-ipad/site.png
 ---
 
-![岁时 Sundial 官网](/case-site/cases/sundial-app-iphone-ipad/site.png)
+![岁时 Sundial 官网](/cases/sundial-app-iphone-ipad/site.png)
 
 # 岁时 Sundial：时间可视化App，收入模式未披露
 

@@ -12,7 +12,7 @@ name: Obsidian Config Sync
 封面: /case-site/cases/obsidian/site.png
 ---
 
-![Obsidian Config Sync 官网](/case-site/cases/obsidian/site.png)
+![Obsidian Config Sync 官网](/cases/obsidian/site.png)
 
 # Obsidian Config Sync：本地离线的 Obsidian 配置同步工具，未商业化
 

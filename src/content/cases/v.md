@@ -12,7 +12,7 @@ name: WhatToBuild
 封面: /case-site/cases/v/site.png
 ---
 
-![WhatToBuild 官网](/case-site/cases/v/site.png)
+![WhatToBuild 官网](/cases/v/site.png)
 
 # WhatToBuild：帮你发现搜索趋势和热点选题，靠订阅折扣获取付费用户
 

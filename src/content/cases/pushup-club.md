@@ -12,7 +12,7 @@ name: PushUp Club
 封面: /case-site/cases/pushup-club/site.png
 ---
 
-![PushUp Club 官网](/case-site/cases/pushup-club/site.png)
+![PushUp Club 官网](/cases/pushup-club/site.png)
 
 # PushUp Club：通过俯卧撑挑战实现盈利（具体模式未披露）
 

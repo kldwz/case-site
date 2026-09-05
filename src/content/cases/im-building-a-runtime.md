@@ -12,7 +12,7 @@ name: AI Agent Runtime Governance Layer
 封面: /case-site/cases/im-building-a-runtime/site.png
 ---
 
-![AI Agent Runtime Governance Layer 官网](/case-site/cases/im-building-a-runtime/site.png)
+![AI Agent Runtime Governance Layer 官网](/cases/im-building-a-runtime/site.png)
 
 # AI Agent Runtime Governance Layer：为AI代理提供运行时治理层，非提示词护栏
 

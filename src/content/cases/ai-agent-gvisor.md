@@ -12,7 +12,7 @@ name: Agent Sandbox & Site
 封面: /case-site/cases/ai-agent-gvisor/site.png
 ---
 
-![Agent Sandbox & Site 官网](/case-site/cases/ai-agent-gvisor/site.png)
+![Agent Sandbox & Site 官网](/cases/ai-agent-gvisor/site.png)
 
 # Agent Sandbox & Site：开源AI Agent基础设施，盈利模式未提及
 

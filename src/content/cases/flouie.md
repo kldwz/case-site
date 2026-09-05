@@ -12,7 +12,7 @@ name: Flouie
 封面: /case-site/cases/flouie/site.png
 ---
 
-![Flouie 官网](/case-site/cases/flouie/site.png)
+![Flouie 官网](/cases/flouie/site.png)
 
 # Flouie：未官方披露
 

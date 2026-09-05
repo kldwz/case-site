@@ -12,7 +12,7 @@ name: Stivio
 封面: /case-site/cases/users-dont-attack-your/site.png
 ---
 
-![Stivio 官网](/case-site/cases/users-dont-attack-your/site.png)
+![Stivio 官网](/cases/users-dont-attack-your/site.png)
 
 # Stivio：上传照片、一句话让照片动起来，靠视频生成付费变现
 

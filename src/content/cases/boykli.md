@@ -12,7 +12,7 @@ name: Boykli
 封面: /case-site/cases/boykli/site.png
 ---
 
-![Boykli 官网](/case-site/cases/boykli/site.png)
+![Boykli 官网](/cases/boykli/site.png)
 
 # Boykli：盈利模式未披露
 

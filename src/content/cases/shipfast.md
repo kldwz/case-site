@@ -12,7 +12,7 @@ name: ShipFast
 封面: /case-site/cases/shipfast/site.png
 ---
 
-![ShipFast 官网首页](/case-site/cases/shipfast/site.png)
+![ShipFast 官网首页](/cases/shipfast/site.png)
 
 # ShipFast：8407 个 maker 在用的 Next.js 启动模板
 
@@ -20,7 +20,7 @@ name: ShipFast
 
 ShipFast 是一套 **Next.js 全栈 SaaS 启动模板**——登录、支付、邮件、数据库、SEO、邮件营销、防垃圾邮件、API rate limit、Webhook 等十几个模块全部接好，git clone 下来直接用。
 
-![ShipFast 截图：8407 makers ship faster](/case-site/cases/shipfast/site.png)
+![ShipFast 截图：8407 makers ship faster](/cases/shipfast/site.png)
 
 官网主页就一句话：**"Ship your startup in days, not weeks"**。下方直接显示 **"8407 makers ship faster"**——这是从 Marc Lou 官网当前截取的公开数据。
 

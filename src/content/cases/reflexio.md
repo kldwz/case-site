@@ -12,7 +12,7 @@ name: Reflexio
 封面: /case-site/cases/reflexio/site.png
 ---
 
-![Reflexio 官网](/case-site/cases/reflexio/site.png)
+![Reflexio 官网](/cases/reflexio/site.png)
 
 # Reflexio：让 AI 智能体在行为学习中越用越聪明的 SaaS 工具
 

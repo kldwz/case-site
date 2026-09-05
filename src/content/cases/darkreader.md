@@ -12,7 +12,7 @@ name: Dark Reader
 封面: /case-site/cases/darkreader/site.png
 ---
 
-![Dark Reader 官网](/case-site/cases/darkreader/site.png)
+![Dark Reader 官网](/cases/darkreader/site.png)
 
 # Dark Reader：一个开源插件，靠捐赠养活 1000 万用户
 
@@ -22,7 +22,7 @@ Dark Reader 是一个浏览器插件（Chrome / Firefox / Edge / Safari 都支�
 
 它解决的是一个几乎人人都有的小痛点：**晚上看网页，屏幕刺眼**。
 
-![Dark Reader 官网首页](/case-site/cases/darkreader/site.png)
+![Dark Reader 官网首页](/cases/darkreader/site.png)
 
 官网首页就一句话原则：**无广告、不发送用户数据、完全开源**。这三点后来成了它增长的护城河。
 

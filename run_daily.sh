@@ -29,9 +29,9 @@ else
     log "  跳过：无 inbox/$DATE.json（可能无新候选）"
 fi
 
-# 3. 构建静态站
+# 3. 构建静态站（带 base，与线上 GitHub Pages 路径一致）
 log "步骤3: astro build"
-npx astro build >> "$LOG" 2>&1 || { log "!! build 失败"; exit 1; }
+ASTRO_BASE=/case-site/ npx astro build >> "$LOG" 2>&1 || { log "!! build 失败"; exit 1; }
 
 # 4. 提交并推送（触发 GitHub Actions 部署）
 log "步骤4: git commit + push"

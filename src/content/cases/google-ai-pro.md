@@ -12,7 +12,7 @@ name: Google AI Pro 权益清单
 封面: /case-site/cases/google-ai-pro/site.png
 ---
 
-![Google AI Pro 权益清单 官网](/case-site/cases/google-ai-pro/site.png)
+![Google AI Pro 权益清单 官网](/cases/google-ai-pro/site.png)
 
 # Google AI Pro 权益清单：靠整理订阅权益吸引社区流量，建立个人影响力
 

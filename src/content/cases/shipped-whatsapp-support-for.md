@@ -12,7 +12,7 @@ name: Agent Builder Pro
 封面: /case-site/cases/shipped-whatsapp-support-for/site.png
 ---
 
-![Agent Builder Pro 官网](/case-site/cases/shipped-whatsapp-support-for/site.png)
+![Agent Builder Pro 官网](/cases/shipped-whatsapp-support-for/site.png)
 
 # Agent Builder Pro：为Agent Builder Pro增加WhatsApp支持，智能转接人工
 

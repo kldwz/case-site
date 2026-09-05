@@ -12,7 +12,7 @@ name: Covai Cars
 封面: /case-site/cases/covai/site.png
 ---
 
-![Covai Cars 官网首页](/case-site/cases/covai/site.png)
+![Covai Cars 官网首页](/cases/covai/site.png)
 
 # Covai Cars：把租车店开进 WhatsApp，AI 24 小时接单
 
@@ -24,7 +24,7 @@ Covai Cars 是一个给**租车公司**用的 AI 预订平台，核心逻辑一�
 
 租车公司都有一个老问题：客户几乎都在用 WhatsApp 问「明天有没有车」「租三天多少钱」「机场怎么接」。过去这些全靠人工客服一条条回，晚上八九点后没人回就丢单。Covai 用 AI 自动接管这条消息流——客户发来咨询，系统自动报可租车辆和报价、发支付链接、收预订单、协调机场接机，**一条消息进，一张确认单出**，直接对接进租车公司的后台系统。
 
-![Covai Cars 官网首页](/case-site/cases/covai/site.png)
+![Covai Cars 官网首页](/cases/covai/site.png)
 
 官网还放了一个 ROI 计算器，默认参数是「6 个客服、每月省 120 工时」——它面向的正是**用人头接 WhatsApp 订单、被客服成本吃掉利润**的中小租车公司。页面目前提供的是「Request early access」（申请提前访问），还处在早期访问阶段，未公开定价。
 

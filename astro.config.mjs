@@ -1,9 +1,14 @@
 import { defineConfig } from 'astro/config';
+import mdImageBase from './plugins/md-image-base.ts';
 
-// 部署到 GitHub Pages 时，取消下一行注释并把 <repo> 改成你的仓库名。
-// 例如仓库是 github.com/yourname/case-site，则 base: '/case-site/'
-// 用 Vercel / Cloudflare Pages / Netlify 时保持注释即可（它们自动处理）。
+// base 从环境变量读：线上 build 传 ASTRO_BASE=/case-site/，本地 dev 不传用根路径
+// deploy.yml 构建时设置 ASTRO_BASE，保证 GitHub Pages 子路径正确
+const base = process.env.ASTRO_BASE || '/';
+
 export default defineConfig({
-  base: '/case-site/',
+  base,
   site: 'https://kldwz.github.io',
+  markdown: {
+    rehypePlugins: [[mdImageBase, { base }]],
+  },
 });

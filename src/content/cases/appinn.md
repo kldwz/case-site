@@ -12,7 +12,7 @@ name: uBlock Origin MV3 第三方移植版
 封面: /case-site/cases/appinn/site.png
 ---
 
-![uBlock Origin MV3 第三方移植版 官网](/case-site/cases/appinn/site.png)
+![uBlock Origin MV3 第三方移植版 官网](/cases/appinn/site.png)
 
 # uBlock Origin MV3 第三方移植版：免费开源广告拦截器，收入未官方披露
 

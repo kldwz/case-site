@@ -12,7 +12,7 @@ name: Launch Nest LN
 封面: /case-site/cases/launch-nest-ln-get/site.png
 ---
 
-![Launch Nest LN 官网](/case-site/cases/launch-nest-ln-get/site.png)
+![Launch Nest LN 官网](/cases/launch-nest-ln-get/site.png)
 
 # Launch Nest LN：免费让你的产品登上首页前5，盈利模式未披露
 

@@ -12,7 +12,7 @@ name: flomo 浮墨笔记
 封面: /case-site/cases/flomo/site.png
 ---
 
-![flomo 官网](/case-site/cases/flomo/site.png)
+![flomo 官网](/cases/flomo/site.png)
 
 # flomo 浮墨笔记：3 个人、不融资、靠用户付费养活自己的国内 indie 样本
 
@@ -20,7 +20,7 @@ name: flomo 浮墨笔记
 
 flomo 是一款**卡片式笔记**产品——不是传统的大纲笔记（如幕布、Workflowy），也不是长文编辑器，而是用一张张小卡片记录碎片想法，再靠标签和双向链接组织。
 
-![flomo 官网首页](/case-site/cases/flomo/site.png)
+![flomo 官网首页](/cases/flomo/site.png)
 
 它的产品哲学很特别：**不追求"功能多"，追求"让你愿意每天记一点"**。少楠反复强调 flomo 是"培养记录习惯"的工具，而不是"知识管理神器"。
 

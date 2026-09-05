@@ -12,7 +12,7 @@ name: StoreShot
 封面: /case-site/cases/app/site.png
 ---
 
-![StoreShot 官网](/case-site/cases/app/site.png)
+![StoreShot 官网](/cases/app/site.png)
 
 # StoreShot：为开发者提供APP市场图在线制作工具，按导出次数收费
 
