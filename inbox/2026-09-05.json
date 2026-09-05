@@ -1,255 +1,15 @@
 [
   {
-    "title": "Covai Cars",
-    "link": "https://covai.es/",
-    "summary": "Covai Cars is an AI-powered car rental platform that automates customer communication and booking operations through WhatsApp. The system handles customer inquiries, availability requests, booking flows, airport meet & greet coordination, and other rental-related interactions, reducing the need for manual customer support. | MRR $1,000/mo | 累计 $61,000 | verified=False | 分类:Software | Spain | 数据源:stripe | 更新:2026-09-04",
-    "published": "2026-09-04T09:07:36.267038+00:00",
-    "source": "trustmrr",
-    "category": "国外"
-  },
-  {
-    "title": "Codigos Afiliados",
-    "link": "https://www.codigosafiliados.com/",
-    "summary": "Códigos de Referido y Amigo\nConsigue tu bono de bienvenida con códigos de referido y códigos amigo verificados en cientos de marcas. | MRR $0/mo | 累计 $0 | verified=False | 分类:HVAC | Spain | 数据源:stripe | 更新:2026-09-03",
-    "published": "2026-09-03T01:03:53.946704+00:00",
-    "source": "trustmrr",
-    "category": "国外"
-  },
-  {
-    "title": "LaunchKit",
-    "link": "https://launchkit.dev",
-    "summary": "Ship your startup landing page in minutes | MRR $27,600/mo | 累计 $550,717 | verified=True | 分类:DevTools | Spain",
-    "published": "",
-    "source": "trustmrr",
-    "category": "国外"
-  },
-  {
-    "title": "StacksDao",
-    "link": "https://stacks-dao-beta.vercel.app/",
-    "summary": "NFT Market | MRR $11,300/mo | 累计 $330,593 | verified=True | 分类:HVAC | United States",
-    "published": "",
-    "source": "trustmrr",
-    "category": "国外"
-  },
-  {
-    "title": "PulseDesk",
-    "link": "https://pulsedesk.io",
-    "summary": "Lightweight helpdesk for startups | MRR $29,800/mo | 累计 $475,795 | verified=True | 分类:SaaS | US",
-    "published": "",
-    "source": "trustmrr",
-    "category": "国外"
-  },
-  {
-    "title": "MailMuse",
-    "link": "https://mailmuse.com",
-    "summary": "AI email marketing for creators | MRR $44,800/mo | 累计 $1,063,566 | verified=True | 分类:Marketing | Sweden",
-    "published": "",
-    "source": "trustmrr",
-    "category": "国外"
-  },
-  {
-    "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-    "link": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-    "summary": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber.I am excited to share with you TERMy, a terminal assistant built on top of the NPC-Forge framework. Unlike everything else b",
-    "published": "Fri, 04 Sep 2026 09:03:00 +0000",
-    "source": "HackerNews_Show",
-    "category": "国外"
-  },
-  {
-    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-    "link": "https://masteranza.github.io/weedout/",
-    "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos.Source for developers wh",
-    "published": "Tue, 01 Sep 2026 22:06:57 +0000",
-    "source": "HackerNews_Show",
-    "category": "国外"
-  },
-  {
-    "title": "Show HN: OwnTime – a chess clock for your day's priorities",
-    "link": "https://owntime.app/",
-    "summary": "I made OwnTime to balance between competing priorities in my life. The idea is based on two main influences: the concept of \"roles\" from \"The 5 Choices\" (2015), and my repeated failure to effectively implement time blocking due to the necessary flexibility in my role.The app allows you to define time budgets, which are not much more than a few mutually exclusive countdown timers. The UX is essenti",
-    "published": "Tue, 01 Sep 2026 21:29:24 +0000",
-    "source": "HackerNews_Show",
-    "category": "国外"
-  },
-  {
-    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-    "link": "https://github.com/carloslfu/slotstream",
-    "summary": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift.It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I'll be implementing and porting the MTP module for specu",
-    "published": "Tue, 01 Sep 2026 16:42:46 +0000",
-    "source": "HackerNews_Show",
-    "category": "国外"
-  },
-  {
-    "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-    "link": "https://github.com/experientiallabs/experiential",
-    "summary": "Hi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place.It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters, rate limits, and different error behavior).The gateway adds under 1 ms for BYOK requests and under",
-    "published": "Thu, 27 Aug 2026 21:18:35 +0000",
-    "source": "HackerNews_Show",
-    "category": "国外"
-  },
-  {
-    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-    "link": "https://github.com/swimmingbrain/texbrain",
-    "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get your PDF and th",
-    "published": "Tue, 25 Aug 2026 22:08:50 +0000",
-    "source": "HackerNews_Show",
-    "category": "国外"
-  },
-  {
-    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-    "link": "https://github.com/ThinkOffApp/CarWatch",
-    "summary": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion room!So now it can answer car questions su",
-    "published": "Tue, 25 Aug 2026 15:20:20 +0000",
-    "source": "HackerNews_Show",
-    "category": "国外"
-  },
-  {
-    "title": "Chalked for Mac",
-    "link": "https://www.producthunt.com/products/chalked",
-    "summary": "Your replies ready with your work's full context\n          \n          \n            Discussion\n            |\n            Link",
-    "published": "2026-09-03T05:47:52-07:00",
+    "title": "Reflexio",
+    "link": "https://www.producthunt.com/products/reflexio-2",
+    "summary": "Behavioral learning that makes AI agents better over time\n          \n          \n            Discussion\n            |\n            Link",
+    "published": "2026-09-01T01:22:47-07:00",
     "source": "ProductHunt",
     "category": "国外"
   },
   {
-    "title": "myAIcademy",
-    "link": "https://www.producthunt.com/products/myaicademy",
-    "summary": "Learn AI skills for your specific role and team\n          \n          \n            Discussion\n            |\n            Link",
-    "published": "2026-08-28T09:01:08-07:00",
-    "source": "ProductHunt",
-    "category": "国外"
-  },
-  {
-    "title": "cmmnts",
-    "link": "https://www.producthunt.com/products/cmmnts",
-    "summary": "Add a powerful comment section to any website\n          \n          \n            Discussion\n            |\n            Link",
-    "published": "2026-09-03T03:49:49-07:00",
-    "source": "ProductHunt",
-    "category": "国外"
-  },
-  {
-    "title": "WeatherNext 3",
-    "link": "https://www.producthunt.com/products/weathernext-3",
-    "summary": "Our most advanced and accurate global weather AI model\n          \n          \n            Discussion\n            |\n            Link",
-    "published": "2026-09-03T08:17:27-07:00",
-    "source": "ProductHunt",
-    "category": "国外"
-  },
-  {
-    "title": "Readr",
-    "link": "https://www.producthunt.com/products/readr-3",
-    "summary": "A free reader that answers your questions and reads aloud\n          \n          \n            Discussion\n            |\n            Link",
-    "published": "2026-09-02T11:30:59-07:00",
-    "source": "ProductHunt",
-    "category": "国外"
-  },
-  {
-    "title": "Roadie",
-    "link": "https://www.producthunt.com/products/roadie-4",
-    "summary": "Keep your Mac on the right microphone and speakers\n          \n          \n            Discussion\n            |\n            Link",
-    "published": "2026-09-01T08:40:57-07:00",
-    "source": "ProductHunt",
-    "category": "国外"
-  },
-  {
-    "title": "Userlens",
-    "link": "https://www.producthunt.com/products/userlens",
-    "summary": "AI agent to improve product adoption\n          \n          \n            Discussion\n            |\n            Link",
-    "published": "2026-04-25T08:16:39-07:00",
-    "source": "ProductHunt",
-    "category": "国外"
-  },
-  {
-    "title": "Claude Fable 5.1",
-    "link": "https://www.producthunt.com/products/claude-fable-5-1",
-    "summary": "Claude’s most advanced models for coding and knowledge work\n          \n          \n            Discussion\n            |\n            Link",
-    "published": "2026-09-01T14:04:24-07:00",
-    "source": "ProductHunt",
-    "category": "国外"
-  },
-  {
-    "title": "80+ people used a feature I never announced. Here's what I learned.",
-    "link": "https://www.indiehackers.com/post/80-people-used-a-feature-i-never-announced-heres-what-i-learned-fccbf56247",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "How do you know whether low traction is a product problem or a distribution problem?",
-    "link": "https://www.indiehackers.com/post/how-do-you-know-whether-low-traction-is-a-product-problem-or-a-distribution-problem-ded4a4b554",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "I built an AI fitness app solo, got banned from Reddit, flopped on Product Hunt, and found traction on Q&A sites. Here's what worked.",
-    "link": "https://www.indiehackers.com/post/i-built-an-ai-fitness-app-solo-got-banned-from-reddit-flopped-on-product-hunt-and-found-traction-on-q-a-sites-heres-what-worked-2471288559",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "Writizzy celebrates its  900+ users",
-    "link": "https://www.indiehackers.com/product/writizzy?post=IieG0BIVLKyJkwOaQdMf",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "Clone The App: The simple way to build a successful app business.",
-    "link": "https://www.indiehackers.com/product/clone-the-app?post=ZHE1ur4KagG9SzEU84zd",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "Same idea, 14K views on Reddit and <15 impressions on X",
-    "link": "https://www.indiehackers.com/post/same-idea-14k-views-on-reddit-and-15-impressions-on-x-a85614139c",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "I launched a public pay-to-rank board. The first claim is still open and I'm not sure if that's a feature.",
-    "link": "https://www.indiehackers.com/post/i-launched-a-public-pay-to-rank-board-the-first-claim-is-still-open-and-im-not-sure-if-that-s-a-feature-e7de0a5c7f",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "I built a tool that finds where your first customers are asking. 48 signups, 0 paying. Here is what happened when I pointed it at myself.",
-    "link": "https://www.indiehackers.com/post/i-built-a-tool-that-finds-where-your-first-customers-are-asking-48-signups-0-paying-here-is-what-happened-when-i-pointed-it-at-myself-1f35e51df8",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "Launch Nest LN: Launch Your Product Free. Discover the Best New Tools Free.",
-    "link": "https://www.indiehackers.com/product/launch-nest-ln-14?post=6OX9VGuLun1u6MjVA78E",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "From broke and idealess to building a $100k/mo AI services company IH+ Subscribers Only Aryan Mahajan went from broke to $100k/mo. Here's how.",
-    "link": "https://www.indiehackers.com/post/services/from-broke-and-idealess-to-building-a-100k-mo-ai-services-company-u1RLyhlzNUE8oNW504GV",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "Launch Nest LN",
-    "link": "https://www.indiehackers.com/product/launch-nest-ln-15?post=yJ2IVlHilunT6vqYQ7cq",
+    "title": "PushUp Club",
+    "link": "https://www.indiehackers.com/product/pushup-club?post=Nh64WKLcgE6BmnOfGQS4",
     "summary": "",
     "published": "",
     "source": "IndieHackers",
@@ -257,111 +17,55 @@
   },
   {
     "title": "Flouie",
-    "link": "https://www.indiehackers.com/product/flouie?post=qDPslnjgL0r9PwnxmPAB",
+    "link": "https://www.indiehackers.com/product/flouie?post=sTj7OnghYJcycs0esb3g",
     "summary": "",
     "published": "",
     "source": "IndieHackers",
     "category": "国外"
   },
   {
-    "title": "LaunchOn.it",
-    "link": "https://www.indiehackers.com/product/launchon-it?post=Naaf1YhQJC5tXG9kORd8",
+    "title": "Boykli",
+    "link": "https://www.indiehackers.com/product/boykli-2?post=WY8DRbNh0bnVscXAvdzr",
     "summary": "",
     "published": "",
     "source": "IndieHackers",
     "category": "国外"
   },
   {
-    "title": "Is there demand for an LLM change-history API?",
-    "link": "https://www.indiehackers.com/post/is-there-demand-for-an-llm-change-history-api-15a580acd3",
+    "title": "Users don't attack your content filter. They negotiate with it, one word at a time.",
+    "link": "https://www.indiehackers.com/post/users-dont-attack-your-content-filter-they-negotiate-with-it-one-word-at-a-time-0a8d4ef00c",
     "summary": "",
     "published": "",
     "source": "IndieHackers",
     "category": "国外"
   },
   {
-    "title": "Built a calm browser merge game for low-pressure breaks — would love mobile feedback",
-    "link": "https://www.indiehackers.com/post/built-a-calm-browser-merge-game-for-low-pressure-breaks-would-love-mobile-feedback-1f243cea3f",
+    "title": "Shipped: WhatsApp support for Agent Builder Pro — with an agent that knows when to hand off to a human",
+    "link": "https://www.indiehackers.com/post/shipped-whatsapp-support-for-agent-builder-pro-with-an-agent-that-knows-when-to-hand-off-to-a-human-d564d6d874",
     "summary": "",
     "published": "",
     "source": "IndieHackers",
     "category": "国外"
   },
   {
-    "title": "The SaaS Subscription Trap: How \"Forgot to Cancel\" Became a Business Model",
-    "link": "https://www.indiehackers.com/post/the-saas-subscription-trap-how-forgot-to-cancel-became-a-business-model-7ce68ac4e8",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
+    "title": "[分享创造] 岁时 · Sundial：一个把时间放在看得见的地方的 App（ iPhone / iPad / Mac）",
+    "link": "https://www.v2ex.com/t/1239686#reply2",
+    "summary": "做了一年多，岁时终于三端都上架了。它做的事很简单：不倒数，不提醒，只让你看见自己在这一天、这一年、这一生里走到了哪。\n为什么做它\n市面上的「倒数日」类 App 基本都是数字：还剩 120 天、还剩 3 小时。数字看一眼就忘，也不会有什么感觉。\n我想要的是「位置感」。像日晷一样，没有数字，只有一根杆、一道影、一圈刻度。看影子落在哪，就知道现在是一天里的哪。\n所以岁时只有三种状态：已过、当下、未至。已过是墨色，未至是浅灰，当下那一格是赭红。整个界面就靠这三个颜色说话。\n今年：每一天都是一棵树\n\n今年 365 格，每格一天。样式有 26 款，方块、圆点、松树、竖条都有。松树这款是我自己最常用的：春绿、夏深、秋黄、冬灰，一年过完刚好从枯到枯。\n底部一行小字是一句四字成语，每天换，算是一个小彩蛋。\n一生：三万多个格子\n\n填一个出生日期，一生就摊开在一个屏幕里。我 36 岁，45%。这一页我不常看，但",
+    "published": "2026-09-05T07:39:19Z",
+    "source": "v2ex_create",
+    "category": "国内"
   },
   {
-    "title": "Building SiteWhisper — AI chatbot that answers from your real website pages",
-    "link": "https://www.indiehackers.com/post/building-sitewhisper-ai-chatbot-that-answers-from-your-real-website-pages-e0c5190b96",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "What's the ONE thing about your business you wish you could predict?",
-    "link": "https://www.indiehackers.com/post/whats-the-one-thing-about-your-business-you-wish-you-could-predict-0129ff7e93",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "I built a freelance workflow tool without ever freelancing myself—and I need honest feedback",
-    "link": "https://www.indiehackers.com/post/i-built-a-freelance-workflow-tool-without-ever-freelancing-myself-and-i-need-honest-feedback-9d0b6963fa",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "THE MILLION: I built a 1,000,000-spot “digital ownership” experiment. $2 a spot, permanent, no subscription.",
-    "link": "https://www.indiehackers.com/product/the-million?post=fsAPVzx48xAW6ZpVStch",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "My \"capability\" field was a promise, not a measurement",
-    "link": "https://www.indiehackers.com/post/my-capability-field-was-a-promise-not-a-measurement-931fafb970",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "Sometimes the best strategy is not being first",
-    "link": "https://www.indiehackers.com/post/sometimes-the-best-strategy-is-not-being-first-a84cc4745a",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "Built an AI cofounder that remembers my startup's context between sessions",
-    "link": "https://www.indiehackers.com/post/built-an-ai-cofounder-that-remembers-my-startups-context-between-sessions-bb90ab83f6",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
-  },
-  {
-    "title": "Hitting $1M ARR in two years and working four hours per day IH+ Subscribers Only Aurélien Amacker works four hours per day running a company that's bringing in over $1M ARR. Here's how.",
-    "link": "https://www.indiehackers.com/post/tech/hitting-1m-arr-in-two-years-and-working-four-hours-per-day-Ts5M7PyFHRD6aeKmSXY1",
-    "summary": "",
-    "published": "",
-    "source": "IndieHackers",
-    "category": "国外"
+    "title": "[分享创造] 上线了一个做 APP 市场图的小网站",
+    "link": "https://www.v2ex.com/t/1239680#reply2",
+    "summary": "做完 APP 要做市场图，这个对习惯 coding 的程序员是个小小的挑战，正好想练手做个完整的小 SaaS：登录、积分、导出、支付整条链路跑一遍。就顺手把这个痛点做成了 StoreShot 。\n用法很简单：上传截图 → 选模板和设备框 → 改一下标题文案 → 导出符合 App Store / Google Play 尺寸的图。不需要设计基础，也不用再开 Figma 。\n免费注册送 3 次导出，够试一轮。\n网站： https://www.storeshot.studio\n还很早期，模板和设备也不全。欢迎拍砖，尤其是独立开发者真正上架时还会卡在哪一步。",
+    "published": "2026-09-05T06:50:45Z",
+    "source": "v2ex_create",
+    "category": "国内"
   },
   {
     "title": "[分享创造] 我写了一个 Obsidian 配置同步工具",
-    "link": "https://www.v2ex.com/t/1239661#reply3",
+    "link": "https://www.v2ex.com/t/1239661#reply4",
     "summary": "背景\n我又来折腾了，感谢 AI 时代带来的开发红利。\n这次写了一个桌面工具：Obsidian Config Sync。  \n开发的背景是自从我把云笔记转移到 Obsidian 之后，遇到了多个库之间的配置同步问题。\nObsidian 每个库都有自己的 .obsidian 目录用于保存配置，不像其他云笔记有统一配置的地方。\n恰好此时我也想了解下 Wails 写软件的实际体验，就顺手写了这个工具。\n经过大约两个月断断续续的投入，目前这个软件已经在功能上跑通，很适合用于离线维护本地硬盘上多个位置的 Obsidian 库之间的配置同步。\n\n目前支持的功能\n\n选择一个路径，识别里面的 Obsidian 库\n设置一个主库和 N 个从库\n设置要同步的范围，可按需同步几个配置文件，也支持社区插件同步\n同步前预览新增与覆盖内容\n保留目标库中额外存在的配置\n完全本地离线运行，不上传任何 Vault 数据\n软件",
     "published": "2026-09-05T04:25:40Z",
     "source": "v2ex_create",
@@ -369,63 +73,15 @@
   },
   {
     "title": "[分享创造] 梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块",
-    "link": "https://www.v2ex.com/t/1239651#reply10",
+    "link": "https://www.v2ex.com/t/1239651#reply17",
     "summary": "每月固定发放的「真金白银」\n\n💾 5 TB 超大云空间：Drive / Gmail / 相册共用，支持家庭共享且文件各自私密。\n🎬 1,000 点/月 视频创作积分：用于 Google Flow 和 Whisk ，可生成约 66 条 720p 短视频（基于 Veo/Omni 模型）。\n🎵 10,000 点/月 音乐创作积分：独立于视频点数，用于 Lyria 3 音乐生成。\n💵 $10/月 GCP 云积分：需在开发者后台手动领取，可直接抵扣官方 Gemini API / Vertex AI 调用费用。\n\n白送的「生态订阅全家桶」\n\n📺 YouTube Premium Lite：大多数视频免广告（不含独立 YouTube Music ）。\n🏠 Google Home Premium Standard：30 天摄像头云端录像回放 + 家居 AI 语义检索（原价值约 $10/月）。\n⌚ Googl",
     "published": "2026-09-05T03:06:45Z",
     "source": "v2ex_create",
     "category": "国内"
   },
   {
-    "title": "[分享创造] [开源] 给 DeepSeek Harness 加了个「思考温度计」，让等待过程看得见",
-    "link": "https://www.v2ex.com/t/1239645#reply1",
-    "summary": "大家好，分享一个给 DeepSeek Harness 做的小插件：dsh-thinkbar 。\n它做的事情很简单：把输入框旁边的模型选择按钮，变成一个动态状态指示器。等模型思考时，看它慢慢「升温」；执行工具时，直接看到正在调用什么。\n\n具体效果：\n\n思考时逐渐升温：按钮内部平滑填充，颜色从蓝色过渡到红、橙、金黄，等待也有一点视觉反馈。\n调用工具时切换状态：显示紫青色扫光和当前工具名称，方便区分模型思考与工具执行。\n开始输出正文后收起：动效快速退场，按钮恢复日常状态。下一轮思考再重新亮起。\n视觉效果直接融入现有按钮，不额外占用对话区域。\n这里的「温度」表示等待时长，约 20 秒达到满格；填满后仍可能继续等待，并不代表模型完成了 100% 的推理。\n实现上，通过 DSH 的公开插件接口接入，无需修改核心源码。插件的功能全部在前端运行，不改动 prompt 、消息或模型请求，也没有遥测和数据收集",
-    "published": "2026-09-05T02:24:10Z",
-    "source": "v2ex_create",
-    "category": "国内"
-  },
-  {
-    "title": "Steam 12TB 游戏数据泄漏：横跨 10 年，大量未公开内容曝光",
-    "link": "https://www.appinn.com/steam-12tb-game-data-leak/",
-    "summary": "Steam 最近爆出了一次规模惊人的游戏数据泄漏：超过 12TB、横跨 2003～2013 年的大量游戏数据被公开。@Appinn 泄漏的内容是 Steam2，里面有《Portal 2》《Left 4 Dead》《CS》等游戏的未公开早期版本，包括废弃地图、模型、对白和游戏机制，甚至还有被取消的 F",
-    "published": "Mon, 31 Aug 2026 06:28:45 +0000",
-    "source": "小众软件",
-    "category": "国内"
-  },
-  {
-    "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
-    "link": "https://sspai.com/post/114110",
-    "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
-    "published": "Fri, 04 Sep 2026 15:11:46 +0800",
-    "source": "少数派",
-    "category": "国内"
-  },
-  {
-    "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
-    "link": "https://sspai.com/post/113990",
-    "summary": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文",
-    "published": "Fri, 04 Sep 2026 11:25:29 +0800",
-    "source": "少数派",
-    "category": "国内"
-  },
-  {
-    "title": "新玩意 251｜少数派的编辑们最近买了啥？",
-    "link": "https://sspai.com/post/114154",
-    "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...查看全文",
-    "published": "Thu, 03 Sep 2026 18:18:06 +0800",
-    "source": "少数派",
-    "category": "国内"
-  },
-  {
-    "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
-    "link": "https://sspai.com/post/113998",
-    "summary": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文",
-    "published": "Thu, 03 Sep 2026 15:00:00 +0800",
-    "source": "少数派",
-    "category": "国内"
-  },
-  {
-    "title": "全球最成功的AI硬件公司上市了，一年卖出360万枚AI戒指，32%毛利来自订阅",
-    "link": "https://36kr.com/p/3968662434410753",
+    "title": "解密万兴科技：海外收入超90%   回国练兵布局AI影视新赛道",
+    "link": "https://36kr.com/p/3970160043913734",
     "summary": "",
     "published": "",
     "source": "36氪",
