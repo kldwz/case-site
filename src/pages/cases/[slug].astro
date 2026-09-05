@@ -1,0 +1,94 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const cases = await getCollection('cases');
+  return cases.map((c) => ({
+    params: { slug: c.slug || c.data.slug },
+    props: { case: c },
+  }));
+}
+
+interface Props {
+  case: CollectionEntry<'cases'>;
+}
+const { case: item } = Astro.props;
+const d = item.data;
+const { Content } = await item.render();
+
+const facts: [string, string | undefined][] = [
+  ['营收模式', d.营收模式],
+  ['创始人/地区', d.创始人地区],
+  ['月收入估算', d.月收入估算],
+  ['流量来源', d.流量来源],
+  ['可迁移点', d.可迁移点],
+  ['数据口径', d.数据口径],
+  ['原文链接', d.原文链接],
+];
+---
+
+<Base title={`${d.name} · 案例库`}>
+  <article class="case">
+    <a class="back" href="/">← 返回案例库</a>
+    <h1 class="title">{d.name}</h1>
+
+    <div class="facts">
+      {facts.filter(([, v]) => v).map(([k, v]) => (
+        <div class="fact">
+          <div class="fact-k">{k}</div>
+          <div class="fact-v">
+            {k === '原文链接' && v
+              ? <a href={v} target="_blank" rel="noopener">{v}</a>
+              : v}
+          </div>
+        </div>
+      ))}
+      <div class="fact">
+        <div class="fact-k">分类</div>
+        <div class="fact-v tags">
+          {d.分类.split('/').map((t) => t.trim()).filter(Boolean).map((t) => (
+            <span class="tag">{t}</span>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+</Base>
+
+<style>
+  .back { color: var(--muted); text-decoration: none; font-size: 14px; }
+  .title { font-size: 30px; margin: 12px 0 20px; }
+  .facts {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 10px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 28px;
+  }
+  .fact-k { font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+  .fact-v { font-size: 14px; }
+  .fact-v a { color: var(--accent); word-break: break-all; }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .tag {
+    font-size: 12px; background: #eef3ff; color: var(--accent);
+    padding: 3px 9px; border-radius: 6px;
+  }
+  .prose { font-size: 16px; }
+  .prose :global(h2) { font-size: 21px; margin: 32px 0 12px; }
+  .prose :global(h3) { font-size: 17px; margin: 24px 0 8px; }
+  .prose :global(p) { margin: 0 0 16px; }
+  .prose :global(img) {
+    max-width: 100%; height: auto; border: 1px solid var(--line);
+    border-radius: 8px; margin: 8px 0 20px;
+  }
+  .prose :global(ul), .prose :global(ol) { padding-left: 22px; margin: 0 0 16px; }
+  .prose :global(li) { margin-bottom: 6px; }
+</style>

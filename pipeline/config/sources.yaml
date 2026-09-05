@@ -1,0 +1,139 @@
+# 案例信息源配置
+# method: rss | html | chrome_store | js | supabase
+#   rss          - 标准 RSS/Atom，用 feedparser 解析
+#   html         - 静态 HTML 列表页，提取链接与标题
+#   js           - JS 站点（Playwright + Chrome 渲染，等待 domcontentloaded）
+#   chrome_store - Chrome 应用商店（Shadow DOM + 地区重定向，当前不可用，勿启用）
+#   supabase     - Supabase 公开 REST API（如 trustmrr），直接返回结构化案例数据
+#
+# link_allow: 可选，正则白名单列表；命中才收（专治 JS 站首页把导航/用户主页当候选）
+# accept_all: true 表示该源本身就是案例源，跳过关键词过滤（仍过噪音过滤）
+# enabled: true 才会被 fetch.py 拉取
+# category: 国外 | 国内
+
+sources:
+  # ============ 国外 - Supabase API（结构化 MRR 数据） ============
+  - name: trustmrr
+    url: https://trustmrr.co/
+    method: supabase
+    category: 国外
+    enabled: true
+    accept_all: true
+    supabase_url: https://dsbyazogosocczlpiujb.supabase.co
+    table: startups-trust-mrr
+    apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRzYnlhem9nb3NvY2N6bHBpdWpiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU0OTAwNTgsImV4cCI6MjA3MTA2NjA1OH0.x3AvHMJQFguePz5OUdSyrnorSgzXy49eoQKpUdiqrVI
+    note: anon key 为站点下发给浏览器的公开只读 key。只收最近 30 天更新的记录，避免首次运行灌入全部存量
+
+  # ============ 国外 - RSS ============
+  - name: HackerNews_Show
+    url: https://hnrss.org/show?points=100
+    method: rss
+    category: 国外
+    enabled: true
+    note: Show HN = 独立开发者发布项目，质量高
+
+  - name: ProductHunt
+    url: https://www.producthunt.com/feed
+    method: rss
+    category: 国外
+    enabled: true
+
+  # ============ 国外 - JS 站点（浏览器渲染） ============
+  - name: IndieHackers
+    url: https://www.indiehackers.com/
+    method: js
+    category: 国外
+    enabled: true
+    accept_all: true
+    link_allow:
+      - '^https://(www\.)?indiehackers\.com/(post|product)(/|$)'
+    note: 首页 JS 渲染后内容较多；link_allow 只收 /post/（访谈故事）与 /product/（产品页），丢弃导航和纯用户名主页
+
+  - name: StarterStory
+    url: https://www.starterstory.com/
+    method: js
+    category: 国外
+    enabled: false
+    accept_all: true
+    note: 反爬/JS 渲染，urllib 与 Playwright 均被拦截，待配代理或手动
+
+  - name: Failory
+    url: https://failory.com/interviews
+    method: js
+    category: 国外
+    enabled: false
+    accept_all: true
+    note: 同上，待配浏览器/代理
+
+  - name: MoneyMouth
+    url: https://moneymouth.ai/
+    method: js
+    category: 国外
+    enabled: false
+    accept_all: true
+    note: 同上，待配浏览器/代理
+
+  - name: ChromeWebStore
+    url: https://chromewebstore.google.com/category/extensions
+    method: chrome_store
+    category: 国外
+    enabled: false
+    note: 扩展列表在 Shadow DOM 且按地区重定向，抓不到内容。插件类案例改由 HN/IndieHackers 等源的 extension/插件 关键词命中 + 人工补充（如 Dark Reader）
+
+  # ============ 国内 - RSS ============
+  - name: v2ex_create
+    url: https://www.v2ex.com/index.xml
+    method: rss
+    category: 国内
+    enabled: true
+    title_allow:
+      - 分享创造
+      - 创业
+    note: 全站综合源；标题带节点标签，只收 [分享创造]/[创业]，滤掉推广/问答/求职灌水
+
+  - name: 小众软件
+    url: https://www.appinn.com/feed/
+    method: rss
+    category: 国内
+    enabled: true
+    note: 独立软件/工具资讯为主；关键词过滤，只有商业化/收入信号的文章才进候选
+
+  - name: 少数派
+    url: https://sspai.com/feed
+    method: rss
+    category: 国内
+    enabled: true
+    note: 数码生活内容为主；关键词过滤，只有商业化/付费/收入信号才进候选
+
+  # ============ 国内 - JS 站点 ============
+  - name: 36氪
+    url: https://36kr.com/
+    method: js
+    category: 国内
+    enabled: true
+    link_allow:
+      - '^https://36kr\.com/p/'
+    note: 文章页 URL 是 /p/<id>；关键词过滤，融资/资本新闻（无收入信号）不会进候选
+
+  # ============ 国内 - 受限 ============
+  - name: 即刻
+    url: https://web.okjike.com/feed
+    method: rss
+    category: 国内
+    enabled: false
+    note: feed 为空壳，需另找接口或手动
+
+  - name: 独立开发者日报
+    url: https://www.indiehackers.cn/feed
+    method: rss
+    category: 国内
+    enabled: false
+    note: 站点已失效（404）
+
+  # ============ 公众号（后续单独做） ============
+  - name: 微信公众号
+    url: ""
+    method: js
+    category: 国内
+    enabled: false
+    note: 用户决定后续单独接入，依赖 wechat-feeds RSS 服务

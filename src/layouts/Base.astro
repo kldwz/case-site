@@ -1,0 +1,79 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = '国内外创业/独立开发者收入案例库' } = Astro.props;
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+  </head>
+  <body>
+    <header class="site-header">
+      <a href="/" class="logo">案例库<span>·</span>CaseLib</a>
+      <nav>
+        <a href="/">全部案例</a>
+      </nav>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>案例均来自公开信息整理，收入数字以官方披露或第三方估算标注，仅供参考。</p>
+    </footer>
+    <style is:global>
+      :root {
+        --bg: #f7f7f5;
+        --card: #ffffff;
+        --ink: #1a1a1a;
+        --muted: #6b6b6b;
+        --line: #e6e6e3;
+        --accent: #2f6df0;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+          "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.7;
+      }
+      .site-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 16px 24px;
+        background: var(--card);
+        border-bottom: 1px solid var(--line);
+      }
+      .logo {
+        font-weight: 700;
+        font-size: 18px;
+        text-decoration: none;
+        color: var(--ink);
+      }
+      .logo span { color: var(--accent); margin: 0 2px; }
+      .site-header nav a {
+        color: var(--muted);
+        text-decoration: none;
+        margin-left: 16px;
+        font-size: 14px;
+      }
+      .container { max-width: 920px; margin: 0 auto; padding: 32px 20px 64px; }
+      .site-footer {
+        border-top: 1px solid var(--line);
+        padding: 24px;
+        text-align: center;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .site-footer p { margin: 0; }
+    </style>
+  </body>
+</html>
