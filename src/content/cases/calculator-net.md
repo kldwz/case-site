@@ -9,7 +9,7 @@ name: Calculator.net
 原文链接: https://www.calculator.net
 数据口径: SEMrush 公开流量页（2026 年 7 月）
 分类: 工具站 / 模板化 SEO / 广告变现 / 英文
-封面: /cases/calculator_net/01_site.png
+封面: /case-site/cases/calculator_net/01_site.png
 ---
 
 # Calculator.net：一个丑到没人想模仿的网站，月访问六千万
@@ -20,13 +20,13 @@ Calculator.net 是一个在线计算器合集网站。它没有品牌包装、�
 
 打开首页看到的就是：
 
-![Calculator.net 首页](/cases/calculator_net/01_site.png)
+![Calculator.net 首页](/case-site/cases/calculator_net/01_site.png)
 
 整个网站分为四大类计算器：**金融（Financial）、健身与健康（Fitness & Health）、数学（Math）、其他（Other）**。每个类别下面又有几十个具体的计算器——房贷、贷款、BMI、卡路里、单位换算、孕期、披萨份量等等。
 
 一个具体计算器页面长这样：
 
-![Calculator.net 房贷计算器页](/cases/calculator_net/02_calc_page.png)
+![Calculator.net 房贷计算器页](/case-site/cases/calculator_net/02_calc_page.png)
 
 用户在左边输入贷款金额、利率、年限，右边就跳出月供金额、还款总额、利息总额。下面还附了一张本金/利息占比饼图。
 
@@ -42,7 +42,7 @@ Google AdSense 之类的展示广告，按页面浏览量（CPM）和点击量�
 2. **页面浏览量更大**：一个用户进来可能连开好几个计算器，单次访问的 PV 比一般资讯站高很多。
 3. **用户意图极其明确**：带着"我要算个东西"的目的来的，广告相关性强、点击率高。
 
-![SEMrush 显示 calculator.net 月访问 61.07M，全球排名 674](/cases/calculator_net/03_traffic.png)
+![SEMrush 显示 calculator.net 月访问 61.07M，全球排名 674](/case-site/cases/calculator_net/03_traffic.png)
 
 满足这三个条件，广告收入就是一个纯数学题。站长自己没有公开过具体收入数字，但按行业 CPM 估算，月广告收入大致在几万美金这个量级。具体多少属于估算，没有公开口径就不下定论。
 

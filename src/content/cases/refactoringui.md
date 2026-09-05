@@ -9,10 +9,10 @@ name: Refactoring UI
 原文链接: https://www.refactoringui.com
 数据口径: Adam Wathan 2020 Year in Review；Indie Hackers AMA 2022-09（创始人自披露）
 分类: 数字产品 / 电子书 / 英文
-封面: /cases/refactoringui/site.png
+封面: /case-site/cases/refactoringui/site.png
 ---
 
-![Refactoring UI 官网首页](/cases/refactoringui/site.png)
+![Refactoring UI 官网首页](/case-site/cases/refactoringui/site.png)
 
 # Refactoring UI：卖出的不是电子书，是"不用再求设计师"的底气
 
@@ -22,7 +22,7 @@ Refactoring UI 是一本写给**程序员的视觉设计电子书**，2018 年 1
 
 它不讲设计理论、不讲配色心理学、不讲字体的历史——它**只讲怎么让你的 Web 应用看起来不像 1995 年做出来的**。从按钮的圆角、阴影的层次、间距的节奏，到配色对比度、可读性，全都拆成可以照抄的"原则 + 例子"。
 
-![Refactoring UI 官网：OVER 30,000 COPIES SOLD](/cases/refactoringui/site.png)
+![Refactoring UI 官网：OVER 30,000 COPIES SOLD](/case-site/cases/refactoringui/site.png)
 
 官网顶部明确写着："**OVER 30,000 COPIES SOLD**"（这是当前页面真实显示的公开数字）。
 

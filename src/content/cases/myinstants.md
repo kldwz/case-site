@@ -9,7 +9,7 @@ name: Myinstants
 原文链接: https://www.myinstants.com
 数据口径: 用户原文「一个简陋音效站，月访问千万，月入 9 万美元」（公众号 coding AI智造副业 2026-08-22）
 分类: UGC 内容站 / 广告变现 / 英文
-封面: /cases/myinstants/placeholder.svg
+封面: /case-site/cases/myinstants/placeholder.svg
 ---
 
 # Myinstants：3 万个声音按钮，自己长大自己赚

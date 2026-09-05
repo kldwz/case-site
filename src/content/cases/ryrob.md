@@ -9,16 +9,16 @@ name: RyRob
 原文链接: https://www.ryrob.com
 数据口径: https://www.ryrob.com/blog-income-report-march-2021/、https://ryan.biz/（创始人自披露的逐月公开数据）
 分类: 联盟营销 / Niche 博客 / 英文
-封面: /cases/ryrob/site.png
+封面: /case-site/cases/ryrob/site.png
 ---
 
-![RyRob 官网首页](/cases/ryrob/site.png)
+![RyRob 官网首页](/case-site/cases/ryrob/site.png)
 
 # RyRob：年收入 $50 万的全公开博客，怎么开博客教人怎么开博客
 
 ## 网站是什么
 
-![RyRob 官网首页](/cases/ryrob/site.png)
+![RyRob 官网首页](/case-site/cases/ryrob/site.png)
 
 RyRob 是一个**教人"如何从零开博客"的 niche 博客**，作者是 Ryan Robinson。
 
@@ -40,7 +40,7 @@ Ryan 在他个人介绍页 [ryan.biz](https://ryan.biz/) 公开两个关键数�
 
 下面这张图是 SEMrush 公开数据，可以看到 **2026 年 7 月 ryrob.com 月访问 261.08K**（这两个数字在口径上有差异——一个是 SEMrush 的访问，一个是 Google Analytics 的"读者"，但量级一致）：
 
-![SEMrush 显示 ryrob.com 月访问 261.08K](/cases/ryrob/traffic.png)
+![SEMrush 显示 ryrob.com 月访问 261.08K](/case-site/cases/ryrob/traffic.png)
 
 流量结构主要是 **Google 长尾搜索**——比如 "how to start a blog"、"best email marketing tools for bloggers"、"blog income reports"。Ryan 写作时刻意针对这些关键词。
 

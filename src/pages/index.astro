@@ -27,7 +27,7 @@ const allTags = Array.from(
 
   <div class="grid" id="grid">
     {cases.map((c) => (
-      <a class="card" href={`/cases/${c.slug || c.data.slug}/`} data-tags={c.data.分类}>
+      <a class="card" href={`/case-site/cases/${c.slug || c.data.slug}/`} data-tags={c.data.分类}>
         {c.data.封面
           ? <img class="card-img" src={c.data.封面} alt={c.data.name} loading="lazy" />
           : <div class="card-img placeholder"><span>{c.data.name}</span></div>

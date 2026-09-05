@@ -4,6 +4,6 @@ import { defineConfig } from 'astro/config';
 // 例如仓库是 github.com/yourname/case-site，则 base: '/case-site/'
 // 用 Vercel / Cloudflare Pages / Netlify 时保持注释即可（它们自动处理）。
 export default defineConfig({
-  // base: '/case-site/',
-  site: 'https://example.com',
+  base: '/case-site/',
+  site: 'https://kldwz.github.io',
 });
