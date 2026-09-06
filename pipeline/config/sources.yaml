@@ -10,6 +10,10 @@
 # accept_all: true 表示该源本身就是案例源，跳过关键词过滤（仍过噪音过滤）
 # enabled: true 才会被 fetch.py 拉取
 # category: 国外 | 国内
+# auto: 可信源=自动入库（true）。auto:false 的源候选进 inbox 后标 pending_review，
+#       write_cases.py 不自动生成，需人工挑选后再跑。见进度文档第三节「质量收紧」。
+# kind: product 表示该源只出真产品（trustmrr/HN Show/PH/分享创造），
+#       community 表示可能混日志/讨论（IndieHackers），需按链接段 /post|/product 过滤
 
 sources:
   # ============ 国外 - Supabase API（结构化 MRR 数据） ============
@@ -19,6 +23,9 @@ sources:
     category: 国外
     enabled: true
     accept_all: true
+    auto: true
+    kind: product
+    note: 结构化 MRR 数据源，自带官网/收入/verified，最可信，自动入库
     supabase_url: https://dsbyazogosocczlpiujb.supabase.co
     table: startups-trust-mrr
     apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRzYnlhem9nb3NvY2N6bHBpdWpiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU0OTAwNTgsImV4cCI6MjA3MTA2NjA1OH0.x3AvHMJQFguePz5OUdSyrnorSgzXy49eoQKpUdiqrVI
@@ -30,13 +37,18 @@ sources:
     method: rss
     category: 国外
     enabled: true
-    note: Show HN = 独立开发者发布项目，质量高
+    auto: true
+    kind: product
+    note: Show HN = 独立开发者发布项目，质量高，自动入库
 
   - name: ProductHunt
     url: https://www.producthunt.com/feed
     method: rss
     category: 国外
     enabled: true
+    auto: false
+    kind: product
+    note: PH feed 会混纯 launch 无营收的，先入待审
 
   # ============ 国外 - JS 站点（浏览器渲染） ============
   - name: IndieHackers
@@ -45,9 +57,12 @@ sources:
     category: 国外
     enabled: true
     accept_all: true
+    auto: false
+    kind: community
     link_allow:
       - '^https://(www\.)?indiehackers\.com/(post|product)(/|$)'
-    note: 首页 JS 渲染后内容较多；link_allow 只收 /post/（访谈故事）与 /product/（产品页），丢弃导航和纯用户名主页
+    note: 首页 JS 渲染后内容较多；link_allow 只收 /post/（访谈故事/日志）与 /product/（产品页）。
+          该源混日志（post）与产品（product），一律先入待审，截官网前先解析出站点域名
 
   - name: StarterStory
     url: https://www.starterstory.com/
@@ -86,24 +101,31 @@ sources:
     method: rss
     category: 国内
     enabled: true
+    auto: false
+    kind: community
     title_allow:
       - 分享创造
       - 创业
-    note: 全站综合源；标题带节点标签，只收 [分享创造]/[创业]，滤掉推广/问答/求职灌水
+    note: 全站综合源；标题带节点标签，只收 [分享创造]/[创业]，滤掉推广/问答/求职灌水。
+          该源帖子常无独立官网（纯讨论），一律先入待审
 
   - name: 小众软件
     url: https://www.appinn.com/feed/
     method: rss
     category: 国内
     enabled: true
-    note: 独立软件/工具资讯为主；关键词过滤，只有商业化/收入信号的文章才进候选
+    auto: false
+    kind: community
+    note: 软件资讯/工具分享，无独立官网与营收验证。只作线索，一律先入待审
 
   - name: 少数派
     url: https://sspai.com/feed
     method: rss
     category: 国内
     enabled: true
-    note: 数码生活内容为主；关键词过滤，只有商业化/付费/收入信号才进候选
+    auto: false
+    kind: community
+    note: 数码生活/效率工具内容，无官网与营收验证。只作线索，一律先入待审
 
   # ============ 国内 - JS 站点 ============
   - name: 36氪
@@ -111,9 +133,12 @@ sources:
     method: js
     category: 国内
     enabled: true
+    auto: false
+    kind: community
     link_allow:
       - '^https://36kr\.com/p/'
-    note: 文章页 URL 是 /p/<id>；关键词过滤，融资/资本新闻（无收入信号）不会进候选
+    note: 文章页 URL 是 /p/<id>。这是媒体新闻报道源，不是产品源。
+          只作线索，一律先入待审；标题明显是公司/行业新闻（最赚钱/上市/同比）的已由 NOISE 排除
 
   # ============ 国内 - 受限 ============
   - name: 即刻

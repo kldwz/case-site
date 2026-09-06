@@ -318,9 +318,32 @@ def placeholder_svg(slug, name):
     return svg
 
 
+# 社区/媒体域名：link 指向这些站点时是帖子/报道页，不是产品官网，截图应占位不截报道
+COMMUNITY_HOSTS = (
+    "indiehackers.com", "producthunt.com", "v2ex.com", "36kr.com",
+    "news.ycombinator.com", "ycombinator.com", "hnrss.org",
+    "appinn.com", "sspai.com", "reddit.com",
+)
+
+
+def is_community_link(link):
+    try:
+        d = urlparse(link).netloc.lower().replace("www.", "")
+    except Exception:
+        return True
+    return any(h in d for h in COMMUNITY_HOSTS)
+
+
 def screenshot(candidate, slug):
-    """截官网首页图，失败生成占位 SVG"""
-    link = candidate.get("link", "")
+    """截产品官网首页图。link 是社区/媒体页（帖子/报道）时拒绝截图，
+    生成占位 SVG——绝不把报道页当官网图入库。"""
+    link = (candidate.get("link") or "").strip()
+    if not link or is_community_link(link):
+        print(f"    ! link 是社区/媒体页（{urlparse(link).netloc if link else '空'}），不截报道，占位待人工补官网")
+        pub_dir = PUBLIC_CASES / slug
+        pub_dir.mkdir(parents=True, exist_ok=True)
+        (pub_dir / "site.png").write_text(placeholder_svg(slug, candidate.get("title", "")), encoding="utf-8")
+        return False
     pub_dir = PUBLIC_CASES / slug
     pub_dir.mkdir(parents=True, exist_ok=True)
     png = pub_dir / "site.png"
@@ -404,9 +427,16 @@ def main():
     warmup(args.claude_bin)
 
     ok = 0
+    skipped_review = 0
     for i, c in enumerate(candidates, 1):
         title = c.get("title", "")
         print(f"[{i}/{len(candidates)}] {title} ({c.get('source','')})")
+
+        # 待审候选（非 auto 源）：不自动生成，需人工挑。挑中后编辑 inbox json 去掉 needs_review 再重跑
+        if c.get("needs_review"):
+            print("  - 跳过：待审候选（非可信源，需人工挑选后去掉 needs_review 再跑）")
+            skipped_review += 1
+            continue
 
         if already_exists(c):
             print("  - 跳过：已存在")
@@ -460,7 +490,7 @@ def main():
             append_tsv(c, data)
         ok += 1
 
-    print(f"\n完成：生成 {ok} 篇")
+    print(f"\n完成：生成 {ok} 篇" + (f"，跳过待审 {skipped_review} 条" if skipped_review else ""))
 
 
 if __name__ == "__main__":

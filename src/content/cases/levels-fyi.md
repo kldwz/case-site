@@ -9,8 +9,10 @@ name: Levels.fyi
 原文链接: https://www.levels.fyi
 数据口径: https://www.levels.fyi/about/（"3 million professionals use Levels.fyi each month"，2026 年公开页）
 分类: UGC 薪酬数据库 / 双边收费 / 英文
-封面: /case-site/cases/levels-fyi/placeholder.svg
+封面: /case-site/cases/levels-fyi/site.png
 ---
+
+![Levels.fyi 官网](/case-site/cases/levels-fyi/site.png)
 
 # Levels.fyi：3M 月活却从不卖数据的薪酬数据库
 

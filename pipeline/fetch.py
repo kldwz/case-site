@@ -51,6 +51,9 @@ NOISE = [
     "招聘", "hiring", "job", "career", "融资速递", "早报", "日报", "周报",
     "新闻", "news", "breaking", "财报", "政策", "分析", "评论", "评测",
     "vps", "机场", "加速器", "翻墙", "梯子",  # v2ex 常见灌水话题
+    # 媒体标题腔：行业盘点/公司新闻/榜单，不是单一「可学产品」
+    "最赚钱", "上市", "械企", "药企", "车企", "同比增长", "同比增",
+    "季度", "营收亿", "报告", "公布", "榜单", "白皮书", "盘点",
 ]
 
 # 导航/站内功能链接文本，parse_html_list 里直接丢弃
@@ -311,6 +314,8 @@ def main():
             continue
 
         kept = 0
+        auto = src.get("auto", False)
+        kind = src.get("kind", "")
         title_allow = src.get("title_allow")  # 标题必须命中其一（如 v2ex 只收「分享创造/创业」节点）
         for it in items[: args.limit * 3]:
             link = it.get("link", "")
@@ -318,6 +323,10 @@ def main():
                 continue
             if title_allow and not any(k in it.get("title", "") for k in title_allow):
                 continue
+            # community 源（IndieHackers/v2ex/媒体）只收 /product/ 真产品页，/post/ 日志不进库
+            if kind == "community":
+                if re.search(r"/(post|posts|stories|comments|user|users|member|members)(/|$|\?)", link, re.I):
+                    continue
             # 专门案例源直接收（只过滤噪音），综合源才用关键词筛
             if not src.get("accept_all") and not is_case(it.get("title", ""), it.get("summary", "")):
                 continue
@@ -325,12 +334,15 @@ def main():
                 continue
             it["source"] = name
             it["category"] = src.get("category", "")
+            it["auto"] = auto
+            if not auto:
+                it["needs_review"] = True
             candidates.append(it)
             seen[link] = today
             kept += 1
             if kept >= args.limit:
                 break
-        print(f"  ✓ {name}: 命中 {kept} 条")
+        print(f"  ✓ {name}: 命中 {kept} 条{'（待审）' if not auto else ''}")
 
     save_seen(seen)
     out_path.write_text(json.dumps(candidates, ensure_ascii=False, indent=2))
