@@ -1,16 +1,51 @@
 ---
 import { getCollection } from 'astro:content';
+import fs from 'node:fs';
+import path from 'node:path';
 import Base from '../layouts/Base.astro';
+import { CATEGORIES, catOf } from '../data/categories';
 
 const cases = await getCollection('cases');
 const base = import.meta.env.BASE_URL;
 // md 里的封面路径是 /case-site/cases/<slug>/site.png（适配 GitHub Pages 的硬编码）
 // 这里剥离前缀，用 BASE_URL 重新拼，保证本地/线上一致
 const stripBase = (p: string) => p.replace(/^\/case-site/, '');
-// 把 分类 字段拆成标签数组，用于筛选
-const allTags = Array.from(
-  new Set(cases.flatMap((c) => c.data.分类.split('/').map((t) => t.trim())))
-).filter(Boolean);
+
+// 封面文件是否存在：缺封面（流水线新写还没抓图）时置空 → 首页渲染 placeholder，不发 404 请求
+const coverExists = (p: string) => {
+  const file = path.join(process.cwd(), 'public', p.replace(/^\/?case-site\//, ''));
+  return fs.existsSync(file);
+};
+
+// 组装卡片数据：大类来自映射表（未映射落「其他」），搜索字段扁平化
+const cards = cases
+  .map((c) => {
+    const rawCover = c.data.封面;
+    const cover = rawCover && coverExists(rawCover)
+      ? base.replace(/\/$/, '') + stripBase(rawCover)
+      : '';
+    return {
+      slug: c.slug || c.data.slug,
+      name: c.data.name,
+      one: c.data.一句话,
+      mode: c.data.营收模式,
+      income: c.data.月收入估算 || '',
+      cat: catOf(c.slug || c.data.slug) ?? 'uncat',
+      cover,
+    };
+  })
+  // 未分类排最后
+  .sort((a, b) => (a.cat === 'uncat' ? 1 : 0) - (b.cat === 'uncat' ? 1 : 0));
+
+const cardsJson = JSON.stringify(cards);
+// 只留真的有案例的大类，避免空 chip
+const catList = CATEGORIES.filter((c) => cards.some((x) => x.cat === c.key));
+const catLabelsJson = JSON.stringify(
+  Object.fromEntries([...catList.map((c) => [c.key, c.label]), ['uncat', '其他']])
+);
+const catKeysJson = JSON.stringify(catList.map((c) => c.key));
+const baseUrl = base;
+const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ?? '其他';
 ---
 
 <Base title="案例库 · 创业/独立开发者收入案例">
@@ -18,41 +53,74 @@ const allTags = Array.from(
     <h1>创业收入案例库</h1>
     <p>
       收集国内外真实的小生意 / 独立产品案例：它们怎么起步、怎么赚钱、流量从哪来。
-      每个案例都讲清模式，方便你对照、借鉴。
+      每个案例都讲清模式，方便你对照、借鉴。共 {cards.length} 篇。
     </p>
   </section>
 
-  <div class="filters" id="filters">
-    <button class="chip active" data-tag="all">全部</button>
-    {allTags.map((tag) => (
-      <button class="chip" data-tag={tag}>{tag}</button>
-    ))}
+  <div class="toolbar">
+    <input
+      id="search"
+      type="search"
+      placeholder="搜索产品名 / 一句话 / 营收模式…"
+      autocomplete="off"
+    />
+    <div class="cats" id="cats">
+      <button class="chip active" data-cat="all">全部</button>
+      {catList.map((c) => (
+        <button class="chip" data-cat={c.key}>{c.label}</button>
+      ))}
+    </div>
   </div>
 
+  <p class="result-count" id="result-count">共 {cards.length} 篇</p>
+
+  <!-- 无 JS 时服务端直接出全部卡片（渐进增强）；JS 启用后 render() 切到 12/页分页 -->
   <div class="grid" id="grid">
-    {cases.map((c) => (
-      <a class="card" href={`${base}cases/${c.slug || c.data.slug}/`} data-tags={c.data.分类}>
-        {c.data.封面
-          ? <img class="card-img" src={base.replace(/\/$/, '') + stripBase(c.data.封面)} alt={c.data.name} loading="lazy" />
-          : <div class="card-img placeholder"><span>{c.data.name}</span></div>
+    {cards.map((c) => (
+      <a class="card" href={`${base}cases/${c.slug}/`}>
+        {c.cover
+          ? <img class="card-img" src={c.cover} alt={c.name} loading="lazy" />
+          : <div class="card-img placeholder"><span>{c.name}</span></div>
         }
         <div class="card-body">
-          <h3>{c.data.name}</h3>
-          <p class="card-desc">{c.data.一句话}</p>
+          {c.cat !== 'uncat' && <span class="card-badge">{catLabelsJson ? catName(c.cat) : ''}</span>}
+          <h3>{c.name}</h3>
+          <p class="card-desc">{c.one}</p>
           <div class="card-meta">
-            <span class="tag">{c.data.营收模式}</span>
-            {c.data.月收入估算 && <span class="tag muted">{c.data.月收入估算}</span>}
+            <span class="tag">{c.mode}</span>
+            {c.income && <span class="tag muted">{c.income}</span>}
           </div>
         </div>
       </a>
     ))}
   </div>
+
+  <nav class="pager" id="pager" hidden></nav>
 </Base>
 
-<style>
+<script type="application/json" data-cards={cardsJson}></script>
+<script type="application/json" data-catlabels={catLabelsJson}></script>
+<script type="application/json" data-catkeys={catKeysJson}></script>
+<script type="application/json" data-base={baseUrl}></script>
+
+<style is:global>
   .intro h1 { font-size: 28px; margin: 0 0 8px; }
-  .intro p { color: var(--muted); margin: 0 0 24px; max-width: 640px; }
-  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+  .intro p { color: var(--muted); margin: 0 0 20px; max-width: 640px; }
+  .toolbar { margin-bottom: 12px; }
+  #search {
+    width: 100%;
+    max-width: 420px;
+    padding: 10px 14px;
+    font-size: 14px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--card);
+    color: var(--ink);
+    outline: none;
+    margin-bottom: 14px;
+  }
+  #search:focus { border-color: var(--accent); }
+  .cats { display: flex; flex-wrap: wrap; gap: 8px; }
   .chip {
     border: 1px solid var(--line);
     background: var(--card);
@@ -63,6 +131,7 @@ const allTags = Array.from(
     cursor: pointer;
   }
   .chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .result-count { color: var(--muted); font-size: 13px; margin: 4px 0 16px; min-height: 18px; }
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
@@ -90,6 +159,10 @@ const allTags = Array.from(
   .card-body h3 { margin: 0 0 6px; font-size: 17px; }
   .card-desc { margin: 0 0 12px; font-size: 13px; color: var(--muted); }
   .card-meta { display: flex; flex-wrap: wrap; gap: 6px; }
+  .card-badge {
+    font-size: 11px; background: #e8f0fe; color: var(--accent);
+    padding: 2px 8px; border-radius: 999px; margin-bottom: 8px; display: inline-block;
+  }
   .tag {
     font-size: 12px;
     background: #eef3ff;
@@ -98,23 +171,136 @@ const allTags = Array.from(
     border-radius: 6px;
   }
   .tag.muted { background: #f0f0ee; color: var(--muted); }
+  .pager {
+    display: flex; align-items: center; justify-content: center;
+    gap: 6px; margin-top: 28px; flex-wrap: wrap;
+  }
+  .pager button {
+    min-width: 34px; height: 34px; padding: 0 8px;
+    border: 1px solid var(--line); background: var(--card);
+    color: var(--muted); border-radius: 8px; font-size: 13px; cursor: pointer;
+  }
+  .pager button:hover:not(:disabled):not(.cur) { border-color: var(--accent); color: var(--accent); }
+  .pager button.cur { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .pager button:disabled { opacity: 0.4; cursor: default; }
 </style>
 
 <script>
-  const filters = document.getElementById('filters');
-  const grid = document.getElementById('grid');
-  if (filters && grid) {
-    filters.addEventListener('click', (e) => {
-      const btn = e.target as HTMLButtonElement;
-      if (!btn.classList.contains('chip')) return;
-      filters.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
-      btn.classList.add('active');
-      const tag = btn.dataset.tag;
-      grid.querySelectorAll('.card').forEach((card) => {
-        const tags = (card as HTMLElement).dataset.tags || '';
-        const show = tag === 'all' || tags.split('/').some((t) => t.trim() === tag);
-        (card as HTMLElement).style.display = show ? '' : 'none';
-      });
-    });
+  // ---------- 读取 SSG 注入的数据 ----------
+  // JSON 放在 <script> 的 data-* attribute，浏览器读 dataset 时自动反转义 HTML 实体
+  const readJson = (attr: string) => {
+    const el = document.querySelector(`script[data-${attr}]`) as HTMLScriptElement;
+    return el ? JSON.parse(el.dataset[attr]!) : null;
+  };
+  interface Card {
+    slug: string; name: string; one: string; mode: string; income: string;
+    cat: string; cover: string;
   }
+  const CARDS: Card[] = readJson('cards') ?? [];
+  const CATS: Record<string, string> = readJson('catlabels') ?? {};
+  const CAT_KEYS: string[] = readJson('catkeys') ?? [];
+  // base 不是 JSON，是裸路径字符串，直接读 attribute
+  const BASE: string =
+    document.querySelector('script[data-base]')?.getAttribute('data-base') ?? '/';
+  const PAGE_SIZE = 12;
+
+  // ---------- 状态 ----------
+  let q = '';
+  let cat = 'all';
+  let page = 1;
+
+  const grid = document.getElementById('grid') as HTMLDivElement;
+  const pager = document.getElementById('pager') as HTMLElement;
+  const count = document.getElementById('result-count') as HTMLParagraphElement;
+  const search = document.getElementById('search') as HTMLInputElement;
+  const catsEl = document.getElementById('cats') as HTMLDivElement;
+
+  const haystack = (c: Card) =>
+    `${c.name} ${c.one} ${c.mode} ${c.income} ${CATS[c.cat] ?? ''}`.toLowerCase();
+  const matches = (c: Card) =>
+    (cat === 'all' || c.cat === cat) && (!q || haystack(c).includes(q));
+
+  function esc(s: string): string {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  function cardHTML(c: Card): string {
+    const img = c.cover
+      ? `<img class="card-img" src="${esc(c.cover)}" alt="${esc(c.name)}" loading="lazy"/>`
+      : `<div class="card-img placeholder"><span>${esc(c.name)}</span></div>`;
+    const income = c.income ? `<span class="tag muted">${esc(c.income)}</span>` : '';
+    const badge = c.cat !== 'uncat' ? `<span class="card-badge">${esc(CATS[c.cat])}</span>` : '';
+    return `
+      <a class="card" href="${BASE}cases/${esc(c.slug)}/">
+        ${img}
+        <div class="card-body">
+          ${badge}
+          <h3>${esc(c.name)}</h3>
+          <p class="card-desc">${esc(c.one)}</p>
+          <div class="card-meta">
+            <span class="tag">${esc(c.mode)}</span>${income}
+          </div>
+        </div>
+      </a>`;
+  }
+
+  function render() {
+    const list = CARDS.filter(matches);
+    const maxPage = Math.max(1, Math.ceil(list.length / PAGE_SIZE));
+    if (page > maxPage) page = maxPage;
+    const start = (page - 1) * PAGE_SIZE;
+    grid.innerHTML = list.slice(start, start + PAGE_SIZE).map(cardHTML).join('');
+
+    if (q) count.textContent = `共 ${list.length} 篇 · “${search.value.trim()}”`;
+    else if (cat !== 'all') count.textContent = `共 ${list.length} 篇`;
+    else count.textContent = `共 ${CARDS.length} 篇`;
+
+    // 分页条
+    pager.innerHTML = '';
+    if (maxPage <= 1) { pager.hidden = true; return; }
+    pager.hidden = false;
+    const mk = (label: string, p: number, opts: { disabled?: boolean; cur?: boolean } = {}) => {
+      const b = document.createElement('button');
+      b.textContent = label;
+      if (opts.cur) b.classList.add('cur');
+      if (opts.disabled) { b.disabled = true; return b; }
+      b.addEventListener('click', () => { page = p; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+      return b;
+    };
+    pager.appendChild(mk('‹ 上一页', page - 1, { disabled: page === 1 }));
+    const win: (number | '…')[] = [];
+    for (let p = 1; p <= maxPage; p++) {
+      if (p === 1 || p === maxPage || Math.abs(p - page) <= 2) win.push(p);
+      else if (win[win.length - 1] !== '…') win.push('…');
+    }
+    win.forEach((p) => {
+      if (p === '…') {
+        const e = document.createElement('span');
+        e.textContent = '…';
+        e.style.cssText = 'color:var(--muted);padding:0 4px;';
+        pager.appendChild(e);
+      } else {
+        pager.appendChild(mk(String(p), p, { cur: p === page }));
+      }
+    });
+    pager.appendChild(mk('下一页 ›', page + 1, { disabled: page === maxPage }));
+  }
+
+  // ---------- 事件 ----------
+  search.addEventListener('input', () => {
+    q = search.value.trim().toLowerCase();
+    page = 1;
+    render();
+  });
+  catsEl.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest('button');
+    if (!btn || !btn.dataset.cat) return;
+    catsEl.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
+    btn.classList.add('active');
+    cat = btn.dataset.cat!;
+    page = 1;
+    render();
+  });
+
+  render();
 </script>
