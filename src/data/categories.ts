@@ -238,6 +238,27 @@ export const CATEGORY_MAP: Record<string, string> = {
   opale: 'aitool',
   'canvas-insights': 'aitool',
 
+  // ---- 国内实践线（2026-09-12，P3）----
+  baimiao: 'indie',
+  'panda-sms': 'indie',
+  'time-block': 'indie',
+  jiangmu: 'consumer',
+  xiaorichang: 'consumer',
+  'dyson-sphere': 'consumer',
+  'sultans-game': 'consumer',
+  'warm-snow': 'consumer',
+  'chinese-parents': 'consumer',
+  taiwu: 'consumer',
+  // ---- 获奖作品线（2026-09-12，P2）----
+  audionova: 'aitool',
+  'snapdragon-translator': 'aitool',
+  'civil-dialog': 'aitool',
+  neuthera: 'aitool',
+  'mochi-readability': 'aitool',
+  opale: 'aitool',
+  browsegraph: 'aitool',
+  'marlin-phishing': 'enterprise',
+  'canvas-insights': 'aitool',
 };
 
 // 大类 key -> 展示名（有序，先渲染高频）
