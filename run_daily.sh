@@ -38,8 +38,12 @@ log "步骤4: git commit + push"
 if [ -n "$(git status --porcelain)" ]; then
     git add -A
     git commit -m "daily: $DATE 案例更新" >> "$LOG" 2>&1 || { log "!! commit 失败"; exit 1; }
-    # 清除代理变量：本机代理对 git CONNECT 隧道不稳定（503），直连更可靠
-    git -c http.proxy= push >> "$LOG" 2>&1 || { log "!! push 失败"; exit 1; }
+    # 走本机代理：直连 github.com:443 会报 SSL_ERROR_SYSCALL（2026-09-12 实测）。
+    # 代理偶发 503，失败后再退回直连兜底。
+    PROXY="http://127.0.0.1:1082"
+    git -c http.proxy="$PROXY" -c https.proxy="$PROXY" push >> "$LOG" 2>&1 \
+        || git -c http.proxy= push >> "$LOG" 2>&1 \
+        || { log "!! push 失败"; exit 1; }
     log "  已推送"
 else
     log "  无变更，跳过提交"
