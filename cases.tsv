@@ -1,18 +1,24 @@
-标题	创建时间	来源	备注	推送网站	推送公众号	推送头条号
-Calculator.net	2026-09-05	人工收录	程序化SEO工具站，月访问6100万，广告变现	✅	❌	❌
-Levels.fyi	2026-09-05	人工收录	UGC薪酬数据库，双边收费	✅	❌	❌
-Myinstants	2026-09-05	人工收录	UGC音效站，广告变现	✅	❌	❌
-Refactoring UI	2026-09-05	人工收录	电子书一次买断，累计销量3万+	✅	❌	❌
-RyRob	2026-09-05	人工收录	联盟营销+课程，收入全公开	✅	❌	❌
-ShipFast	2026-09-05	人工收录	Next.js模板一次买断，$199/249/299	✅	❌	❌
-Dark Reader	2026-09-05	人工收录	Chrome插件+开源捐赠，10M+用户	✅	❌	❌
-flomo 浮墨笔记	2026-09-05	人工收录	国内独立开发订阅SaaS，3人反向收购幕布	✅	❌	❌
-Covai Cars	2026-09-05	trustmrr	租车WhatsApp AI自动预订SaaS，MRR约$1K（未验证）	✅	❌	❌
-Reflexio	2026-09-06	ProductHunt	AI Agent行为学习平台，Free+Pro $299/mo+BYOC	✅	❌	❌
-Stivio	2026-09-06	IndieHackers	图生视频AI，免费送credits，Pro $19/mo	✅	❌	❌
-NoiseVanish	2026-09-06	IndieHackers	去背景噪音工具，Free 30s预览+$9.99/月	✅	❌	❌
-B2B SaaS OS	2026-09-06	IndieHackers	多租户SaaS模板，$249一次买断	✅	❌	❌
-StoreShot	2026-09-06	V2EX	App市场图工具，Free 3导出+Pro $6.99/月	✅	❌	❌
-AndroMeld	2026-09-06	V2EX	Android与Mac互通工具，买断¥88+订阅双轨	✅	❌	❌
-多答AI	2026-09-06	V2EX	多AI同时作答插件，免费增值	✅	❌	❌
-Jigsaw Haiku	2026-09-09	HackerNews_Show	拼图+俳句的轻量小游戏，变现方式未官方披露	✅	❌	❌
+标题	创建时间	来源	备注	推送网站	推送公众号	推送头条号	同步飞书
+Calculator.net	2026-09-05	人工收录	程序化SEO工具站，月访问6100万，广告变现	✅	❌	❌	✅
+Levels.fyi	2026-09-05	人工收录	UGC薪酬数据库，双边收费	✅	❌	❌	✅
+Myinstants	2026-09-05	人工收录	UGC音效站，广告变现	✅	❌	❌	✅
+Refactoring UI	2026-09-05	人工收录	电子书一次买断，累计销量3万+	✅	❌	❌	✅
+RyRob	2026-09-05	人工收录	联盟营销+课程，收入全公开	✅	❌	❌	✅
+ShipFast	2026-09-05	人工收录	Next.js模板一次买断，$199/249/299	✅	❌	❌	✅
+Dark Reader	2026-09-05	人工收录	Chrome插件+开源捐赠，10M+用户	✅	❌	❌	✅
+flomo 浮墨笔记	2026-09-05	人工收录	国内独立开发订阅SaaS，3人反向收购幕布	✅	❌	❌	✅
+Covai Cars	2026-09-05	trustmrr	租车WhatsApp AI自动预订SaaS，MRR约$1K（未验证）	✅	❌	❌	✅
+Reflexio	2026-09-06	ProductHunt	AI Agent行为学习平台，Free+Pro $299/mo+BYOC	✅	❌	❌	✅
+Stivio	2026-09-06	IndieHackers	图生视频AI，免费送credits，Pro $19/mo	✅	❌	❌	✅
+NoiseVanish	2026-09-06	IndieHackers	去背景噪音工具，Free 30s预览+$9.99/月	✅	❌	❌	✅
+B2B SaaS OS	2026-09-06	IndieHackers	多租户SaaS模板，$249一次买断	✅	❌	❌	✅
+StoreShot	2026-09-06	V2EX	App市场图工具，Free 3导出+Pro $6.99/月	✅	❌	❌	✅
+AndroMeld	2026-09-06	V2EX	Android与Mac互通工具，买断¥88+订阅双轨	✅	❌	❌	✅
+多答AI	2026-09-06	V2EX	多AI同时作答插件，免费增值	✅	❌	❌	✅
+Jigsaw Haiku	2026-09-09	HackerNews_Show	拼图+俳句的轻量小游戏，变现方式未官方披露	✅	❌	❌	✅
+Research Match	2026-09-12	TrustMRR	帮本科生写教授愿意回的套磁邮件，2.5亿篇论文索引+1000所大学，MRR约5.42万美元	✅	❌	❌	❌
+Upvoty	2026-09-12	TrustMRR	用户反馈投票板+路线图+更新日志闭环，2000+团队在用，1111个付费客户，月流失3.8%	✅	❌	❌	❌
+Campfire CRM	2026-09-12	TrustMRR	给慈善/俱乐部/童子军做的轻量CRM，393个付费客户，月增长28.69%	✅	❌	❌	❌
+RankRadar	2026-09-12	TrustMRR	iGaming游戏位置情报，每天扫全站排序，88个客户，客单价277美元/月	✅	❌	❌	❌
+Dapp Sentry	2026-09-12	TrustMRR	监控钱包/域名是否被15+家黑名单误标，快扫99美元引流到199美元/月订阅	✅	❌	❌	❌
+Covai Cars	2026-09-12	TrustMRR	把WhatsApp变成租车公司预订前台；营收数据未验证且异常，仅作产品案例	✅	❌	❌	❌
