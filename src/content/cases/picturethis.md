@@ -8,6 +8,8 @@ name: PictureThis（形色）
 可迁移点: ① 垂直识别（植物）比通用视觉更易做准，98% 准确率是壁垒 ② 移动订阅靠 ASO 与精准关键词，不靠投流 ③ 国内版 + 国际版双品牌，同技术吃两市场 ④ 养护/病害诊断把一次性识图变持续订阅 ⑤ 1 亿下载证明「小众爱好」也能成大众 App
 原文链接: https://picturethisai.com
 数据口径: FluxBuilder 月收报道、App Store 榜单与下载量、官网物种库与准确率说明
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 工具 / 图像识别 / 移动应用 / 中国
 封面: /case-site/cases/picturethis/site.png
 ---

@@ -8,6 +8,8 @@ name: Serviceform
 可迁移点: ① 从「一张表单」这种最不起眼的痛点切入，九年不换赛道只加深 ② 把产品价值量化成「+71% 营收」「2 倍线索」「+460% 转化」，客户自己会传播 ③ 用代理商网络（145+）放大直销，而不是只靠自家销售 ④ 不追通用聊天机器人，绑定房地产/汽车/电商三个垂直行业做深 ⑤ 创始人仍在一线、每周发版，把「小团队快速迭代」当卖点
 原文链接: https://serviceform.com
 数据口径: 融资——累计约 490 万美金（Tekes/Business Finland 领投种子、BackingMinds、Gorilla Capital 等；2024-11 完成约 260 万美金一轮，Tech.eu 报道为 245 万欧元）；规模——官网「About」页自述 9 年经营、1500+ 网站在用、20+ 国家、平均营收提升 71%、70+ 员工、5 个办公室；1100+ 企业（早期资料）；客户——RE/MAX、Peugeot、Hyundai、Sotheby's、Maskun Kalustetalo、Gedauto；成效——Maskun 订单咨询减少 71%、RE/MAX 同流量线索翻倍、Gedauto 线索到成交转化 +460%；创始人——Iranthi Gomes（CEO）、Jarkko Oksanen（CTO），2018 年创立于芬兰（Seedtable、LeadIQ、StartuptIntrospective、公司官网 About 与案例页）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 应用 / 客服与获客 / 英文 / 芬兰
 封面: /case-site/cases/serviceform/site.png
 ---

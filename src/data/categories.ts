@@ -186,6 +186,58 @@ export const CATEGORY_MAP: Record<string, string> = {
   chatbase: 'aitool',
   crowdreply: 'aitool',
   trendtrack: 'aitool',
+  // ---- 插件线（2026-09-12，P1）----
+  tampermonkey: 'indie',
+  'ublock-origin': 'indie',
+  sponsorblock: 'consumer',
+  'enhancer-youtube': 'consumer',
+  wappalyzer: 'enterprise',
+  momentum: 'consumer',
+  'immersive-translate': 'aitool',
+  singlefile: 'indie',
+  vimium: 'indie',
+  violentmonkey: 'indie',
+  // ---- 2026-09-13 新增：插件线 ----
+  tampermonkey: 'indie',
+  'ublock-origin': 'consumer',
+  sponsorblock: 'consumer',
+  'enhancer-youtube': 'consumer',
+  wappalyzer: 'infra',
+  momentum: 'indie',
+  'immersive-translate': 'aitool',
+  singlefile: 'indie',
+  vimium: 'indie',
+  violentmonkey: 'indie',
+  // ---- 2026-09-13 新增：国内实践线 ----
+  baimiao: 'indie',
+  'panda-sms': 'indie',
+  'time-block': 'indie',
+  'sunmao-zheshan': 'consumer',
+  xingse: 'consumer',
+  'dyson-sphere-program': 'consumer',
+  'sultans-game': 'consumer',
+  'chinese-parents': 'consumer',
+  'warm-snow': 'consumer',
+  'my-time-at-portia': 'consumer',
+  // ---- 2026-09-13 新增：获奖作品线 ----
+  audionova: 'aitool',
+  neuthera: 'aitool',
+  'civil-dialog': 'consumer',
+  'mochi-reading': 'indie',
+  'marlin-phishing': 'enterprise',
+  'snapdragon-translator': 'aitool',
+  browsegraph: 'aitool',
+  'opale-prompts': 'aitool',
+
+  // ---- 并发写入的案例（2026-09-13 补映射）----
+  jiangmu: 'indie',
+  xiaorichang: 'indie',
+  taiwu: 'consumer',
+  'dyson-sphere': 'consumer',
+  'mochi-readability': 'indie',
+  opale: 'aitool',
+  'canvas-insights': 'aitool',
+
 };
 
 // 大类 key -> 展示名（有序，先渲染高频）

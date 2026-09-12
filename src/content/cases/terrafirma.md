@@ -8,6 +8,8 @@ name: TerraFirma
 可迁移点: ① 不做设备供应商做承包商，卖「做完的活」而不是「能干活的工具」，客户不用承担集成风险，你也不用等客户学会用 ② 从最脏的活验证商业模式——房东一句「能帮我拆栋楼吗」就是第一单，先收钱再融资 ③ 把上一家的组织能力迁移到传统行业，SpaceX 式的软硬件 + 运营一起迭代，是建筑业完全没有的打法 ④ 用一个大愿景（火星）解决招聘与传播，用地球上的现金流解决生存，两条线各司其职 ⑤ 选「劳动力结构性短缺」的行业——建筑业生产率五十年倒退、操作员招不到，自动化不是抢饭碗是补缺口
 原文链接: https://www.terrafirma.com
 数据口径: 融资——2026 年 7 月约 1.15 亿美金，其中 1 亿美金 A 轮由 Kleiner Perkins 领投，Bain Capital Ventures、Glade Brook Capital、BANNER VC、Saga、Trust Ventures、Definition、PEAK6、Magnetar、Ravelin 等参投，天使来自 SpaceX、Anduril、Base Power、Shinkei、Hadrian（Robotics 24/7、CNBC、创始人公开帖）；效率主张「单操作员产出提升至约 300%」、计划一年招 300 人、建德州工厂与任务控制中心（官方口径）；行业背景——美国建筑业劳动生产率 1970 至 2020 年下降超 30%（里士满联储）
+类型: 收入案例
+证据等级: 官方披露
 分类: 机器人施工 / 建筑科技 / 英文 / 美国
 封面: /case-site/cases/terrafirma/site.png
 ---

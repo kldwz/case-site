@@ -8,6 +8,8 @@ name: Mad Street Den
 可迁移点: ① 2014 年就开始做"垂直视觉 AI"，比这波生成式 AI 早了快十年——垂直深耕的先发优势是真金 ② 选"时尚电商"这个"图多、标签乱、人贵"的行业，CV 的 ROI 一眼可见 ③ 把内部 CV 能力平台化（MADstack）再对外卖，从项目制变平台制 ④ 印度团队也能做企业级 AI 卖给欧美客户，地理位置不是天花板 ⑤ 用"自动 tagging"这种具体小痛点切入，比空谈"AI 赋能零售"好卖一百倍
 原文链接: https://madstreetden.com
 数据口径: Crunchbase / Tracxn 融资记录（2015 种子、2016 Sequoia India A 轮）、madstreetden.com 官网客户页；营收未披露
+类型: 收入案例
+证据等级: 官方披露
 分类: 计算机视觉 / 时尚电商 / 企业服务 / 英文
 封面: /case-site/cases/mad-street-den/site.png
 ---

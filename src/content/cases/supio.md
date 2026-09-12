@@ -8,6 +8,8 @@ name: Supio
 可迁移点: ① 在法律这种高风险场景，「AI 加人工复核」不是妥协而是卖点——单一幻觉就可能毁掉信任，混合方案才是可销售的 ② 押注一个窄到没人愿意做的细分（人身伤害与大规模侵权原告方），窄市场里的深度就是护城河 ③ 让客户的结果可量化并可对外引用——「每案多赔 20% 到 30%」比任何功能列表都好卖 ④ 拿战略投资人的钱（Thomson Reuters Ventures）而不只是财务投资人，渠道和牌照一起到手 ⑤ 明确承诺客户数据不用于训练基础模型，把数据焦虑直接写进合同条款
 原文链接: https://www.supio.com
 数据口径: 融资——2024 年 8 月 2500 万美金 A 轮、2025 年 4 月 6000 万美金 B 轮均由 Sapphire Ventures 领投，B 轮另有 Mayfield 与 Thomson Reuters Ventures 参投，累计 9100 万美金（Business Wire 官方通稿）；增长——A 轮后 ARR 增长 4 倍、客户数增长 4 倍（Business Wire、maginative）；客户成效——Travis Legal Offices 称每案收益提升 20% 至 30%，Thomas Law 称采用后年案件量提升 62%，TorHoerman Law 借助 Supio 取得对雅培 4.95 亿美金判决（Business Wire）
+类型: 收入案例
+证据等级: 官方披露
 分类: 法律 AI / 垂直 SaaS / 英文 / 美国
 封面: /case-site/cases/supio/site.png
 ---

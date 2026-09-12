@@ -8,6 +8,8 @@ name: Nelly
 可迁移点: ① 医疗的「纸质文档数字化」是被低估的刚需，数字化 3000 万张就是壁垒 ② 金融 OS 思路从 Klarna 搬到医疗，支付/账单/保险一站打通 ③ 强合规行业靠标杆诊所口碑，不靠投流 ④ 联创班底完整（CEO/CPO/COO/CTO/CS），分工即执行力 ⑤ 垂直 OS 比通用工具贵且黏，客单价随诊所规模涨
 原文链接: https://getnelly.de
 数据口径: 融资新闻（Series B Cathay Innovation、Notion Capital 领投）、官网诊所与患者规模统计、创始人背景公开资料
+类型: 收入案例
+证据等级: 官方披露
 分类: 垂直行业 AI / 医疗 / 德国
 封面: /case-site/cases/nelly/site.png
 ---

@@ -8,6 +8,8 @@ name: NexLev
 可迁移点: ① 做「你自己每天都在痛」的工具，需求不用猜 ② 把插件做成浏览器里的叠加层，用户不用切换工作流 ③ 只服务一个极窄人群（faceless 自动化频道主），窄到没人跟你抢 ④ 公开自己的真实数据（管多少频道、赚多少）就是最好的营销 ⑤ 终身档（510–799 美金）快速回笼现金流
 原文链接: https://www.nexlev.io
 数据口径: 产品——NexLev 是面向 faceless（无人出镜）YouTube 频道主的选赛道与运营工具，含 Niche Finder（称分析 1.22 亿+ 频道、21 个高级筛选器、2 万+ 精选赛道、RPM 预测）、Chrome 扩展（28–35+ 项功能：播放量/订阅数叠加、Shorts 信息流分析、异常值评分、频道收入估算、净利计算器、缩略图生成、赞助分析）、Faceless 课程与 Discord 社区；定价——Lite 约 13 美金/月或年付 9 美金/月，Pro 约 42 美金/月或年付 30–35 美金/月，历史终身档约 510–799 美金，无免费试用、14 天退款（官网 FAQ、outlierkit、tubegen、aigregator）；装机——Chrome 网上应用店 10 万+ 安装、4.0/5（149 票）、v3.8.4（2025-12）；创始人——Noah Morris，21 岁，自己运营 20+ 个 faceless 频道，2023 年创立（outlierkit、GitHub 汇总、aigregator）；社区——10 万+ 创作者、41 国（aigregator）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 工具 / 创作者经济 / 英文 / 美国
 封面: /case-site/cases/nexlev/site.png
 ---

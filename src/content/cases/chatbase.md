@@ -8,6 +8,8 @@ name: Chatbase
 可迁移点: ① 一条推文 + 一个定价页就能验证需求：创始人 6 周做出第一版、30 分钟来第一个付费客户，先证明有人愿意付钱再 all-in ② 用 RAG 把"企业自有内容"变成护城河：bot 用客户自己的资料回答，既准确又难迁移 ③ 自助 SaaS 不靠融资也能到 9 位数 ARR：bootstrapped 倒逼纪律，不养人、不烧钱 ④ 产品从单点（PDF 问答）长成平台（语音 agent、工单、WhatsApp 外呼、helpdesk），靠持续小迭代而非大重构 ⑤ 警惕账单体验：积分制虽灵活但 Trustpilot 差评集中在"余额用完就沉默"，定价透明度影响口碑
 原文链接: https://chatbase.co
 数据口径: Chatbotscape 2026 评测（创始人 Yasser Elsaid、多伦多、24 岁、$8M ARR、1 万+企业、定价）；YourGPT 2026 评测（2026 功能扩展、语音/WhatsApp/helpdesk、模型 35+）；ai-solutes 2026（2026-05 跨 $10M ARR、80+ 国、26 人）；everydev.ai 公司档案（成立 2023、SOC 2 Type II、客户名单）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 应用 / 订阅 SaaS / 英文 / 客服机器人
 封面: /case-site/cases/chatbase/site.png
 ---

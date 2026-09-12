@@ -9,6 +9,8 @@ name: Covai Cars
 原文链接: https://covai.es/
 数据口径: TrustMRR 平台（Stripe 数据，但**未经验证 verified=False**，快照 2026-09-07）；产品功能与文案来自官网首页。**本条数据存在明显异常，仅作为产品案例收录，营收数字请谨慎参考**
 封面: /case-site/cases/covai-cars/site.png
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 自动化 / 租车行业 / B2B SaaS / 西班牙
 ---
 

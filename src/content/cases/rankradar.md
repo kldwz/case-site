@@ -9,6 +9,8 @@ name: RankRadar
 原文链接: https://rankradar.io
 数据口径: TrustMRR 平台（创始人授权 Stripe 只读数据，verified=True），快照时间 2026-07-15；产品功能与文案来自官网首页
 封面: /case-site/cases/rankradar/site.png
+类型: 收入案例
+证据等级: 官方披露
 分类: B2B SaaS / 数据情报 / iGaming / 葡萄牙
 ---
 

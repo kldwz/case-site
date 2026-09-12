@@ -8,6 +8,8 @@ name: Fish Audio
 可迁移点: ① 开源是最便宜的分发，付费 API 是最直接的变现，两者可以是一件事的两半 ② 起点可以只是不满——他只是受不了合成语音没有情绪，于是在卧室用一张显卡自己训 ③ 在巨头环伺的赛道里，用「开发者可控性」和成本效率切进去，而不是比谁的声音更像真人 ④ 声音版权争议会变成采购标准，提前把下架流程做到分钟级就是在建护城河 ⑤ 从创作者工具往企业走时，合规部署（HIPAA、零数据留存）是门票不是加分项
 原文链接: https://fish.audio
 数据口径: 融资——5200 万美金种子轮，2026 年 7 月 28 日宣布，由 Coreline Ventures 与 Capital Today 共同领投，359 Capital、Parable、Play Time、Alphalist Partners、Bayhouse Ventures、Carya Venture Partners、HF0 参投（TechCrunch、SiliconANGLE、Yahoo Finance）；营收与用户——超 800 万用户、2100 万美金 ARR，数据截至 2026 年 7 月，距商业化上线约一年（TechCrunch、TMC Insight、Fundraise Insider）；开源——Fish Speech 仓库在 GitHub 获得 3.1 万+ star（TechCrunch、TMC Insight）；产品——文本转语音、语音克隆、语音识别、长音频工具，支持 83 种以上语言，15000 多项自然语言情绪与节奏控制，用户提交声音库超 200 万个，旗舰模型 S2.1 Pro 仅限付费 API（TechCrunch、Brief News）；客户——HeyGen、Sanas、Plaud、LiveKit、Retell AI 等（TechCrunch、TMC Insight）；创始人——Shijia Liao 前 NVIDIA 视频研究员，在卧室用单张游戏 GPU 训练早期模型并开源；Rissa Cao 任 CEO（Fundraise Insider、TechCrunch）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 基础设施 / 语音合成 / 英文 / 美国
 封面: /case-site/cases/fish-audio/site.png
 ---

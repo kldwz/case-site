@@ -8,6 +8,8 @@ name: Arcads
 可迁移点: ① 产品自己就是获客渠道——用自家 AI 跑自家广告 ② 极小团队靠"内部 AI agent 军团"放大（Gumloop 100 个）③ 用量定价让客户用得越多付越多 ④ bootstrapped 也能高速 grow——盈利优先 ⑤ 切"UGC 广告"这个被验证的大痛点（品牌要持续产出素材）
 原文链接: https://www.arcads.ai
 数据口径: GetLatka 对 CEO Romain Torres 的访谈（2025-12-01 及 2026 更新）；营收 / 客户 / 团队为公开口径；融资数据存在 "bootstrapped" 与 "raised $25M" 的矛盾，已注明
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 工具 / 用量订阅 / 英文 / 视频广告 / 独立团队
 封面: /case-site/cases/arcads/site.png
 ---

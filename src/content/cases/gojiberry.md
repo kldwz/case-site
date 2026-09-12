@@ -8,6 +8,8 @@ name: Gojiberry AI
 可迁移点: ① 不做「更大名单」，做「更热信号」——意图 > 名单 ② 把自家增长打法公开成内容，既是获客也是信任 ③ bootstrapped 也能 3 人冲 400 万 ARR，关键在单点突破 ④ 产品即自身最佳案例——用 Gojiberry 卖 Gojiberry ⑤ 集成生态（Instantly/Clay）而非单打独斗
 原文链接: https://www.gojiberry.ai
 数据口径: 融资——bootstrapped，2025 年约 9 个月做到 100 万 ARR，2025 年底约 350–400 万 ARR、约 30 万 MRR，后加入 YC（Dealroom 记 2026-03 YC 12.5 万种子）；母公司 SUPERFRUITS SAS 2024-06 巴黎注册（dealroom、productwatch、arrfounder）；规模——2000–2800 付费客户、5000+ 企业用过（productwatch、arrfounder）；产品——AI 销售 Agent，监控 15–30+ LinkedIn 意图信号（竞品互动、融资、换工作、活动、关键词），按 ICP 过滤+富化+评分，自动发个性化 LinkedIn 外联约 demo；集成 HubSpot、Pipedrive、Slack、Clay、Instantly；定价 Pro 99/月、Elite 249/月（makerstack、dealroom）；创始人——Pierre-Eliott Lallemant（CEO，连续创业者，前 CoCo AI）、Dylan Coia（CTO，前 Edusign 联创）、Romàn Faucher（CMO）（dealroom、productwatch）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 应用 / 销售获客 / 英文 / 法国
 封面: /case-site/cases/gojiberry/site.png
 ---

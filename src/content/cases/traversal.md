@@ -8,6 +8,8 @@ name: Traversal
 可迁移点: ① 把博士论文变成产品——因果推断解决「找根因」这个监控工具 decades 没解决的难题，研究壁垒即商业壁垒 ② 不做又一个仪表盘，而是做「自主排查 + 修复」的 agent，直接替 on-call 工程解放 ③ 卡住「AI 写代码越多、系统越难debug」的时机，痛点随 vibe coding 爆发而放大 ④ 安全优先架构 + 灵活部署，才能进金融机构这种最保守的客户 ⑤ 学术创业要「在场」——团队全在纽约，面对面把研究转产品的速度拉满
 原文链接: https://www.traversal.com
 数据口径: 融资——2025 年 6 月出 stealth、4800 万美金种子+A 轮、Sequoia 与 Kleiner Perkins 领投（TechCrunch/Cornell/Traversal 官方）；2026 年 3 月 Amex Ventures 战略投资（Traversal 官方稿）；MTTR 降 85%（官方口径）；客户（American Express/DigitalOcean/Eventbrite）（官方与报道）；创始人学术背景（Columbia/Cornell 报道）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI SRE / 运维智能体 / 英文 / 美国
 封面: /case-site/cases/traversal/site.png
 ---

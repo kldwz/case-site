@@ -8,6 +8,8 @@ name: WorkHero
 可迁移点: ① AI 不替代人而是「AI 执行 + 行业专家复核」，解决最后 10% 的信任问题 ② 选「太小请不起人、太大用不上软件」的中间市场（missing middle）③ 用行业联合调研数据做内容，权威性远高于自吹 ④ 把气候政策（热泵退税）变成产品刚性需求 ⑤ 社会影响力叙事（帮小老板对抗 PE 资本）自带传播力
 原文链接: https://www.workhero.pro
 数据口径: 融资——2025 年 10 月宣布 500 万美金种子轮，Navitas Capital 领投，Workshop Ventures、York IE 及多位天使（含前 ServiceTitan 高管）参投（ACCESS Newswire 通稿、波士顿环球报 2025-10-27）；营收——招聘启事自述「数月内做到 50 万+ ARR」（Built In 职位页）；产品——AI Agent 自动完成开票、拉取施工许可、申报退税、注册保修、维护价格表，配 HVAC 行业资深办公室经理复核与财务辅导；成效——每周为客户省 15–20 小时、成本比全职雇佣低约 60%、热泵退税处理时间缩短 50% 且近乎 100% 通过率；市场——美国 HVAC 行业规模 1000 亿+ 美金，85% 公司员工少于 20 人；创始人——Furman Haynes、Kyler Evitt（均为 HBS 毕业生，曾在 Year Up 实习时结识）、Gerald Chertavian（Year Up 创始人，任董事长）（波士顿环球报、ACCESS Newswire）
+类型: 收入案例
+证据等级: 官方披露
 分类: 垂直行业 / 蓝领与 HVAC / 英文 / 美国
 封面: /case-site/cases/workhero/site.png
 ---

@@ -8,6 +8,8 @@ name: HeyReach
 可迁移点: ① 在基础设施差的地区创业，被迫盈利反而成了优势——马其顿没有 Stripe 也没有 PayPal，他们从第一天起就必须自负盈亏 ② 被 YC 拒绝不一定是坏事——Nick 说那次拒绝救了公司，因为它逼他们回到自己擅长的节奏 ③ 定价模式可以比功能更能定义品类——LinkedIn 限流后，能规模化触达的唯一方式是多账号轮换，他们把它做成「无限发送者一个固定价」 ④ 成为别人工具链里的一环——与 Clay 的集成被 Nick 称为引爆 agency 采用的关键 ⑤ 把客户支持当成北极星指标——他们的客服负责人一度单枪匹马把公司从下滑中救回来
 原文链接: https://heyreach.io
 数据口径: 营收与融资——2023 年上线，不到一年 ARR 破 100 万美金，两年内约 600 万美金，2026 年约 1800 万美金；全程零外部融资，51 至 100 名员工（HeyReach CRO Ilija Stojkovski 与 Harochi 的案例研究、ZoomInfo 的 HeyReach 评测、Understory 对 CEO Nick Velkovski 的访谈）；客户与产品——6500 家以上企业客户，G2 评分 4.7，获评 G2 2026 最快增长产品；上一季度平台数据为 659 万次以上好友请求被接受、164 万次以上对话开启、感兴趣线索占比 37%（HeyReach 官网）；定价——单账号起价 79 美金/月，提供无限发送者轮换、统一收件箱、白标与工作区权限，14 天免费试用无需信用卡（ZoomInfo 评测、HeyReach 官网）；背景——北马其顿没有 Stripe、PayPal、Uber、Bolt，创业生态全球排名第 78；创始团队此前做 Reddit DM 工具 Howitzer，服务 NFT 项目与 OnlyFans 创作者；曾被 Y Combinator 两次拒绝，第二次是在 ARR 破 100 万美金后收到罕见回拨却又被拒（Understory 访谈、ZoomInfo 评测）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 销售工具 / LinkedIn 自动化 / 英文 / 北马其顿
 封面: /case-site/cases/heyreach/site.png
 ---

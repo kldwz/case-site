@@ -8,6 +8,8 @@ name: Meuze
 可迁移点: ① 名人身份是 0 成本获客，但要用「做苦活」的反差兑现信任——车手做数据层反而更可信 ② 不做产品做「层」：聚合既有系统数据，不替换客户 IT，落地阻力最小 ③ 用大合同证明 PMF 再扩张，不靠融资续命 ④ 8 周签 900 万美金 ARR 的关键是找对「数据最散」的连锁——快餐多系统并存最痛 ⑤ 不融资也能快：合同现金流大于估值叙事
 原文链接: https://www.meuze.ai
 数据口径: 产品——面向连锁餐饮（QSR）的 AI 数据聚合层（company brain），把 POS、外卖平台、会员系统等分散数据统一为可查询层；客户——8 周签下约 900 万美金年化合同、接进 2000+ 门店，含 Oakberry、Skinny Louie 等连锁；融资——明确不融资，靠合同现金流扩张；团队——Jack Doohan（F1 Haas 替补车手，CEO）+ William Zacka（COO）+ George Allen（CCO）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 垂直行业 SaaS / 餐饮数据 / 英文 / 澳大利亚
 封面: /case-site/cases/meuze/site.png
 ---

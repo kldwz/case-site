@@ -8,6 +8,8 @@ name: Feathery
 可迁移点: ① 横向工具做成后发现真正的钱在垂直里——表单谁都能做，但财富管理机构的开户、合规、顾问转所流程才是别人啃不动的硬骨头 ② 让保险公司成为投资方，等于把渠道预装进股权结构里 ③ 跨客户数据网络是垂直 SaaS 最经典的飞轮——300 家机构的流程数据反过来让决策更准 ④ 别急着替换客户的系统，做集成层比做替代品阻力小得多 ⑤ 先做到盈利再融资，定价权在自己手上
 原文链接: https://www.feathery.io
 数据口径: 融资——总额 3000 万美金，2026 年 7 月完成约 2500 万美金 A 轮，由 Portage Ventures 领投，Index Ventures、Bain Capital Ventures 跟投，Allstate Strategic Ventures、Erie Strategic Ventures、Clocktower Ventures 参投（TechCrunch 等多家媒体报道、Seedtable、Preqin）；营收——2024 年 3 月实现盈利且年度经常性收入达七位数美金，2024 年以来营收增长 10 倍（InsurtechList 公司档案）；客户与规模——300 多家机构使用，月处理 1000 万+ 次提交，2026 年 6 月季度顾问转所资产规模突破 20 亿美金，客户包括 Sequoia Financial、Allworth Financial、Mission Wealth、Tokio Marine、Hiscox、Banner Life（公司公告与媒体报道）；产品——AI 表单构建器、文档智能（结构化提取准确率 98%+）、会议智能、核保提交 intake、报价对比分析，150+ 行业集成，SOC 2 Type II 与 HIPAA 合规（Feathery 官网）；创始人——Peter Dun 前 Robinhood 增长工程师、斯坦福 AI 与计算机系统本硕，Zack Khan 前 Hightouch，两人入选 2026 年福布斯 30 岁以下精英榜（公司公告）
+类型: 收入案例
+证据等级: 官方披露
 分类: 垂直行业 AI / 金融服务后台 / 英文 / 美国
 封面: /case-site/cases/feathery/site.png
 ---

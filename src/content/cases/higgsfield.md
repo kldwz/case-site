@@ -8,6 +8,8 @@ name: Higgsfield
 可迁移点: ① 不一定要自研模型——"聚合层 + 工作流"也能成平台（Higgsfield 不赌单个模型赢，赌把模型变成可复用工作流）② 应用层比基础设施更值钱：当模型能力商品化，把原始生成变成"可重复的自动化公司工作流"才是商业胜利 ③ 消费级获客、企业级变现：先靠创作者起量，再把高确定性收入切换到企业 ④ 估值跃迁靠一个产品事件：Supercomputer 上线 3 个月用户 42 倍，证明单点突破能压缩融资周期 ⑤ 视频生成算力极重——把 compute 当结构性成本而非开销，融资很大一部分要锁算力
 原文链接: https://higgsfield.ai
 数据口径: TechCrunch 2026-08-17 B 轮报道（经 CornerForAI、Entrepreneur APAC、Pomegra 转述，一致数据：4 亿美金 B 轮、54 亿估值、7 亿年化收入、3000 万用户、238 国、390 家财富 500 强）；Financial Times 对创始人 Mashrabov 采访（企业收入占比变化）；公司公开披露的产品线（Cinema Studio / Marketing Studio / Soul ID / Supercomputer）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 应用 / 订阅 SaaS / 英文 / AI 视频生成
 封面: /case-site/cases/higgsfield/site.png
 ---

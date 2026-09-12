@@ -8,6 +8,8 @@ name: Owner.com
 可迁移点: ① 切"被平台吸血+老板不会线上"的窄人群 ② 把"一次性建站服务"做成"持续 SaaS"——AI 自动建站/修图/SEO/回评价 ③ 按效果收费（订阅+抽成），客户赚到才你赚到 ④ 几千家真实交易数据 = 通用大模型给不了的护城河 ⑤ 早期靠一个具体客户（妈妈店）打透，再抽象成产品
 原文链接: https://www.owner.com
 数据口径: Owner.com 官方公开披露（SaaStr 2026-08 报道、First Round Review 创始人访谈、Forbes 2025-05、TechCrunch 2022）；ARR/估值/83% AI 入口/Grader 为公司公开口径
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 垂直 SaaS / 订阅+抽成 / 英文 / 餐饮
 封面: /case-site/cases/owner/site.png
 ---

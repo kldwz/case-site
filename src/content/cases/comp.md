@@ -8,6 +8,8 @@ name: Comp AI
 可迁移点: ① 把一个"又贵又慢的人力咨询"做成"自动跑的 SaaS" ② 开源获客（AGPLv3）建立信任再转付费 ③ "合规"是 B2B 的刚需 gate——过了才能接大单 ④ 找准"融资期 startup"这个高频痛点人群 ⑤ 用知名天使背书补早期信用
 原文链接: https://www.trycomp.ai
 数据口径: Comp AI 官方 / 创始人对公开数据；ARR、公司数、pre-seed 轮次与领投方为公开口径；David Cramer / Ben Tossell 为披露天使
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 工具 / 订阅 / 英文 / 合规自动化 / 开源
 封面: /case-site/cases/comp/site.png
 ---

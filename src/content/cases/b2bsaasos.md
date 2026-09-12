@@ -8,6 +8,8 @@ name: B2B SaaS OS
 可迁移点: ① 把「反复要做的脏活」打包成一次买断模板，卖时间给同行 ② 单人多产品线成本趋近零：写一次源码卖给 N 个人 ③ 用 live demo + 文档立信任，模板类产品先让人验货 ④ 明确授权边界（一次购买、客户可用、不可转售）消除合规顾虑
 原文链接: https://andrady.co/
 数据口径: 官网 Pricing/License 页实测 + Gumroad checkout（2026-09）
+类型: 收入案例
+证据等级: 第三方估算
 分类: 开发者工具 / 模板一次买断 / 英文
 封面: /case-site/cases/b2bsaasos/site.png
 ---

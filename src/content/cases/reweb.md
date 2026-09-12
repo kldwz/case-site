@@ -8,6 +8,8 @@ name: Reweb
 可迁移点: ① 不做「又一种低代码」，而是「设计即代码」——导出真源码而非锁定平台 ② 站在成熟技术栈（Next.js+Tailwind+Shadcn）肩膀上，生态即护城河 ③ 用免费层获客、Pro 层变现，开发者工具经典路径 ④ indie 也能打开发者工具赛道，靠精准痛点而非融资 ⑤ 内置组件市场降低从 0 到 1 的摩擦力
 原文链接: https://reweb.so
 数据口径: 产品——AI 驱动的可视化建站工具，面向 Next.js + Tailwind CSS 开发者，所见即所得编辑器，一键导出生产级 Next.js + Tailwind + TypeScript 源码，支持 Figma 导入、Magic UI/Shadcn 组件库、响应式预览、主题变量、团队协作、AI 辅助生成、CLI 注入（gongke.net、slashdot、toolverto）；规模——2024-10 推出，上线 4 个月 2 万+ 开发者（gongke.net、topbusinesssoftware）；定价——免费 Hobby 层 + Pro 约 12 美金/月（slashdot、toolverto）；创始人——Mattia Pomelli 与 Niko，意大利（gongke.net）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 应用 / 可视化建站 / 英文 / 意大利
 封面: /case-site/cases/reweb/site.png
 ---

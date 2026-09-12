@@ -8,6 +8,8 @@ name: NoiseVanish
 可迁移点: ① 「先听效果再付费」的 review-first 交互，消除付费前的不确定 ② 三档定价（免费试用+订阅+一次性包）覆盖轻/中/重度用户 ③ 浏览器端本地处理打「隐私」卖点，差异化云工具 ④ 拿真实降噪前后对比当营销素材，比功能列表有说服力
 原文链接: https://noisevanish.com/
 数据口径: 官网 Pricing 页实测（2026-09）+ IndieHackers 创始人发帖
+类型: 收入案例
+证据等级: 第三方估算
 分类: AI 工具 / 音频处理 / 免费增值 / 英文
 封面: /case-site/cases/noisevanish/site.png
 ---

@@ -8,6 +8,8 @@ name: Geordie AI
 可迁移点: ① 当所有人都在「造 agent」，你去「管 agent」——基建红利藏在反面 ② 前大厂班底（Darktrace/Snyk）的信誉直接转化为企业客户信任 ③ 拿 RSAC 这种行业权威奖项 = 免费的顶级信任背书，比广告管用 ④「agent 安全」是强合规行业的刚需，金融/医药客户一签就是大单 ⑤ 伦敦也能长出世界级 AI 安全公司，不必挤硅谷
 原文链接: https://geordie.ai
 数据口径: geordie.ai 官方、TechFundingNews、Fortune 报道；A 轮 3000 万、累计 3650 万、ARR 增长 1300%、RSAC 2026 冠军、客户名单为公开披露；估值约 1.8 亿为非官方推算
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 安全治理 / 企业订阅 / 英文 / 安全
 封面: /case-site/cases/geordie/site.png
 ---

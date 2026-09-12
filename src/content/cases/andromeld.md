@@ -8,6 +8,8 @@ name: AndroMeld
 可迁移点: ① 接好 macOS 与 Android 的互通缝隙，需求真实且愿意付费 ② 免费额度「够用不够爽」，逼高频场景升级 ③ 买断+订阅双轨，尊重不同付费习惯 ④ 送激活码做社区冷启动，精准触达目标用户
 原文链接: https://andromeld.catchingnow.com/
 数据口径: 官网 Pricing 页 + Mac App Store 内购页实测（2026-09-06）
+类型: 收入案例
+证据等级: 第三方估算
 分类: 效率工具 / 买断+订阅 / 中文
 封面: /case-site/cases/andromeld/site.png
 ---

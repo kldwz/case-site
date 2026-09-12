@@ -8,6 +8,8 @@ name: Abstract Security
 可迁移点: ① 把"一堆工具拼装"做成"一个可运行体系"——卖结果不卖零件 ② 用 AI 把高门槛专家活（安全编排）产品化、自动化 ③ 老兵创业：深耕一个自己干过 15 年的领域 ④ 高 NRR（264%）说明产品真长在客户工作流里 ⑤ 融资节奏配增长里程碑
 原文链接: https://www.abstract.security
 数据口径: Abstract Security 官方公告（2026-07 Series A 扩展轮）+ 行业媒体对 Colby DeRodeff 及团队的报道；ARR 增速 / 264% NRR / 客户三倍为公开披露口径
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 垂直 SaaS / 订阅 / 英文 / 网络安全 / 老兵创业
 封面: /case-site/cases/abstract/site.png
 ---

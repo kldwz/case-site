@@ -8,6 +8,8 @@ name: Mercor
 可迁移点: ① 大模型公司最缺的不是模型而是"干净训练数据"，做数据的铲子生意比做应用更稳 ② 用"全球人才众包 + AI 评估"取代传统外包标注厂，毛利和速度都碾压 ③ 拿下 1 个头部实验室=全行业通行证，B2B 里灯塔客户效应极强 ④ 两年四轮、估值从 2.5 亿到 100 亿，说明踩中大模型数据饥渴这条主航道有多猛 ⑤ Thiel Fellowship 式的"辍学猛干"在 AI 基建圈是真的能跑通
 原文链接: https://mercor.com
 数据口径: 公司融资公告（General Catalyst/Benchmark/Felicis）、TechCrunch、mercor.com 官网；ARR 7.5 亿美元与盈利状态为公开披露
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 训练数据 / 人才平台 / 英文 / 企业服务
 封面: /case-site/cases/mercor/site.png
 ---

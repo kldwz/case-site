@@ -8,6 +8,8 @@ name: RyRob
 可迁移点: ① 联盟选品只选"读者下一步本来就要买的东西"（主机/建站） ② 流量必须沉淀为邮件列表 ③ 收入报告本身是流量最高的内容 ④ 主动换收入结构：纯联盟→联盟+课程→SaaS+Agency
 原文链接: https://www.ryrob.com
 数据口径: https://www.ryrob.com/blog-income-report-march-2021/、https://ryan.biz/（创始人自披露的逐月公开数据）
+类型: 收入案例
+证据等级: 官方披露
 分类: 联盟营销 / Niche 博客 / 英文
 封面: /case-site/cases/ryrob/site.png
 ---

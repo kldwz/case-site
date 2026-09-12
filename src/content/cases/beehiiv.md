@@ -8,6 +8,8 @@ name: beehiiv
 可迁移点: ① 用「不抽成」正面刚对手的抽成，差异化一句话讲清 ② 从自己干过的行当里长产品，Denk 懂 newsletter 增长才做平台 ③ 推荐计划把创作者变成销售 ④ 广告网络是订阅之外的第二曲线，不靠单点收入 ⑤ 先做被验证的需求（newsletter 已火）再优化体验
 原文链接: https://beehiiv.com
 数据口径: beehiiv 官方博客 / TechCrunch 2024 B 轮报道（3300 万美金、估值 2.25 亿、NEA 领投）；ARR 与用户数为公司披露（2025 / 26）
+类型: 收入案例
+证据等级: 官方披露
 分类: 创作者经济 / SaaS 订阅 / 英文 / newsletter
 封面: /case-site/cases/beehiiv/site.png
 ---

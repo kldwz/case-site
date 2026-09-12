@@ -8,6 +8,8 @@ name: Refactoring UI
 可迁移点: ① 切窄受众到一句话：不教设计理论，只写给"会写代码但界面丑"的人 ② 用书和课养两年，再全职做免费大项目（Tailwind CSS） ③ 常青产品别下架：出版 2 年后还年卖 $60 万 ④ 发售靠自有流量，不依赖大平台
 原文链接: https://www.refactoringui.com
 数据口径: Adam Wathan 2020 Year in Review；Indie Hackers AMA 2022-09（创始人自披露）
+类型: 收入案例
+证据等级: 官方披露
 分类: 数字产品 / 电子书 / 英文
 封面: /case-site/cases/refactoringui/site.png
 ---

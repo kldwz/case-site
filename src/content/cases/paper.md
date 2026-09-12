@@ -8,6 +8,8 @@ name: Paper
 可迁移点: ① 押"设计到代码"断层这一具体痛点，而不是做又一个 Figma ② 用真实 HTML/CSS 渲染，让设计稿等于生产代码，彻底消灭 handoff ③ 接 MCP 让 coding agent 直接读改写设计，踩中 agent 时代 ④ 顶级从业者天使不仅是钱，更是首批用户与信任状 ⑤ 小团队（约 25 人）靠精准痛点拿大钱
 原文链接: https://paper.design
 数据口径: Paper 官方 A 轮公告（2026-07 Accel 与 ICONIQ 领投 3400 万美金）、Business Wire 与 vcnewsdaily 报道（客户 Ramp 与 Lovable 与 Vercel 与 PostHog 与 Quartr 与 YC、ARR 增 25 倍、创始人 Stephen Haney、约 25 人）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 应用 / 订阅 SaaS / 英文 / 设计工具
 封面: /case-site/cases/paper/site.png
 ---

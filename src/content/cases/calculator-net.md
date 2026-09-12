@@ -8,6 +8,8 @@ name: Calculator.net
 可迁移点: ① 一个模板程序化生成成百上千个落地页 ② 每个细分需求=一个独立 URL=一个长尾入口 ③ 工具站无需 UGC 也能靠 SEO 复利
 原文链接: https://www.calculator.net
 数据口径: SEMrush 公开流量页（2026 年 7 月）
+类型: 收入案例
+证据等级: 第三方估算
 分类: 工具站 / 模板化 SEO / 广告变现 / 英文
 封面: /case-site/cases/calculator-net/site.png
 ---

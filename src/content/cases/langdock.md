@@ -8,6 +8,8 @@ name: Langdock
 可迁移点: ①「模型无关 + 合规」是欧洲企业 AI 的真实门槛，卡准即差异化 ② 从学生项目到 YC 到 2000 万 ARR，小团队也能跑快 ③ 把 ChatGPT 做成本地化合规版卖企业，同样需求换合规外壳 ④ 工作流/API 把聊天变集成，黏性随连接数涨 ⑤ 德国人口结构压力是长期刚需背景，讲故事即战略
 原文链接: https://langdock.com
 数据口径: 官网 about-us 里程碑（ARR/团队）、General Catalyst 种子轮公告、Dealroom/NeuronFeed 营收与融资报道
+类型: 收入案例
+证据等级: 官方披露
 分类: 企业软件 / AI 采用平台 / 德国
 封面: /case-site/cases/langdock/site.png
 ---

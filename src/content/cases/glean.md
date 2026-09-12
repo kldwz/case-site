@@ -8,6 +8,8 @@ name: Glean
 可迁移点: ① 先在一个明确痛点（企业内部「找东西难」）上做到极致，再自然扩张成平台，比一上来做「大平台」稳 ② 权限感知（permissions-aware）是企业 AI 的生死线——搜得到但看不到，客户才敢用 ③ 不做模型、只做「模型与企业系统之间的智能层」，和 OpenAI/Anthropic 是合作不是竞争，边界清晰 ④ 100+ 集成 + 企业图谱（Enterprise Graph）构成数据护城河，接得越多越难换 ⑤ 从搜索到 Agent 的演进路径：先占住「入口」，再用 Agent 吃下「执行」，逐步升维
 原文链接: https://www.glean.com
 数据口径: 估值与融资——2025 年 6 月 F 轮 1.5 亿美金、Wellington 领投、估值 72 亿（Glean 官方稿与 NBC/CNBC）；2024 年 9 月 D 轮 2 亿、估值 46 亿；2023 年 5 月 C 轮 1 亿、估值 10 亿；ARR——官方 2025 财年破 1 亿，Sacra 2025 年 12 月估 2 亿、2026 年 5 月估 3 亿；客户（Databricks/Canva/Confluent/Duolingo/T-Mobile）（官方与 Sacra）
+类型: 收入案例
+证据等级: 官方披露
 分类: 企业 AI 搜索 / Work AI 平台 / 英文 / 美国
 封面: /case-site/cases/glean/site.png
 ---

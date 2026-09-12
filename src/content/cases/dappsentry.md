@@ -9,6 +9,8 @@ name: Dapp Sentry
 原文链接: https://dappsentry.com
 数据口径: TrustMRR 平台（创始人授权 Stripe 只读数据，verified=True），快照时间 2026-07-15；产品功能与公开定价来自官网首页
 封面: /case-site/cases/dappsentry/site.png
+类型: 收入案例
+证据等级: 官方披露
 分类: Web3 / 安全监控 / 订阅制 / 阿联酋
 ---
 

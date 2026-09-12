@@ -8,6 +8,8 @@ name: Retell AI
 可迁移点: ① 选"被算贵了"的旧成本结构（外包 BPO 0.4–0.8 美元/分钟 vs 你 0.055 美元/分钟）作为定价锚 ② 不押单一模型，模型无关（multi-provider），避免大模型迭代把你压死 ③ 自研轮次打断/打断感知（turn-taking）= 实时语音最难的技术壁垒 ④ 按用量计费让大客户付得越多 = 不需要收 Enterprise SaaS 的天价 ARR ⑤ YC 起步 + 500 万美金总融资做到 8000 万 ARR = 资本效率极高
 原文链接: https://www.retellai.com
 数据口径: 公司公开数据（Sacra 2026-08 详细报告、创始人 Bing Wu 公开访谈、retellai.com 官网定价页、yespress.io 报道）；ARR/融资/团队背景均可独立交叉验证
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 基础设施 / 用量计费 / 英文 / 语音 AI / YC
 封面: /case-site/cases/retell/site.png
 ---

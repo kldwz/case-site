@@ -8,6 +8,8 @@ name: Fable Security
 可迁移点: ① 不要接受行业对问题的定义——整个行业说「人是安全问题」，他们反驳说「是方法过时了」，把指责对象的叙事翻转成产品定位 ② 找一个所有人都在花钱却没人满意的品类——安全意识培训是个几十亿美金市场，但从业者自己都承认它在打勾 ③ 干预要发生在「风险发生的那一刻」，而不是年度培训里——他们把广告技术那套实时个性化闭环搬进了安全 ④ 用 A/B 测试证明效果，而不是用完成率——Pennymac 的 13 倍差异是能说服 CISO 的唯一语言 ⑤ 从上一家公司的天花板里找创业题目——他们在 Abnormal AI 亲眼看到最先进的安全技术也挡不住人的一个失误
 原文链接: https://fablesecurity.com
 数据口径: 融资——2025 年 7 月出 stealth 时累计 3100 万美金，种子轮由 Greylock Partners 领投、A 轮由 Redpoint Ventures 领投，公司在 Greylock Edge 孵化（Fable Security 官方公告、TechNews180、fintech.global）；成效——客户钓鱼点击率下降超 85%，PII 明文暴露下降 60%，系统更新合规率达 99%，凭证泄露响应速度提升 97%，Pennymac 的 A/B 测试显示个性化干预使行为改变速度加快 13 倍，超过 40% 员工因跳过无关课程而节省时间（Fable Security 官方、MSSP Alert、TechNews180）；客户——Pennymac、Genesys、美国民主党全国委员会，覆盖金融、医疗、物流与科技行业（Fable Security 官方、fintech.global）；行业背景——人为因素涉及超过六成的数据泄露，AI 生成的钓鱼攻击一年内增长 60%，语音钓鱼（vishing）增长 442%（Fable Security 官方引用数据）
+类型: 收入案例
+证据等级: 官方披露
 分类: 企业安全 / 人为风险管理 / 英文 / 美国
 封面: /case-site/cases/fable-security/site.png
 ---

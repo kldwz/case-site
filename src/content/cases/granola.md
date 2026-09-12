@@ -8,6 +8,8 @@ name: Granola
 可迁移点: ① 找「所有人都在用但所有人都嫌烦」的痛点——AI 会议 bot 人人讨厌但人人需要笔记 ② 用「不做什么」定义产品，不做清单比功能清单更重要 ③ 让用户帮你卖：如果需要解释「为什么好」，说明还不够好 ④ 个人→团队→企业三级跳，这条 Slack/Notion/Figma 都走过 ⑤ 做平台连接器抬迁移成本：接入 MCP/API 后换工具等于断掉所有下游数据源
 原文链接: https://www.granola.ai
 数据口径: AI Business Weekly、Sifted/Startup Researcher、Silicon Valley Investclub 报道；C 轮 1.25 亿 @ 15 亿估值、累计 1.92 亿、客户名单为公开披露；2026 收入为 2025 全年 2.5 倍来自公司对外口径
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 效率工具 / SaaS 订阅 / 英文 / 生产力
 封面: /case-site/cases/granola/site.png
 ---

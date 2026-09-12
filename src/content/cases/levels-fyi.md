@@ -8,6 +8,8 @@ name: Levels.fyi
 可迁移点: ① 切"人人都想看、没人敢公开"的数据集，用匿名 UGC + 交叉校验冷启动 ② 免费数据层只负责拉流量，收费层放在"服务"和"雇主侧"，核心数据本身绝不收钱 ③ 切入点要极窄到一句话说清
 原文链接: https://www.levels.fyi
 数据口径: https://www.levels.fyi/about/（"3 million professionals use Levels.fyi each month"，2026 年公开页）
+类型: 收入案例
+证据等级: 第三方估算
 分类: UGC 薪酬数据库 / 双边收费 / 英文
 封面: /case-site/cases/levels-fyi/site.png
 ---

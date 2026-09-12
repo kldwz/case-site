@@ -8,6 +8,8 @@ name: Jace AI
 可迁移点: ① 自研专用小模型（AWA-1）让 AI agent 在浏览器里直接执行多步任务，比通用大模型套壳更难抄 ② 「review-first」安全默认：AI 生成的动作先当草稿给人审，可选 auto-send——在自动化与信任之间留余地 ③ 顶级 AI 天使（Daniel Gross、Nat Friedman）的背书，是早期 AI 公司最强的信用货币 ④ 把「邮箱 + 浏览器」这种人人都痛的日常流程自动化，市场大到不需要教育
 原文链接: https://www.jace.ai
 数据口径: 融资——2024 年 6 月 Zeta Labs（Jace.ai 运营主体）宣布 290 万美元 pre-seed，由 Daniel Gross（前 YC AI 负责人）、Nat Friedman（前 GitHub CEO）领投，Earlybird VC、Kaya VC、ElevenLabs 创始人等参投（Dealroom、Bek Ventures、readmedium）；估值——Dealroom 给出企业价值约 1200-1700 万美元（Dealroom）；产品——AI 邮件助理 + 自主浏览器 agent（AWA-1，Autonomous Web Agent-1），连接 Gmail/Outlook，学习用户写作风格，草稿式回复、智能标签、日历事件、工作流规则；SOC 2 Type 1、CASA Tier 3 合规（Dealroom、jace.ai）；创始人——Peter Albert（前 Meta、Llama 2 联合作者）与 Fryderyk Wiatrowski（前 Meta、Optiver、Oxford），2023 年 8 月创立于伦敦/旧金山（Dealroom、readmedium、Bek Ventures）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 邮件与浏览器助理 / SaaS / 英文 / 美国
 封面: /case-site/cases/jaceai/site.png
 ---

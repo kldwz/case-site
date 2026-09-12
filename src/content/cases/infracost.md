@@ -8,6 +8,8 @@ name: Infracost
 可迁移点: ① 把分析的起点从「账单」前移到「代码」——Shift FinOps Left ② 开源做获客引擎，企业版做变现，开发者工具经典双轨 ③ 创始人本身就是品类老兵，认知即护城河 ④ 嵌入工作流（PR 评论）比单独 dashboard 留存高 ⑤ 用合规/企业特性（SOC2、定制价目表）切大客户
 原文链接: https://www.infracost.io
 数据口径: 融资——YC W21；种子轮 2021-09 约 300 万美金（Sequoia、YC、SV Angel、Mango、Brighter、Conductive、Goodwater 等）；A 轮 2025-11 约 1500 万美金（Pruven Capital 领投，YC、Sequoia、Mango、Alumni Ventures、TIAA Ventures 参投，Supabase 联创 Paul Copplestone、Essence VC Timothy Chen 等天使），累计约 1800 万美金（startupintros、infracost.io/blog）；规模——3500+ 企业用户、10% 财富 500 强、1.2 万 GitHub stars、追踪 400 万+ 云价格（infracost.io、startupintros）；产品——开源云成本估算，嵌入 GitHub/GitLab/Azure DevOps PR 评论，预算检查、FinOps 策略、标签合规、SOC 2 Type 2（infracost.io、extruct.ai）；创始人——Hassan Khajeh-Hosseini（CEO）、Ali Khajeh-Hosseini（CPO，云成本建模博士）、Alistair Scott（CTO），2012 年做过最早云成本管理产品（被 RightScale/Flexera 收购），FinOps Foundation 董事会成员（infracost.io/about）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 基础设施 / 开发者工具·FinOps / 英文 / 美国
 封面: /case-site/cases/infracost/site.png
 ---

@@ -18,10 +18,33 @@ const d = item.data;
 const { Content } = await item.render();
 
 const base = import.meta.env.BASE_URL;
+
+const EV_KEY: Record<string, string> = {
+  官方披露: 'official',
+  平台数据可查: 'platform',
+  作者自述: 'self',
+  第三方估算: 'est',
+};
+const EV_HINT: Record<string, string> = {
+  官方披露: '公司/创始人自己公布的数字',
+  平台数据可查: '商店/榜单/众筹等平台公开数字',
+  作者自述: '作者本人公开说过，附原文链接',
+  第三方估算: '第三方工具推算，只给区间不给精确数',
+};
+const evKey = EV_KEY[d.证据等级 ?? '官方披露'] ?? 'official';
+const evHint = EV_HINT[d.证据等级 ?? '官方披露'] ?? '';
+
+// 不同「类型」用不同的字段标签：获奖作品没有收入，讲主办方/赛事；插件讲安装量
+const isAward = d.类型 === '获奖作品';
+const isPlugin = d.类型 === '插件';
+const moneyLabel = isAward ? '当前状态' : isPlugin ? '收入估算' : '月收入估算';
+const makerLabel = isAward ? '团队 / 赛事' : '创始人/地区';
+
 const facts: [string, string | undefined][] = [
+  ['类型', d.类型],
+  [makerLabel, d.创始人地区],
   ['营收模式', d.营收模式],
-  ['创始人/地区', d.创始人地区],
-  ['月收入估算', d.月收入估算],
+  [moneyLabel, d.月收入估算],
   ['流量来源', d.流量来源],
   ['可迁移点', d.可迁移点],
   ['数据口径', d.数据口径],
@@ -33,6 +56,12 @@ const facts: [string, string | undefined][] = [
   <article class="case">
     <a class="back" href={base}>← 返回案例库</a>
     <h1 class="title">{d.name}</h1>
+
+    <div class="evline">
+      <span class={`ev ev-${evKey}`}>{d.证据等级}</span>
+      <span class="ev-desc">{evHint}</span>
+      {d.平台数据 && <span class="ev-platform-data">平台数据：{d.平台数据}</span>}
+    </div>
 
     <div class="facts">
       {facts.filter(([, v]) => v).map(([k, v]) => (
@@ -63,7 +92,23 @@ const facts: [string, string | undefined][] = [
 
 <style>
   .back { color: var(--muted); text-decoration: none; font-size: 14px; }
-  .title { font-size: 30px; margin: 12px 0 20px; }
+  .title { font-size: 30px; margin: 12px 0 12px; }
+  .evline {
+    display: flex; align-items: center; flex-wrap: wrap; gap: 10px;
+    margin-bottom: 16px; font-size: 13px; color: var(--muted);
+  }
+  .ev-desc { }
+  .ev-platform-data {
+    background: #f6f6f4; border: 1px solid var(--line);
+    padding: 3px 10px; border-radius: 6px; color: var(--ink);
+  }
+  .ev {
+    font-size: 12px; padding: 3px 10px; border-radius: 999px; display: inline-block;
+  }
+  .ev-official { background: #e6f6ec; color: #1a7f43; }
+  .ev-platform { background: #e8f0fe; color: #1a56db; }
+  .ev-self { background: #fff2e0; color: #a35c00; }
+  .ev-est { background: #f0f0ee; color: #6b6b6b; }
   .facts {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));

@@ -8,6 +8,8 @@ name: Covai Cars
 可迁移点: ① 去用户已经在的地方做产品，别让人换习惯 ② 垂直行业软件比通用 SaaS 好卖 ③ AI 定价锚点是替客户省下的人力 ④ 低 MRR 也是验证，先小圈子跑通付费
 原文链接: https://covai.es/
 数据口径: trustmrr 收录，自称数据源为 Stripe，但 verified=False（未验证），仅作参考
+类型: 收入案例
+证据等级: 官方披露
 分类: SaaS / 垂直行业 AI / 英文
 封面: /case-site/cases/covai/site.png
 ---

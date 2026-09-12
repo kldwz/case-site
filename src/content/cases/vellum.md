@@ -8,6 +8,8 @@ name: Vellum
 可迁移点: ① 切「LLM 应用的最后一公里」——demo 容易、生产难，这是真痛点 ② 从自家痛点（Dover 造 LLM 应用踩坑）出发 ③ 合规认证（SOC2/HIPAA）是打开 regulated 行业的门票 ④ YC 不只是钱，是早期客户与信任杠杆 ⑤ 把 prompt 测试、评估、监控做成统一平台，而非单点工具
 原文链接: https://www.vellum.ai
 数据口径: 融资——YC W23；种子轮 2023-07 约 500 万美金（Y Combinator、Rebel Fund、Pioneer Fund、Eastlink Capital）；A 轮 2025-07 约 2000 万美金（Leaders Fund 领投，Socii Capital 及老股东跟投），累计约 2510 万美金（Seedtable、bestaitoolfinder、getlatka）；营收——2024 年约 350 万美金（GetLatka）；A 轮时营收同比 3 倍、2025 预计 4 倍，客户从约 50 增至 150+ 付费（bestaitoolfinder）；2025-07 转 GA（bestaitoolfinder）；产品——LLM 应用开发平台，含 prompt playground、多步工作流编排、RAG、评估框架、版本控制、生产可观测性，SOC 2 Type 2、HIPAA（bestaitoolfinder）；客户——Drata、Swisscom、Redfin、Headspace（bestaitoolfinder）；创始人——Akash Sharma（CEO）、Noa Flaherty、Sidd Seethepalli，均前 Dover（bestaitoolfinder、Seedtable）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 基础设施 / LLM 应用平台 / 英文 / 美国
 封面: /case-site/cases/vellum/site.png
 ---

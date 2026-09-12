@@ -8,6 +8,8 @@ name: Applied Compute
 可迁移点: ① "最好的 AI 是造出来的不是买来的"——切 enterprises 不愿把数据交给通用大模型 ② 把前沿研究能力打包成"嵌入式工程师"卖 ③ 极速估值跃迁靠"OpenAI 校友"信用 + 清晰 thesis ④ 开放权重 + 数据主权（SOC 2 / VPC）是企业真正关心的 ⑤ 客户名单即最好广告（DoorDash / NVIDIA 同款）
 原文链接: https://www.appliedcompute.com
 数据口径: 多家媒体（The Information / QuantLogix / AI Market Watch / Silicon Valley Invest Club）2026 年报道；创始团队、轮次、估值、客户为公开口径；新轮未关闭，以已披露 13 亿为基准
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 基础设施 / 企业订阅 / 英文 / 模型微调 / 明星团队
 封面: /case-site/cases/appliedcompute/site.png
 ---

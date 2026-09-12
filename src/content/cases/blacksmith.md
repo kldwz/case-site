@@ -8,6 +8,8 @@ name: Blacksmith
 可迁移点: ① 不做新平台，做「现有平台的更快更便宜替身」——替换摩擦极小 ② 用裸金属+游戏 CPU 这种「别人嫌麻烦」的硬件组合做出性能差 ③ 面向开发者，性能数字本身就是营销（快 2 倍/便宜 60% 一张图传遍 HN） ④ 三位校友合伙，技术互补（Faire 增长 + Cockroach 系统） ⑤ YC 仍是硬科技公司的强力跳板，W24 之后 2 年半就到 5000 万 ARR
 原文链接: https://blacksmith.sh
 数据口径: blacksmith.sh 官方、Y Combinator 公司页、MachineHerald 报道；ARR/公司数/jobs 量/B 轮金额为公开披露；「快 2 倍/便宜 60%」为公司对外性能宣称
+类型: 收入案例
+证据等级: 官方披露
 分类: AI/开发者基础设施 / 按量计费 / 英文 / 开发者工具
 封面: /case-site/cases/blacksmith/site.png
 ---

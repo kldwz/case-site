@@ -8,6 +8,8 @@ name: SalesRobot
 可迁移点: ① 定位一个可量化差异点（封号率）比堆功能有效 ② 创始人先当自己产品的头号用户——用 SalesRobot 把 SalesRobot 卖出去 ③ bootstrapped 也能做到 4000+ 用户，关键是切安全痛点 ④ 白标代理计划把客户变渠道 ⑤ 把「卖」当成和「做」一样重要的能力
 原文链接: https://salesrobot.co
 数据口径: 融资——bootstrapped，无外部融资（bestfreeaitools、salesrobot.co）；营收——公开自述 27 个月从 0 到 5 万美金 MRR（Product Hunt）；规模——4100+ B2B 销售团队、45+ 国家、28 名员工（salesrobot.co）；产品——LinkedIn+邮件双自动化，基于 LinkedIn 移动 API（非浏览器插件）+ 住宅 IP，号称封号率 0.00001%；AI 个性化语音/视频消息、AI Appointment Setter、白标代理计划（110+ 代理商，1 万美金+/月利润）；定价 Basic 39/月、Advanced 59、Professional 79 每账号（bestfreeaitools）；创始人——Saurav Gupta 与 Arun Singh，印度德里，2020-05 创立（bestfreeaitools、salesrobot.co）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 应用 / 销售自动化 / 英文 / 印度
 封面: /case-site/cases/salesrobot/site.png
 ---

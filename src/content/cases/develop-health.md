@@ -8,6 +8,8 @@ name: Develop Health
 可迁移点: ① 去找那个「所有人都在骂但没人愿意做」的流程——预先授权是美国医疗最臭名昭著的行政黑洞 ② 把价值压缩成一个可验证的数字，他们对外只讲两件事：行政工作量降 83%、审批从约一周缩到一天以内 ③ 从你上一份工作里长出来——两位创始人分别在 Canvas Medical 和 Rupa Health 亲眼见过医患两端的信息断裂 ④ 在受监管行业里，人必须在环——他们用许多窄管道而非一个通用模型，并把结果结构化写回电子病历 ⑤ 客户名单就是行业准入证，Ro、LifeMD、Sunrise、Calibrate 这些数字医疗头部机构一旦用上，同行跟进的阻力骤降 ⑥ 别急着喊平台，先把一件事做到深的不能再深——他们自称在建的是「医疗的 agentic 清算所」，但起点只有一个：让药能开出去
 原文链接: https://www.develophealth.ai
 数据口径: 融资——180 万美金 pre-seed（2023-05，South Park Commons 领投，Afore Capital 与 Darran Bahl 参投）、A 轮于 2025-08 由 Wing Venture Capital 领投（MobiHealthNews 报道 1430 万美金，Crustdata 记为 1760 万美金），累计约 1940 万美金，其他投资方含 South Park Commons、J-Ventures、Analog Ventures、Afore Capital；成效——公司称药物获取的行政工作量减少约 83%，审批时间从约一周缩短到一天以内，表单填写时间减少 80% 以上；客户——Ro、LifeMD、Sunrise、Calibrate 等数字医疗与远程诊疗机构，每月支持数十万患者
+类型: 收入案例
+证据等级: 官方披露
 分类: 医疗 AI / 垂直 SaaS / 保险流程自动化 / 美国
 封面: /case-site/cases/develop-health/site.png
 ---

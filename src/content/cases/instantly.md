@@ -8,6 +8,8 @@ name: Instantly
 可迁移点: ① 从自身痛点出发做产品——创始人自己就是客户 ② 联盟计划是 bootstrapped SaaS 的复利引擎 ③ 「无限邮箱+暖箱」切中冷邮件最痛的可交付性 ④ 用自家产品做增长，既是用户也是销售 ⑤ 在拥挤品类靠聚焦一个真痛点（可交付性）撕开口子
 原文链接: https://instantly.ai
 数据口径: 营收——bootstrapped，2021 年成立，2022 年 10 月约 240 万 ARR，2023 年约 1300 万 ARR，2024 年约 2000 万 ARR，2026 年约 3820 万–4000 万 ARR（约 320 万 MRR），24,500 付费客户，ARPU 约 130 美金；无外部融资（Sistava、Postbeam、BestFreeAITools）；产品——无限邮箱连接、无限暖箱（150 万+ 账户暖箱网络）、AI Copilot 建活动、Unibox 统一收件箱、B2B 线索库 4.5 亿+ 联系人、AI 销售 Agent（2025-03 发布，号称超越 99% 人类销售）；定价 Growth 37/月、Hypergrowth 97/月，实际方案 150–400/月（Sistava、BestFreeAITools）；创始人——Nils Schneider 与 Raul Kaevand，均曾经营 lead gen 代理商，通过 Reddit r/cofounder 结识（BestFreeAITools、TheAgentTimes）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 销售 / 冷邮件外联 / 英文 / 爱沙尼亚
 封面: /case-site/cases/instantly/site.png
 ---

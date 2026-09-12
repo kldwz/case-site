@@ -8,6 +8,8 @@ name: Reflexio
 可迁移点: ① 面向 AI Agent 的「记忆/学习层」是 2025 新空位，比做通用模型工具更聚焦 ② 免费层 100K tokens 只够试用，Pro 直接 $299 锚定企业用量 ③ 把客户自己的日志变成产品卖点，零数据标注成本 ④ 开源 SDK 让开发者无痛接入，降低采用门槛
 原文链接: https://www.reflexio.ai/
 数据口径: 官网 pricing/Features 页实测 + ProductHunt 收录（2026-09-01）
+类型: 收入案例
+证据等级: 第三方估算
 分类: AI 基础设施 / Agent 学习 / SaaS / 英文
 封面: /case-site/cases/reflexio/site.png
 ---

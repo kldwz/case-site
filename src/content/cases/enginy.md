@@ -8,6 +8,8 @@ name: Enginy
 可迁移点: ① AI-native 不是「给 CRM 加个按钮」，而是让 agent 自主跑完外联到约会的全流程 ② 从品牌名 Genesy 改名 Enginy，名字要配得上「引擎」定位 ③ 拿本地投资人（Itnig）的钱，换来生态与人才 ④ 客户名单里塞进 Canva 这种全球标杆，信任杠杆最大 ⑤ 西班牙也在出 AI 销售原生公司，不止硅谷
 原文链接: https://enginy.ai
 数据口径: 融资新闻（Samaipata 领投 seed）、官网客户与数据源统计、公司改名公开信息
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 工具 / 销售 / 西班牙
 封面: /case-site/cases/enginy/site.png
 ---

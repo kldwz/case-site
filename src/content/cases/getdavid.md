@@ -8,6 +8,8 @@ name: David AI（getdavid.ai）
 可迁移点: ① 越难复制的获客动作越值钱（寄明信片比群发邮件贵 400 美金，但正因没人愿意干，回复率才高） ② AI 负责生产，人负责信任（站是 AI 造的，但让商家掏钱的是那张摸得着的纸） ③ 别造 App，钻进用户已经在的地方（睡前故事用邮件发，而不是做个新应用） ④ 高批量任务用便宜模型（DeepSeek/Qwen 造几百个站，token 成本压到几分钱一个） ⑤ 让 agent 在 iMessage 里待命，摩擦越小，你试的次数越多
 原文链接: https://getdavid.ai
 数据口径: The Koerner Office 播客第 303 期（2026-05-25/26 上线，Chris Koerner 主持，Brandon Doyle 亲述）及其公开文字整理版；350 家名单、341 封妥投、20% 扫码率、8000+ 美金 MRR、300+ 美金睡前故事 MRR、明信片 1 美金+/张为节目中披露
+类型: 收入案例
+证据等级: 官方披露
 分类: AI Agent 变现 / 本地商家 SaaS / 英文 / 线下获客
 封面: /case-site/cases/getdavid/site.png
 ---

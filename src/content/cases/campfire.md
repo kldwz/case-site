@@ -8,6 +8,8 @@ name: Campfire
 可迁移点: ① 最有说服力的创业动机是「我亲手干过这活」——Glasgow 在 Adobe 和 Invoice2go 被月结折磨了十五年，痛点不需要做用户调研 ② 用一句话讲清你在替代谁，「1990 年代的老 ERP」比任何愿景都好懂 ③ 先做一个窄而深的杀手级指标：他把「月结天数」当成唯一叙事，15 天变 3 天，客户自己会算 ROI ④ 让早期客户成为你的案例库，Replit、Decagon、PostHog 这些名字本身就是下一个客户的信任状 ⑤ 在被 AI 重塑的老品类里，垂直模型是护城河——他自研的 LAM 在 reconciliation 与差异分析上做到 95% 以上准确率 ⑥ 融资节奏可以极快，但前提是增长曲线撑得住，十二周内两轮共一亿美金靠的是十倍营收
 原文链接: https://campfire.ai
 数据口径: 融资——种子轮 350 万美金（2024-02，Foundation Capital 领投）、A 轮 3500 万美金（2025-08，Accel 领投）、B 轮 6500 万美金（2025-10，Accel 与 Ribbit Capital 联合领投），公司公告称十二周内共募一亿美金，累计约 1.08 亿美金；客户成效——部分客户月结从 15 天压缩到 3 天，公司口径称结案速度快至五倍、每年可省回最多 144 天，税务申报平台 April 两天上线；客户——Replit、Decagon、PostHog、Advisor360、Heidi Health、Klarity、CloudZero、LimaOne（纽交所代码 MFA）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 原生 ERP / 企业软件 / 财务自动化 / 美国
 封面: /case-site/cases/campfire/site.png
 ---

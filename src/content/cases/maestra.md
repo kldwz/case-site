@@ -8,6 +8,8 @@ name: Maestra
 可迁移点: ① 把散落的电商营销能力（CDP、个性化、消息、分析）收进一个操作系统，单点工具拼不出壁垒 ② 用「专属 CSM」替代纯自助，把高客单价 SaaS 做成带服务的生意 ③ 定价锚定 profiles 量级而非席位，随客户业务规模自然扩容 ④ 零融资也能跑到百万级 ARR，自举逼出纪律 ⑤ 同时做站点、产品、价格三层个性化，才是电商 AI 的真实落点
 原文链接: https://maestra.io
 数据口径: CrustData 公司财务快照、RocketReach 营收估算、官网产品页与定价页；自举与团队规模以 CrustData 标注为准
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 工具 / 电商 / 营销 / 美国
 封面: /case-site/cases/maestra/site.png
 ---

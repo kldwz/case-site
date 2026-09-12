@@ -8,6 +8,8 @@ name: Cognition
 可迁移点: ①「会干活的 agent」比「会聊天的 bot」估值高一个量级 ② 工程场景是 agent 最先跑通的垂直，任务边界清晰可验证 ③ 收购 Windsurf 补人才与产品，用资本抢时间 ④ 估值靠 ARR 增速，7300 万 ARR 撑 102 亿估值 ⑤ 三人联创（CEO/CTO/CPO）技术浓度即护城河
 原文链接: https://cognition.ai
 数据口径: 融资新闻（Founders Fund 领投、估值）、Devin ARR 公开口径、收购 Windsurf 公告、团队规模
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 工具 / 编程 Agent / 美国
 封面: /case-site/cases/cognition/site.png
 ---

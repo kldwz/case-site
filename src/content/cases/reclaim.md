@@ -8,6 +8,8 @@ name: Reclaim
 可迁移点: ① 不做「独立日历」，做「现有日历的智能层」，寄生即增长 ② 专注时间块是真实痛点，护住 deep work 比多一个功能更黏 ③ 被大厂收购是小微团队的退出路径，32 万用户即资产 ④ 自动排程靠数据飞轮，用得越多越懂你 ⑤ 独立运营保品牌，收购不等于消失
 原文链接: https://reclaim.ai
 数据口径: Dropbox 收购公告、TechCrunch 报道、Crunchbase 融资与用户数、官网
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 工具 / 效率 / 生产力 / 美国
 封面: /case-site/cases/reclaim/site.png
 ---

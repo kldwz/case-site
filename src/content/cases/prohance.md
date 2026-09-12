@@ -8,6 +8,8 @@ name: ProHance
 可迁移点: ①「员工生产力可观测」是管理刚需，尤其外包与 IT 服务 ② 印度起家吃全球交付红利，成本结构即竞争力 ③ 自举到控股收购，证明现金流健康比融资重要 ④ 观测数据沉淀成优化建议，工具变顾问 ⑤ 55 国部署说明 localization 不是门槛而是规模证据
 原文链接: https://prohance.ai
 数据口径: ChrysCapital 收购公告、RocketReach 营收估算、官网用户/企业/国家数
+类型: 收入案例
+证据等级: 官方披露
 分类: 企业软件 / 生产力分析 / 印度
 封面: /case-site/cases/prohance/site.png
 ---

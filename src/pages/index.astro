@@ -17,6 +17,27 @@ const coverExists = (p: string) => {
   return fs.existsSync(file);
 };
 
+// 内容类型（有序）+ 证据等级 key
+const TYPES = [
+  { key: '收入案例', label: '收入案例' },
+  { key: '国内实践', label: '国内实践' },
+  { key: '获奖作品', label: '获奖作品' },
+  { key: '插件', label: '插件 / 小工具' },
+  { key: '开源变现', label: '开源变现' },
+] as const;
+const EV_KEY: Record<string, string> = {
+  官方披露: 'official',
+  平台数据可查: 'platform',
+  作者自述: 'self',
+  第三方估算: 'est',
+};
+const EV_HINT: Record<string, string> = {
+  官方披露: '公司/创始人自己公布的数字',
+  平台数据可查: '商店/榜单/众筹等平台公开数字',
+  作者自述: '作者本人公开说过，附原文',
+  第三方估算: '第三方工具推算，只给区间',
+};
+
 // 组装卡片数据：大类来自映射表（未映射落「其他」），搜索字段扁平化
 const cards = cases
   .map((c) => {
@@ -32,6 +53,10 @@ const cards = cases
       income: c.data.月收入估算 || '',
       cat: catOf(c.slug || c.data.slug) ?? 'uncat',
       cover,
+      type: c.data.类型 ?? '收入案例',
+      ev: c.data.证据等级 ?? '官方披露',
+      evKey: EV_KEY[c.data.证据等级 ?? '官方披露'] ?? 'official',
+      platform: c.data.平台数据 || '',
     };
   })
   // 未分类排最后
@@ -44,6 +69,10 @@ const catLabelsJson = JSON.stringify(
   Object.fromEntries([...catList.map((c) => [c.key, c.label]), ['uncat', '其他']])
 );
 const catKeysJson = JSON.stringify(catList.map((c) => c.key));
+const typeList = TYPES.filter((t) => cards.some((x) => x.type === t.key));
+const typesJson = JSON.stringify(typeList);
+const evKeyJson = JSON.stringify(EV_KEY);
+const evHintJson = JSON.stringify(EV_HINT);
 const baseUrl = base;
 const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ?? '其他';
 ---
@@ -55,6 +84,14 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
       收集国内外真实的小生意 / 独立产品案例：它们怎么起步、怎么赚钱、流量从哪来。
       每个案例都讲清模式，方便你对照、借鉴。共 {cards.length} 篇。
     </p>
+    <p class="ev-legend">
+      每篇标了<strong>证据等级</strong>：
+      <span class="ev ev-official">官方披露</span>
+      <span class="ev ev-platform">平台数据可查</span>
+      <span class="ev ev-self">作者自述</span>
+      <span class="ev ev-est">第三方估算</span>
+      ——数字能查到什么程度，就标到什么程度，不编。
+    </p>
   </section>
 
   <div class="toolbar">
@@ -64,10 +101,16 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
       placeholder="搜索产品名 / 一句话 / 营收模式…"
       autocomplete="off"
     />
+    <div class="cats" id="types">
+      <button class="chip active" data-type="all">全部类型</button>
+      {typeList.map((t) => (
+        <button class="chip" data-type={t.key}>{t.label}</button>
+      ))}
+    </div>
     <div class="cats" id="cats">
-      <button class="chip active" data-cat="all">全部</button>
+      <button class="chip sm active" data-cat="all">全部赛道</button>
       {catList.map((c) => (
-        <button class="chip" data-cat={c.key}>{c.label}</button>
+        <button class="chip sm" data-cat={c.key}>{c.label}</button>
       ))}
     </div>
   </div>
@@ -83,10 +126,14 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
           : <div class="card-img placeholder"><span>{c.name}</span></div>
         }
         <div class="card-body">
-          {c.cat !== 'uncat' && <span class="card-badge">{catLabelsJson ? catName(c.cat) : ''}</span>}
+          <div class="card-badges">
+            {c.cat !== 'uncat' && <span class="card-badge">{catName(c.cat)}</span>}
+            <span class={`ev ev-${c.evKey}`} title={EV_HINT[c.ev]}>{c.ev}</span>
+          </div>
           <h3>{c.name}</h3>
           <p class="card-desc">{c.one}</p>
           <div class="card-meta">
+            <span class="tag type">{c.type}</span>
             <span class="tag">{c.mode}</span>
             {c.income && <span class="tag muted">{c.income}</span>}
           </div>
@@ -101,11 +148,16 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
 <script type="application/json" data-cards={cardsJson}></script>
 <script type="application/json" data-catlabels={catLabelsJson}></script>
 <script type="application/json" data-catkeys={catKeysJson}></script>
+<script type="application/json" data-types={typesJson}></script>
+<script type="application/json" data-evkey={evKeyJson}></script>
+<script type="application/json" data-evhint={evHintJson}></script>
 <script type="application/json" data-base={baseUrl}></script>
 
 <style is:global>
   .intro h1 { font-size: 28px; margin: 0 0 8px; }
   .intro p { color: var(--muted); margin: 0 0 20px; max-width: 640px; }
+  .ev-legend { font-size: 13px !important; display: flex; align-items: center; flex-wrap: wrap; gap: 6px; }
+  .ev-legend strong { color: var(--ink); }
   .toolbar { margin-bottom: 12px; }
   #search {
     width: 100%;
@@ -120,7 +172,7 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
     margin-bottom: 14px;
   }
   #search:focus { border-color: var(--accent); }
-  .cats { display: flex; flex-wrap: wrap; gap: 8px; }
+  .cats { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
   .chip {
     border: 1px solid var(--line);
     background: var(--card);
@@ -130,6 +182,7 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
     font-size: 13px;
     cursor: pointer;
   }
+  .chip.sm { font-size: 12px; padding: 4px 11px; }
   .chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
   .result-count { color: var(--muted); font-size: 13px; margin: 4px 0 16px; min-height: 18px; }
   .grid {
@@ -159,9 +212,10 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
   .card-body h3 { margin: 0 0 6px; font-size: 17px; }
   .card-desc { margin: 0 0 12px; font-size: 13px; color: var(--muted); }
   .card-meta { display: flex; flex-wrap: wrap; gap: 6px; }
+  .card-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; align-items: center; }
   .card-badge {
     font-size: 11px; background: #e8f0fe; color: var(--accent);
-    padding: 2px 8px; border-radius: 999px; margin-bottom: 8px; display: inline-block;
+    padding: 2px 8px; border-radius: 999px; display: inline-block;
   }
   .tag {
     font-size: 12px;
@@ -170,7 +224,17 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
     padding: 3px 9px;
     border-radius: 6px;
   }
+  .tag.type { background: #f3f0ff; color: #6b4de6; }
   .tag.muted { background: #f0f0ee; color: var(--muted); }
+  /* 证据等级 badge：绿=官方，蓝=平台，橙=自述，灰=估算 */
+  .ev {
+    font-size: 11px; padding: 2px 8px; border-radius: 999px;
+    display: inline-block; line-height: 1.6; cursor: help;
+  }
+  .ev-official { background: #e6f6ec; color: #1a7f43; }
+  .ev-platform { background: #e8f0fe; color: #1a56db; }
+  .ev-self { background: #fff2e0; color: #a35c00; }
+  .ev-est { background: #f0f0ee; color: #6b6b6b; }
   .pager {
     display: flex; align-items: center; justify-content: center;
     gap: 6px; margin-top: 28px; flex-wrap: wrap;
@@ -194,11 +258,13 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
   };
   interface Card {
     slug: string; name: string; one: string; mode: string; income: string;
-    cat: string; cover: string;
+    cat: string; cover: string; type: string; ev: string; evKey: string; platform: string;
   }
   const CARDS: Card[] = readJson('cards') ?? [];
   const CATS: Record<string, string> = readJson('catlabels') ?? {};
   const CAT_KEYS: string[] = readJson('catkeys') ?? [];
+  const TYPES: Array<{ key: string; label: string }> = readJson('types') ?? [];
+  const EV_HINT: Record<string, string> = readJson('evhint') ?? {};
   // base 不是 JSON，是裸路径字符串，直接读 attribute
   const BASE: string =
     document.querySelector('script[data-base]')?.getAttribute('data-base') ?? '/';
@@ -207,6 +273,7 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
   // ---------- 状态 ----------
   let q = '';
   let cat = 'all';
+  let type = 'all';
   let page = 1;
 
   const grid = document.getElementById('grid') as HTMLDivElement;
@@ -214,11 +281,14 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
   const count = document.getElementById('result-count') as HTMLParagraphElement;
   const search = document.getElementById('search') as HTMLInputElement;
   const catsEl = document.getElementById('cats') as HTMLDivElement;
+  const typesEl = document.getElementById('types') as HTMLDivElement;
 
   const haystack = (c: Card) =>
-    `${c.name} ${c.one} ${c.mode} ${c.income} ${CATS[c.cat] ?? ''}`.toLowerCase();
+    `${c.name} ${c.one} ${c.mode} ${c.income} ${c.type} ${c.platform} ${CATS[c.cat] ?? ''}`.toLowerCase();
   const matches = (c: Card) =>
-    (cat === 'all' || c.cat === cat) && (!q || haystack(c).includes(q));
+    (cat === 'all' || c.cat === cat) &&
+    (type === 'all' || c.type === type) &&
+    (!q || haystack(c).includes(q));
 
   function esc(s: string): string {
     return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -230,14 +300,16 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
       : `<div class="card-img placeholder"><span>${esc(c.name)}</span></div>`;
     const income = c.income ? `<span class="tag muted">${esc(c.income)}</span>` : '';
     const badge = c.cat !== 'uncat' ? `<span class="card-badge">${esc(CATS[c.cat])}</span>` : '';
+    const ev = `<span class="ev ev-${esc(c.evKey)}" title="${esc(EV_HINT[c.ev] ?? '')}">${esc(c.ev)}</span>`;
     return `
       <a class="card" href="${BASE}cases/${esc(c.slug)}/">
         ${img}
         <div class="card-body">
-          ${badge}
+          <div class="card-badges">${badge}${ev}</div>
           <h3>${esc(c.name)}</h3>
           <p class="card-desc">${esc(c.one)}</p>
           <div class="card-meta">
+            <span class="tag type">${esc(c.type)}</span>
             <span class="tag">${esc(c.mode)}</span>${income}
           </div>
         </div>
@@ -252,7 +324,7 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
     grid.innerHTML = list.slice(start, start + PAGE_SIZE).map(cardHTML).join('');
 
     if (q) count.textContent = `共 ${list.length} 篇 · “${search.value.trim()}”`;
-    else if (cat !== 'all') count.textContent = `共 ${list.length} 篇`;
+    else if (cat !== 'all' || type !== 'all') count.textContent = `共 ${list.length} 篇`;
     else count.textContent = `共 ${CARDS.length} 篇`;
 
     // 分页条
@@ -298,6 +370,15 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
     catsEl.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
     btn.classList.add('active');
     cat = btn.dataset.cat!;
+    page = 1;
+    render();
+  });
+  typesEl.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest('button');
+    if (!btn || !btn.dataset.type) return;
+    typesEl.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
+    btn.classList.add('active');
+    type = btn.dataset.type!;
     page = 1;
     render();
   });

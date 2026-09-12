@@ -8,6 +8,8 @@ name: Dark Reader
 可迁移点: ① 开源项目也能"养活自己"：用捐赠而非广告变现，反而赢得信任 ② 解决一个"人人都有的小痛点"（屏幕刺眼）就能积累海量用户 ③ 无广告、无追踪的承诺本身就是增长引擎 ④ 插件类产品用户获取成本极低（商店分发）
 原文链接: https://darkreader.org
 数据口径: 官方站点 + GitHub 仓库（github.com/darkreader/darkreader）；收入数字为行业估算，创始人未公开
+类型: 收入案例
+证据等级: 第三方估算
 分类: Chrome 插件 / 开源捐赠 / 英文
 封面: /case-site/cases/darkreader/site.png
 ---

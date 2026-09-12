@@ -8,6 +8,8 @@ name: BoredHumans
 可迁移点: ① 规模来自「分发」而非「复杂度」——做 100 个解决小问题的工具，比死磕一个完美产品更容易起量 ② 找大厂忽视的「无聊但赚钱」细分需求，第一天就收费 ③ 单人靠 SEO + 全球分发 + 廉价基础设施（Stripe/Vercel）就能跑到近千万美元 ARR ④ 产品矩阵对冲风险：一个工具不火，另外 99 个兜底
 原文链接: https://boredhumans.com
 数据口径: 收入——公开报道称年经常性收入约 880 万美元（约 733K 美元每月），单人运营，靠广告与高级功能变现（The Solo-Corn Era 2026-05-15、Everyday AI Blog 2026）；产品——累计构建 100 多个 AI 工具，覆盖歌词生成、棋类、图像编辑等，免费 + 广告 + premium 混合模式（Everyday AI Blog）；创始人——Nick Dobos，自学成才，无计算机科学学位，无外部投资人（The Solo-Corn Era）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 工具矩阵 / 单人 indie / 英文 / 美国
 封面: /case-site/cases/boredhumans/site.png
 ---

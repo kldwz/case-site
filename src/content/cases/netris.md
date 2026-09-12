@@ -8,6 +8,8 @@ name: Netris
 可迁移点: ① 在风口到来前八年就进场，等风来——但前提是真的熬得住 ② 解决「没人愿意干的脏活」（多厂商网络配置），而不是最性感的 AI 部分 ③ 绑定生态里的权力中心（NVIDIA），让巨头替你销售 ④ 创始人即领域专家（25 年网络架构经验），客户是同行，说服成本极低 ⑤ 明确说「生成式 AI 不适合这个场景」，用反共识建立专业可信度
 原文链接: https://netris.io
 数据口径: 融资——2026 年 6 月宣布 1500 万美金 A 轮，Andreessen Horowitz（a16z speedrun）领投，GP Guido Appenzeller 加入董事会，Martin Casado 与 Raghu Raghuram 支持（Forbes 2026-06-25、Futuriom、a16z 系 LinkedIn 公告）；增长——官方称过去 12 个月 ARR 增长 800%（Forbes、Futuriom）；部署——全球 35+ 个 AI 集群上线，覆盖约 100 万张 GPU；客户——Lightning AI、STN、Boost Run、TensorWave、TELUS、DCAI、YOTTA、Foxconn 支持的 Visionbay.ai（台湾最大 GPU 集群）、Firmus（澳洲最大可再生主权 AI 工厂）、HPE；产品——NAAM（Network Automation, Abstraction, and Multi-Tenancy），把 VPC、负载均衡、弹性 IP、路由与租户隔离下沉为硬件级配置，支持 Ethernet、InfiniBand、NVLink/NVL72、BlueField DPU 与边缘网络；生态——NVIDIA、Mirantis、Rafay、Red Hat、Spectro Cloud、vCluster、HPE；创始人——Alex Saroyan（CEO，25+ 年大规模网络架构经验，曾任职 Orange、Ucom）、Tigran Martirosyan（软件工程，曾任职 Orange、Lycos）、Arsen Arakelyan（系统与网络工程、客户部署，曾任职 Orange、Sourcio）
+类型: 收入案例
+证据等级: 官方披露
 分类: 基础设施 / AI 云网络 / 英文 / 美国
 封面: /case-site/cases/netris/site.png
 ---

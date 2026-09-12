@@ -8,6 +8,8 @@ name: PDF.ai
 可迁移点: ① 买一个匹配功能的精准域名（pdf.ai）= 自带 SEO + 用户信任 ② 用 LTD 终身套餐 + 极低门槛快速验证付费意愿 ③ 用 RAG + 大模型 API 包一个有真痛点的场景 ④ build in public（X 上晒收入截图）= 13 万粉丝反过来喂你下一个产品 ⑤ 主业稳定时做 side hustle，月 MRR 超过主业 2-3 倍再考虑辞职
 原文链接: https://www.pdf.ai
 数据口径: 创始人公开访谈（saasstarterstack.com / Starter Story 2024 / coocolab.com / ideaindex.so 多家媒体）；ARR/MRR/域名成本/LTD 数据均来自创始人披露
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 工具 / 订阅 / 英文 / 文档问答 / 独立开发者
 封面: /case-site/cases/pdfai/site.png
 ---

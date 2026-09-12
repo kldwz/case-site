@@ -8,6 +8,8 @@ name: Acquire.com
 可迁移点: ① 把「低频高客单价」的并购流程产品化、标准化，用 LOI/APA 生成器 + Escrow 集成把成交周期压到 30-90 天 ② 卖家免费、买家付费的双边模型，靠网络效应自增长——买家越多，卖家越愿意来 ③ 不靠大团队：用冷外联 + 内容 + 产品化流程 bootstrap 到 800 万美元营收 ④ 在「信任」是核心壁垒的市场，免费工具（估值器）是最强获客钩子
 原文链接: https://acquire.com
 数据口径: 运营——线上 SaaS 并购市场，2020 年由 Andrew Gazdecki 创立；50 万+ 注册买家、2200+ 在售列表、累计促成 5 亿+ 美元交易、2000+ 创始人退出（acquire.com、Startup Intros、blog.acquire.com）；营收——公开资料称年营收约 800 万美元，团队 20-36 人；买家订阅 ARR 约 2860 万美元（canvasbusinessmodel 测算，约 2.5 万订阅者、390-1500 美元每年）+ 大单成功费 + 生态/数据收入（Startup Intros、canvasbusinessmodel）；模式——卖家免费挂公司，买家年费订阅，大单（超 100 万美元）收 5-15% 成功费，另有 Escrow/法律/数据许可 ancillary 收入（Startup Intros、canvasbusinessmodel、blog.acquire.com）
+类型: 收入案例
+证据等级: 官方披露
 分类: SaaS 并购市场 / B2B 平台 / 英文 / 美国
 封面: /case-site/cases/acquire/site.png
 ---

@@ -8,6 +8,8 @@ name: HeadshotPro
 可迁移点: ① 不会写代码也能做成生意——外包技术、自己抓增长 ② 一次性付费比订阅更适合「低频刚需」，决策门槛极低 ③ 程序化 SEO 是单人最稳的免费流量源 ④ build in public 把收入变成内容、内容变成流量 ⑤ 先做能快速验证的小产品，跑通再放大（ProfilePicture.AI 试错在前）
 原文链接: https://headshotpro.com
 数据口径: Danny Postma 公开访谈与 X 上 build in public 数据；Lenny's Podcast 等访谈；Headlime 出售给 Jasper 为公开报道
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 图像 / 消费级 / 英文 / 一次性付费
 封面: /case-site/cases/headshotpro/site.png
 ---

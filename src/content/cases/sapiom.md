@@ -8,6 +8,8 @@ name: Sapiom
 可迁移点: ① 找「新玩家进不来」的那道门——agent 会写代码却买不到算力，「支付」就是整个 agentic 经济的通用 API key ② 用历史类比说服市场：线下商务要塑料卡、互联网商务要 Stripe、机器商务要新的支出层，投资人一听就懂 ③ 先从「成本可观测」这种即时痛点切，再扩到完整金融编排，用短期 ROI 换长期入口 ④ 把身份、策略、风控、结算打包成一个集成，开发者接一次就够了，摩擦力决定 adoption ⑤ 选连 Anthropic、Coinbase、Okta 都愿意站台的赛道——让生态方成为你的分销渠道
 原文链接: https://www.sapiom.ai
 数据口径: 融资——1575 万美金种子轮由 Accel 领投，Gradient Ventures、Array Ventures、Okta Ventures、Menlo Ventures、Anthropic、Coinbase Ventures、Formus Capital、Operator Collective 参投，另有来自 Shopify、OpenAI、Vercel、GitHub、Circle、Mercury 的战略天使（Operator Collective、Computer Weekly、公司公告）；创始人背景——Shopify 支付工程总监近五年，将 Shop Pay 做到 1000 亿美金 GMV、从零搭建 Shop Cash，此前联创 Earny 并于 2021 年被收购（Okta、Unite.AI）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 支付基础设施 / Agent 经济 / 英文 / 美国
 封面: /case-site/cases/sapiom/site.png
 ---

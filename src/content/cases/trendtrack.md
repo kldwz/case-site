@@ -8,6 +8,8 @@ name: TrendTrack
 可迁移点: ① 免费工具做漏斗、付费做留存：Chrome 插件零门槛拉新，付费才解锁组合筛选/EU 曝光数据/MCP ② 把"公开数据"聚成"决策数据库"：Shopify 店与广告库本就公开，难点在聚合与每日更新，壁垒是数据新鲜度与筛选维度 ③ 独立工具站也能 10 万+ 用户：不融资、不养大团队，靠 SEO + 评测 + 插件自然增长 ④ 分档定价匹配用户成熟度：solo $42、活跃卖家 $63、机构 $105，按品牌追踪数阶梯定价 ⑤ 区域数据差异化：独家 EU/UK 广告曝光数据，是它相对 BigSpy/Minea 的差异化钩子
 原文链接: https://www.trendtrack.io
 数据口径: TrendTrack 官网（500 万+ 店、2.5 亿+ 广告、10 万+ 用户、免费插件）；trendtrackreview.com 实测评测（Vincent Alonzi、法国、定价 $42 起、Trustpilot 4.8）；passivekit.com 2026-07 定价核实（Starter $42/Pro $63/Business $105 年付）；caimpare.ai 工具档案（分类、Trustpilot 4.8）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 应用 / 订阅 SaaS / 英文 / 电商情报
 封面: /case-site/cases/trendtrack/site.png
 ---

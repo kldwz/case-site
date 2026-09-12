@@ -8,6 +8,8 @@ name: Jigsaw Haiku
 可迁移点: 把为主项目设计的功能/创意单独拆出，若定位契合就能低成本成为新产品；小体量游戏不必一味烧脑，轻松有趣的体验也能形成差异化；Show HN 是独立开发者获取早期用户和反馈的低成本渠道；副产品可复用主站开发经验，降低冷启动门槛。
 原文链接: https://jigsawhaiku.com/
 数据口径: HackerNews_Show 收录
+类型: 收入案例
+证据等级: 第三方估算
 分类: 网页小游戏 / 拼图 / 英文
 封面: /case-site/cases/jigsawhaiku/site.png
 ---

@@ -8,6 +8,8 @@ name: Sandra AI
 可迁移点: ① 选「电话即收入」的垂类：汽车经销商约 80% 预约靠电话，漏接等于直接丢单，AI 接电话的 ROI 最硬 ② 做「AI 员工」而非「AI 功能」：Sandra 定位成替代前台，不是加个按钮 ③ 深集成客户系统才值钱：接 DMS 才能处理复杂查询，浅层 chatbot 不行 ④ 名校同窗合伙的信任红利：三人十年前相识，磨合成本趋近于零 ⑤ 用行业痛点量化获客：把「漏接 30% 电话等于年损 200 万」拍脸，比讲技术好卖
 原文链接: https://www.sandra-ai.com
 数据口径: 产品——面向汽车经销商与修理厂的 AI 语音前台（AI receptionist），24/7 多语种接管来电、邮件、短信、直接排试驾与预约，深层集成 DMS；痛点——行业约 30% 来电无人接、每店年损可达约 200 万美金；创始人——Badr El Idrissi Mokdad（CEO，前 McKinsey 与 Bain）、Ismail Majjad（CPO，前 McKinsey）、Skandere Sahli（CTO，前 QuantumBlack/McKinsey、MIT），三人十年前在 École Polytechnique 相识；总部巴黎；背书——Y Combinator（2024 年秋 batch）；经营——2025 年营收约 44 万美金（GetLatka），种子轮约 50 万美金（2024-12，YC F24 + Kima Ventures 等）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 垂直行业 SaaS / 汽车经销商语音 AI / 英文 / 法国
 封面: /case-site/cases/sandra-ai/site.png
 ---

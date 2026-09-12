@@ -8,6 +8,8 @@ name: Origami（origami-agents）
 可迁移点: ① 探客（找客户）是销售最痛的环节，AI agent 自动研究 15+ 数据源比人肉搜又快又全 ② 用"实时数据源"做差异化，不卖静态数据库而是卖"此刻谁在买" ③ 斯坦福/UCL 退学猛干，YC F24 增长最快说明方向对 ④ 知名客户案例（CBRE）是最强信任状，B2B 晒大客户 ⑤ 5 万美金 MRR 还在 beta 就证明 PMF，小 MRR 也能验证大市场
 原文链接: https://origamiagents.com
 数据口径: YC（F24）、种子轮公告（2025-01）、origamiagents.com 官网；MRR/客户为公开披露
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 销售 / 探客 agent / 英文 / 企业服务
 封面: /case-site/cases/origami-agents/site.png
 ---

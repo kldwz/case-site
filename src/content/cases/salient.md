@@ -8,6 +8,8 @@ name: Salient
 可迁移点: ① 选「高痛苦加高客单加怕合规」的垂类：车贷催收每通电话都值钱且监管严，AI 替代意愿强 ② 用「零流失」做信任锚——金融客户最怕出问题，零流失比增长更打动 CRO ③ 从一家大客户打透再扩张：Westlake 一个标杆抵千次冷邮 ④ 创始人背景即护城河：前 Tesla 与 Goldman 加前 Airtable 与 Dropbox 的技术与行业组合 ⑤ 按结果计费降低决策门槛：机构敢先试再扩
 原文链接: https://www.trysalient.com
 数据口径: 产品——面向汽车金融公司的 AI 催收与还款安排代理，自动处理还款提醒、协商与合规联络，替代人工呼叫中心；客户——Westlake 等大型 lender；经营——官方称零客户流失、年化约 2500 万美金、估值约 5 亿美金；融资——YC W23，累计约 7500 万美金，a16z 与 Matrix 领投；创始人 Ari Malik（CEO，前 Tesla/Goldman/哥大）+ Mukund Tibrewala（CTO，前 Airtable/Dropbox）
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 垂直行业 SaaS / 金融催收 / 英文 / 美国
 封面: /case-site/cases/salient/site.png
 ---

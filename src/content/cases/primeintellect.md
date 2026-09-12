@@ -8,6 +8,8 @@ name: Prime Intellect
 可迁移点: ① 押"开放权重 + 分布式训练"的长期 thesis ② 用开源项目建立技术声誉再商业化 ③ 同时服务研究者与企业的"栈"思维 ④ 硬件巨头（NVIDIA / Intel / Dell）战略投资 = 资源 + 信用 ⑤ 早期站对边际趋势（开放 vs 封闭）
 原文链接: https://www.primeintellect.ai
 数据口径: Prime Intellect 官方 + 行业媒体（2024–2026）；ARR、客户数、A 轮与领投方为公开口径
+类型: 收入案例
+证据等级: 官方披露
 分类: AI 基础设施 / 企业订阅 / 英文 / 开放模型 / 后训练
 封面: /case-site/cases/primeintellect/site.png
 ---

@@ -8,6 +8,8 @@ name: PointFive
 可迁移点: ① 切"被忽略的大额支出"——云成本+AI 成本，企业 CFO/CTO 痛但没人真管 ② 把"分析仪表盘"做成"自己开 PR 修复"——少请一个 FinOps 工程师 ③ 模型无关 + 多云一体（AWS/Azure/GCP + Bedrock/Vertex/Azure OpenAI），客户不被锁定 ④ 三个创始人有同一段成功退出经验（IntSights 被 3.5 亿美金收购）= 投资人对他们有真实信任 ⑤ 用客户公司名做"信任锚"（Expedia / Linux Foundation / Hertz 一摆就过 PMF 决策）
 原文链接: https://www.pointfive.co
 数据口径: 公司官方融资公告（Index Ventures / Salesforce Ventures / Accel 投资方公开通告）、Calcalist 2024-11 详细报道、startupim.com 融资历史；具体 ARR 未对外披露
+类型: 收入案例
+证据等级: 官方披露
 分类: 企业 SaaS / 订阅 / 英文 / 云成本+AI 成本优化 / 创始团队有退出经验
 封面: /case-site/cases/pointfive/site.png
 ---
