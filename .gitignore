@@ -14,3 +14,5 @@ inbox/
 .claude/
 .venv/
 logs/
+
+.workbuddy/

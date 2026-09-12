@@ -19,6 +19,11 @@ import argparse, json, os, re, sys, datetime, ssl, time, urllib.request, urllib.
 from pathlib import Path
 from urllib.parse import urlparse
 
+# 禁用 HTTP 代理：本机代理 1082 不稳定（503/502），且对 urllib 的 CONNECT 隧道是坏的。
+# 直连多数源都通（trustmrr supabase / hnrss / v2ex / 少数派 / 36氪）；个别墙外源靠 --fresh 排查时再看。
+for _k in ("HTTP_PROXY", "HTTPS_PROXY", "http_proxy", "https_proxy", "ALL_PROXY", "all_proxy"):
+    os.environ.pop(_k, None)
+
 try:
     import yaml
 except ImportError:

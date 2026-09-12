@@ -4,13 +4,13 @@ const fs = require('fs');
 const OUT = '/Users/hxw/codebuddy/case-site/public/cases';
 const PROXY = 'http://127.0.0.1:55751';
 const targets = [
-  ['ollama', 'https://ollama.com'],
-  ['aaru', 'https://aaru.com'],
-  ['bunkerhill', 'https://bunkerhill.ai'],
-  ['meticulous', 'https://meticulous.ai'],
-  ['lexroom', 'https://lexroom.ai'],
-  ['infraspeak', 'https://infraspeak.com'],
-  ['pletor', 'https://pletor.ai'],
+  ['sanas', 'https://sanas.ai'],
+  ['veed', 'https://veed.io'],
+  ['reclaim', 'https://reclaim.ai'],
+  ['prohance', 'https://prohance.ai'],
+  ['picturethis', 'https://picturethisai.com'],
+  ['cognition', 'https://cognition.ai'],
+  ['langdock', 'https://langdock.com'],
 ];
 
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
