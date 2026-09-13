@@ -12,12 +12,20 @@ name: Marlin（反钓鱼检测）
 类型: 获奖作品
 证据等级: 平台数据可查
 平台数据: Devpost 官方作品页：Winner · 3rd Place（网络安全赞助赛道）· 22 likes（2026-09-12）
+赛事: Google Chrome Built-in AI Challenge（谷歌官方，Devpost 承办）
+场景: 网络安全赞助赛道 Cybersecurity：Reinventing Digital Defense：反钓鱼检测
+奖项: Winner · 3rd Place（网络安全赛道第三名）
 封面: /case-site/cases/marlin-phishing/site.png
 ---
 
 ![Marlin 作品页](/cases/marlin-phishing/site.png)
 
 # Marlin：五个人、一周，把「最弱的一环」补上
+
+> **赛事**：Google Chrome Built-in AI Challenge（谷歌官方，Devpost 承办）
+> **场景**：网络安全赞助赛道 Cybersecurity: Reinventing Digital Defense：反钓鱼检测
+> **奖项**：Winner · 3rd Place（网络安全赛道第三名）
+> **出处**：[作品页](https://devpost.com/software/marlin) ｜ [赛事页](https://googlechromeai.devpost.com/) ｜ [源码](https://github.com/rf-peixoto/phishing_pot)
 
 ## 产品是什么
 

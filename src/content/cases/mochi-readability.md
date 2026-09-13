@@ -12,12 +12,20 @@ name: Mochi（网页无障碍阅读插件）
 类型: 获奖作品
 证据等级: 平台数据可查
 平台数据: Devpost 官方作品页：Winner · Best 'Real-World' App (Chrome Extension) · 109 likes（2026-09-12）
+赛事: Google Chrome Built-in AI Challenge（谷歌官方，Devpost 承办）
+场景: 无障碍阅读：为阅读障碍、ADHD 用户实时改写网页内容
+奖项: Winner · Best 'Real-World' App (Chrome Extension)（最佳真实世界应用）
 封面: /case-site/cases/mochi-readability/site.png
 ---
 
 ![Mochi 作品页](/cases/mochi-readability/site.png)
 
 # Mochi：只有一个前端三件套，却拿下了"最佳真实世界应用"
+
+> **赛事**：Google Chrome Built-in AI Challenge（谷歌官方，Devpost 承办）
+> **场景**：无障碍阅读：为阅读障碍、ADHD 用户实时改写网页内容
+> **奖项**：Winner · Best 'Real-World' App (Chrome Extension)（最佳真实世界应用）
+> **出处**：[作品页](https://devpost.com/software/mochi-6i7vuk) ｜ [赛事页](https://googlechromeai.devpost.com/) ｜ [源码](https://github.com/tanhanwei/mochi)
 
 ## 产品是什么
 

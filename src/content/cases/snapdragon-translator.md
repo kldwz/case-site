@@ -12,12 +12,20 @@ name: Snapdragon AI：Multilingual Translator
 类型: 获奖作品
 证据等级: 平台数据可查
 平台数据: Devpost 官方作品页：Winner · 2nd Place · 438 likes（2026-09-12）
+赛事: Windows on Snapdragon AI Hackathon（高通 + 微软，Devpost 承办）
+场景: 端侧多语翻译：英日韩中四语实时互译，全程离线
+奖项: Winner · 2nd Place（第二名）
 封面: /case-site/cases/snapdragon-translator/site.png
 ---
 
 ![Snapdragon AI 翻译作品页](/cases/snapdragon-translator/site.png)
 
 # 离线翻译：把"断网也能用"做成产品的核心卖点
+
+> **赛事**：Windows on Snapdragon AI Hackathon（高通 + 微软，Devpost 承办）
+> **场景**：端侧多语翻译：英日韩中四语实时互译，全程离线
+> **奖项**：Winner · 2nd Place（第二名）
+> **出处**：[作品页](https://devpost.com/software/snapdragon-ai-multilingual-translator) ｜ [赛事页](https://wos-ai.devpost.com/) ｜ [源码](https://github.com/mneang/Snapdragon-AI)
 
 ## 产品是什么
 

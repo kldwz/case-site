@@ -12,12 +12,20 @@ name: Opale（AI 提示词复用扩展）
 类型: 获奖作品
 证据等级: 平台数据可查
 平台数据: Devpost 官方作品页：Winner · Most Innovative (Chrome Extension) · 62 likes（2026-09-12）
+赛事: Google Chrome Built-in AI Challenge（谷歌官方，Devpost 承办）
+场景: AI 提示词复用：一次写好提示词模板，跨任务随时调用
+奖项: Winner · Most Innovative (Chrome Extension)（最具创新）
 封面: /case-site/cases/opale/site.png
 ---
 
 ![Opale 作品页](/cases/opale/site.png)
 
 # Opale：提示词写一次，到处都能用
+
+> **赛事**：Google Chrome Built-in AI Challenge（谷歌官方，Devpost 承办）
+> **场景**：AI 提示词复用：一次写好提示词模板，跨任务随时调用
+> **奖项**：Winner · Most Innovative (Chrome Extension)（最具创新）
+> **出处**：[作品页](https://devpost.com/software/opale) ｜ [赛事页](https://googlechromeai.devpost.com/) ｜ [源码](https://github.com/Hodisy/opale)
 
 ## 产品是什么
 

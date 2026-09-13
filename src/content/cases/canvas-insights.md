@@ -12,12 +12,20 @@ name: Canvas Student Insights with AI
 类型: 获奖作品
 证据等级: 平台数据可查
 平台数据: Devpost 官方作品页：Winner · Honorable Mention · 13 likes（2026-09-12）
+赛事: Google Chrome Built-in AI Challenge（谷歌官方，Devpost 承办）
+场景: 教育科技：把 Canvas 学习平台的数据变成学生能读懂的进度与学习计划
+奖项: Winner · Honorable Mention（荣誉提名）
 封面: /case-site/cases/canvas-insights/site.png
 ---
 
 ![Canvas Student Insights 作品页](/cases/canvas-insights/site.png)
 
 # 数据早就在那儿了，只是没人替学生读一遍
+
+> **赛事**：Google Chrome Built-in AI Challenge（谷歌官方，Devpost 承办）
+> **场景**：教育科技：把 Canvas 学习平台的数据变成学生能读懂的进度与学习计划
+> **奖项**：Winner · Honorable Mention（荣誉提名）
+> **出处**：[作品页](https://devpost.com/software/canvas-student-insights-with-ai) ｜ [赛事页](https://googlechromeai.devpost.com/) ｜ [源码](https://github.com/onEnterFrame/canvasChrome)
 
 ## 产品是什么
 

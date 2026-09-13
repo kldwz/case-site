@@ -12,12 +12,20 @@ name: BrowseGraph（浏览器内 GraphRAG）
 类型: 获奖作品
 证据等级: 平台数据可查
 平台数据: Devpost 官方作品页：Winner · Best Hybrid AI App (Chrome Extension) · 40 likes（2026-09-12）
+赛事: Google Chrome Built-in AI Challenge（谷歌官方，Devpost 承办）
+场景: 知识管理：在浏览器里跑 GraphRAG，把浏览过的网页连成知识图
+奖项: Winner · Best Hybrid AI App (Chrome Extension)（最佳混合 AI 应用）
 封面: /case-site/cases/browsegraph/site.png
 ---
 
 ![BrowseGraph 作品页](/cases/browsegraph/site.png)
 
 # BrowseGraph：把 GraphRAG 塞进浏览器，你看过的网页就是你的知识库
+
+> **赛事**：Google Chrome Built-in AI Challenge（谷歌官方，Devpost 承办）
+> **场景**：知识管理：在浏览器里跑 GraphRAG，把浏览过的网页连成知识图
+> **奖项**：Winner · Best Hybrid AI App (Chrome Extension)（最佳混合 AI 应用）
+> **出处**：[作品页](https://devpost.com/software/browsegraph) ｜ [赛事页](https://googlechromeai.devpost.com/) ｜ [源码](https://github.com/talperetz/browsegraph)
 
 ## 产品是什么
 

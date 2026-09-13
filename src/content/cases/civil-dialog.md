@@ -12,12 +12,20 @@ name: Civil Dialog
 类型: 获奖作品
 证据等级: 平台数据可查
 平台数据: Devpost 官方作品页：Winner · 3rd Place · 409 likes（2026-09-12）
+赛事: Windows on Snapdragon AI Hackathon（高通 + 微软，Devpost 承办）
+场景: 网络讨论治理：AI 实时改写攻击性发言，争议话题也能好好说话
+奖项: Winner · 3rd Place（第三名）
 封面: /case-site/cases/civil-dialog/site.png
 ---
 
 ![Civil Dialog 作品页](/cases/civil-dialog/site.png)
 
 # Civil Dialog：不删你的评论，只是把骂人的话重写一遍
+
+> **赛事**：Windows on Snapdragon AI Hackathon（高通 + 微软，Devpost 承办）
+> **场景**：网络讨论治理：AI 实时改写攻击性发言，争议话题也能好好说话
+> **奖项**：Winner · 3rd Place（第三名）
+> **出处**：[作品页](https://devpost.com/software/civil-dialog) ｜ [赛事页](https://wos-ai.devpost.com/)
 
 ## 产品是什么
 

@@ -12,12 +12,20 @@ name: NeuThera（药物发现工具包）
 类型: 获奖作品
 证据等级: 平台数据可查
 平台数据: Devpost 官方作品页：Winner · Third Place · 449 likes（2026-09-12）
+赛事: Windows on Snapdragon AI Hackathon（高通 + 微软，Devpost 承办）
+场景: AI 制药：集成多个生成式模型，从零设计候选药物分子
+奖项: Winner · Third Place（第三名）
 封面: /case-site/cases/neuthera/site.png
 ---
 
 ![NeuThera 作品页](/cases/neuthera/site.png)
 
 # NeuThera：不发明新模型，把现成的 AI 制药工具串成一条流水线
+
+> **赛事**：Windows on Snapdragon AI Hackathon（高通 + 微软，Devpost 承办）
+> **场景**：AI 制药：集成多个生成式模型，从零设计候选药物分子
+> **奖项**：Winner · Third Place（第三名）
+> **出处**：[作品页](https://devpost.com/software/neuthera-drug-discovery-platform) ｜ [赛事页](https://wos-ai.devpost.com/) ｜ [源码](https://github.com/Redomic/NeuThera-Drug-Discovery-Toolkit)
 
 ## 产品是什么
 

@@ -12,12 +12,20 @@ name: AudioNova
 类型: 获奖作品
 证据等级: 平台数据可查
 平台数据: Devpost 官方作品页：Winner · 1st Place · 530 likes（2026-09-12）
+赛事: Windows on Snapdragon AI Hackathon（高通 + 微软，Devpost 承办）
+场景: 端侧语音 AI：把语音生成与变声全部跑在本地设备上，不联网
+奖项: Winner · 1st Place（第一名）
 封面: /case-site/cases/audionova/site.png
 ---
 
 ![AudioNova 作品页](/cases/audionova/site.png)
 
 # AudioNova：黑客松第一名，把语音 AI 整个塞进你的电脑里
+
+> **赛事**：Windows on Snapdragon AI Hackathon（高通 + 微软，Devpost 承办）
+> **场景**：端侧语音 AI：把语音生成与变声全部跑在本地设备上，不联网
+> **奖项**：Winner · 1st Place（第一名）
+> **出处**：[作品页](https://devpost.com/software/audionova) ｜ [赛事页](https://wos-ai.devpost.com/) ｜ [源码](https://github.com/vpvypham1994/Audionova)
 
 ## 产品是什么
 

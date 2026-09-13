@@ -34,6 +34,10 @@ const cases = defineCollection({
     证据等级: z.enum(EVIDENCE_LEVELS).default('官方披露'),
     // 具体可查的平台硬数据，如「App Store 效率榜 Top 20 / 4.8 分 1.2 万评价」
     平台数据: z.string().optional(),
+    // 获奖作品专用：什么比赛、什么场景/赛道、拿了什么奖
+    赛事: z.string().optional(),
+    场景: z.string().optional(),
+    奖项: z.string().optional(),
   }),
 });
 

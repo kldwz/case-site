@@ -259,6 +259,29 @@ export const CATEGORY_MAP: Record<string, string> = {
   browsegraph: 'aitool',
   'marlin-phishing': 'enterprise',
   'canvas-insights': 'aitool',
+  // ---- 插件线第二批（2026-09-13）----
+  'adblock-plus': 'consumer',
+  bitwarden: 'enterprise',
+  adguard: 'consumer',
+  'return-youtube-dislike': 'consumer',
+  lastpass: 'enterprise',
+  ghostery: 'consumer',
+  'video-download-helper': 'consumer',
+  languagetool: 'aitool',
+  honey: 'consumer',
+  keepa: 'consumer',
+  // ---- 国内线第二批（2026-09-13）----
+  'muse-dash': 'consumer',
+  'time-countdown-app': 'indie',
+  'days-matter': 'indie',
+  carto: 'consumer',
+  'murders-yangtze': 'consumer',
+  'lost-castle': 'consumer',
+  'sands-of-salzaar': 'consumer',
+  'fate-seeker': 'consumer',
+  'watermark-camera': 'indie',
+  'carbon-words': 'indie',
+
 };
 
 // 大类 key -> 展示名（有序，先渲染高频）
