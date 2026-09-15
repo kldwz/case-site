@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "supabase",
+    "name": "Supabase",
+    "repo": "supabase/supabase",
+    "site": "https://supabase.com",
+    "founder": "Paul Copplestone 与 Antei Lichtsteiner 联合创办",
+    "founded": "2020 年",
+    "region": "澳大利亚悉尼",
+    "license": "Apache-2.0",
+    "product": "基于 PostgreSQL 的开源后端开发平台，常被称作「开源版 Firebase」：提供数据库、身份认证、文件存储、边缘函数、实时订阅等一套托管服务，也能完全自托管。",
+    "pricing": "免费档（含 2 个项目、500MB 数据库）+ Pro 档 25 美元/月 + Team 档 599 美元/月 + 企业定制；云用量按项目/存储/带宽计费，自托管社区版免费。",
+    "funding": "2020 年种子轮；2021 年 A 轮 3000 万美元（Craft Ventures 领投）；2022 年 B 轮 8000 万美元、估值约 10 亿美元；后续轮次未逐一官方披露，以公司公告为准。",
+    "arr": "公司未官方披露 ARR；公开报道称其高速增长，具体数字以官方披露为准（标注：未官方披露）。",
+    "github_note": "GitHub 109,217 star · 13,767 fork · Apache-2.0 · 仓库创建于 2019-10-12（2026-09-15 已核实）",
+    "lessons": [
+      "用成熟开源组件（Postgres）当底座，比从零造数据库更容易赢得开发者信任——开源社区本就熟悉 Postgres",
+      "把「自托管免费」做成漏斗：开发者先白嫖，团队变大再买云托管和企业支持",
+      "开发者社区即增长引擎：开源仓库、文档、模板、Discord 共同构成低成本的获客与留存体系",
+      "融资叙事踩在「Postgres 复兴 + AI 应用后端」热点上，容易拿到头部基金加持"
+    ],
+    "sources": [
+      "https://supabase.com/blog",
+      "https://supabase.com/pricing",
+      "https://github.com/supabase/supabase"
+    ]
+  },
+  {
+    "slug": "posthog",
+    "name": "PostHog",
+    "repo": "PostHog/posthog",
+    "site": "https://posthog.com",
+    "founder": "James Hawkins 与 Tim Glaser 联合创办",
+    "founded": "2020 年",
+    "region": "英国爱丁堡",
+    "license": "MIT",
+    "product": "开源产品分析平台，把事件分析、会话录制、特性开关、漏斗、路径、错误追踪、A/B 实验等功能打包在一起，可自托管也可用云，对标 Mixpanel / Amplitude 且更「一体化」。",
+    "pricing": "按事件量计费（每月前 100 万事件免费），超量后阶梯付费；另有团队版与企业版。自托管社区版功能完整且免费。",
+    "funding": "2021 年早期轮次约 900 万美元；2022 年 B 轮 2700 万美元（GV/Google Ventures 领投）；后续亦有融资，以公司公告为准。",
+    "arr": "PostHog 在官方博客公开披露营收进展，公开口径称 ARR 已突破 2000 万美元量级并持续高增长；精确当期数字以官方披露为准（标注：官方披露）。",
+    "github_note": "__GH__",
+    "lessons": [
+      "把多个分析工具「合到一个仓库」，用一体化降低客户的集成与账单复杂度",
+      "开源 + 按用量计费，既能自托管打消数据合规顾虑，又能随客户规模自然涨价",
+      "创始人亲自写透明博客（营收、远程文化、反直觉决策）把内容做成长期获客渠道",
+      "从第一天就做透明财务，用「可被第三方验证」的硬指标建立信任"
+    ],
+    "sources": [
+      "https://posthog.com/blog",
+      "https://posthog.com/pricing",
+      "https://github.com/PostHog/posthog"
+    ]
+  },
+  {
+    "slug": "cal-com",
+    "name": "Cal.com",
+    "repo": "calcom/cal.com",
+    "site": "https://cal.com",
+    "founder": "Peer Richelsen 与 Baïram Annan 等联合创办",
+    "founded": "2021 年",
+    "region": "荷兰",
+    "license": "Apache-2.0",
+    "product": "开源的日程调度基础设施，常被称作「开源版 Calendly」：可嵌入网站的预约链接、团队排班、与 Google/Outlook 等日历双向同步，支持自托管与白标。",
+    "pricing": "免费个人档 + Teams 档约 12 美元/席/月 + 企业定制；自托管社区版免费，靠托管云与企业支持变现。",
+    "funding": "2021 年种子轮约 500 万美元；2024 年 A 轮约 2500 万美元（含 OpenAI Startup Fund 等参投）；精确轮次以公司公告为准。",
+    "arr": "公司未官方披露 ARR（标注：未官方披露）。",
+    "github_note": "__GH__",
+    "lessons": [
+      "做「调度」这种高频刚需但被巨头把持的环节，用开源打破锁定",
+      "白标 + 自托管天然面向企业客户，把「数据自持」卖成溢价",
+      "开发者优先：SDK、API、模板让集成成本极低，口碑在开发者圈快速扩散",
+      "在巨头（Calendly）主场用透明定价 + 开源合规抢下信任敏感客户"
+    ],
+    "sources": [
+      "https://cal.com/blog",
+      "https://cal.com/pricing",
+      "https://github.com/calcom/cal.com"
+    ]
+  },
+  {
+    "slug": "dub",
+    "name": "Dub",
+    "repo": "dubinc/dub",
+    "site": "https://dub.co",
+    "founder": "Steven Tey 独自创立（后组建团队）",
+    "founded": "2022 年",
+    "region": "马来西亚 / 远程",
+    "license": "AGPL-3.0",
+    "product": "开源的链接管理工具，常被称作「开源版 Bitly」：短链接、品牌域名、点击/来源/设备分析、团队与权限、API 与 SDK，可被创业者当成链接基础设施。",
+    "pricing": "免费档 + Pro 档 24 美元/月 + Business/Enterprise 档；自托管社区版免费，靠云托管与分析能力变现。",
+    "funding": "Y Combinator W23 批次；公司披露过早期营收与后续融资，精确轮次以官方/Crunchbase 为准（标注：公开报道）。",
+    "arr": "创始人公开披露过营收进展（百万美元 ARR 量级、盈利），精确当期数字以官方披露为准（标注：第三方估算）。",
+    "github_note": "__GH__",
+    "lessons": [
+      "一个人 + 开源先打出名气，再围绕托管与分析做商业化，路径极轻",
+      "做「链接」这种基础设施件，嵌入到别人产品里就能自然获客",
+      "公开构建（公开营收、写技术博客）把个人 IP 变成增长杠杆",
+      "AGPL 让自托管免费、云托管收费两头都成立，又不丢社区贡献"
+    ],
+    "sources": [
+      "https://dub.co/blog",
+      "https://dub.co/pricing",
+      "https://github.com/dubinc/dub"
+    ]
+  },
+  {
+    "slug": "appwrite",
+    "name": "Appwrite",
+    "repo": "appwrite/appwrite",
+    "site": "https://appwrite.io",
+    "founder": "Eldad Fux 创立",
+    "founded": "2019 年",
+    "region": "以色列 / 美国",
+    "license": "BSD-3-Clause",
+    "product": "开源后端开发平台（另一款「开源版 Firebase」）：身份认证、数据库、存储、函数、实时，提供多云自托管与托管云，面向开发者快速搭建应用后端。",
+    "pricing": "自托管社区版免费；Appwrite Cloud 按用量/席位计费 + 企业版；靠托管云与企业支持变现。",
+    "funding": "2023 年 A 轮约 1500 万美元（公开报道，以公司公告为准）。",
+    "arr": "公司未官方披露 ARR（标注：未官方披露）。",
+    "github_note": "__GH__",
+    "lessons": [
+      "与 Supabase 同赛道但更早主打「多云自托管」，用部署自由度差异化",
+      "BSD 许可比 copyleft 更友好，降低企业白嫖与集成顾虑",
+      "先重度做开发者体验（SDK、控制台、模板），用口碑对抗资金更雄厚的对手",
+      "开源养社区、云做变现，融资节奏配合产品成熟度"
+    ],
+    "sources": [
+      "https://appwrite.io/blog",
+      "https://appwrite.io/pricing",
+      "https://github.com/appwrite/appwrite"
+    ]
+  },
+  {
+    "slug": "twenty",
+    "name": "Twenty",
+    "repo": "twentyhq/twenty",
+    "site": "https://twenty.com",
+    "founder": "Charles Nahas 与 Romain Rck 等联合创办",
+    "founded": "2023 年",
+    "region": "法国",
+    "license": "AGPL-3.0",
+    "product": "开源 CRM，常被称作「开源版 Salesforce / HubSpot」：联系人、公司、交易_pipeline、任务一体化，界面现代、可自托管、可白标，瞄准被 SaaS 订阅费用压得喘不过气的团队。",
+    "pricing": "云版按席位计费 + 企业定制；自托管社区版免费，靠托管与企业支持变现。",
+    "funding": "2024 年完成大额早期融资（公开报道含头部基金参投），精确轮次以公司公告为准（标注：公开报道）。",
+    "arr": "早期阶段，公司未官方披露 ARR（标注：未官方披露）。",
+    "github_note": "__GH__",
+    "lessons": [
+      "选 Salesforce 这种「贵的、锁定的、人人嫌弃」的巨头当对标，需求永远在",
+      "AGPL + 自托管契合企业数据合规，白标又打开服务商转售市场",
+      "把产品打磨到「开箱即比闭源竞品好看」用设计差异化抢早期用户",
+      "开源高速攒星，用社区热度反哺融资与招聘"
+    ],
+    "sources": [
+      "https://twenty.com/blog",
+      "https://twenty.com/pricing",
+      "https://github.com/twentyhq/twenty"
+    ]
+  },
+  {
+    "slug": "plane",
+    "name": "Plane",
+    "repo": "makeplane/plane",
+    "site": "https://plane.so",
+    "founder": "Vamsi Krishna 创立",
+    "founded": "2023 年",
+    "region": "印度 / 美国",
+    "license": "AGPL-3.0",
+    "product": "开源项目管理工具，对标 Linear / Jira：issue、sprint、看板、甘特、文档、周期规划，强调极简体验与自托管，面向不想被 Atlassian 套牢的团队。",
+    "pricing": "免费自托管社区版 + 云版按席位计费 + 企业版；靠托管云与企业支持变现。",
+    "funding": "2024 年 A 轮约 900 万美元（公开报道，以公司公告为准）。",
+    "arr": "公司未官方披露 ARR（标注：未官方披露）。",
+    "github_note": "__GH__",
+    "lessons": [
+      "在 Linear 把「体验」拉满的赛道，用开源 + 自托管切「数据自持 + 不被锁定」需求",
+      "AGPL 让企业能白嫖又不敢闭源转售，自然导向付费托管",
+      "先打「轻、快、好看」的开发者心智，再向团队/企业扩展",
+      "印度 / 远程团队也能做全球化开源产品，社区即全球销售网"
+    ],
+    "sources": [
+      "https://plane.so/blog",
+      "https://plane.so/pricing",
+      "https://github.com/makeplane/plane"
+    ]
+  }
+]
