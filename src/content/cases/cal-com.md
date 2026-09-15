@@ -11,7 +11,7 @@ name: Cal.com
 分类: 企业服务 / 开源+订阅 / 英文
 类型: 开源变现
 证据等级: 官方披露
-平台数据: GitHub
+平台数据: GitHub 48,466 star · 15,126 fork · MIT · 仓库创建于 2021-03-22（2026-09-15 抓取）
 封面: /case-site/cases/cal-com/site.png
 ---
 
