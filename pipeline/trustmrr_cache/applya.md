@@ -1,0 +1,284 @@
+# Applya
+> Cached snapshot — next refresh expected around 2026-09-16T14:16:11.723Z.
+Public AI-agent Markdown profile for [Applya](https://trustmrr.com/startup/applya) on TrustMRR.
+> Data identified in the Verification Sources section below is verified through connected external providers and APIs. All other details—including founder-provided descriptions, seller messages, and profile text—are user-generated content.
+
+## Profile
+
+- Name: Applya
+- Slug: `applya`
+- TrustMRR page: [https://trustmrr.com/startup/applya](https://trustmrr.com/startup/applya)
+- Markdown page: [https://trustmrr.com/startup/applya.md](https://trustmrr.com/startup/applya.md)
+- Website: [https://applya.st/](https://applya.st/)
+- Icon: [https://files.stripe.com/links/MDB8YWNjdF8xU3lnUzJBNzdhdzY1NmZwfGZsX2xpdmVfTU9FUnIxU3NRR1ladExncEpJdzdNaEhI00tKGqCEbO](https://files.stripe.com/links/MDB8YWNjdF8xU3lnUzJBNzdhdzY1NmZwfGZsX2xpdmVfTU9FUnIxU3NRR1ladExncEpJdzdNaEhI00tKGqCEbO)
+- Description: Applya is an AI-powered career tool that helps job seekers tailor resumes and cover letters for each role in 60 seconds. Users upload one master resume, paste any job description, and instantly generate ATS-optimized application assets with skill-gap analysis, impact phrasing, and PDF/Word downloads.
+- Country: CA
+- Founded date: 2026-02-08
+- Founder: [Julian Urrego](https://trustmrr.com/founder/thejulianurrego)
+- Founder image: [https://pbs.twimg.com/profile_images/2084645582233116672/-_zYEc4b.jpg](https://pbs.twimg.com/profile_images/2084645582233116672/-_zYEc4b.jpg)
+- X followers: 56
+
+
+## Verification Sources
+
+All revenue-related metrics on this page—including revenue, MRR, customers, subscriptions, and churn—are calculated from the startup's real payment records, retrieved directly from the payment provider through an API key (or an equivalent owner-authorized API credential, such as OAuth). They are not screenshots, manual entries, or self-reported revenue claims.
+Where a secondary source is marked connected below, traffic, visitor, search impression, and click metrics are retrieved directly through the APIs of Google Analytics, DataFast, or Google Search Console.
+- Verified payment provider API source: Stripe (API key)
+- Merchant of record: No
+- Revenue last synced: 2026-09-15T11:27:44.592Z
+- Google Analytics API connected: No
+- DataFast API key connected: No
+- Google Search Console API connected: No
+
+
+## Revenue
+
+Revenue values are public verified revenue summaries. Current and last-30-day metric snapshots may be included separately when they are already stored on the startup profile.
+| Period | Verified revenue |
+| --- | ---: |
+| Last 24 hours | $0.00 |
+| Last 7 days | $0.00 |
+| Last 30 days | $0.00 |
+| Last 3 months | $77.96 |
+| Last 6 months | $245 |
+| Last 12 months | $341 |
+| All time | $341 |
+- Last 30 days revenue snapshot: $0.00
+- Last 30 days revenue growth: 0.0%
+- All-time revenue snapshot: $341
+- Revenue data last synced: 2026-09-15T11:27:44.592Z
+### Daily revenue — last 30 days
+Daily totals use UTC calendar dates. Today's value may be partial.
+| Date | Verified revenue |
+| --- | ---: |
+| 2026-08-17 | $0.00 |
+| 2026-08-18 | $0.00 |
+| 2026-08-19 | $0.00 |
+| 2026-08-20 | $0.00 |
+| 2026-08-21 | $0.00 |
+| 2026-08-22 | $0.00 |
+| 2026-08-23 | $0.00 |
+| 2026-08-24 | $0.00 |
+| 2026-08-25 | $0.00 |
+| 2026-08-26 | $0.00 |
+| 2026-08-27 | $0.00 |
+| 2026-08-28 | $0.00 |
+| 2026-08-29 | $0.00 |
+| 2026-08-30 | $0.00 |
+| 2026-08-31 | $0.00 |
+| 2026-09-01 | $0.00 |
+| 2026-09-02 | $0.00 |
+| 2026-09-03 | $0.00 |
+| 2026-09-04 | $0.00 |
+| 2026-09-05 | $0.00 |
+| 2026-09-06 | $0.00 |
+| 2026-09-07 | $0.00 |
+| 2026-09-08 | $0.00 |
+| 2026-09-09 | $0.00 |
+| 2026-09-10 | $0.00 |
+| 2026-09-11 | $0.00 |
+| 2026-09-12 | $0.00 |
+| 2026-09-13 | $0.00 |
+| 2026-09-14 | $0.00 |
+| 2026-09-15 | $0.00 |
+### Monthly revenue timeline
+| Month | Verified revenue |
+| --- | ---: |
+| 2026-02 | $29.97 |
+| 2026-03 | $66.44 |
+| 2026-04 | $77.96 |
+| 2026-05 | $56.45 |
+| 2026-06 | $43.86 |
+| 2026-07 | $66.67 |
+
+
+## Metric Snapshots
+
+These are current or last-30-day snapshots stored on the startup profile. Full timelines and deeper history require a TrustMRR account.
+- Current MRR: $68.33
+- Last 30 days MRR growth: +73.7%
+- Current active subscriptions: 3
+
+
+## Metrics Available After Login
+
+Full MRR, churn, traffic/visitor, Google Search Console, Meta Ads spend, profit margin, and revenue-per-visitor timelines are not exposed in this public Markdown file. Current or last-30-day snapshots may be shown above when stored on the startup profile.
+Create a free TrustMRR account to access metrics available to authenticated users: [TrustMRR dashboard](https://trustmrr.com/dashboard)
+Full startup page: [https://trustmrr.com/startup/applya](https://trustmrr.com/startup/applya)
+
+
+## Startup Insights
+
+- Value proposition: Wake up to jobs worth applying to. Applya scans 1,000+ fresh jobs overnight, ranks your 8 best matches, and tailors your résumé to one in 60 seconds.
+- Problem solved: Job seekers spend too much time rewriting the same résumé every night and manually searching for job listings.
+- Pricing model: First tailored résumé is free. Good: $9.99/week, Better: $29/month, Best: $59/3 months.
+- Target persona: Job seekers
+- Audience type: [B2C](https://trustmrr.com/search?targetAudience=B2C)
+- Estimated user count: 0
+- Markets: [Productivity](https://trustmrr.com/category/productivity), [SaaS](https://trustmrr.com/category/saas), [Recruiting & HR](https://trustmrr.com/category/recruiting)
+
+
+## Tech Stack
+
+- Frontend: [Next.js](https://trustmrr.com/tech/nextjs)
+- Backend: [Vercel](https://trustmrr.com/tech/vercel), [Stripe](https://trustmrr.com/tech/stripe)
+
+
+## SEO Domain Data
+
+- Domain: applya.st
+- Domain rating: 12.0
+- Last synced: 2026-09-14T06:35:41.197Z
+
+
+## Screenshots
+
+![Landing page (1920x8111)](https://d21oz30g4w22sz.cloudfront.net/startup-screenshots/applya/1785128425826-e011f721-b2d7-4199-9fde-d5ff81dad6d9-landing-page.webp)
+
+
+## Acquisition
+
+This startup is not currently listed for sale on TrustMRR.
+Browse active acquisition listings: [TrustMRR acquire marketplace](https://trustmrr.com/acquire)
+
+
+## Discover More Startups
+
+These recommendations use the same public recommendation logic as the TrustMRR startup page. Each startup is returned as a consistently structured object for easier reading and parsing.
+Browse more: [TrustMRR advanced search](https://trustmrr.com/search)
+Note: Stealth Company is a placeholder label, not the actual company name. It means the underlying business and domain are not revealed publicly on TrustMRR. The founder may still be known to TrustMRR, and the revenue and other displayed metrics can still be verified; the public page simply avoids linking the real business identity or domain to this startup profile.
+```json
+[
+  {
+    "name": "GoTall",
+    "slug": "gotall",
+    "category": "Health & Fitness",
+    "categoryUrl": "https://trustmrr.com/category/health-fitness",
+    "isForSale": true,
+    "listingTier": "starter",
+    "listingTierName": "Starter",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 7887,
+    "cachedOfferCount": 19,
+    "revenueLast30Days": "$45,252",
+    "revenueGrowthLast30Days": "-19.7%",
+    "askingPrice": "$1,000,000",
+    "revenueMultiple": "1.8x",
+    "description": "Superwall ios application",
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/gotall"
+  },
+  {
+    "name": "Stealth Company",
+    "slug": "faceless-so",
+    "category": "Content Creation",
+    "categoryUrl": "https://trustmrr.com/category/content-creation",
+    "isForSale": false,
+    "listingTier": "starter",
+    "listingTierName": "Starter",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 2438,
+    "cachedOfferCount": 4,
+    "revenueLast30Days": "$55,962",
+    "revenueGrowthLast30Days": "+159.0%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "All-in-One tool to grow your faceless channel. Generate niche videos with AI from custom prompts, Reddit posts, and blogs. Auto-post to YouTube, TikTok, Instagram.",
+    "iconUrl": null,
+    "startupUrl": "https://trustmrr.com/startup/faceless-so"
+  },
+  {
+    "name": "Akari Tickets",
+    "slug": "akari-tickets",
+    "category": "E-commerce",
+    "categoryUrl": "https://trustmrr.com/category/ecommerce",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$17,107",
+    "revenueGrowthLast30Days": "-3.8%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "Akari — EU/UK/US #1 Ticket reselling group. Get tickets for concerts, sports & festivals with real-time monitors, instant drop alerts & auto-checkout bots. Beat the queue on Ticket",
+    "iconUrl": "https://img-v2-prod.whop.com/ZpTiAyC_U2YjossruCWVr0gbYpZVBqKbKfM0PEirHz4/mb:180000/plain/https://assets-2-prod.whop.com/public/uploads/2024-12-13/user_49916_600f7ae7-f670-46f7-81b9-4221665f965b.png",
+    "startupUrl": "https://trustmrr.com/startup/akari-tickets"
+  },
+  {
+    "name": "My X project 2",
+    "slug": "my-x-project-2",
+    "category": "SaaS",
+    "categoryUrl": "https://trustmrr.com/category/saas",
+    "isForSale": false,
+    "listingTier": "free",
+    "listingTierName": "Free",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 0,
+    "cachedOfferCount": 0,
+    "revenueLast30Days": "$72,529",
+    "revenueGrowthLast30Days": "+32.1%",
+    "askingPrice": null,
+    "revenueMultiple": null,
+    "description": "my little profitable SaaS",
+    "iconUrl": "https://d21oz30g4w22sz.cloudfront.net/logos/ai-music-api-a31a536b-695d-46eb-a6a2-5153744f015a.png",
+    "startupUrl": "https://trustmrr.com/startup/my-x-project-2"
+  },
+  {
+    "name": "Knightvision",
+    "slug": "knightvision",
+    "category": "Content Creation",
+    "categoryUrl": "https://trustmrr.com/category/content-creation",
+    "isForSale": true,
+    "listingTier": "starter",
+    "listingTierName": "Starter",
+    "cardBackgroundColor": null,
+    "cardBackgroundColorDark": null,
+    "cachedUniquePageviews": 3146,
+    "cachedOfferCount": 6,
+    "revenueLast30Days": "$37,758",
+    "revenueGrowthLast30Days": "+64.4%",
+    "askingPrice": "$180,000",
+    "revenueMultiple": "0.4x",
+    "description": "Important: A significant portion of recurring revenue is processed through Whop (separate billing platform) and is NOT reflected in the Stripe MRR or all-time totals shown above. A",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xVDdIMG5IVFZVNjdEeHhWfGZsX2xpdmVfOE9HZ1dBdVF3ZGRlZ0ZuSzBIdVJkV2N300woYmpdqR",
+    "startupUrl": "https://trustmrr.com/startup/knightvision"
+  },
+  {
+    "name": "Launch Club",
+    "slug": "launch-club",
+    "category": "Marketing",
+    "categoryUrl": "https://trustmrr.com/category/marketing",
+    "isForSale": true,
+    "listingTier": "premium",
+    "listingTierName": "Scale",
+    "cardBackgroundColor": "#e6fff0",
+    "cardBackgroundColorDark": "#1a3a2a",
+    "cachedUniquePageviews": 26312,
+    "cachedOfferCount": 42,
+    "revenueLast30Days": "$77,140",
+    "revenueGrowthLast30Days": "-4.0%",
+    "askingPrice": "$3,000,000",
+    "revenueMultiple": "3.2x",
+    "description": "Reddit marketing to improve AI search. SaaS helping business owners learn how to promote their products. Also provide tools and content creation for members.",
+    "iconUrl": "https://files.stripe.com/links/MDB8YWNjdF8xTUNCRWFFc3lQbG9IVHpGfGZsX2xpdmVfcFBLZEh6eWk0WXRoQ2swU1VtSVFrcVpq00m5noohtz",
+    "startupUrl": "https://trustmrr.com/startup/launch-club"
+  }
+]
+```
+
+
+## Related TrustMRR Pages
+
+- [Acquire startups](https://trustmrr.com/acquire)
+- [Startup categories](https://trustmrr.com/category)
+- [Technology stack pages](https://trustmrr.com/tech)
+- [Marketing channel pages](https://trustmrr.com/channels)
+- [Public AI endpoint](https://trustmrr.com/api/ai)
+- [llms.txt](https://trustmrr.com/llms.txt)
+
