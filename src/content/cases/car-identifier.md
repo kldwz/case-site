@@ -1,0 +1,50 @@
+---
+name: "Car Identifier"
+一句话: "AI Car identifier and car spotting collecting app."
+创始人地区: "由 Marton Zeisler 创立，CA，2024 年成立"
+营收模式: "Free · In‑App Purchases; Car Identifier Pro (Lifetime) $39.99, Car Identifier Pro $4.99, Car Identifier Pro (Monthly) $9.99, Car Identifier Pro (Yearly) $39.99, Car Identifier Pro (Yearly) $19.99"
+月收入估算: "$531/月（RevenueCat 验证）"
+流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6651825365"
+可迁移点: "① 采用阶梯式订阅定价策略覆盖不同用户需求 ② 通过AI图像识别技术解决特定场景痛点 ③ 提供终身买断选项平衡短期现金流 ④ 专注垂直领域工具类应用开发"
+原文链接: "https://apps.apple.com/app/id6651825365"
+数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:54:31.572Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/car-identifier。"
+分类: "Mobile Apps、AI / B2C / 海外"
+类型: 收入案例
+证据等级: 官方披露
+平台数据: "支付验证：RevenueCat · 当前 MRR $531 · 活跃订阅 106 · 近12个月营收 $7,473 · 累计营收 $14,936 · 域名 DR未披露 · 国家 CA · 创立 2024-09-09"
+封面: "/case-site/cases/car-identifier/site.webp"
+---
+
+![Car Identifier 官网](/cases/car-identifier/site.webp)
+
+# Car Identifier：AI Car identifier and car spotting collecting app.
+
+## 产品是什么
+
+基于AI图像识别技术的汽车识别工具，支持通过照片快速获取车型详细信息
+
+## 怎么赚的钱
+
+通过应用内购获取收入，含4种订阅方案（月费$9.99/年费$19.99或$39.99/终身$39.99）和单次付费$4.99选项
+
+## 流量从哪来
+
+未官方披露
+
+## 站长是谁
+
+加拿大开发者Marton Zeisler
+
+## 这个案例能学到什么
+
+展示了如何通过AI技术+垂直领域工具实现产品差异化，其混合订阅模式设计值得研究，特别是同时提供年度/终身选项的价格策略
+
+## 来源与数据
+
+- TrustMRR 原始页：`https://trustmrr.com/startup/car-identifier`
+- 营收由 RevenueCat API 验证，非自报；最后同步 2026-09-15T09:54:31.572Z。
+- 官网：`https://apps.apple.com/app/id6651825365`
+
+## 一句话总结
+
+> 小众AI工具通过精准解决汽车爱好者识别需求实现稳定订阅收入
