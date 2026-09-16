@@ -261,14 +261,19 @@ def build_case(slug):
         s = s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", " ").replace("\r", " ")
         return '"' + s + '"'
 
+    # precompute labels (avoid nested f-strings for Python <3.12)
+    monthly_label = f"{monthly}/月（{prov} 验证）"
+    traffic_base = 'SEO 自然流量为主' if dr not in ('未披露',) else '流量来源未披露'
+    traffic_label = traffic_base + f'（域名评分 DR{dr_disp}），{audience} 受众；官网 {website}'
+
     fm = (
         "---\n"
         f"name: {yq(name)}\n"
         f"一句话: {yq(prose.get('一句话',''))}\n"
         f"创始人地区: {yq(region)}\n"
         f"营收模式: {yq(pricing)}\n"
-        f"月收入估算: {yq(f'{monthly}/月（{prov} 验证）')}\n"
-        f"流量来源: {yq((('SEO 自然流量为主' if dr not in ('未披露',) else '流量来源未披露') + f'（域名评分 DR{dr_disp}），{audience} 受众；官网 {website}')}\n"
+        f"月收入估算: {yq(monthly_label)}\n"
+        f"流量来源: {yq(traffic_label)}\n"
         f"可迁移点: {yq(prose.get('可迁移点',''))}\n"
         f"原文链接: {yq(website)}\n"
         f"数据口径: {yq(data_calibre)}\n"
