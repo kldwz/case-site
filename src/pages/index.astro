@@ -30,6 +30,7 @@ const EV_KEY: Record<string, string> = {
   平台数据可查: 'platform',
   作者自述: 'self',
   第三方估算: 'est',
+  公开资料: 'public',
 };
 const EV_HINT: Record<string, string> = {
   官方披露: '公司/创始人自己公布的数字',
@@ -90,6 +91,7 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
       <span class="ev ev-platform">平台数据可查</span>
       <span class="ev ev-self">作者自述</span>
       <span class="ev ev-est">第三方估算</span>
+      <span class="ev ev-public">公开资料</span>
       ——数字能查到什么程度，就标到什么程度，不编。
     </p>
   </section>
@@ -233,6 +235,7 @@ const catName = (key: string) => CATEGORIES.find((c) => c.key === key)?.label ??
   }
   .ev-official { background: #e6f6ec; color: #1a7f43; }
   .ev-platform { background: #e8f0fe; color: #1a56db; }
+  .ev-public { background: #f0f0ee; color: #6b6b6b; }
   .ev-self { background: #fff2e0; color: #a35c00; }
   .ev-est { background: #f0f0ee; color: #6b6b6b; }
   .pager {

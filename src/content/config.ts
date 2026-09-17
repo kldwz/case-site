@@ -13,7 +13,8 @@ export const CASE_TYPES = ['收入案例', '国内实践', '获奖作品', '插�
 //   平台数据可查   - App Store 排名评分 / Steam 销量 / 商店安装数 / 众筹金额 / 工商可查
 //   作者自述       - 本人公开说过（微博/知乎/公众号/推），附原文链接
 //   第三方估算     - SimilarWeb / Chrome-Stats 类推算，只给区间不给精确数
-export const EVIDENCE_LEVELS = ['官方披露', '平台数据可查', '作者自述', '第三方估算'] as const;
+//   公开资料       - 公开报道/官网/赛事公示等可查资料（国内实践非平台类案例常用）
+export const EVIDENCE_LEVELS = ['官方披露', '平台数据可查', '作者自述', '第三方估算', '公开资料'] as const;
 
 const cases = defineCollection({
   type: 'content',

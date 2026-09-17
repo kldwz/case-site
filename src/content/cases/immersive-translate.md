@@ -9,7 +9,7 @@ name: Immersive Translate（沉浸式翻译）
 原文链接: https://immersivetranslate.com/
 数据口径: Mozilla 官方附加组件 API（addons.mozilla.org/api/v5/addons/addon/immersive-translate/），2026-09-12 抓取：日活 111,875、评分 3.76（482 条评价）、AMO 上架 2022-11-06；商业模式与额度说明来自官网 pricing 页（免费用户有每日请求限制，付费会员每月额度最高 5000 万 token，推荐升级返 20% 佣金）。收入未官方披露。
 分类: 浏览器扩展 / 免费+订阅 / 中文团队出海 / AI 翻译
-类型: 插件
+类型: 国内实践
 证据等级: 平台数据可查
 平台数据: Firefox 官方 API 日活 111,875 · 评分 3.76（482 条评价）· AMO 上架 2022-11-06；官网公示付费会员月额度上限 5000 万 token
 封面: /case-site/cases/immersive-translate/site.png
