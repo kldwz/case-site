@@ -2542,5 +2542,949 @@
     "cat": "创作者/科普",
     "source_url": "https://search.bilibili.com/upuser?keyword=%E6%AF%95%E5%AF%BCTHU",
     "note": "清华背景科普UP主，趣味科学短视频，商业变现。"
+  },
+  {
+    "slug": "lanqiao",
+    "name": "蓝桥杯大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 软件算法 / 高校",
+    "source_url": "https://www.lanqiao.cn/",
+    "note": "蓝桥杯全国软件和信息技术专业人才大赛，工业和信息化部人才交流中心主办，面向高校学生的软件与信息技术竞赛，含软件、电子、嵌入式等赛项。"
+  },
+  {
+    "slug": "ccf-ccsp",
+    "name": "CCF CSP / CCSP",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 软件能力 / 高校",
+    "source_url": "https://www.ccf.org.cn/",
+    "note": "中国计算机学会 CSP 软件能力认证与 CCSP 大学生计算机系统与程序设计竞赛，考察算法与系统能力。"
+  },
+  {
+    "slug": "ccpc",
+    "name": "中国大学生程序设计竞赛 CCPC",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 算法 / 高校",
+    "source_url": "https://www.ccpc.io/",
+    "note": "中国大学生程序设计竞赛（CCPC），ICPC 风格的算法竞赛，由高校轮流承办。"
+  },
+  {
+    "slug": "xiniuniao",
+    "name": "腾讯犀牛鸟创新大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 产业创新 / 企业",
+    "source_url": "https://www.tencent.com/",
+    "note": "腾讯犀牛鸟创新人才与精英人才计划相关赛事，面向青年学者与学生的研究与创新竞赛。"
+  },
+  {
+    "slug": "ascend-ai",
+    "name": "华为昇腾AI创新大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / AI 算子 / 企业",
+    "source_url": "https://www.hiascend.com/",
+    "note": "华为昇腾 AI 处理器生态的应用与算子创新大赛，鼓励基于昇腾芯片开发 AI 应用。"
+  },
+  {
+    "slug": "kunpeng",
+    "name": "华为鲲鹏应用创新大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 基础软件 / 企业",
+    "source_url": "https://www.hikunpeng.com/",
+    "note": "基于鲲鹏处理器的软件迁移与应用创新大赛，覆盖政务、金融、运营商等行业场景。"
+  },
+  {
+    "slug": "harmonyos-dev",
+    "name": "鸿蒙开发者大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 操作系统 / 企业",
+    "source_url": "https://developer.huawei.com/",
+    "note": "华为 HarmonyOS 鸿蒙生态应用开发大赛，鼓励开发者为鸿蒙系统构建原生应用与元服务。"
+  },
+  {
+    "slug": "tencent-kaiwu",
+    "name": "腾讯开悟AI大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 强化学习 / 企业",
+    "source_url": "https://aiarena.tencent.com/",
+    "note": "腾讯『开悟』多智能体强化学习开放平台主办的 AI 大赛，基于游戏环境训练智能体。"
+  },
+  {
+    "slug": "tencent-light",
+    "name": "腾讯Light公益创新挑战赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / AI for Good / 企业",
+    "source_url": "https://www.tencent.com/",
+    "note": "腾讯 Light 公益创新挑战赛，用 AI 技术解决教育、环保、文化等社会议题。"
+  },
+  {
+    "slug": "jd-explore",
+    "name": "京东探索者大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 电商算法 / 企业",
+    "source_url": "https://www.jd.com/",
+    "note": "京东探索者（JD Explore）人工智能大赛，聚焦零售、物流、供应链等场景的算法问题。"
+  },
+  {
+    "slug": "didi-gaia",
+    "name": "滴滴盖亚大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 出行算法 / 企业",
+    "source_url": "https://www.didiglobal.com/",
+    "note": "滴滴盖亚数据开放计划与算法大赛，开放出行轨迹数据供研究者参赛。"
+  },
+  {
+    "slug": "kuaishou-algo",
+    "name": "快手算法大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 视频算法 / 企业",
+    "source_url": "https://www.kuaishou.com/",
+    "note": "快手推荐与视频理解算法大赛，聚焦短视频推荐、内容理解与生成。"
+  },
+  {
+    "slug": "iflytek-contest",
+    "name": "科大讯飞AI大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 语音 AI / 企业",
+    "source_url": "https://www.iflytek.com/",
+    "note": "科大讯飞语音及人工智能应用大赛，覆盖语音识别、合成、自然语言处理等方向。"
+  },
+  {
+    "slug": "sensetime-contest",
+    "name": "商汤AI大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 计算机视觉 / 企业",
+    "source_url": "https://www.sensetime.com/",
+    "note": "商汤科技人工智能算法大赛，聚焦计算机视觉、大模型与多模态应用。"
+  },
+  {
+    "slug": "megvii-contest",
+    "name": "旷视算法大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 视觉算法 / 企业",
+    "source_url": "https://www.megvii.com/",
+    "note": "旷视科技计算机视觉算法大赛，面向人脸识别、图像理解等方向。"
+  },
+  {
+    "slug": "netease-fuxi",
+    "name": "网易伏羲AI大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 游戏 AI / 企业",
+    "source_url": "https://www.netease.com/",
+    "note": "网易伏羲人工智能大赛，聚焦游戏 AI、虚拟人、强化学习等方向。"
+  },
+  {
+    "slug": "sogou-algo",
+    "name": "搜狗算法大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 搜索算法 / 企业",
+    "source_url": "https://www.sogou.com/",
+    "note": "搜狗搜索与输入法算法大赛，覆盖自然语言处理与信息检索。"
+  },
+  {
+    "slug": "ctrip-algo",
+    "name": "携程算法大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 旅行算法 / 企业",
+    "source_url": "https://www.trip.com/",
+    "note": "携程旅行算法大赛，聚焦酒店推荐、搜索排序与供需预测。"
+  },
+  {
+    "slug": "zhihu-algo",
+    "name": "知乎算法大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 内容推荐 / 企业",
+    "source_url": "https://www.zhihu.com/",
+    "note": "知乎内容推荐与社区算法大赛，聚焦问答质量与信息分发。"
+  },
+  {
+    "slug": "qihoo-360-ctf",
+    "name": "360安全大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 安全 / 企业",
+    "source_url": "https://www.360.cn/",
+    "note": "360 安全应急响应与 CTF 网络安全竞赛，面向漏洞挖掘与攻防实战。"
+  },
+  {
+    "slug": "tctf",
+    "name": "腾讯TCTF网络安全大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 安全 / 企业",
+    "source_url": "https://www.tencent.com/",
+    "note": "腾讯信息安全争霸赛（TCTF），面向高校与企业安全研究者的 CTF 竞赛。"
+  },
+  {
+    "slug": "xctf",
+    "name": "XCTF全国网络安全技术大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 安全 / 高校",
+    "source_url": "https://www.xctf.org.cn/",
+    "note": "国内高校网络安全攻防竞赛联赛，由蓝莲花等战队发起。"
+  },
+  {
+    "slug": "alibaba-security",
+    "name": "阿里聚安全算法大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 安全算法 / 企业",
+    "source_url": "https://www.alibaba.com/",
+    "note": "阿里巴巴安全算法大赛，聚焦反欺诈、内容安全与风险识别。"
+  },
+  {
+    "slug": "pdd-algo",
+    "name": "拼多多算法大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 电商算法 / 企业",
+    "source_url": "https://www.pinduoduo.com/",
+    "note": "拼多多算法与数据挖掘大赛，聚焦推荐、搜索与广告预估。"
+  },
+  {
+    "slug": "bytedance-geek2",
+    "name": "字节跳动青训营大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 工程 / 企业",
+    "source_url": "https://www.bytedance.com/",
+    "note": "字节跳动青训营与算法大赛，面向高校学生的工程与算法训练。"
+  },
+  {
+    "slug": "craic",
+    "name": "中国机器人及人工智能大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 机器人 / 高校",
+    "source_url": "https://www.craci.net/",
+    "note": "中国机器人及人工智能大赛（CRAIC），涵盖机器人、人工智能、数字创意等赛项。"
+  },
+  {
+    "slug": "robocon-cn",
+    "name": "全国大学生机器人大赛RoboCon",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 机器人 / 高校",
+    "source_url": "https://www.cnrobocon.net/",
+    "note": "亚太大学生机器人大赛（ABU RoboCon）国内选拔赛，由中央电视台与自动化协会承办。"
+  },
+  {
+    "slug": "robot-work",
+    "name": "中国工程机器人大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 机器人 / 高校",
+    "source_url": "https://www.robotworker.com/",
+    "note": "中国工程机器人大赛暨国际公开赛，面向工程应用与搬运算术的机器人竞赛。"
+  },
+  {
+    "slug": "urc-cn",
+    "name": "国际水中机器人大会URC",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 机器人 / 高校",
+    "source_url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B0%B4%E4%B8%AD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%20URC",
+    "note": "国际水中机器人联盟（URC）赛事，聚焦水下机器人感知、控制与协作。"
+  },
+  {
+    "slug": "carc",
+    "name": "中国青少年机器人竞赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 机器人 / 青少年",
+    "source_url": "https://www.caa.org.cn/",
+    "note": "中国青少年机器人竞赛（CARC），由中国自动化学会主办，面向中小学的机器人赛事。"
+  },
+  {
+    "slug": "cumcm",
+    "name": "全国大学生数学建模竞赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 数学建模 / 高校",
+    "source_url": "https://www.mcm.edu.cn/",
+    "note": "高教社杯全国大学生数学建模竞赛（CUMCM），规模最大的本科生学科竞赛之一。"
+  },
+  {
+    "slug": "sz-cup",
+    "name": "深圳杯数学建模",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 数学建模 / 高校",
+    "source_url": "https://www.mcm.edu.cn/",
+    "note": "深圳杯数学建模挑战赛，面向全国大学生的数学建模竞赛。"
+  },
+  {
+    "slug": "huawei-cup-mcm",
+    "name": "华为杯研究生数学建模",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 数学建模 / 研究生",
+    "source_url": "https://www.mcm.edu.cn/",
+    "note": "『华为杯』中国研究生数学建模竞赛，面向在读研究生的数学建模赛事。"
+  },
+  {
+    "slug": "cgai",
+    "name": "中国研究生人工智能创新大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / AI / 研究生",
+    "source_url": "https://www.cie.org.cn/",
+    "note": "中国研究生人工智能创新大赛，聚焦 AI 算法与应用创新。"
+  },
+  {
+    "slug": "icisc",
+    "name": "全国大学生集成电路创新创业大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 芯片 / 高校",
+    "source_url": "https://www.icisc.cn/",
+    "note": "全国大学生集成电路创新创业大赛，覆盖芯片设计、验证与应用全链条。"
+  },
+  {
+    "slug": "china-chip",
+    "name": "中国芯集成电路设计大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 芯片 / 高校",
+    "source_url": "https://www.icisc.cn/",
+    "note": "『中国芯』全国集成电路设计大赛，鼓励自主芯片 IP 与 SoC 设计。"
+  },
+  {
+    "slug": "embedded-chip",
+    "name": "全国大学生嵌入式芯片与系统设计竞赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 嵌入式 / 高校",
+    "source_url": "https://www.cie.org.cn/",
+    "note": "全国大学生嵌入式芯片与系统设计竞赛，面向 MCU/FPGA 与物联网应用。"
+  },
+  {
+    "slug": "fpga-contest",
+    "name": "全国大学生FPGA创新设计竞赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / FPGA / 高校",
+    "source_url": "https://www.cie.org.cn/",
+    "note": "全国大学生 FPGA 创新设计竞赛，聚焦可编程逻辑器件应用。"
+  },
+  {
+    "slug": "phys-exp",
+    "name": "全国大学生物理实验竞赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 物理 / 高校",
+    "source_url": "https://www.moe.gov.cn/",
+    "note": "全国大学生物理实验竞赛，考察实验设计、操作与数据处理能力。"
+  },
+  {
+    "slug": "chem-eng",
+    "name": "全国大学生化工设计竞赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 化工 / 高校",
+    "source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8C%96%E5%B7%A5%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B",
+    "note": "全国大学生化工设计竞赛，面向化工类学生的工程设计赛事。"
+  },
+  {
+    "slug": "struct-design",
+    "name": "全国大学生结构设计竞赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 土木 / 高校",
+    "source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B",
+    "note": "全国大学生结构设计竞赛，考察模型结构受力与创意设计。"
+  },
+  {
+    "slug": "mech-innov",
+    "name": "全国大学生机械创新设计大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 机械 / 高校",
+    "source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9C%BA%E6%A2%B0%E5%88%9B%E6%96%B0%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B",
+    "note": "全国大学生机械创新设计大赛，面向机械原理与机构创新的赛事。"
+  },
+  {
+    "slug": "energy-save",
+    "name": "全国大学生节能减排竞赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 能源 / 高校",
+    "source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%A7%91%E6%8A%80%E7%AB%9E%E8%B5%9B",
+    "note": "全国大学生节能减排社会实践与科技竞赛，聚焦节能与环保科技作品。"
+  },
+  {
+    "slug": "siemens-cup",
+    "name": "西门子杯中国智能制造挑战赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 智能制造 / 高校",
+    "source_url": "https://www.siemens.com/",
+    "note": "『西门子杯』中国智能制造挑战赛，面向工业自动化与数字化工厂的竞赛。"
+  },
+  {
+    "slug": "ciscn",
+    "name": "全国大学生信息安全竞赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 安全 / 高校",
+    "source_url": "https://www.ciscn.com.cn/",
+    "note": "全国大学生信息安全竞赛（CISCN），由教育部高等学校信息安全教指委主办。"
+  },
+  {
+    "slug": "overseas-talent",
+    "name": "中国海外人才创新创业大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 创业 / 海归",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%A4%96%E4%BA%BA%E6%89%8D%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B",
+    "note": "中国海外人才创新创业大赛，面向留学人员回国创业的 projects 赛事。"
+  },
+  {
+    "slug": "zgc-frontier",
+    "name": "中关村国际前沿科技创新大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 科技 / 区域",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B3%E6%9D%91%E5%9B%BD%E9%99%85%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B",
+    "note": "中关村国际前沿科技创新大赛，聚焦人工智能、医药健康、智能制造等前沿领域。"
+  },
+  {
+    "slug": "shenchuang",
+    "name": "深圳创新创业大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 创业 / 区域",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B7%B1%E5%9C%B3%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B%20%E6%B7%B1%E5%88%9B%E8%B5%9B",
+    "note": "中国深圳创新创业大赛（深创赛），面向全国及海外的创新创业项目赛事。"
+  },
+  {
+    "slug": "soda",
+    "name": "上海开放数据创新应用大赛SODA",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 数据 / 区域",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%BC%80%E6%94%BE%E6%95%B0%E6%8D%AE%E5%88%9B%E6%96%B0%E5%BA%94%E7%94%A8%E5%A4%A7%E8%B5%9B%20SODA",
+    "note": "上海开放数据创新应用大赛（SODA），开放政府数据供开发者构建应用。"
+  },
+  {
+    "slug": "industrial-internet",
+    "name": "中国工业互联网大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 工业互联网 / 产业",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E8%B5%9B",
+    "note": "中国工业互联网大赛，聚焦制造业数字化转型的 solutions 竞赛。"
+  },
+  {
+    "slug": "industrial-app",
+    "name": "中国工业APP大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 工业软件 / 产业",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9AAPP%E5%A4%A7%E8%B5%9B",
+    "note": "中国工业 APP 大赛，鼓励面向工业场景的轻量化应用软件。"
+  },
+  {
+    "slug": "mobile-internet",
+    "name": "全国移动互联创新大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 移动 / 创业",
+    "source_url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B",
+    "note": "全国移动互联创新大赛，面向移动应用与物联网创业的赛事。"
+  },
+  {
+    "slug": "smart-city",
+    "name": "中国智慧城市大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 城市 / 产业",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%A4%A7%E8%B5%9B",
+    "note": "中国智慧城市大赛，聚焦城市治理与智慧应用的创新方案。"
+  },
+  {
+    "slug": "cvr",
+    "name": "中国虚拟现实大赛CVR",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / VR / 高校",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E%E5%A4%A7%E8%B5%9B%20CVR",
+    "note": "中国虚拟现实大赛（CVR），聚焦 VR/AR 内容与应用开发。"
+  },
+  {
+    "slug": "open-source-cn",
+    "name": "中国开源创新大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 开源 / 社区",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B",
+    "note": "中国开源创新大赛，鼓励开源项目与社区贡献。"
+  },
+  {
+    "slug": "kechuangzhongguo",
+    "name": "科创中国创新创业大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 创业 / 科协",
+    "source_url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%88%9B%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B",
+    "note": "『科创中国』创新创业大赛，由中国科协旗下平台主办。"
+  },
+  {
+    "slug": "study-abroad",
+    "name": "中国留学人员创业大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 创业 / 海归",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E4%BA%BA%E5%91%98%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B",
+    "note": "中国留学人员创业大赛，面向海外留学人员回国创业项目。"
+  },
+  {
+    "slug": "youth-sci",
+    "name": "中国科协青年科学家大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 科研 / 青年",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%8D%8F%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%A4%A7%E8%B5%9B",
+    "note": "中国科协青年科学家大赛，面向青年科技工作者的成果评选。"
+  },
+  {
+    "slug": "cylc",
+    "name": "中国青年创业大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 创业 / 青年",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B",
+    "note": "中国青年创业大赛，由共青团中央等主办的青年创业赛事。"
+  },
+  {
+    "slug": "woman-venture",
+    "name": "中国妇女创业创新大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 创业 / 女性",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E5%88%9B%E4%B8%9A%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B",
+    "note": "中国妇女创业创新大赛，面向女性创业者的项目赛事。"
+  },
+  {
+    "slug": "dia",
+    "name": "中国设计智造大奖DIA",
+    "kind": "competition",
+    "cat": "大奖类 / 设计 / 奖项",
+    "source_url": "https://www.dia-cn.com/",
+    "note": "中国设计智造大奖（DIA），由中国美术学院主办的国际化设计奖项。"
+  },
+  {
+    "slug": "redstar",
+    "name": "中国创新设计红星奖",
+    "kind": "competition",
+    "cat": "大奖类 / 设计 / 奖项",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E8%AE%BE%E8%AE%A1%E7%BA%A2%E6%98%9F%E5%A5%96",
+    "note": "中国创新设计红星奖，由北京工业设计促进中心主办的设计奖项。"
+  },
+  {
+    "slug": "goldenpin",
+    "name": "台湾金点设计奖",
+    "kind": "competition",
+    "cat": "大奖类 / 设计 / 奖项",
+    "source_url": "https://www.goldenpin.org.tw/",
+    "note": "台湾金点设计奖（Golden Pin Design Award），面向华语地区的设计奖项。"
+  },
+  {
+    "slug": "good-design-cn",
+    "name": "中国好设计奖",
+    "kind": "competition",
+    "cat": "大奖类 / 设计 / 奖项",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E8%AE%BE%E8%AE%A1%E5%A5%96",
+    "note": "『中国好设计』奖，由中国工程院发起的设计奖项评选。"
+  },
+  {
+    "slug": "guanghua",
+    "name": "光华龙腾奖",
+    "kind": "competition",
+    "cat": "大奖类 / 设计 / 奖项",
+    "source_url": "https://www.baidu.com/s?wd=%E5%85%89%E5%8D%8E%E9%BE%99%E8%85%BE%E5%A5%96%20%E4%B8%AD%E5%9B%BD%E8%AE%BE%E8%AE%A1%E4%B8%9A%E5%8D%81%E5%A4%A7%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4",
+    "note": "光华龙腾奖，评选『中国设计业十大杰出青年』的设计奖项。"
+  },
+  {
+    "slug": "wuwenjun",
+    "name": "吴文俊人工智能科学技术奖",
+    "kind": "competition",
+    "cat": "大奖类 / AI / 奖项",
+    "source_url": "https://www.baidu.com/s?wd=%E5%90%B4%E6%96%87%E4%BF%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A5%96",
+    "note": "吴文俊人工智能科学技术奖，由中国人工智能学会设立，奖励 AI 领域成果。"
+  },
+  {
+    "slug": "future-prize",
+    "name": "未来科学大奖",
+    "kind": "competition",
+    "cat": "大奖类 / 科学 / 奖项",
+    "source_url": "https://www.futureprize.org/",
+    "note": "未来科学大奖，民间发起的科学奖项，设生命科学、物质科学、数学与计算机奖。"
+  },
+  {
+    "slug": "xplorer",
+    "name": "科学探索奖",
+    "kind": "competition",
+    "cat": "大奖类 / 科学 / 奖项",
+    "source_url": "https://www.xplorerprize.org/",
+    "note": "科学探索奖，由腾讯基金会发起，面向青年科学家的科研资助奖项。"
+  },
+  {
+    "slug": "qingcheng",
+    "name": "达摩院青橙奖",
+    "kind": "competition",
+    "cat": "大奖类 / 科学 / 奖项",
+    "source_url": "https://www.baidu.com/s?wd=%E8%BE%BE%E6%91%A9%E9%99%A2%E9%9D%92%E6%A9%99%E5%A5%96",
+    "note": "达摩院青橙奖，由阿里巴巴达摩院设立，奖励 35 岁以下青年学者。"
+  },
+  {
+    "slug": "qiushi",
+    "name": "求是杰出科学家奖",
+    "kind": "competition",
+    "cat": "大奖类 / 科学 / 奖项",
+    "source_url": "https://www.baidu.com/s?wd=%E6%B1%82%E6%98%AF%E6%9D%B0%E5%87%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%A5%96",
+    "note": "求是杰出科学家奖，由香港求是科技基金会设立。"
+  },
+  {
+    "slug": "shaw",
+    "name": "邵逸夫奖",
+    "kind": "competition",
+    "cat": "大奖类 / 科学 / 奖项",
+    "source_url": "https://www.shawprize.org/",
+    "note": "邵逸夫奖，表彰天文学、生命科学与数学领域的杰出贡献。"
+  },
+  {
+    "slug": "turing",
+    "name": "图灵奖",
+    "kind": "competition",
+    "cat": "大奖类 / 计算机 / 奖项",
+    "source_url": "https://amturing.acm.org/",
+    "note": "图灵奖，计算机界最高荣誉，姚期智为首位华人得主。"
+  },
+  {
+    "slug": "state-top",
+    "name": "国家最高科学技术奖",
+    "kind": "competition",
+    "cat": "大奖类 / 科学 / 奖项",
+    "source_url": "https://www.most.gov.cn/",
+    "note": "国家最高科学技术奖，中国科技领域最高荣誉，每年授予人数极少。"
+  },
+  {
+    "slug": "natural-award",
+    "name": "国家自然科学奖",
+    "kind": "competition",
+    "cat": "大奖类 / 科学 / 奖项",
+    "source_url": "https://www.most.gov.cn/",
+    "note": "国家自然科学奖，奖励在基础研究中作出重大贡献的科技成果。"
+  },
+  {
+    "slug": "invent-award",
+    "name": "国家技术发明奖",
+    "kind": "competition",
+    "cat": "大奖类 / 科学 / 奖项",
+    "source_url": "https://www.most.gov.cn/",
+    "note": "国家技术发明奖，奖励重大技术发明成果。"
+  },
+  {
+    "slug": "progress-award",
+    "name": "国家科技进步奖",
+    "kind": "competition",
+    "cat": "大奖类 / 科学 / 奖项",
+    "source_url": "https://www.most.gov.cn/",
+    "note": "国家科技进步奖，奖励在技术开发与社会公益中有突出效益的成果。"
+  },
+  {
+    "slug": "cn-patent",
+    "name": "中国专利奖",
+    "kind": "competition",
+    "cat": "大奖类 / 知识产权 / 奖项",
+    "source_url": "https://www.cnipa.gov.cn/",
+    "note": "中国专利奖，由国家知识产权局与世界知识产权组织联合评选。"
+  },
+  {
+    "slug": "industry-grand",
+    "name": "中国工业大奖",
+    "kind": "competition",
+    "cat": "大奖类 / 工业 / 奖项",
+    "source_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%A5%96",
+    "note": "中国工业大奖，中国工业领域最高奖项。"
+  },
+  {
+    "slug": "quality-award",
+    "name": "中国质量奖",
+    "kind": "competition",
+    "cat": "大奖类 / 质量 / 奖项",
+    "source_url": "https://www.samr.gov.cn/",
+    "note": "中国质量奖，由国家市场监管总局评选的质量管理奖项。"
+  },
+  {
+    "slug": "liangsicheng",
+    "name": "梁思成建筑奖",
+    "kind": "competition",
+    "cat": "大奖类 / 建筑 / 奖项",
+    "source_url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%80%9D%E6%88%90%E5%BB%BA%E7%AD%91%E5%A5%96",
+    "note": "梁思成建筑奖，中国建筑学界的最高荣誉奖项。"
+  },
+  {
+    "slug": "standard-award",
+    "name": "中国标准创新贡献奖",
+    "kind": "competition",
+    "cat": "大奖类 / 标准 / 奖项",
+    "source_url": "https://www.samr.gov.cn/",
+    "note": "中国标准创新贡献奖，奖励在标准化工作中作出突出贡献的项目。"
+  },
+  {
+    "slug": "ccf-award",
+    "name": "CCF王选奖",
+    "kind": "competition",
+    "cat": "大奖类 / 计算机 / 奖项",
+    "source_url": "https://www.ccf.org.cn/",
+    "note": "CCF 王选奖，中国计算机学会设立的计算机领域奖项。"
+  },
+  {
+    "slug": "ieee-fellow-cn",
+    "name": "IEEE Fellow中国学者",
+    "kind": "competition",
+    "cat": "大奖类 / 学术荣誉 / 学者",
+    "source_url": "https://www.ieee.org/",
+    "note": "IEEE Fellow 为电气电子工程师学会的最高学术荣誉，众多中国学者入选。"
+  },
+  {
+    "slug": "acm-fellow-cn",
+    "name": "ACM Fellow中国学者",
+    "kind": "competition",
+    "cat": "大奖类 / 学术荣誉 / 学者",
+    "source_url": "https://www.acm.org/",
+    "note": "ACM Fellow 为 ACM 的最高会员荣誉，表彰计算机领域杰出贡献者。"
+  },
+  {
+    "slug": "nsfc-outstanding",
+    "name": "国家杰出青年科学基金",
+    "kind": "competition",
+    "cat": "大奖类 / 科研资助 / 学者",
+    "source_url": "https://www.nsfc.gov.cn/",
+    "note": "国家杰出青年科学基金（杰青），资助在基础研究方面已取得突出成绩的青年学者。"
+  },
+  {
+    "slug": "nsfc-key",
+    "name": "国家优秀青年科学基金",
+    "kind": "competition",
+    "cat": "大奖类 / 科研资助 / 学者",
+    "source_url": "https://www.nsfc.gov.cn/",
+    "note": "国家优秀青年科学基金（优青），支持在基础研究方面取得突出成绩的青年学者。"
+  },
+  {
+    "slug": "thousand-talent",
+    "name": "国家海外高层次人才引进计划",
+    "kind": "competition",
+    "cat": "大奖类 / 人才计划 / 学者",
+    "source_url": "https://www.most.gov.cn/",
+    "note": "国家海外高层次人才引进计划（千人计划），引进高层次海外人才。"
+  },
+  {
+    "slug": "young-thousand",
+    "name": "青年千人计划",
+    "kind": "competition",
+    "cat": "大奖类 / 人才计划 / 学者",
+    "source_url": "https://www.most.gov.cn/",
+    "note": "青年千人计划，面向海外优秀青年人才的引进计划。"
+  },
+  {
+    "slug": "changjiang",
+    "name": "长江学者奖励计划",
+    "kind": "competition",
+    "cat": "大奖类 / 人才计划 / 学者",
+    "source_url": "https://www.moe.gov.cn/",
+    "note": "长江学者奖励计划，教育部设立的特聘教授岗位制度。"
+  },
+  {
+    "slug": "tencent-wnc",
+    "name": "腾讯微信小程序大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 小程序 / 企业",
+    "source_url": "https://developers.weixin.qq.com/",
+    "note": "微信小程序应用开发赛事，鼓励开发者基于微信生态构建应用。"
+  },
+  {
+    "slug": "alipay-mini",
+    "name": "支付宝小程序大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 小程序 / 企业",
+    "source_url": "https://open.alipay.com/",
+    "note": "支付宝小程序开发赛事，面向生活服务与商业场景。"
+  },
+  {
+    "slug": "douyin-open",
+    "name": "抖音开放平台大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 短视频 / 企业",
+    "source_url": "https://open.douyin.com/",
+    "note": "抖音开放平台开发者大赛，鼓励基于抖音生态的内容与工具创新。"
+  },
+  {
+    "slug": "bytedance-fe",
+    "name": "字节跳动前端挑战赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 前端 / 企业",
+    "source_url": "https://www.bytedance.com/",
+    "note": "字节跳动前端技术挑战赛，面向 Web 前端与跨端开发。"
+  },
+  {
+    "slug": "meituan-ai",
+    "name": "美团AI大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 生活服务算法 / 企业",
+    "source_url": "https://www.meituan.com/",
+    "note": "美团 AI 大赛，聚焦本地生活场景的算法与机器学习问题。"
+  },
+  {
+    "slug": "baidu-ai-studio",
+    "name": "百度AI Studio大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 深度学习 / 企业",
+    "source_url": "https://aistudio.baidu.com/",
+    "note": "百度 AI Studio 深度学习大赛，提供 PaddlePaddle 与算力支持。"
+  },
+  {
+    "slug": "huawei-iot",
+    "name": "华为IoT大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 物联网 / 企业",
+    "source_url": "https://www.huawei.com/",
+    "note": "华为物联网开发者大赛，面向智慧城市与行业物联应用。"
+  },
+  {
+    "slug": "aliyun-dev",
+    "name": "阿里云开发者大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 云计算 / 企业",
+    "source_url": "https://www.aliyun.com/",
+    "note": "阿里云开发者大赛，聚焦云原生、Serverless 与数据应用。"
+  },
+  {
+    "slug": "tencent-cloud-dev",
+    "name": "腾讯云开发者大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 云计算 / 企业",
+    "source_url": "https://cloud.tencent.com/",
+    "note": "腾讯云开发者大赛，面向云原生与 AI 应用开发。"
+  },
+  {
+    "slug": "kingsoft-wps",
+    "name": "WPS办公软件大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 办公软件 / 企业",
+    "source_url": "https://www.wps.cn/",
+    "note": "WPS 办公软件创新大赛，鼓励文档、表格、演示相关的插件与模板生态。"
+  },
+  {
+    "slug": "xiaomi-vela",
+    "name": "小米Vela物联网大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 物联网 / 企业",
+    "source_url": "https://www.mi.com/",
+    "note": "小米 Vela 物联网操作系统开发者大赛，面向智能家居与穿戴设备。"
+  },
+  {
+    "slug": "oppo-coloros",
+    "name": "OPPO ColorOS大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 移动系统 / 企业",
+    "source_url": "https://www.oppo.com/",
+    "note": "OPPO ColorOS 开发者与主题设计大赛，面向系统与视觉创意。"
+  },
+  {
+    "slug": "vivo-originos",
+    "name": "vivo OriginOS大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 移动系统 / 企业",
+    "source_url": "https://www.vivo.com.cn/",
+    "note": "vivo OriginOS 开发者与创意大赛，鼓励系统级应用创新。"
+  },
+  {
+    "slug": "honor-magicos",
+    "name": "荣耀MagicOS大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 移动系统 / 企业",
+    "source_url": "https://www.honor.com/",
+    "note": "荣耀 MagicOS 开发者大赛，面向跨设备与智慧互联应用。"
+  },
+  {
+    "slug": "geektime",
+    "name": "极客时间技术大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 技术社区 / 企业",
+    "source_url": "https://time.geekbang.org/",
+    "note": "极客时间主办的技术竞技与开发者活动，面向工程师成长。"
+  },
+  {
+    "slug": "juejin",
+    "name": "掘金开发者大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 技术社区 / 企业",
+    "source_url": "https://juejin.cn/",
+    "note": "掘金社区主办的开发者竞赛，面向前端与移动端创意。"
+  },
+  {
+    "slug": "csdn",
+    "name": "CSDN开发者大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 技术社区 / 企业",
+    "source_url": "https://www.csdn.net/",
+    "note": "CSDN 主办的开发者竞赛，覆盖算法、AI 与开源项目。"
+  },
+  {
+    "slug": "infoq",
+    "name": "InfoQ技术大会挑战赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 技术社区 / 企业",
+    "source_url": "https://www.infoq.cn/",
+    "note": "InfoQ 技术社区主办的技术挑战赛与黑客马拉松。"
+  },
+  {
+    "slug": "gitcode",
+    "name": "GitCode开源大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 开源 / 社区",
+    "source_url": "https://gitcode.net/",
+    "note": "GitCode 开源开发者大赛，鼓励国产代码托管平台上的开源项目。"
+  },
+  {
+    "slug": "gitee",
+    "name": "Gitee开源大赛",
+    "kind": "competition",
+    "cat": "比赛获奖项目 / 开源 / 社区",
+    "source_url": "https://gitee.com/",
+    "note": "Gitee 码云开源大赛，评选优秀国产开源项目。"
+  },
+  {
+    "slug": "feishu-doc",
+    "name": "飞书文档插件",
+    "kind": "ext",
+    "cat": "Chrome 扩展 / 协作 / 中文",
+    "source_url": "https://www.feishu.cn/",
+    "note": "飞书文档相关浏览器扩展，便于在网页中快速收藏与插入到飞书云文档。"
+  },
+  {
+    "slug": "yuque-ext",
+    "name": "语雀浏览器插件",
+    "kind": "ext",
+    "cat": "Chrome 扩展 / 笔记 / 中文",
+    "source_url": "https://www.yuque.com/",
+    "note": "语雀官方浏览器插件，支持网页剪藏与一键保存到知识库。"
+  },
+  {
+    "slug": "tampermonkey-cn",
+    "name": "油猴中文脚本社区",
+    "kind": "ext",
+    "cat": "Chrome 扩展 / 脚本 / 中文",
+    "source_url": "https://greasyfork.org/",
+    "note": "Tampermonkey 油猴脚本管理器，GreasyFork 上有大量中文用户贡献的脚本。"
+  },
+  {
+    "slug": "esp32-cn",
+    "name": "ESP32国产模组生态",
+    "kind": "hardware",
+    "cat": "开源硬件 / 物联网 / 中文",
+    "source_url": "https://www.espressif.com/",
+    "note": "乐鑫 ESP32 系列 Wi-Fi/蓝牙 SoC，催生大量中文创客与开源硬件项目。"
+  },
+  {
+    "slug": "sipeed",
+    "name": "矽速Sipeed开发板",
+    "kind": "hardware",
+    "cat": "开源硬件 / AI oT / 中文",
+    "source_url": "https://www.sipeed.com/",
+    "note": "Sipeed（矽速）出品 RISC-V 与 K210 等低功耗 AI 开发板，面向创客与教学。"
+  },
+  {
+    "slug": "m5stack",
+    "name": "M5Stack模组",
+    "kind": "hardware",
+    "cat": "开源硬件 / 模块化 / 中文",
+    "source_url": "https://m5stack.com/",
+    "note": "M5Stack 模块化堆叠式开发套件，广泛用于原型与工业 IoT 创意。"
+  },
+  {
+    "slug": "fengdahui",
+    "name": "冯大辉",
+    "kind": "maker",
+    "cat": "创作者/独立开发 / 技术IP / 中文",
+    "source_url": "https://dbanotes.net/",
+    "note": "冯大辉（Fenng），技术圈知名作者与连续创业者，早期丁香园、无码科技创始人。"
+  },
+  {
+    "slug": "caoz",
+    "name": "曹政",
+    "kind": "maker",
+    "cat": "创作者/独立开发 / 技术IP / 中文",
+    "source_url": "https://www.baidu.com/s?wd=%E6%9B%B9%E6%94%BF%20caoz",
+    "note": "曹政（caoz），资深技术人、站长，以数据分析与技术思考类内容著称。"
+  },
+  {
+    "slug": "ruanyf",
+    "name": "阮一峰",
+    "kind": "maker",
+    "cat": "创作者/独立开发 / 技术博客 / 中文",
+    "source_url": "https://www.ruanyifeng.com/",
+    "note": "阮一峰，知名技术博客作者，《科技爱好者周刊》主理人，前端与开源布道者。"
   }
 ]
