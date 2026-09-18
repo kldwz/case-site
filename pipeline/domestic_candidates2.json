@@ -1,0 +1,850 @@
+[
+  {
+    "slug": "weixin-yuedu",
+    "name": "微信读书",
+    "kind": "app",
+    "cat": "阅读/出版书",
+    "itunes_q": "微信读书",
+    "note": "腾讯旗下正版阅读App，海量出版书与网文，会员+免费混合。"
+  },
+  {
+    "slug": "qidian",
+    "name": "起点读书",
+    "kind": "app",
+    "cat": "阅读/网文",
+    "itunes_q": "起点读书",
+    "note": "阅文旗下网文阅读龙头，付费订阅与免费模式并存。"
+  },
+  {
+    "slug": "qq-yuedu",
+    "name": "QQ阅读",
+    "kind": "app",
+    "cat": "阅读/网文",
+    "itunes_q": "QQ阅读",
+    "note": "腾讯系网文阅读App，出版书与原创内容。"
+  },
+  {
+    "slug": "zhangyue",
+    "name": "掌阅",
+    "kind": "app",
+    "cat": "阅读/网文",
+    "itunes_q": "掌阅",
+    "note": "掌阅科技旗下阅读App，出版书与网文，软硬一体。"
+  },
+  {
+    "slug": "midu",
+    "name": "米读",
+    "kind": "app",
+    "cat": "阅读/免费网文",
+    "itunes_q": "米读",
+    "note": "免费网文阅读App，广告变现模式。"
+  },
+  {
+    "slug": "dedao",
+    "name": "得到",
+    "kind": "app",
+    "cat": "知识付费",
+    "itunes_q": "得到",
+    "note": "罗辑思维旗下知识付费App，音频课程订阅。"
+  },
+  {
+    "slug": "weixin-tingshu",
+    "name": "微信听书",
+    "kind": "app",
+    "cat": "听书/有声",
+    "itunes_q": "微信听书",
+    "note": "微信旗下听书App，出版书有声化，会员订阅。"
+  },
+  {
+    "slug": "fanqie-changting",
+    "name": "番茄畅听",
+    "kind": "app",
+    "cat": "听书/免费",
+    "itunes_q": "番茄畅听",
+    "note": "字节旗下免费听书App，番茄小说衍生，广告变现。"
+  },
+  {
+    "slug": "netease-music",
+    "name": "网易云音乐",
+    "kind": "app",
+    "cat": "音乐/流媒体",
+    "itunes_q": "网易云音乐",
+    "note": "音乐流媒体App，会员订阅+社区社交。"
+  },
+  {
+    "slug": "qq-music",
+    "name": "QQ音乐",
+    "kind": "app",
+    "cat": "音乐/流媒体",
+    "itunes_q": "QQ音乐",
+    "note": "腾讯QQ音乐，版权音乐流媒体，会员订阅。"
+  },
+  {
+    "slug": "kugou",
+    "name": "酷狗音乐",
+    "kind": "app",
+    "cat": "音乐/流媒体",
+    "itunes_q": "酷狗音乐",
+    "note": "音乐流媒体App，会员+直播。"
+  },
+  {
+    "slug": "kuwo",
+    "name": "酷我音乐",
+    "kind": "app",
+    "cat": "音乐/流媒体",
+    "itunes_q": "酷我音乐",
+    "note": "音乐流媒体App，会员订阅。"
+  },
+  {
+    "slug": "ximalaya",
+    "name": "喜马拉雅",
+    "kind": "app",
+    "cat": "音频/播客",
+    "itunes_q": "喜马拉雅",
+    "note": "在线音频与播客龙头，会员订阅+主播分成。"
+  },
+  {
+    "slug": "qingting",
+    "name": "蜻蜓FM",
+    "kind": "app",
+    "cat": "音频/电台",
+    "itunes_q": "蜻蜓FM",
+    "note": "网络电台与有声内容App，会员订阅。"
+  },
+  {
+    "slug": "keep",
+    "name": "Keep",
+    "kind": "app",
+    "cat": "健身/运动",
+    "itunes_q": "Keep",
+    "note": "运动科技公司，健身App+硬件+课程，会员订阅。"
+  },
+  {
+    "slug": "gudong",
+    "name": "咕咚",
+    "kind": "app",
+    "cat": "跑步/运动",
+    "itunes_q": "咕咚",
+    "note": "跑步运动记录App，硬件+赛事+会员。"
+  },
+  {
+    "slug": "yuepaoquan",
+    "name": "悦跑圈",
+    "kind": "app",
+    "cat": "跑步/社区",
+    "itunes_q": "悦跑圈",
+    "note": "跑者社区与训练App，会员+电商。"
+  },
+  {
+    "slug": "baiyan",
+    "name": "百词斩",
+    "kind": "app",
+    "cat": "教育/背单词",
+    "itunes_q": "百词斩",
+    "note": "图背单词App，付费课程+会员。"
+  },
+  {
+    "slug": "youdao-cidian",
+    "name": "有道词典",
+    "kind": "app",
+    "cat": "工具/翻译",
+    "itunes_q": "有道词典",
+    "note": "网易有道词典，翻译与词典工具，会员+广告。"
+  },
+  {
+    "slug": "liulishuo",
+    "name": "流利说",
+    "kind": "app",
+    "cat": "教育/英语",
+    "itunes_q": "流利说",
+    "note": "AI英语口语App，课程订阅。"
+  },
+  {
+    "slug": "zuoyebang",
+    "name": "作业帮",
+    "kind": "app",
+    "cat": "教育/K12",
+    "itunes_q": "作业帮",
+    "note": "K12拍照搜题与直播课App，课程付费。"
+  },
+  {
+    "slug": "xiaoyuan",
+    "name": "小猿搜题",
+    "kind": "app",
+    "cat": "教育/K12",
+    "itunes_q": "小猿搜题",
+    "note": "猿辅导旗下搜题App，导流课程。"
+  },
+  {
+    "slug": "xueersi",
+    "name": "学而思",
+    "kind": "app",
+    "cat": "教育/网课",
+    "itunes_q": "学而思",
+    "note": "好未来旗下中小学网课App，课程付费。"
+  },
+  {
+    "slug": "wangyi-gkk",
+    "name": "网易公开课",
+    "kind": "app",
+    "cat": "教育/公开课",
+    "itunes_q": "网易公开课",
+    "note": "名校公开课聚合App，免费。"
+  },
+  {
+    "slug": "cnu-mooc",
+    "name": "中国大学MOOC",
+    "kind": "app",
+    "cat": "教育/慕课",
+    "itunes_q": "中国大学MOOC",
+    "note": "高校慕课平台，免费+认证。"
+  },
+  {
+    "slug": "camscanner",
+    "name": "扫描全能王",
+    "kind": "app",
+    "cat": "工具/扫描OCR",
+    "itunes_q": "扫描全能王",
+    "note": "文档扫描OCR App，订阅+按次。"
+  },
+  {
+    "slug": "mingpian",
+    "name": "名片全能王",
+    "kind": "app",
+    "cat": "工具/名片",
+    "itunes_q": "名片全能王",
+    "note": "名片识别与管理App，订阅。"
+  },
+  {
+    "slug": "sougou-input",
+    "name": "搜狗输入法",
+    "kind": "app",
+    "cat": "工具/输入法",
+    "itunes_q": "搜狗输入法",
+    "note": "中文输入法App，免费+皮肤广告。"
+  },
+  {
+    "slug": "baidu-input",
+    "name": "百度输入法",
+    "kind": "app",
+    "cat": "工具/输入法",
+    "itunes_q": "百度输入法",
+    "note": "中文输入法App，免费。"
+  },
+  {
+    "slug": "xunfei-input",
+    "name": "讯飞输入法",
+    "kind": "app",
+    "cat": "工具/输入法",
+    "itunes_q": "讯飞输入法",
+    "note": "语音输入法App，免费+会员。"
+  },
+  {
+    "slug": "xunfei-yuji",
+    "name": "讯飞语记",
+    "kind": "app",
+    "cat": "工具/语音笔记",
+    "itunes_q": "讯飞语记",
+    "note": "语音转文字笔记App，会员订阅。"
+  },
+  {
+    "slug": "meitu",
+    "name": "美图秀秀",
+    "kind": "app",
+    "cat": "摄影/修图",
+    "itunes_q": "美图秀秀",
+    "note": "修图美颜App，免费+增值+硬件。"
+  },
+  {
+    "slug": "meiyan",
+    "name": "美颜相机",
+    "kind": "app",
+    "cat": "摄影/自拍",
+    "itunes_q": "美颜相机",
+    "note": "自拍美颜App，免费+增值。"
+  },
+  {
+    "slug": "qingyan",
+    "name": "轻颜相机",
+    "kind": "app",
+    "cat": "摄影/自拍",
+    "itunes_q": "轻颜相机",
+    "note": "风格化自拍App，免费+滤镜。"
+  },
+  {
+    "slug": "xingtu",
+    "name": "醒图",
+    "kind": "app",
+    "cat": "摄影/修图",
+    "itunes_q": "醒图",
+    "note": "全能修图App，免费+素材。"
+  },
+  {
+    "slug": "faceu",
+    "name": "Faceu激萌",
+    "kind": "app",
+    "cat": "摄影/自拍",
+    "itunes_q": "Faceu激萌",
+    "note": "萌系自拍App，免费+贴纸。"
+  },
+  {
+    "slug": "b612",
+    "name": "B612",
+    "kind": "app",
+    "cat": "摄影/自拍",
+    "itunes_q": "B612",
+    "note": "自拍相机App，免费+滤镜。"
+  },
+  {
+    "slug": "wuta",
+    "name": "无他相机",
+    "kind": "app",
+    "cat": "摄影/自拍",
+    "itunes_q": "无他相机",
+    "note": "直播级美颜相机，免费。"
+  },
+  {
+    "slug": "tiantian-p",
+    "name": "天天P图",
+    "kind": "app",
+    "cat": "摄影/修图",
+    "itunes_q": "天天P图",
+    "note": "综合修图App，免费。"
+  },
+  {
+    "slug": "jianying",
+    "name": "剪映",
+    "kind": "app",
+    "cat": "视频/剪辑",
+    "itunes_q": "剪映",
+    "note": "字节旗下视频剪辑App，免费+模板。"
+  },
+  {
+    "slug": "kuaiying",
+    "name": "快影",
+    "kind": "app",
+    "cat": "视频/剪辑",
+    "itunes_q": "快影",
+    "note": "快手旗下视频剪辑App，免费。"
+  },
+  {
+    "slug": "bijian",
+    "name": "必剪",
+    "kind": "app",
+    "cat": "视频/剪辑",
+    "itunes_q": "必剪",
+    "note": "B站官方剪辑App，免费。"
+  },
+  {
+    "slug": "miaojian",
+    "name": "秒剪",
+    "kind": "app",
+    "cat": "视频/剪辑",
+    "itunes_q": "秒剪",
+    "note": "微信官方视频剪辑，免费。"
+  },
+  {
+    "slug": "xinpianchang",
+    "name": "新片场",
+    "kind": "app",
+    "cat": "视频/创作社区",
+    "itunes_q": "新片场",
+    "note": "创作人社区与素材平台，会员+交易。"
+  },
+  {
+    "slug": "tongli",
+    "name": "同花顺",
+    "kind": "app",
+    "cat": "财经/炒股",
+    "itunes_q": "同花顺",
+    "note": "炒股软件，增值服务+开户导流。"
+  },
+  {
+    "slug": "dongfang",
+    "name": "东方财富",
+    "kind": "app",
+    "cat": "财经/炒股",
+    "itunes_q": "东方财富",
+    "note": "财经门户与炒股，广告+增值+基金销售。"
+  },
+  {
+    "slug": "dazhihui",
+    "name": "大智慧",
+    "kind": "app",
+    "cat": "财经/炒股",
+    "itunes_q": "大智慧",
+    "note": "炒股软件，增值服务。"
+  },
+  {
+    "slug": "futu",
+    "name": "富途牛牛",
+    "kind": "app",
+    "cat": "财经/港美股",
+    "itunes_q": "富途牛牛",
+    "note": "港美股券商App，交易佣金。"
+  },
+  {
+    "slug": "laohu",
+    "name": "老虎证券",
+    "kind": "app",
+    "cat": "财经/美股",
+    "itunes_q": "老虎证券",
+    "note": "美港股券商App，交易佣金。"
+  },
+  {
+    "slug": "tiantian-jijin",
+    "name": "天天基金",
+    "kind": "app",
+    "cat": "财经/基金",
+    "itunes_q": "天天基金",
+    "note": "基金销售平台，申赎费尾随。"
+  },
+  {
+    "slug": "danjuan",
+    "name": "蛋卷基金",
+    "kind": "app",
+    "cat": "财经/基金",
+    "itunes_q": "蛋卷基金",
+    "note": "基金组合销售，管理费分成。"
+  },
+  {
+    "slug": "qiemo",
+    "name": "且慢",
+    "kind": "app",
+    "cat": "财经/投顾",
+    "itunes_q": "且慢",
+    "note": "基金投顾平台，投顾费。"
+  },
+  {
+    "slug": "yunshanfu",
+    "name": "云闪付",
+    "kind": "app",
+    "cat": "金融/支付",
+    "itunes_q": "云闪付",
+    "note": "银联移动支付App，免费。"
+  },
+  {
+    "slug": "zhaoshang",
+    "name": "招商银行",
+    "kind": "app",
+    "cat": "金融/银行",
+    "itunes_q": "招商银行",
+    "note": "手机银行App，免费。"
+  },
+  {
+    "slug": "pingan-bank",
+    "name": "平安口袋银行",
+    "kind": "app",
+    "cat": "金融/银行",
+    "itunes_q": "平安口袋银行",
+    "note": "手机银行App，免费。"
+  },
+  {
+    "slug": "ant-wealth",
+    "name": "蚂蚁财富",
+    "kind": "app",
+    "cat": "金融/理财",
+    "itunes_q": "蚂蚁财富",
+    "note": "支付宝内理财平台，基金销售。"
+  },
+  {
+    "slug": "bank-of-china",
+    "name": "中国银行",
+    "kind": "app",
+    "cat": "金融/银行",
+    "itunes_q": "中国银行",
+    "note": "手机银行App，免费。"
+  },
+  {
+    "slug": "weizhong-bank",
+    "name": "微众银行",
+    "kind": "app",
+    "cat": "金融/互联网银行",
+    "itunes_q": "微众银行",
+    "note": "互联网银行，存款+理财。"
+  },
+  {
+    "slug": "zhongan",
+    "name": "众安保险",
+    "kind": "app",
+    "cat": "金融/保险",
+    "itunes_q": "众安保险",
+    "note": "互联网保险公司，保费。"
+  },
+  {
+    "slug": "dongchedi",
+    "name": "懂车帝",
+    "kind": "app",
+    "cat": "汽车/资讯",
+    "itunes_q": "懂车帝",
+    "note": "字节旗下汽车资讯与报价，广告+电商。"
+  },
+  {
+    "slug": "autohome",
+    "name": "汽车之家",
+    "kind": "app",
+    "cat": "汽车/门户",
+    "itunes_q": "汽车之家",
+    "note": "汽车垂直门户，广告+线索。"
+  },
+  {
+    "slug": "yiche",
+    "name": "易车",
+    "kind": "app",
+    "cat": "汽车/门户",
+    "itunes_q": "易车",
+    "note": "汽车资讯与交易，广告+佣金。"
+  },
+  {
+    "slug": "tampermonkey",
+    "name": "Tampermonkey",
+    "kind": "ext",
+    "cat": "Chrome插件/脚本",
+    "source_url": "https://www.tampermonkey.net/",
+    "note": "最流行的用户脚本管理器，开源作者 Jan Biniok，全球数千万安装。"
+  },
+  {
+    "slug": "bilibili-helper",
+    "name": "哔哩哔哩助手",
+    "kind": "ext",
+    "cat": "Chrome插件/哔哩",
+    "source_url": "https://github.com/the1812/Bilibili-Evolved",
+    "note": "开源B站增强脚本 Bilibili Evolved，作者 the1812，国产。"
+  },
+  {
+    "slug": "bitwarden",
+    "name": "Bitwarden",
+    "kind": "ext",
+    "cat": "Chrome插件/密码",
+    "source_url": "https://bitwarden.com/",
+    "note": "开源跨平台密码管理器，订阅制，团队开源。"
+  },
+  {
+    "slug": "joplin",
+    "name": "Joplin",
+    "kind": "ext",
+    "cat": "Chrome插件/笔记",
+    "source_url": "https://joplinapp.org/",
+    "note": "开源笔记与待办App，端到端加密，国产团队参与。"
+  },
+  {
+    "slug": "zotero",
+    "name": "Zotero",
+    "kind": "ext",
+    "cat": "Chrome插件/文献",
+    "source_url": "https://www.zotero.org/",
+    "note": "开源文献管理工具，研究者广泛使用。"
+  },
+  {
+    "slug": "xmind",
+    "name": "XMind",
+    "kind": "ext",
+    "cat": "Chrome插件/思维导图",
+    "source_url": "https://www.xmind.cn/",
+    "note": "思维导图工具，国产商业软件，多端同步。"
+  },
+  {
+    "slug": "inoreader",
+    "name": "Inoreader",
+    "kind": "ext",
+    "cat": "Chrome插件/RSS",
+    "source_url": "https://www.inoreader.com/",
+    "note": "RSS阅读器，订阅制，重度信息消费者常用。"
+  },
+  {
+    "slug": "pocket",
+    "name": "Pocket",
+    "kind": "ext",
+    "cat": "Chrome插件/稍后读",
+    "source_url": "https://getpocket.com/",
+    "note": "稍后读收藏工具，被 Mozilla 收购。"
+  },
+  {
+    "slug": "session-buddy",
+    "name": "Session Buddy",
+    "kind": "ext",
+    "cat": "Chrome插件/标签页",
+    "source_url": "https://sessionbuddy.com/",
+    "note": "标签页与会话管理扩展，老牌工具。"
+  },
+  {
+    "slug": "infinity-newtab",
+    "name": "Infinity新标签页",
+    "kind": "ext",
+    "cat": "Chrome插件/新标签",
+    "source_url": "https://infinitynewtab.com/",
+    "note": "极简新标签页扩展，国产，海量用户。"
+  },
+  {
+    "slug": "awesome-screenshot",
+    "name": "Awesome Screenshot",
+    "kind": "ext",
+    "cat": "Chrome插件/截图",
+    "source_url": "https://www.awesomescreenshot.com/",
+    "note": "网页截图与标注扩展，全球广泛使用。"
+  },
+  {
+    "slug": "netease-music-ext",
+    "name": "网易云音乐插件",
+    "kind": "ext",
+    "cat": "Chrome插件/音乐",
+    "source_url": "https://music.163.com/",
+    "note": "网易云音乐听歌相关浏览器扩展，国产。"
+  },
+  {
+    "slug": "gouwudang",
+    "name": "购物党",
+    "kind": "ext",
+    "cat": "Chrome插件/比价",
+    "source_url": "https://gwdang.com/",
+    "note": "历史价格与全网比价扩展，国产，真实运营。"
+  },
+  {
+    "slug": "smzdm-ext",
+    "name": "什么值得买",
+    "kind": "ext",
+    "cat": "Chrome插件/优惠",
+    "source_url": "https://www.smzdm.com/",
+    "note": "优惠爆料社区浏览器扩展，国产，真实上市企业。"
+  },
+  {
+    "slug": "translator-ext",
+    "name": "Google 翻译",
+    "kind": "ext",
+    "cat": "Chrome插件/翻译",
+    "source_url": "https://translate.google.com/",
+    "note": "网页翻译扩展，全球最常用。"
+  },
+  {
+    "slug": "grammarly-ext",
+    "name": "Grammarly",
+    "kind": "ext",
+    "cat": "Chrome插件/写作",
+    "source_url": "https://www.grammarly.com/",
+    "note": "英文语法与拼写检查扩展，订阅制。"
+  },
+  {
+    "slug": "video-downloadhelper",
+    "name": "Video DownloadHelper",
+    "kind": "ext",
+    "cat": "Chrome插件/下载",
+    "source_url": "https://www.downloadhelper.net/",
+    "note": "网页视频下载扩展，老牌工具。"
+  },
+  {
+    "slug": "fehelper",
+    "name": "FE助手",
+    "kind": "ext",
+    "cat": "Chrome插件/前端",
+    "source_url": "https://www.baidufe.com/fehelper",
+    "note": "前端开发助手扩展，百度FE团队出品，国产开源。"
+  },
+  {
+    "slug": "drawio-diagrams",
+    "name": "draw.io",
+    "kind": "ext",
+    "cat": "Chrome插件/绘图",
+    "source_url": "https://www.drawio.com/",
+    "note": "开源流程图/图表绘制工具，广泛商用。"
+  },
+  {
+    "slug": "onetab",
+    "name": "OneTab",
+    "kind": "ext",
+    "cat": "Chrome插件/标签页",
+    "source_url": "https://www.one-tab.com/",
+    "note": "标签页收藏与节省内存扩展，老牌工具。"
+  },
+  {
+    "slug": "wikiwand",
+    "name": "Wikiwand",
+    "kind": "ext",
+    "cat": "Chrome插件/维基",
+    "source_url": "https://www.wikiwand.com/",
+    "note": "维基百科优化阅读扩展，全球使用。"
+  },
+  {
+    "slug": "huawei-ict",
+    "name": "华为ICT大赛",
+    "kind": "competition",
+    "cat": "比赛/ICT",
+    "source_url": "https://e.huawei.com/cn/talent/",
+    "note": "华为面向全球大学生的ICT技能竞赛，真实知名。"
+  },
+  {
+    "slug": "baidu-star",
+    "name": "百度之星",
+    "kind": "competition",
+    "cat": "比赛/算法",
+    "source_url": "https://star.baidu.com/",
+    "note": "百度主办的程序设计大赛，历史悠久。"
+  },
+  {
+    "slug": "weixin-mini",
+    "name": "微信小程序开发赛",
+    "kind": "competition",
+    "cat": "比赛/小程序",
+    "source_url": "https://developers.weixin.qq.com/community/",
+    "note": "腾讯微信官方小程序应用开发赛事，真实。"
+  },
+  {
+    "slug": "wrc",
+    "name": "世界机器人大赛",
+    "kind": "competition",
+    "cat": "比赛/机器人",
+    "source_url": "https://www.worldrobotconference.com/",
+    "note": "中国电子学会主办的世界级机器人赛事，真实。"
+  },
+  {
+    "slug": "if-design",
+    "name": "iF设计奖",
+    "kind": "competition",
+    "cat": "比赛/设计",
+    "source_url": "https://ifdesign.com/",
+    "note": "国际权威设计奖项，中国团队常年获奖。"
+  },
+  {
+    "slug": "reddot",
+    "name": "红点设计奖",
+    "kind": "competition",
+    "cat": "比赛/设计",
+    "source_url": "https://www.red-dot.org/",
+    "note": "国际权威设计奖项，中国院校与企业常获奖。"
+  },
+  {
+    "slug": "ad-cn",
+    "name": "全国大学生广告艺术大赛",
+    "kind": "competition",
+    "cat": "比赛/广告",
+    "source_url": "https://www.sun-ada.net/",
+    "note": "教育部认可的全国大学生广告赛事，真实。"
+  },
+  {
+    "slug": "mcm-icm",
+    "name": "美国大学生数学建模竞赛",
+    "kind": "competition",
+    "cat": "比赛/数学建模",
+    "source_url": "https://www.comap.com/",
+    "note": "MCM/ICM，中国高校参赛极多，真实权威。"
+  },
+  {
+    "slug": "ciepe",
+    "name": "中国研究生电子设计竞赛",
+    "kind": "competition",
+    "cat": "比赛/电子",
+    "source_url": "https://cpipc.chinadegrees.cn/",
+    "note": "中国研究生创新实践系列赛事，真实。"
+  },
+  {
+    "slug": "crad",
+    "name": "中国机器人大赛",
+    "kind": "competition",
+    "cat": "比赛/机器人",
+    "source_url": "http://www.rcc.caau.org.cn/",
+    "note": "国内老牌机器人竞赛，真实。"
+  },
+  {
+    "slug": "chuangqingchun",
+    "name": "创青春大赛",
+    "kind": "competition",
+    "cat": "比赛/创新创业",
+    "source_url": "http://cqc.youth.cn/",
+    "note": "共青团中央的青年创新创业大赛，真实。"
+  },
+  {
+    "slug": "shuzhiqiche",
+    "name": "全国大学生智能汽车竞赛",
+    "kind": "competition",
+    "cat": "比赛/智能车",
+    "source_url": "https://www.ecc.com.cn/",
+    "note": "教育部认可的智能车竞赛，真实知名。"
+  },
+  {
+    "slug": "lattepanda",
+    "name": "拿铁熊猫 LattePanda",
+    "kind": "hardware",
+    "cat": "开源硬件/单板",
+    "source_url": "https://www.lattepanda.com/",
+    "note": "深圳出品的Windows/Android兼容单板计算机，面向创客。"
+  },
+  {
+    "slug": "zhengdianyuanzi",
+    "name": "正点原子",
+    "kind": "hardware",
+    "cat": "开源硬件/开发板",
+    "source_url": "https://www.zhengdianyuanzi.com/",
+    "note": "国内STM32等嵌入式开发板厂商，教程生态丰富。"
+  },
+  {
+    "slug": "yehuo",
+    "name": "野火电子",
+    "kind": "hardware",
+    "cat": "开源硬件/开发板",
+    "source_url": "https://www.embedfire.com/",
+    "note": "国内嵌入式开发板与教程厂商，真实。"
+  },
+  {
+    "slug": "dfrobot",
+    "name": "DFRobot",
+    "kind": "hardware",
+    "cat": "开源硬件",
+    "source_url": "https://www.dfrobot.com.cn/",
+    "note": "上海开源硬件与创客器材厂商，全球化运营。"
+  },
+  {
+    "slug": "unitree",
+    "name": "宇树科技 Unitree",
+    "kind": "hardware",
+    "cat": "硬件/机器人",
+    "source_url": "https://www.unitree.com/",
+    "note": "国产四足机器人公司，春晚等场合亮相，真实知名。"
+  },
+  {
+    "slug": "espressif",
+    "name": "乐鑫科技 Espressif",
+    "kind": "hardware",
+    "cat": "硬件/芯片",
+    "source_url": "https://www.espressif.com/",
+    "note": "ESP32/ESP8266 Wi-Fi 芯片厂商，全球创客广泛采用，国产上市。"
+  },
+  {
+    "slug": "lizhiqi",
+    "name": "李子柒",
+    "kind": "maker",
+    "cat": "创作者/美食",
+    "source_url": "https://search.bilibili.com/upuser?keyword=%E6%9D%8E%E5%AD%90%E6%9F%92",
+    "note": "顶级美食短视频创作者，全球粉丝过亿，品牌化运营。"
+  },
+  {
+    "slug": "shougong-geng",
+    "name": "手工耿",
+    "kind": "maker",
+    "cat": "创作者/发明",
+    "source_url": "https://search.bilibili.com/upuser?keyword=%E6%89%8B%E5%B7%A5%E8%80%BF",
+    "note": "搞笑无用发明类UP主，独特创意人设，商业变现。"
+  },
+  {
+    "slug": "wanggang",
+    "name": "美食作家王刚",
+    "kind": "maker",
+    "cat": "创作者/美食",
+    "source_url": "https://search.bilibili.com/upuser?keyword=%E7%BE%8E%E9%A3%9F%E4%BD%9C%E5%AE%B6%E7%8E%8B%E5%88%9A",
+    "note": "专业厨师短视频创作者，硬核做菜教学，带货与培训。"
+  },
+  {
+    "slug": "luoxiang",
+    "name": "罗翔说刑法",
+    "kind": "maker",
+    "cat": "创作者/知识",
+    "source_url": "https://search.bilibili.com/upuser?keyword=%E7%BD%97%E7%BF%94%E8%AF%B4%E5%88%91%E6%B3%95",
+    "note": "中国政法大学教授，刑法科普顶流，图书与课程变现。"
+  },
+  {
+    "slug": "huanong",
+    "name": "华农兄弟",
+    "kind": "maker",
+    "cat": "创作者/乡村",
+    "source_url": "https://search.bilibili.com/upuser?keyword=%E5%8D%8E%E5%86%9C%E5%85%84%E5%BC%9F",
+    "note": "乡村生活与竹鼠短视频组合，真实走红并商业化。"
+  }
+]
