@@ -1,0 +1,1068 @@
+START 2026年 9月18日 星期五 10时30分05秒 CST count=     245
+1 0sec ok 0sec  [详解255字 / 盈利77字 / 学到225字]
+
+DONE=1 SKIP=0 FAIL=0
+2 10-ai-saas ok 10-ai-saas  [详解237字 / 盈利126字 / 学到275字]
+
+DONE=1 SKIP=0 FAIL=0
+3 10k-steps-club ok 10k-steps-club  [详解248字 / 盈利126字 / 学到238字]
+
+DONE=1 SKIP=0 FAIL=0
+4 17k ok 17k  [详解238字 / 盈利120字 / 学到182字]
+
+DONE=1 SKIP=0 FAIL=0
+5 1devtool ok 1devtool  [详解273字 / 盈利124字 / 学到222字]
+
+DONE=1 SKIP=0 FAIL=0
+6 1foodmenu ok 1foodmenu  [详解223字 / 盈利121字 / 学到258字]
+
+DONE=1 SKIP=0 FAIL=0
+7 24dian ok 24dian  [详解256字 / 盈利64字 / 学到210字]
+
+DONE=1 SKIP=0 FAIL=0
+8 3d-agent ok 3d-agent  [详解271字 / 盈利186字 / 学到268字]
+
+DONE=1 SKIP=0 FAIL=0
+9 a-1-plumbing-heating-cooling-mechanical ok a-1-plumbing-heating-cooling-mechanical  [详解168字 / 盈利99字 / 学到205字]
+
+DONE=1 SKIP=0 FAIL=0
+10 account-expense-manager ok account-expense-manager  [详解240字 / 盈利163字 / 学到255字]
+
+DONE=1 SKIP=0 FAIL=0
+11 adelante-ltd ok adelante-ltd  [详解253字 / 盈利123字 / 学到210字]
+
+DONE=1 SKIP=0 FAIL=0
+12 adscriptly ok adscriptly  [详解261字 / 盈利189字 / 学到270字]
+
+DONE=1 SKIP=0 FAIL=0
+13 ae-intelligence ok ae-intelligence  [详解317字 / 盈利93字 / 学到259字]
+
+DONE=1 SKIP=0 FAIL=0
+14 aeo-engine ok aeo-engine  [详解298字 / 盈利170字 / 学到239字]
+
+DONE=1 SKIP=0 FAIL=0
+15 aera-browser ok aera-browser  [详解264字 / 盈利117字 / 学到248字]
+
+DONE=1 SKIP=0 FAIL=0
+16 aerie ok aerie  [详解274字 / 盈利117字 / 学到266字]
+
+DONE=1 SKIP=0 FAIL=0
+17 affililist ok affililist  [详解213字 / 盈利100字 / 学到244字]
+
+DONE=1 SKIP=0 FAIL=0
+18 afrovibrations ok afrovibrations  [详解249字 / 盈利112字 / 学到225字]
+
+DONE=1 SKIP=0 FAIL=0
+19 agence-immobiliere-france ok agence-immobiliere-france  [详解240字 / 盈利126字 / 学到234字]
+
+DONE=1 SKIP=0 FAIL=0
+20 agent-idea-hub ok agent-idea-hub  [详解204字 / 盈利118字 / 学到198字]
+
+DONE=1 SKIP=0 FAIL=0
+21 agent-mma-llc ok agent-mma-llc  [详解237字 / 盈利94字 / 学到221字]
+
+DONE=1 SKIP=0 FAIL=0
+22 agentteamemail ok agentteamemail  [详解274字 / 盈利90字 / 学到226字]
+
+DONE=1 SKIP=0 FAIL=0
+23 agoravai ok agoravai  [详解237字 / 盈利100字 / 学到230字]
+
+DONE=1 SKIP=0 FAIL=0
+24 ai-directories ok ai-directories  [详解272字 / 盈利221字 / 学到277字]
+
+DONE=1 SKIP=0 FAIL=0
+25 ai-editor-photo-video ok ai-editor-photo-video  [详解282字 / 盈利168字 / 学到254字]
+
+DONE=1 SKIP=0 FAIL=0
+26 ai-kitchendesign ok ai-kitchendesign  [详解269字 / 盈利177字 / 学到264字]
+
+DONE=1 SKIP=0 FAIL=0
+27 ai-labs ok ai-labs  [详解266字 / 盈利110字 / 学到242字]
+
+DONE=1 SKIP=0 FAIL=0
+28 ai-pro-portrait ok ai-pro-portrait  [详解246字 / 盈利118字 / 学到253字]
+
+DONE=1 SKIP=0 FAIL=0
+29 ai-resources ok ai-resources  [详解242字 / 盈利142字 / 学到232字]
+
+DONE=1 SKIP=0 FAIL=0
+30 ai-startup-newsletter ok ai-startup-newsletter  [详解256字 / 盈利106字 / 学到213字]
+
+DONE=1 SKIP=0 FAIL=0
+31 ai-text-humanizer-netherlands-belgium ok ai-text-humanizer-netherlands-belgium  [详解266字 / 盈利89字 / 学到223字]
+
+DONE=1 SKIP=0 FAIL=0
+32 ai-voice-calls   ! attempt 1 failed: The read operation timed out
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+ok ai-voice-calls  [详解219字 / 盈利76字 / 学到231字]
+
+DONE=1 SKIP=0 FAIL=0
+33 aicasadesign-com ok aicasadesign-com  [详解231字 / 盈利148字 / 学到268字]
+
+DONE=1 SKIP=0 FAIL=0
+34 aistudios ok aistudios  [详解267字 / 盈利157字 / 学到237字]
+
+DONE=1 SKIP=0 FAIL=0
+35 aiwa ok aiwa  [详解222字 / 盈利204字 / 学到228字]
+
+DONE=1 SKIP=0 FAIL=0
+36 ajmd ok ajmd  [详解237字 / 盈利82字 / 学到243字]
+
+DONE=1 SKIP=0 FAIL=0
+37 akari ok akari  [详解256字 / 盈利145字 / 学到265字]
+
+DONE=1 SKIP=0 FAIL=0
+38 aleister ok aleister  [详解236字 / 盈利148字 / 学到264字]
+
+DONE=1 SKIP=0 FAIL=0
+39 all-love-here ok all-love-here  [详解235字 / 盈利94字 / 学到243字]
+
+DONE=1 SKIP=0 FAIL=0
+40 alodata ok alodata  [详解261字 / 盈利113字 / 学到272字]
+
+DONE=1 SKIP=0 FAIL=0
+41 altitude-cleaning-crew ok altitude-cleaning-crew  [详解242字 / 盈利133字 / 学到261字]
+
+DONE=1 SKIP=0 FAIL=0
+42 amit-sarda ok amit-sarda  [详解204字 / 盈利88字 / 学到230字]
+
+DONE=1 SKIP=0 FAIL=0
+43 anchor ok anchor  [详解212字 / 盈利88字 / 学到220字]
+
+DONE=1 SKIP=0 FAIL=0
+44 animalo ok animalo  [详解249字 / 盈利126字 / 学到247字]
+
+DONE=1 SKIP=0 FAIL=0
+45 anon-1 ok anon-1  [详解226字 / 盈利96字 / 学到240字]
+
+DONE=1 SKIP=0 FAIL=0
+46 anon-2 ok anon-2  [详解256字 / 盈利90字 / 学到228字]
+
+DONE=1 SKIP=0 FAIL=0
+47 anonymous-bot-for-slack ok anonymous-bot-for-slack  [详解245字 / 盈利145字 / 学到241字]
+
+DONE=1 SKIP=0 FAIL=0
+48 anxinke ok anxinke  [详解254字 / 盈利5字 / 学到222字]
+
+DONE=1 SKIP=0 FAIL=0
+49 anymelo ok anymelo  [详解255字 / 盈利162字 / 学到258字]
+
+DONE=1 SKIP=0 FAIL=0
+50 applausible ok applausible  [详解243字 / 盈利127字 / 学到258字]
+
+DONE=1 SKIP=0 FAIL=0
+51 appointly-uk ok appointly-uk  [详解213字 / 盈利141字 / 学到238字]
+
+DONE=1 SKIP=0 FAIL=0
+52 apprendre-make ok apprendre-make  [详解232字 / 盈利150字 / 学到238字]
+
+DONE=1 SKIP=0 FAIL=0
+53 aprende-vibe-coding   ! attempt 1 failed: The read operation timed out
+ok aprende-vibe-coding  [详解291字 / 盈利119字 / 学到258字]
+
+DONE=1 SKIP=0 FAIL=0
+54 aprs-conseil ok aprs-conseil  [详解230字 / 盈利126字 / 学到247字]
+
+DONE=1 SKIP=0 FAIL=0
+55 archirise ok archirise  [详解218字 / 盈利122字 / 学到257字]
+
+DONE=1 SKIP=0 FAIL=0
+56 arcton ok arcton  [详解249字 / 盈利133字 / 学到242字]
+
+DONE=1 SKIP=0 FAIL=0
+57 artadum ok artadum  [详解252字 / 盈利127字 / 学到224字]
+
+DONE=1 SKIP=0 FAIL=0
+58 artisania ok artisania  [详解243字 / 盈利133字 / 学到263字]
+
+DONE=1 SKIP=0 FAIL=0
+59 artkit-cc ok artkit-cc  [详解287字 / 盈利124字 / 学到275字]
+
+DONE=1 SKIP=0 FAIL=0
+60 atomics-digital ok atomics-digital  [详解235字 / 盈利143字 / 学到279字]
+
+DONE=1 SKIP=0 FAIL=0
+61 audixa-ai ok audixa-ai  [详解244字 / 盈利179字 / 学到254字]
+
+DONE=1 SKIP=0 FAIL=0
+62 authoritystack-ai ok authoritystack-ai  [详解249字 / 盈利144字 / 学到231字]
+
+DONE=1 SKIP=0 FAIL=0
+63 autoclip ok autoclip  [详解253字 / 盈利145字 / 学到247字]
+
+DONE=1 SKIP=0 FAIL=0
+64 autoreels-ai ok autoreels-ai  [详解243字 / 盈利141字 / 学到247字]
+
+DONE=1 SKIP=0 FAIL=0
+65 autosaaslaunch ok autosaaslaunch  [详解291字 / 盈利136字 / 学到257字]
+
+DONE=1 SKIP=0 FAIL=0
+66 avachats-llc ok avachats-llc  [详解220字 / 盈利158字 / 学到239字]
+
+DONE=1 SKIP=0 FAIL=0
+67 avenue-ticketing-inc ok avenue-ticketing-inc  [详解244字 / 盈利149字 / 学到278字]
+
+DONE=1 SKIP=0 FAIL=0
+68 awesome-screenshot ok awesome-screenshot  [详解286字 / 盈利5字 / 学到306字]
+
+DONE=1 SKIP=0 FAIL=0
+69 ayehigh-16k-users-ai-resume-solutions-suite ok ayehigh-16k-users-ai-resume-solutions-suite  [详解263字 / 盈利136字 / 学到263字]
+
+DONE=1 SKIP=0 FAIL=0
+70 ayo ok ayo  [详解232字 / 盈利121字 / 学到256字]
+
+DONE=1 SKIP=0 FAIL=0
+71 b150 ok b150  [详解220字 / 盈利126字 / 学到223字]
+
+DONE=1 SKIP=0 FAIL=0
+72 backpedal-ltd ok backpedal-ltd  [详解218字 / 盈利142字 / 学到223字]
+
+DONE=1 SKIP=0 FAIL=0
+73 bakering-app-sl ok bakering-app-sl  [详解286字 / 盈利128字 / 学到241字]
+
+DONE=1 SKIP=0 FAIL=0
+74 banana-pi ok banana-pi  [详解281字 / 盈利43字 / 学到209字]
+
+DONE=1 SKIP=0 FAIL=0
+75 bankconv ok bankconv  [详解253字 / 盈利130字 / 学到239字]
+
+DONE=1 SKIP=0 FAIL=0
+76 baptiste-corno ok baptiste-corno  [详解246字 / 盈利129字 / 学到232字]
+
+DONE=1 SKIP=0 FAIL=0
+77 barron-tech-llc ok barron-tech-llc  [详解234字 / 盈利155字 / 学到234字]
+
+DONE=1 SKIP=0 FAIL=0
+78 based-labs-ai ok based-labs-ai  [详解271字 / 盈利181字 / 学到248字]
+
+DONE=1 SKIP=0 FAIL=0
+79 belikenative ok belikenative  [详解261字 / 盈利133字 / 学到301字]
+
+DONE=1 SKIP=0 FAIL=0
+80 benji ok benji  [详解234字 / 盈利119字 / 学到243字]
+
+DONE=1 SKIP=0 FAIL=0
+81 bibby ok bibby  [详解233字 / 盈利124字 / 学到229字]
+
+DONE=1 SKIP=0 FAIL=0
+82 bidao ok bidao  [详解221字 / 盈利64字 / 学到229字]
+
+DONE=1 SKIP=0 FAIL=0
+83 bidrpg ok bidrpg  [详解255字 / 盈利109字 / 学到214字]
+
+DONE=1 SKIP=0 FAIL=0
+84 billguard ok billguard  [详解224字 / 盈利119字 / 学到246字]
+
+DONE=1 SKIP=0 FAIL=0
+85 bira-flavius-c-t-lin-persoan-fizic-autorizat ok bira-flavius-c-t-lin-persoan-fizic-autorizat  [详解241字 / 盈利123字 / 学到215字]
+
+DONE=1 SKIP=0 FAIL=0
+86 bizgenius ok bizgenius  [详解312字 / 盈利121字 / 学到241字]
+
+DONE=1 SKIP=0 FAIL=0
+87 blacktwist ok blacktwist  [详解238字 / 盈利209字 / 学到231字]
+
+DONE=1 SKIP=0 FAIL=0
+88 blainy ok blainy  [详解238字 / 盈利150字 / 学到254字]
+
+DONE=1 SKIP=0 FAIL=0
+89 blawgy-com ok blawgy-com  [详解230字 / 盈利108字 / 学到249字]
+
+DONE=1 SKIP=0 FAIL=0
+90 blimely ok blimely  [详解278字 / 盈利90字 / 学到226字]
+
+DONE=1 SKIP=0 FAIL=0
+91 blipix ok blipix  [详解278字 / 盈利168字 / 学到296字]
+
+DONE=1 SKIP=0 FAIL=0
+92 blogbowl ok blogbowl  [详解240字 / 盈利80字 / 学到237字]
+
+DONE=1 SKIP=0 FAIL=0
+93 blogseo ok blogseo  [详解262字 / 盈利146字 / 学到223字]
+
+DONE=1 SKIP=0 FAIL=0
+94 blupry-marketplace ok blupry-marketplace  [详解251字 / 盈利152字 / 学到229字]
+
+DONE=1 SKIP=0 FAIL=0
+95 blurscreen-app ok blurscreen-app  [详解260字 / 盈利142字 / 学到282字]
+
+DONE=1 SKIP=0 FAIL=0
+96 blurweb-app ok blurweb-app  [详解264字 / 盈利122字 / 学到273字]
+
+DONE=1 SKIP=0 FAIL=0
+97 bobarista ok bobarista  [详解274字 / 盈利103字 / 学到266字]
+
+DONE=1 SKIP=0 FAIL=0
+98 bogatu-ion ok bogatu-ion  [详解258字 / 盈利103字 / 学到263字]
+
+DONE=1 SKIP=0 FAIL=0
+99 boldltd ok boldltd  [详解251字 / 盈利105字 / 学到253字]
+
+DONE=1 SKIP=0 FAIL=0
+100 bolty ok bolty  [详解243字 / 盈利147字 / 学到264字]
+
+DONE=1 SKIP=0 FAIL=0
+101 brainbrew ok brainbrew  [详解246字 / 盈利145字 / 学到243字]
+
+DONE=1 SKIP=0 FAIL=0
+102 brainote ok brainote  [详解243字 / 盈利139字 / 学到250字]
+
+DONE=1 SKIP=0 FAIL=0
+103 breakly ok breakly  [详解252字 / 盈利159字 / 学到285字]
+
+DONE=1 SKIP=0 FAIL=0
+104 bubeidanci   ! attempt 1 failed: The read operation timed out
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse bubeidanci
+
+DONE=0 SKIP=0 FAIL=1
+105 build-the-keyword   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse build-the-keyword
+
+DONE=0 SKIP=0 FAIL=1
+106 buildmyagent-io   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse buildmyagent-io
+
+DONE=0 SKIP=0 FAIL=1
+107 buoy-club   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse buoy-club
+
+DONE=0 SKIP=0 FAIL=1
+108 business-freelance   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse business-freelance
+
+DONE=0 SKIP=0 FAIL=1
+109 butterbase   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse butterbase
+
+DONE=0 SKIP=0 FAIL=1
+110 buynocodeapps-ltd   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse buynocodeapps-ltd
+
+DONE=0 SKIP=0 FAIL=1
+111 cambricon   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cambricon
+
+DONE=0 SKIP=0 FAIL=1
+112 caoz   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse caoz
+
+DONE=0 SKIP=0 FAIL=1
+113 capiii-by-kevin-schindler   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse capiii-by-kevin-schindler
+
+DONE=0 SKIP=0 FAIL=1
+114 captime   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse captime
+
+DONE=0 SKIP=0 FAIL=1
+115 car-identifier   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse car-identifier
+
+DONE=0 SKIP=0 FAIL=1
+116 careerkit   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse careerkit
+
+DONE=0 SKIP=0 FAIL=1
+117 cartboss   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cartboss
+
+DONE=0 SKIP=0 FAIL=1
+118 casa-fran-concepts-llc   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse casa-fran-concepts-llc
+
+DONE=0 SKIP=0 FAIL=1
+119 cash-cow-inc-1   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cash-cow-inc-1
+
+DONE=0 SKIP=0 FAIL=1
+120 castplus   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse castplus
+
+DONE=0 SKIP=0 FAIL=1
+121 cat-games   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cat-games
+
+DONE=0 SKIP=0 FAIL=1
+122 cebian-fanyi   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cebian-fanyi
+
+DONE=0 SKIP=0 FAIL=1
+123 changelogfy   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse changelogfy
+
+DONE=0 SKIP=0 FAIL=1
+124 chargeflow   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse chargeflow
+
+DONE=0 SKIP=0 FAIL=1
+125 chartvio   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse chartvio
+
+DONE=0 SKIP=0 FAIL=1
+126 chat-whisperer   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse chat-whisperer
+
+DONE=0 SKIP=0 FAIL=1
+127 chatbackup-for-whatsapp   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse chatbackup-for-whatsapp
+
+DONE=0 SKIP=0 FAIL=1
+128 cheatmate   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cheatmate
+
+DONE=0 SKIP=0 FAIL=1
+129 checkform-gymnastics   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse checkform-gymnastics
+
+DONE=0 SKIP=0 FAIL=1
+130 chefgpt   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse chefgpt
+
+DONE=0 SKIP=0 FAIL=1
+131 chiptune   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse chiptune
+
+DONE=0 SKIP=0 FAIL=1
+132 chunks-microlearning   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse chunks-microlearning
+
+DONE=0 SKIP=0 FAIL=1
+133 churchcalls-ai   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse churchcalls-ai
+
+DONE=0 SKIP=0 FAIL=1
+134 clawhost   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse clawhost
+
+DONE=0 SKIP=0 FAIL=1
+135 claws-host   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse claws-host
+
+DONE=0 SKIP=0 FAIL=1
+136 cleabby   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cleabby
+
+DONE=0 SKIP=0 FAIL=1
+137 cleanclip-pro   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cleanclip-pro
+
+DONE=0 SKIP=0 FAIL=1
+138 cleaner   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cleaner
+
+DONE=0 SKIP=0 FAIL=1
+139 clickbait-inc   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse clickbait-inc
+
+DONE=0 SKIP=0 FAIL=1
+140 clipsfast   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse clipsfast
+
+DONE=0 SKIP=0 FAIL=1
+141 cnu-mooc   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cnu-mooc
+
+DONE=0 SKIP=0 FAIL=1
+142 codedex   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse codedex
+
+DONE=0 SKIP=0 FAIL=1
+143 colorzilla   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse colorzilla
+
+DONE=0 SKIP=0 FAIL=1
+144 coprep-ai   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse coprep-ai
+
+DONE=0 SKIP=0 FAIL=1
+145 copykitten   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse copykitten
+
+DONE=0 SKIP=0 FAIL=1
+146 coral   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse coral
+
+DONE=0 SKIP=0 FAIL=1
+147 coralflavor   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse coralflavor
+
+DONE=0 SKIP=0 FAIL=1
+148 cosden-code   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse cosden-code
+
+DONE=0 SKIP=0 FAIL=1
+149 dandu   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse dandu
+
+DONE=0 SKIP=0 FAIL=1
+150 dfrobot   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse dfrobot
+
+DONE=0 SKIP=0 FAIL=1
+151 dida   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse dida
+
+DONE=0 SKIP=0 FAIL=1
+152 dji-robomaster   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse dji-robomaster
+
+DONE=0 SKIP=0 FAIL=1
+153 drawio-diagrams   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse drawio-diagrams
+
+DONE=0 SKIP=0 FAIL=1
+154 erweima   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse erweima
+
+DONE=0 SKIP=0 FAIL=1
+155 esp32-cn   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse esp32-cn
+
+DONE=0 SKIP=0 FAIL=1
+156 espressif   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse espressif
+
+DONE=0 SKIP=0 FAIL=1
+157 fehelper   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse fehelper
+
+DONE=0 SKIP=0 FAIL=1
+158 fire-tech-apps-llc   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse fire-tech-apps-llc
+
+DONE=0 SKIP=0 FAIL=1
+159 fitnessgpt   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse fitnessgpt
+
+DONE=0 SKIP=0 FAIL=1
+160 gangqin   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse gangqin
+
+DONE=0 SKIP=0 FAIL=1
+161 gigadevice   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse gigadevice
+
+DONE=0 SKIP=0 FAIL=1
+162 gofullpage   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse gofullpage
+
+DONE=0 SKIP=0 FAIL=1
+163 gouwudang   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse gouwudang
+
+DONE=0 SKIP=0 FAIL=1
+164 grammarly-ext   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse grammarly-ext
+
+DONE=0 SKIP=0 FAIL=1
+165 gugong-zhanlan   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse gugong-zhanlan
+
+DONE=0 SKIP=0 FAIL=1
+166 hanwang   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse hanwang
+
+DONE=0 SKIP=0 FAIL=1
+167 helzhou   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse helzhou
+
+DONE=0 SKIP=0 FAIL=1
+168 hexiexianghe   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse hexiexianghe
+
+DONE=0 SKIP=0 FAIL=1
+169 horizon   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse horizon
+
+DONE=0 SKIP=0 FAIL=1
+170 huaci-fanyi   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse huaci-fanyi
+
+DONE=0 SKIP=0 FAIL=1
+171 huanong   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse huanong
+
+DONE=0 SKIP=0 FAIL=1
+172 hunzhi   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse hunzhi
+
+DONE=0 SKIP=0 FAIL=1
+173 id-photo   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse id-photo
+
+DONE=0 SKIP=0 FAIL=1
+174 image-downloader   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse image-downloader
+
+DONE=0 SKIP=0 FAIL=1
+175 infinity-newtab   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse infinity-newtab
+
+DONE=0 SKIP=0 FAIL=1
+176 inoreader   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse inoreader
+
+DONE=0 SKIP=0 FAIL=1
+177 jijian-chajian   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse jijian-chajian
+
+DONE=0 SKIP=0 FAIL=1
+178 jitutuceng   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse jitutuceng
+
+DONE=0 SKIP=0 FAIL=1
+179 jizhang-chengshi   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse jizhang-chengshi
+
+DONE=0 SKIP=0 FAIL=1
+180 judu   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse judu
+
+DONE=0 SKIP=0 FAIL=1
+181 kaniu   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse kaniu
+
+DONE=0 SKIP=0 FAIL=1
+182 koudai-jizhang   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse koudai-jizhang
+
+DONE=0 SKIP=0 FAIL=1
+183 language-reactor   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse language-reactor
+
+DONE=0 SKIP=0 FAIL=1
+184 lastpass-ext   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse lastpass-ext
+
+DONE=0 SKIP=0 FAIL=1
+185 leijun   ! attempt 1 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 2 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 3 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  ! attempt 4 failed: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+FAIL parse leijun
+
+DONE=0 SKIP=0 FAIL=1
+186 lizhiqi ok lizhiqi  [详解243字 / 盈利87字 / 学到227字]
+
+DONE=1 SKIP=0 FAIL=0
+187 luoxiang ok luoxiang  [详解234字 / 盈利48字 / 学到236字]
+
+DONE=1 SKIP=0 FAIL=0
+188 luoyonghao ok luoyonghao  [详解223字 / 盈利67字 / 学到199字]
+
+DONE=1 SKIP=0 FAIL=0
+189 luozhenyu ok luozhenyu  [详解257字 / 盈利77字 / 学到238字]
+
+DONE=1 SKIP=0 FAIL=0
+190 manmanmai ok manmanmai  [详解248字 / 盈利81字 / 学到240字]
+
+DONE=1 SKIP=0 FAIL=0
+191 manmen ok manmen  [详解253字 / 盈利65字 / 学到269字]
+
+DONE=1 SKIP=0 FAIL=0
+192 maozhua ok maozhua  [详解240字 / 盈利5字 / 学到246字]
+
+DONE=1 SKIP=0 FAIL=0
+193 mubu ok mubu  [详解261字 / 盈利78字 / 学到237字]
+
+DONE=1 SKIP=0 FAIL=0
+194 notion-ext ok notion-ext  [详解271字 / 盈利57字 / 学到200字]
+
+DONE=1 SKIP=0 FAIL=0
+195 onetab ok onetab  [详解266字 / 盈利5字 / 学到245字]
+
+DONE=1 SKIP=0 FAIL=0
+196 pintu ok pintu  [详解242字 / 盈利74字 / 学到231字]
+
+DONE=1 SKIP=0 FAIL=0
+197 qq-yuedu ok qq-yuedu  [详解232字 / 盈利154字 / 学到218字]
+
+DONE=1 SKIP=0 FAIL=0
+198 qunxiang ok qunxiang  [详解273字 / 盈利48字 / 学到232字]
+
+DONE=1 SKIP=0 FAIL=0
+199 reader-view ok reader-view  [详解226字 / 盈利31字 / 学到218字]
+
+DONE=1 SKIP=0 FAIL=0
+200 rockchip ok rockchip  [详解230字 / 盈利59字 / 学到211字]
+
+DONE=1 SKIP=0 FAIL=0
+201 saladict ok saladict  [详解271字 / 盈利44字 / 学到246字]
+
+DONE=1 SKIP=0 FAIL=0
+202 saolei ok saolei  [详解335字 / 盈利71字 / 学到233字]
+
+DONE=1 SKIP=0 FAIL=0
+203 search-switcher ok search-switcher  [详解281字 / 盈利5字 / 学到258字]
+
+DONE=1 SKIP=0 FAIL=0
+204 seeed ok seeed  [详解259字 / 盈利58字 / 学到223字]
+
+DONE=1 SKIP=0 FAIL=0
+205 shengcaiyoushu ok shengcaiyoushu  [详解298字 / 盈利133字 / 学到242字]
+
+DONE=1 SKIP=0 FAIL=0
+206 shipin-xiazai ok shipin-xiazai  [详解231字 / 盈利5字 / 学到203字]
+
+DONE=1 SKIP=0 FAIL=0
+207 shougong-geng ok shougong-geng  [详解234字 / 盈利50字 / 学到242字]
+
+DONE=1 SKIP=0 FAIL=0
+208 shudu ok shudu  [详解221字 / 盈利95字 / 学到225字]
+
+DONE=1 SKIP=0 FAIL=0
+209 simpread ok simpread  [详解261字 / 盈利50字 / 学到204字]
+
+DONE=1 SKIP=0 FAIL=0
+210 sipeed ok sipeed  [详解230字 / 盈利48字 / 学到230字]
+
+DONE=1 SKIP=0 FAIL=0
+211 smzdm-ext ok smzdm-ext  [详解227字 / 盈利5字 / 学到221字]
+
+DONE=1 SKIP=0 FAIL=0
+212 softcup ok softcup  [详解248字 / 盈利5字 / 学到254字]
+
+DONE=1 SKIP=0 FAIL=0
+213 stylus-ext ok stylus-ext  [详解246字 / 盈利5字 / 学到253字]
+
+DONE=1 SKIP=0 FAIL=0
+214 tab-manager-plus ok tab-manager-plus  [详解228字 / 盈利5字 / 学到237字]
+
+DONE=1 SKIP=0 FAIL=0
+215 tanchishe ok tanchishe  [详解268字 / 盈利90字 / 学到262字]
+
+DONE=1 SKIP=0 FAIL=0
+216 todoist-ext ok todoist-ext  [详解244字 / 盈利96字 / 学到187字]
+
+DONE=1 SKIP=0 FAIL=0
+217 translator-ext ok translator-ext  [详解251字 / 盈利39字 / 学到230字]
+
+DONE=1 SKIP=0 FAIL=0
+218 tuhu ok tuhu  [详解267字 / 盈利46字 / 学到250字]
+
+DONE=1 SKIP=0 FAIL=0
+219 tupian-zhushou ok tupian-zhushou  [详解277字 / 盈利5字 / 学到274字]
+
+DONE=1 SKIP=0 FAIL=0
+220 unitree ok unitree  [详解291字 / 盈利55字 / 学到233字]
+
+DONE=1 SKIP=0 FAIL=0
+221 vex-cn ok vex-cn  [详解218字 / 盈利53字 / 学到235字]
+
+DONE=1 SKIP=0 FAIL=0
+222 video-downloadhelper ok video-downloadhelper  [详解241字 / 盈利38字 / 学到235字]
+
+DONE=1 SKIP=0 FAIL=0
+223 wanggang ok wanggang  [详解207字 / 盈利59字 / 学到269字]
+
+DONE=1 SKIP=0 FAIL=0
+224 wanneng-mingling ok wanneng-mingling  [详解271字 / 盈利5字 / 学到290字]
+
+DONE=1 SKIP=0 FAIL=0
+225 wannianli ok wannianli  [详解289字 / 盈利108字 / 学到249字]
+
+DONE=1 SKIP=0 FAIL=0
+226 waveshare ok waveshare  [详解244字 / 盈利119字 / 学到212字]
+
+DONE=1 SKIP=0 FAIL=0
+227 weiguang ok weiguang  [详解187字 / 盈利72字 / 学到193字]
+
+DONE=1 SKIP=0 FAIL=0
+228 weiyi ok weiyi  [详解282字 / 盈利117字 / 学到289字]
+
+DONE=1 SKIP=0 FAIL=0
+229 wikiwand ok wikiwand  [详解234字 / 盈利82字 / 学到223字]
+
+DONE=1 SKIP=0 FAIL=0
+230 wuziqi ok wuziqi  [详解287字 / 盈利124字 / 学到263字]
+
+DONE=1 SKIP=0 FAIL=0
+231 xiangrikui ok xiangrikui  [详解265字 / 盈利144字 / 学到243字]
+
+DONE=1 SKIP=0 FAIL=0
+232 xianyu ok xianyu  [详解237字 / 盈利149字 / 学到291字]
+
+DONE=1 SKIP=0 FAIL=0
+233 xiaoshuimian ok xiaoshuimian  [详解255字 / 盈利74字 / 学到196字]
+
+DONE=1 SKIP=0 FAIL=0
+234 xingset ok xingset  [详解252字 / 盈利107字 / 学到251字]
+
+DONE=1 SKIP=0 FAIL=0
+235 xmind ok xmind  [详解260字 / 盈利80字 / 学到232字]
+
+DONE=1 SKIP=0 FAIL=0
+236 yehuo ok yehuo  [详解253字 / 盈利69字 / 学到238字]
+
+DONE=1 SKIP=0 FAIL=0
+237 yingshi-fengbao ok yingshi-fengbao  [详解228字 / 盈利46字 / 学到274字]
+
+DONE=1 SKIP=0 FAIL=0
+238 yumi-moshi ok yumi-moshi  [详解244字 / 盈利73字 / 学到195字]
+
+DONE=1 SKIP=0 FAIL=0
+239 yunshanfu ok yunshanfu  [详解224字 / 盈利77字 / 学到255字]
+
+DONE=1 SKIP=0 FAIL=0
+240 yuque-ext ok yuque-ext  [详解251字 / 盈利41字 / 学到242字]
+
+DONE=1 SKIP=0 FAIL=0
+241 zhengdianyuanzi ok zhengdianyuanzi  [详解231字 / 盈利47字 / 学到230字]
+
+DONE=1 SKIP=0 FAIL=0
+242 zhihenjun ok zhihenjun  [详解252字 / 盈利48字 / 学到271字]
+
+DONE=1 SKIP=0 FAIL=0
+243 zhongguo-xiangqi ok zhongguo-xiangqi  [详解236字 / 盈利129字 / 学到221字]
+
+DONE=1 SKIP=0 FAIL=0
+244 zhuanzhuan ok zhuanzhuan  [详解220字 / 盈利66字 / 学到253字]
+
+DONE=1 SKIP=0 FAIL=0
+245 zotero ok zotero  [详解203字 / 盈利5字 / 学到260字]
+
+DONE=1 SKIP=0 FAIL=0
+DONE 2026年 9月18日 星期五 14时34分27秒 CST total=245 ok=163 fail=82

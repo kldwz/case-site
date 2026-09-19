@@ -76,6 +76,7 @@ patreon kickstarter indiegogo gofundme onlyfans tiktok snapchat pinterest reddit
 yahoo bing duckduckgo cloudflare aws azure gcp heroku vercel netlify shopify wordpress wix
 squarespace webflow stripe paypal lemonsqueezy paddle gumroad figma grammarly dropbox box trello
 asana signal pinterest
+汽水音乐 汽水儿 番茄畅听 酷安 最美应用 少数派 小宇宙
 """.split())
 
 COMP_RE = re.compile(

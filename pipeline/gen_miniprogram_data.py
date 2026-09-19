@@ -58,6 +58,21 @@ def paras(text):
 def clean(s):
     return re.sub(r"\s+", " ", (s or "")).strip()
 
+def to_paragraphs(text, group=2):
+    """Split a Chinese prose blob into readable paragraphs (group N sentences)."""
+    text = clean(text)
+    if not text:
+        return []
+    raw = re.split(r"(?<=[。！？])", text)
+    sents = [x.strip() for x in raw if x and x.strip()]
+    out, buf = [], []
+    for i, x in enumerate(sents):
+        buf.append(x)
+        if len(buf) >= group or i == len(sents) - 1:
+            out.append("".join(buf))
+            buf = []
+    return out
+
 def parse_highlights(text):
     out = []
     for line in text.splitlines():
@@ -67,8 +82,13 @@ def parse_highlights(text):
         line = re.sub(r"^[①②③④⑤⑥⑦⑧⑨⑩\s\-–—·.]*", "", line)
         line = re.sub(r"^\d+[.、]\s*", "", line)
         line = clean(line)
-        if line:
-            out.append(line)
+        if not line:
+            continue
+        # split combos like "a ② b ③ c" into separate bullets
+        for part in re.split(r"\s*[②③④⑤⑥⑦⑧⑨⑩]\s*", line):
+            part = clean(part)
+            if part:
+                out.append(part)
     return out
 
 DATE_RE = re.compile(r"(20\d{2})[-/年.](\d{1,2})(?:[-/月.](\d{1,2}))?")
@@ -254,6 +274,12 @@ def main():
             if fm.get(k):
                 metrics[k] = clean(fm[k])
 
+        intro_paras = []
+        for _sec in ("产品是什么", "站长是谁", "怎么赚的钱"):
+            intro_paras.extend(to_paragraphs(section(body, _sec), 2))
+        lesson_paras = to_paragraphs(section(body, "这个案例能学到什么"), 2)
+        facts = [{"k": k, "v": metrics[k]} for k in ("流量来源", "证据等级") if metrics.get(k)]
+
         rows.append({
             "id": slug,
             "name": name,
@@ -275,12 +301,10 @@ def main():
             "launchDateText": ldtext,
             "cover": cover,
             "website": clean(fm.get("原文链接", "")),
-            "productIntro": clean(section(body, "产品是什么")),
-            "monetization": clean(section(body, "怎么赚的钱")),
-            "learned": clean(section(body, "这个案例能学到什么")),
-            "highlights": parse_highlights(fm.get("可迁移点", "")),
-            "metrics": metrics,
-            "story": clean(" ".join(paras(section(body, "站长是谁")))),
+            "intro": intro_paras,
+            "tactics": parse_highlights(fm.get("可迁移点", "")),
+            "lessons": lesson_paras,
+            "facts": facts,
         })
 
     js_path = os.path.join(MINI, "data/cases.js")
@@ -301,8 +325,12 @@ def main():
     print("track:", dict(Counter(r["track"] for r in rows)))
     print("tier:", dict(Counter(r["revenueTier"] for r in rows)))
     # integrity checks
-    bad = [r["id"] for r in rows if len(r["productIntro"]) < 200]
-    print("productIntro<200:", bad)
+    short_intro = [r["id"] for r in rows if sum(len(p) for p in r["intro"]) < 200]
+    print("intro total <200:", short_intro)
+    nopara = [r["id"] for r in rows if len(r["intro"]) < 2]
+    print("intro <2 paragraphs:", nopara)
+    nofacts = [r["id"] for r in rows if not r["facts"]]
+    print("no facts:", nofacts)
     print("launchDate==0:", [r["id"] for r in rows if r["launchDate"] == 0])
 
 if __name__ == "__main__":
