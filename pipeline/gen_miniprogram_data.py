@@ -265,9 +265,9 @@ def main():
             sdir = cover_field.split("/case-site/cases/")[1].split("/")[0]
             d = os.path.join(CASE_SITE, "public", "cases", sdir)
             if os.path.exists(os.path.join(d, "site.png")):
-                cover = f"{SITE_BASE}/cases/{sdir}/site.png"
+                cover = f"covers/{sdir}.jpg"
             elif os.path.exists(os.path.join(d, "site.webp")):
-                cover = f"{SITE_BASE}/cases/{sdir}/site.webp"
+                cover = f"covers/{sdir}.jpg"
 
         metrics = {}
         for k in ("营收模式", "流量来源", "平台数据", "证据等级"):
@@ -315,6 +315,12 @@ def main():
         f.write(";\n")
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=1)
+
+    # CDN / COS 源：public/mini 随 case-site 部署，并上传到对象存储供小程序远程拉取
+    mini_dir = os.path.join(CASE_SITE, "public", "mini")
+    os.makedirs(mini_dir, exist_ok=True)
+    with open(os.path.join(mini_dir, "cases.json"), "w", encoding="utf-8") as f:
+        json.dump(rows, f, ensure_ascii=False, separators=(",", ":"))
 
     size = os.path.getsize(js_path)
     print(f"wrote {len(rows)} cases -> {js_path}")

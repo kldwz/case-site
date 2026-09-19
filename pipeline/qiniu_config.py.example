@@ -1,0 +1,7 @@
+# 七牛云配置模板：复制本文件为 qiniu_config.py 后填入你的值
+# （upload_to_qiniu.py 会自动读取 qiniu_config.py，或用环境变量 QINIU_AK 等覆盖）
+
+AK     = "你的AccessKey"          # 七牛密钥管理里的 AccessKey
+SK     = "你的SecretKey"          # SecretKey（只显示一次，存好）
+BUCKET = "case-mini"             # 你建的空间名（Bucket 名）
+DOMAIN = "https://xxxx.clouddn.com"   # 七牛给的融合 CDN 域名，带 https://
