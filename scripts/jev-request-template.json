@@ -1,0 +1,36 @@
+{
+  "model": "jev-1.13.0",
+  "state": {
+    "article_title": "大厂流出的这份AI避坑指南，7个坑打工人全中",
+    "article_summary": "360内部《AI原生实践避坑指南》，总结7个坑：贪大、裸奔、一键生成、孤岛、副驾驶、自生自灭、惯性。重点讲两个解法：小步快跑（先跑通一个小场景）、私域知识（把公司自己的规范经验喂给AI，避免裸奔）。结尾引导读者在评论区回复'想看'拿PDF原文件。",
+    "audience": "打工人/非技术小白，关注用AI给自己加杠杆"
+  },
+  "questions": {
+    "reader_action": {
+      "type": "choice",
+      "instructions": "Based on this article's content and positioning, which single reader action is the reader most likely to feel willing to take after reading?",
+      "criteria": {
+        "save": "觉得有用，想收藏备用",
+        "forward": "想转发给同事/朋友一起避坑",
+        "comment_pdf": "想评论区回复'想看'拿PDF原文件"
+      }
+    },
+    "has_cta": {
+      "type": "noul",
+      "instructions": "Does this article contain a clear, actionable call to action (CTA) for the reader?",
+      "criteria": {
+        "true": "文末或文中给出了具体可执行的动作指令（如回复关键词、加群等）",
+        "false": "文章只叙事，没有引导读者去做某个具体动作"
+      }
+    },
+    "practicality": {
+      "type": "score",
+      "instructions": "Score the practicality of this article for the target working-class reader (consider how directly actionable and how much cognitive impact).",
+      "criteria": [
+        "偏理论/故事，读者难以直接套用",
+        "有具体可借鉴的做法，但需要读者自己转化",
+        "有立刻能照着做的小场景切入方法，实用度高"
+      ]
+    }
+  }
+}
