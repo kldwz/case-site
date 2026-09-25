@@ -1,19 +1,22 @@
 ---
-name: "AISlide: AI Presentation Maker"
-一句话: "一款通过文本提示自动生成完整演示文稿的移动应用，支持iOS和Android平台。"
-创始人地区: "由 Emiliano 创立，地区未披露，2025 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$28/月（Superwall 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR6），B2C 受众；官网 https://aislide.app/"
-可迁移点: "① 零广告投放完全依赖ASO获客 ② 单代码库跨平台开发降低维护成本 ③ 35美元/月的极低运营成本模型 ④ 通过Superwall实现轻量化支付验证"
-原文链接: "https://aislide.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Superwall）验证，最后同步于 2026-09-15T10:59:27.013Z；域名评分 DR6；原始页 https://trustmrr.com/startup/aislide-ai-presentation-maker。"
-分类: "Mobile Apps、AI、Productivity、Design Tools、Content Creation / B2C / 海外"
+name: 'AISlide: AI Presentation Maker'
+一句话: 一款通过文本提示自动生成完整演示文稿的移动应用，支持iOS和Android平台。
+创始人地区: 由 Emiliano 创立，地区未披露，2025 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $28/月（Superwall 验证）
+流量来源: SEO 自然流量为主（域名评分 DR6），B2C 受众；官网 https://aislide.app/
+可迁移点: ① 零广告投放完全依赖ASO获客 ② 单代码库跨平台开发降低维护成本 ③ 35美元/月的极低运营成本模型 ④ 通过Superwall实现轻量化支付验证
+原文链接: https://aislide.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Superwall）验证，最后同步于 2026-09-15T10:59:27.013Z；域名评分
+  DR6；原始页 https://trustmrr.com/startup/aislide-ai-presentation-maker。
+分类: Mobile Apps、AI、Productivity、Design Tools、Content Creation / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Superwall · 当前 MRR $28 · 活跃订阅 3 · 近12个月营收 $1,613 · 累计营收 $1,613 · 域名 DR6 · 国家 未披露 · 创立 2025-11-12"
-封面: "/case-site/cases/aislide-ai-presentation-maker/site.webp"
+平台数据: 支付验证：Superwall · 当前 MRR $28 · 活跃订阅 3 · 近12个月营收 $1,613 · 累计营收 $1,613 · 域名 DR6
+  · 国家 未披露 · 创立 2025-11-12
+封面: /case-site/cases/aislide-ai-presentation-maker/site.webp
 ---
+
 
 ![AISlide: AI Presentation Maker 官网](/cases/aislide-ai-presentation-maker/site.webp)
 

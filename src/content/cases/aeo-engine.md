@@ -1,19 +1,22 @@
 ---
-name: "AEO Engine"
-一句话: "AEO Engine 是一个由 AI 代理组成的协作网络，通过持续优化内容提升在 Google、ChatGPT 等平台的可见性。"
-创始人地区: "由 Vijay C. Jacob 创立，US，2018 年成立"
-营收模式: "Growth: $1,597/mo, Scale: $2,997/mo, Enterprise: Custom"
-月收入估算: "$80,601/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR49），未披露 受众；官网 https://aeoengine.ai/"
-可迁移点: "① 高客单价订阅模式（$1,597起）验证企业级AI工具的市场需求 ② 多AI代理协同架构可复用于垂直领域自动化工作流 ③ 通过Stripe实现支付验证增强数据可信度"
-原文链接: "https://aeoengine.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:05:09.424Z；域名评分 DR49；原始页 https://trustmrr.com/startup/aeo-engine。"
-分类: "AI / 未披露 / 海外"
+name: AEO Engine
+一句话: AEO Engine 是一个由 AI 代理组成的协作网络，通过持续优化内容提升在 Google、ChatGPT 等平台的可见性。
+创始人地区: 由 Vijay C. Jacob 创立，US，2018 年成立
+营收模式: 'Growth: $1,597/mo, Scale: $2,997/mo, Enterprise: Custom'
+月收入估算: $80,601/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR49），未披露 受众；官网 https://aeoengine.ai/
+可迁移点: ① 高客单价订阅模式（$1,597起）验证企业级AI工具的市场需求 ② 多AI代理协同架构可复用于垂直领域自动化工作流 ③ 通过Stripe实现支付验证增强数据可信度
+原文链接: https://aeoengine.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:05:09.424Z；域名评分 DR49；原始页
+  https://trustmrr.com/startup/aeo-engine。
+分类: AI / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $80,601 · 活跃订阅 38 · 近12个月营收 $900,860 · 累计营收 $2,345,034 · 域名 DR49 · 国家 US · 创立 2018-06-28"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $80,601 · 活跃订阅 38 · 近12个月营收 $900,860 · 累计营收 $2,345,034
+  · 域名 DR49 · 国家 US · 创立 2018-06-28
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # AEO Engine
 
 

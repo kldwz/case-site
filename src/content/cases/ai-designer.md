@@ -1,19 +1,24 @@
 ---
-name: "AI Designer"
-一句话: "We hate the look of AI coded websites. So we fixed that. Beautiful UI design for any project in just a few words."
-创始人地区: "由 Wiz 创立，US，2025 年成立"
-营收模式: "Free credits for new users, upgrade for more generations and higher-quality outputs."
-月收入估算: "$9,042/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR26），B2C 受众；官网 https://www.aidesigner.ai/"
-可迁移点: "① 针对AI生成内容的美学缺陷提供解决方案 ② 多合一设计平台整合UI/品牌资产/营销素材 ③ 免费额度+订阅制的混合变现模式 ④ 通过提升输出品质差异化竞争"
-原文链接: "https://www.aidesigner.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:43:38.696Z；域名评分 DR26；原始页 https://trustmrr.com/startup/ai-designer。"
-分类: "AI、Design Tools、Content Creation / B2C / 海外"
+name: AI Designer
+一句话: We hate the look of AI coded websites. So we fixed that. Beautiful UI design
+  for any project in just a few words.
+创始人地区: 由 Wiz 创立，US，2025 年成立
+营收模式: Free credits for new users, upgrade for more generations and higher-quality
+  outputs.
+月收入估算: $9,042/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR26），B2C 受众；官网 https://www.aidesigner.ai/
+可迁移点: ① 针对AI生成内容的美学缺陷提供解决方案 ② 多合一设计平台整合UI/品牌资产/营销素材 ③ 免费额度+订阅制的混合变现模式 ④ 通过提升输出品质差异化竞争
+原文链接: https://www.aidesigner.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:43:38.696Z；域名评分 DR26；原始页
+  https://trustmrr.com/startup/ai-designer。
+分类: AI、Design Tools、Content Creation / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $9,042 · 活跃订阅 327 · 近12个月营收 $67,829 · 累计营收 $67,829 · 域名 DR26 · 国家 US · 创立 2025-11-14"
-封面: "/case-site/cases/ai-designer/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $9,042 · 活跃订阅 327 · 近12个月营收 $67,829 · 累计营收 $67,829 · 域名
+  DR26 · 国家 US · 创立 2025-11-14
+封面: /case-site/cases/ai-designer/site.webp
 ---
+
 
 ![AI Designer 官网](/cases/ai-designer/site.webp)
 

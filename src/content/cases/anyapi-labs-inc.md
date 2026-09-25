@@ -1,19 +1,23 @@
 ---
-name: "AnyAPI"
-一句话: "Openrouter for scraping. Social data, SEO data, enrichment, all in one place. Multiple providers compete on price and uptime"
-创始人地区: "由 Kevin Wang 创立，US，2026 年成立"
-营收模式: "Pay per request, no subscriptions"
-月收入估算: "$1,252/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR28），Both 受众；官网 https://getanyapi.com/"
-可迁移点: "① 聚合多提供商API形成统一接入层 ② 按请求次数付费的灵活定价模式 ③ 自动故障转移确保服务可用性 ④ 标准化输出Schema降低集成成本"
-原文链接: "https://getanyapi.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:56:06.753Z；域名评分 DR28；原始页 https://trustmrr.com/startup/anyapi-labs-inc。"
-分类: "AI、Dev Tools、Marketing、Social Media / Both / 海外"
+name: AnyAPI
+一句话: Openrouter for scraping. Social data, SEO data, enrichment, all in one place.
+  Multiple providers compete on price and uptime
+创始人地区: 由 Kevin Wang 创立，US，2026 年成立
+营收模式: Pay per request, no subscriptions
+月收入估算: $1,252/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR28），Both 受众；官网 https://getanyapi.com/
+可迁移点: ① 聚合多提供商API形成统一接入层 ② 按请求次数付费的灵活定价模式 ③ 自动故障转移确保服务可用性 ④ 标准化输出Schema降低集成成本
+原文链接: https://getanyapi.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:56:06.753Z；域名评分 DR28；原始页
+  https://trustmrr.com/startup/anyapi-labs-inc。
+分类: AI、Dev Tools、Marketing、Social Media / Both / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,984 · 累计营收 $1,984 · 域名 DR28 · 国家 US · 创立 2026-06-01"
-封面: "/case-site/cases/anyapi-labs-inc/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,984 · 累计营收 $1,984 · 域名 DR28 ·
+  国家 US · 创立 2026-06-01
+封面: /case-site/cases/anyapi-labs-inc/site.webp
 ---
+
 # AnyAPI
 
 

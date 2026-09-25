@@ -1,19 +1,22 @@
 ---
-name: "OpenTweet"
-一句话: "AI驱动的极简X平台推文定时发布工具，集成MCP和OpenClaw技术。"
-创始人地区: "由 Branko 创立，RS，2025 年成立"
-营收模式: "Pro: $11.99/mo, Advanced: $29/mo, Agency: $49/mo"
-月收入估算: "$3,618/月（Paddle 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR32），未披露 受众；官网 https://opentweet.io/"
-可迁移点: "① 通过集成第三方技术栈(MCP/OpenClaw)增强核心功能 ② 阶梯式定价策略覆盖个人到团队需求 ③ 支付验证采用Paddle提升数据可信度"
-原文链接: "https://opentweet.io/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T10:05:22.170Z；域名评分 DR32；原始页 https://trustmrr.com/startup/opentweet。"
-分类: "Content Creation / 未披露 / 海外"
+name: OpenTweet
+一句话: AI驱动的极简X平台推文定时发布工具，集成MCP和OpenClaw技术。
+创始人地区: 由 Branko 创立，RS，2025 年成立
+营收模式: 'Pro: $11.99/mo, Advanced: $29/mo, Agency: $49/mo'
+月收入估算: $3,618/月（Paddle 验证）
+流量来源: SEO 自然流量为主（域名评分 DR32），未披露 受众；官网 https://opentweet.io/
+可迁移点: ① 通过集成第三方技术栈(MCP/OpenClaw)增强核心功能 ② 阶梯式定价策略覆盖个人到团队需求 ③ 支付验证采用Paddle提升数据可信度
+原文链接: https://opentweet.io/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T10:05:22.170Z；域名评分 DR32；原始页
+  https://trustmrr.com/startup/opentweet。
+分类: Content Creation / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Paddle · 当前 MRR $3,618 · 活跃订阅 222 · 近12个月营收 $20,872 · 累计营收 $20,872 · 域名 DR32 · 国家 RS · 创立 2025-12-01"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Paddle · 当前 MRR $3,618 · 活跃订阅 222 · 近12个月营收 $20,872 · 累计营收 $20,872 · 域名
+  DR32 · 国家 RS · 创立 2025-12-01
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # OpenTweet：AI驱动的极简X平台推文定时发布工具，集成MCP和OpenClaw技术。
 

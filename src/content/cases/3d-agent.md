@@ -1,19 +1,22 @@
 ---
-name: "3D-AGENT"
-一句话: "AI for Blender：通过文本描述直接生成3D模型的SaaS工具"
-创始人地区: "创始人未披露，BR，2025 年成立"
-营收模式: "Basic: $19/mo, Pro: $29/mo or $264/yr (~$22/mo), Ultra: $89/mo or $708/yr (~$59/mo)"
-月收入估算: "$5,196/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR32），B2C 受众；官网 https://www.3d-agent.com/"
-可迁移点: "① 聚焦垂直领域（Blender用户）的AI工具开发 ② 阶梯定价策略覆盖不同需求层次（$19-$89/mo） ③ 年付优惠提升LTV（年付相当于月费7.5折）"
-原文链接: "https://www.3d-agent.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:13:02.879Z；域名评分 DR32；原始页 https://trustmrr.com/startup/3d-agent。"
-分类: "AI、Dev Tools、Design Tools、SaaS、Games / B2C / 海外"
+name: 3D-AGENT
+一句话: AI for Blender：通过文本描述直接生成3D模型的SaaS工具
+创始人地区: 创始人未披露，BR，2025 年成立
+营收模式: 'Basic: $19/mo, Pro: $29/mo or $264/yr (~$22/mo), Ultra: $89/mo or $708/yr (~$59/mo)'
+月收入估算: $5,196/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR32），B2C 受众；官网 https://www.3d-agent.com/
+可迁移点: ① 聚焦垂直领域（Blender用户）的AI工具开发 ② 阶梯定价策略覆盖不同需求层次（$19-$89/mo） ③ 年付优惠提升LTV（年付相当于月费7.5折）
+原文链接: https://www.3d-agent.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:13:02.879Z；域名评分 DR32；原始页
+  https://trustmrr.com/startup/3d-agent。
+分类: AI、Dev Tools、Design Tools、SaaS、Games / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $5,196 · 活跃订阅 212 · 近12个月营收 $20,872 · 累计营收 $20,872 · 域名 DR32 · 国家 BR · 创立 2025-10-24"
-封面: "/case-site/cases/3d-agent/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $5,196 · 活跃订阅 212 · 近12个月营收 $20,872 · 累计营收 $20,872 · 域名
+  DR32 · 国家 BR · 创立 2025-10-24
+封面: /case-site/cases/3d-agent/site.webp
 ---
+
 # 3D-AGENT
 
 

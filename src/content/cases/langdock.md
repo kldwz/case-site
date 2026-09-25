@@ -3,9 +3,11 @@ name: Langdock
 一句话: 企业级 AI 采用平台（模型无关、GDPR 合规），从学生项目到 2000 万美金 ARR，YC 与 General Catalyst 背书
 创始人地区: Lennard Schmidt（CEO）+ Jonas Beisswenger + Tobias Kemkes（均 CODE 大学校友）；2023 年创立于柏林
 营收模式: 企业 AI 采用平台——模型无关 AI 聊天 + 定制助手 + 企业搜索 + 工作流 + 统一 API；面向企业的订阅
-月收入估算: $3M Seed（2024-04，General Catalyst + La Famiglia + YC）；ARR 100 万（2024-10）→ 1000 万（2025-09）→ 2000 万（2026-03），2026-01 团队 30 人；官网称 1 万+ 企业、单客户 3.3 万+ MAU
+月收入估算: $3M Seed（2024-04，General Catalyst + La Famiglia + YC）；ARR 100 万（2024-10）→ 1000
+  万（2025-09）→ 2000 万（2026-03），2026-01 团队 30 人；官网称 1 万+ 企业、单客户 3.3 万+ MAU
 流量来源: 企业直销 + YC/VC 圈背书 + 合规卖点（GDPR/ISO 27001/SOC 2）；欧洲数据合规是差异化获客钩子
-可迁移点: ①「模型无关 + 合规」是欧洲企业 AI 的真实门槛，卡准即差异化 ② 从学生项目到 YC 到 2000 万 ARR，小团队也能跑快 ③ 把 ChatGPT 做成本地化合规版卖企业，同样需求换合规外壳 ④ 工作流/API 把聊天变集成，黏性随连接数涨 ⑤ 德国人口结构压力是长期刚需背景，讲故事即战略
+可迁移点: ①「模型无关 + 合规」是欧洲企业 AI 的真实门槛，卡准即差异化 ② 从学生项目到 YC 到 2000 万 ARR，小团队也能跑快 ③ 把 ChatGPT
+  做成本地化合规版卖企业，同样需求换合规外壳 ④ 工作流/API 把聊天变集成，黏性随连接数涨 ⑤ 德国人口结构压力是长期刚需背景，讲故事即战略
 原文链接: https://langdock.com
 数据口径: 官网 about-us 里程碑（ARR/团队）、General Catalyst 种子轮公告、Dealroom/NeuronFeed 营收与融资报道
 类型: 收入案例
@@ -13,6 +15,7 @@ name: Langdock
 分类: 企业软件 / AI 采用平台 / 德国
 封面: /case-site/cases/langdock/site.png
 ---
+
 
 ![Langdock 官网](/cases/langdock/site.png)
 

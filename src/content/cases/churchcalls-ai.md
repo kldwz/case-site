@@ -1,19 +1,22 @@
 ---
-name: "ChurchCalls.ai"
-一句话: "ChurchCalls.ai 是一个为教堂或宗教机构提供24/7 AI电话助手的SaaS工具，能接听电话、收集信息并转接真人。"
-创始人地区: "创始人未披露，US，2025 年成立"
-营收模式: "$19.99/mo Billed Annually at $119.88"
-月收入估算: "$110/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR2），B2B 受众；官网 https://www.churchcalls.ai/"
-可迁移点: "① 垂直领域AI应用（宗教场景） ② 年付订阅制提高现金流稳定性 ③ 功能设计强调无缝转接真人（混合服务）"
-原文链接: "https://www.churchcalls.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:34:58.149Z；域名评分 DR2；原始页 https://trustmrr.com/startup/churchcalls-ai。"
-分类: "AI、SaaS、Customer Support / B2B / 海外"
+name: ChurchCalls.ai
+一句话: ChurchCalls.ai 是一个为教堂或宗教机构提供24/7 AI电话助手的SaaS工具，能接听电话、收集信息并转接真人。
+创始人地区: 创始人未披露，US，2025 年成立
+营收模式: $19.99/mo Billed Annually at $119.88
+月收入估算: $110/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR2），B2B 受众；官网 https://www.churchcalls.ai/
+可迁移点: ① 垂直领域AI应用（宗教场景） ② 年付订阅制提高现金流稳定性 ③ 功能设计强调无缝转接真人（混合服务）
+原文链接: https://www.churchcalls.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:34:58.149Z；域名评分 DR2；原始页
+  https://trustmrr.com/startup/churchcalls-ai。
+分类: AI、SaaS、Customer Support / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $110 · 活跃订阅 3 · 近12个月营收 $1,373 · 累计营收 $1,652 · 域名 DR2 · 国家 US · 创立 2025-06-25"
-封面: "/case-site/cases/churchcalls-ai/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $110 · 活跃订阅 3 · 近12个月营收 $1,373 · 累计营收 $1,652 · 域名 DR2 ·
+  国家 US · 创立 2025-06-25
+封面: /case-site/cases/churchcalls-ai/site.webp
 ---
+
 # ChurchCalls.ai
 
 

@@ -1,19 +1,21 @@
 ---
-name: "挖财"
-一句话: "挖财是一款国产个人记账与理财App，支持AI自动记账功能。"
-创始人地区: "Hangzhou Yuancai Technology Co.,Ltd.，2020-12-13 上架 App Store 中国区"
-营收模式: "免费下载 + 内购（具体档位未披露）"
-月收入估算: "未官方披露（App Store 不公开下载量与收入，本站不做估算）"
-流量来源: "App Store 中国区搜索与榜单（评分 4.85，35,818 个评分）；Finance 类目长尾流量"
-可迁移点: "① 聚焦垂直领域（个人财务）的工具类产品 ② 早期入场积累品牌认知（国产理财代表） ③ 免费模式+增值服务变现（具体服务未披露） ④ 通过AI功能提升产品差异化（自动记账）"
-原文链接: "https://apps.apple.com/cn/app/%E6%8C%96%E8%B4%A2%E8%AE%B0%E8%B4%A6-ai%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/id1544045905?uo=4"
-数据口径: "Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者 Hangzhou Yuancai Technology Co.,Ltd.、价格 免费、评分 4.85、评分人数 35,818、上架日期 2020-12-13。收入未官方披露。"
-分类: "Finance / 免费+内购 / 中文 / 记账"
-类型: "国内实践"
-证据等级: "平台数据可查"
-平台数据: "App Store 中国区 ★4.85（35,818 个评分）· 免费 · 上架 2020-12-13（iTunes 官方 API）"
-封面: "/case-site/cases/wacai/site.png"
+name: 挖财
+一句话: 挖财是一款国产个人记账与理财App，支持AI自动记账功能。
+创始人地区: Hangzhou Yuancai Technology Co.,Ltd.，2020-12-13 上架 App Store 中国区
+营收模式: 免费下载 + 内购（具体档位未披露）
+月收入估算: 未官方披露（App Store 不公开下载量与收入，本站不做估算）
+流量来源: App Store 中国区搜索与榜单（评分 4.85，35,818 个评分）；Finance 类目长尾流量
+可迁移点: ① 聚焦垂直领域（个人财务）的工具类产品 ② 早期入场积累品牌认知（国产理财代表） ③ 免费模式+增值服务变现（具体服务未披露） ④ 通过AI功能提升产品差异化（自动记账）
+原文链接: https://apps.apple.com/cn/app/%E6%8C%96%E8%B4%A2%E8%AE%B0%E8%B4%A6-ai%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/id1544045905?uo=4
+数据口径: Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者
+  Hangzhou Yuancai Technology Co.,Ltd.、价格 免费、评分 4.85、评分人数 35,818、上架日期 2020-12-13。收入未官方披露。
+分类: Finance / 免费+内购 / 中文 / 记账
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: App Store 中国区 ★4.85（35,818 个评分）· 免费 · 上架 2020-12-13（iTunes 官方 API）
+封面: /case-site/cases/wacai/site.png
 ---
+
 # 挖财
 
 

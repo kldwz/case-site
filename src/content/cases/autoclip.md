@@ -1,19 +1,22 @@
 ---
-name: "Autoclip"
-一句话: "AutoClip 是一款 AI 视频剪辑工具，自动将 YouTube 长视频剪辑成适合 TikTok、Reels 和 Shorts 的短视频片段。"
-创始人地区: "创始人未披露，US，2026 年成立"
-营收模式: "Starter: $19.99/mo, Pro: $39.99/mo, Scale: $79.99/mo"
-月收入估算: "$6,545/月（Whop (API key), RevenueCat 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR2），B2C 受众；官网 https://autoclip.dev/"
-可迁移点: "① 提供免费试用降低用户使用门槛 ② 采用分层定价策略覆盖不同用户需求 ③ 聚焦于解决特定痛点（长视频转短视频） ④ 利用 AI 技术简化内容创作流程"
-原文链接: "https://autoclip.dev/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Whop (API key), RevenueCat）验证，最后同步于 2026-09-15T11:03:41.820Z；域名评分 DR2；原始页 https://trustmrr.com/startup/autoclip。"
-分类: "Content Creation、AI、Marketing、Social Media、SaaS / B2C / 海外"
+name: Autoclip
+一句话: AutoClip 是一款 AI 视频剪辑工具，自动将 YouTube 长视频剪辑成适合 TikTok、Reels 和 Shorts 的短视频片段。
+创始人地区: 创始人未披露，US，2026 年成立
+营收模式: 'Starter: $19.99/mo, Pro: $39.99/mo, Scale: $79.99/mo'
+月收入估算: $6,545/月（Whop (API key), RevenueCat 验证）
+流量来源: SEO 自然流量为主（域名评分 DR2），B2C 受众；官网 https://autoclip.dev/
+可迁移点: ① 提供免费试用降低用户使用门槛 ② 采用分层定价策略覆盖不同用户需求 ③ 聚焦于解决特定痛点（长视频转短视频） ④ 利用 AI 技术简化内容创作流程
+原文链接: https://autoclip.dev/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Whop (API key), RevenueCat）验证，最后同步于 2026-09-15T11:03:41.820Z；域名评分
+  DR2；原始页 https://trustmrr.com/startup/autoclip。
+分类: Content Creation、AI、Marketing、Social Media、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Whop (API key), RevenueCat · 当前 MRR $6,545 · 活跃订阅 211 · 近12个月营收 $24,456 · 累计营收 $24,456 · 域名 DR2 · 国家 US · 创立 2026-02-18"
-封面: "/case-site/cases/autoclip/site.webp"
+平台数据: 支付验证：Whop (API key), RevenueCat · 当前 MRR $6,545 · 活跃订阅 211 · 近12个月营收 $24,456
+  · 累计营收 $24,456 · 域名 DR2 · 国家 US · 创立 2026-02-18
+封面: /case-site/cases/autoclip/site.webp
 ---
+
 # Autoclip
 
 

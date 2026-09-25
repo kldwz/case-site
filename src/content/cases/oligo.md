@@ -1,18 +1,33 @@
 ---
 name: Oligo Security
 一句话: CTO 发现 Instagram 能被一个开源库攻破，三个以色列前国防军网络军官据此创业——用运行时行为画像堵开源漏洞，9 个月内拿下 2800 万美金
-创始人地区: Nadav Czerninski（联合创始人兼 CEO）、Gal Elbaz（联合创始人兼 CTO，前 Check Point）、Avshalom Hilu（联合创始人兼 CPO），总部以色列特拉维夫，另在纽约设办公室
+创始人地区: Nadav Czerninski（联合创始人兼 CEO）、Gal Elbaz（联合创始人兼 CTO，前 Check Point）、Avshalom Hilu（联合创始人兼
+  CPO），总部以色列特拉维夫，另在纽约设办公室
 营收模式: 企业级运行时应用安全与可观测性平台订阅，按受保护的主机与工作负载收费
 月收入估算: 公司未公开披露 ARR；2023 年 2 月出 stealth 时累计融资 2800 万美金（种子轮 + A 轮），成立 9 个月内完成
-流量来源: CTO 亲自发现 Instagram 开源库漏洞作为产品原点与传播钩子 + eBPF 库级运行时行为画像的技术差异化 + 以色列网安天使天团背书（Snyk 的 CTO、Check Point 联合创始人 Shlomo Kramer、Mellanox 创始人、Dome9 与 SafeBreach 创始人）+ Lightspeed、Ballistic Ventures、TLV Partners 领投
-可迁移点: ① 最好的产品原点是创始人亲手挖出的洞——Gal Elbaz 2020 年发现 Instagram 可被开源库滥用攻陷，这个故事比任何市场分析都有说服力 ② 别在噪音上加噪音——传统 SCA 工具的毛病是海量误报，Oligo 只在「库的行为偏离既定权限」时告警，把警报工作量砍掉约 85% ③ 从「检测漏洞」转向「检测行为」——漏洞库永远追不完，但一个库该干什么不该干什么是可以被画像的 ④ 把性能开销做成产品前提——他们的 eBPF 引擎在库级别工作，既精准又不影响应用稳定性，这是能进生产环境的硬门槛 ⑤ 早期把行业里的关键人物变成投资人——Snyk 的 CTO、Check Point 的创始人都在天使名单里，这些人既是钱也是渠道
+流量来源: CTO 亲自发现 Instagram 开源库漏洞作为产品原点与传播钩子 + eBPF 库级运行时行为画像的技术差异化 + 以色列网安天使天团背书（Snyk
+  的 CTO、Check Point 联合创始人 Shlomo Kramer、Mellanox 创始人、Dome9 与 SafeBreach 创始人）+ Lightspeed、Ballistic
+  Ventures、TLV Partners 领投
+可迁移点: ① 最好的产品原点是创始人亲手挖出的洞——Gal Elbaz 2020 年发现 Instagram 可被开源库滥用攻陷，这个故事比任何市场分析都有说服力
+  ② 别在噪音上加噪音——传统 SCA 工具的毛病是海量误报，Oligo 只在「库的行为偏离既定权限」时告警，把警报工作量砍掉约 85% ③ 从「检测漏洞」转向「检测行为」——漏洞库永远追不完，但一个库该干什么不该干什么是可以被画像的
+  ④ 把性能开销做成产品前提——他们的 eBPF 引擎在库级别工作，既精准又不影响应用稳定性，这是能进生产环境的硬门槛 ⑤ 早期把行业里的关键人物变成投资人——Snyk
+  的 CTO、Check Point 的创始人都在天使名单里，这些人既是钱也是渠道
 原文链接: https://www.oligo.security
-数据口径: 融资——2023 年 2 月出 stealth 时累计 2800 万美金，种子轮由 TLV Partners 领投，A 轮由 Lightspeed Venture Partners 与 Ballistic Ventures 参与，成立 9 个月内完成（Business Wire 官方通稿、Globes、FinSMEs、Calcalist）；投资人——Lightspeed Venture Partners、Ballistic Ventures、TLV Partners、Shlomo Kramer（Cato Networks 联合创始人兼 CEO、Check Point 联合创始人）、Eyal Waldman（Mellanox 创始人）、Adi Sharabani（Snyk CTO）、Eyal Manor（前 Google Cloud 总经理、Twilio 首席产品与工程官）、Zohar Alon（Dome9 创始人）、Guy Bejerano（SafeBreach 联合创始人）、Shai Morag（Ermetic 联合创始人）、Ofer Ben-Noon 与 Ohad Bobrov（Talon Cyber Security 联合创始人）；基金包括 Cyber Club London、Kmehin Ventures、OperAngels（Business Wire、Calcalist、TLV Partners 投资笔记）；技术——基于自研 eBPF 引擎的动态库级分析与行为监控，为每个开源库建立合法行为画像，偏离时告警或阻断，客户响应安全警报的工作量减少约 85%（Business Wire、FinSMEs）
+数据口径: 融资——2023 年 2 月出 stealth 时累计 2800 万美金，种子轮由 TLV Partners 领投，A 轮由 Lightspeed Venture
+  Partners 与 Ballistic Ventures 参与，成立 9 个月内完成（Business Wire 官方通稿、Globes、FinSMEs、Calcalist）；投资人——Lightspeed
+  Venture Partners、Ballistic Ventures、TLV Partners、Shlomo Kramer（Cato Networks 联合创始人兼
+  CEO、Check Point 联合创始人）、Eyal Waldman（Mellanox 创始人）、Adi Sharabani（Snyk CTO）、Eyal Manor（前
+  Google Cloud 总经理、Twilio 首席产品与工程官）、Zohar Alon（Dome9 创始人）、Guy Bejerano（SafeBreach
+  联合创始人）、Shai Morag（Ermetic 联合创始人）、Ofer Ben-Noon 与 Ohad Bobrov（Talon Cyber Security
+  联合创始人）；基金包括 Cyber Club London、Kmehin Ventures、OperAngels（Business Wire、Calcalist、TLV
+  Partners 投资笔记）；技术——基于自研 eBPF 引擎的动态库级分析与行为监控，为每个开源库建立合法行为画像，偏离时告警或阻断，客户响应安全警报的工作量减少约
+  85%（Business Wire、FinSMEs）
 类型: 收入案例
 证据等级: 官方披露
 分类: 企业安全 / 开源供应链安全 / 英文 / 以色列
 封面: /case-site/cases/oligo/site.png
 ---
+
 
 ![Oligo Security 官网](/cases/oligo/site.png)
 

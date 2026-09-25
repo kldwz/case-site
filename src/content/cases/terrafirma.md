@@ -1,18 +1,27 @@
 ---
 name: TerraFirma
-一句话: 两个造过星舰的工程师，用 Xbox 手柄开挖掘机——不做机器人卖设备，直接带机队上工地交付工程，两年拿下 Kleiner Perkins 领投的 1.15 亿美金
+一句话: 两个造过星舰的工程师，用 Xbox 手柄开挖掘机——不做机器人卖设备，直接带机队上工地交付工程，两年拿下 Kleiner Perkins 领投的 1.15
+  亿美金
 创始人地区: Noah Schochet（CEO）+ Noah McGuinness（CTO），普林斯顿工程课第一天相识，2024 年创立于德州奥斯汀
 营收模式: 机器人建筑承包商——直接承接土方、场地平整、拆除等工程交付，按项目收费（而非卖设备或卖软件授权）
-月收入估算: 未披露营收；2026 年 7 月完成约 1.15 亿美金融资，其中 1 亿美金 A 轮由 Kleiner Perkins 领投，Bain Capital Ventures、Glade Brook、SpaceX 与 Anduril 相关天使等参投；过去 12 个月规模增长超 10 倍
-流量来源: 「SpaceX 黑帮」的人才与资本网络 + 真实交付案例（奥斯汀星巴克场地、Spicewood 体育场馆、New Braunfels 变电站）+ 政府与商业双重合同 + 「火星建城」叙事带来的媒体与招聘红利
-可迁移点: ① 不做设备供应商做承包商，卖「做完的活」而不是「能干活的工具」，客户不用承担集成风险，你也不用等客户学会用 ② 从最脏的活验证商业模式——房东一句「能帮我拆栋楼吗」就是第一单，先收钱再融资 ③ 把上一家的组织能力迁移到传统行业，SpaceX 式的软硬件 + 运营一起迭代，是建筑业完全没有的打法 ④ 用一个大愿景（火星）解决招聘与传播，用地球上的现金流解决生存，两条线各司其职 ⑤ 选「劳动力结构性短缺」的行业——建筑业生产率五十年倒退、操作员招不到，自动化不是抢饭碗是补缺口
+月收入估算: 未披露营收；2026 年 7 月完成约 1.15 亿美金融资，其中 1 亿美金 A 轮由 Kleiner Perkins 领投，Bain Capital
+  Ventures、Glade Brook、SpaceX 与 Anduril 相关天使等参投；过去 12 个月规模增长超 10 倍
+流量来源: 「SpaceX 黑帮」的人才与资本网络 + 真实交付案例（奥斯汀星巴克场地、Spicewood 体育场馆、New Braunfels 变电站）+ 政府与商业双重合同
+  + 「火星建城」叙事带来的媒体与招聘红利
+可迁移点: ① 不做设备供应商做承包商，卖「做完的活」而不是「能干活的工具」，客户不用承担集成风险，你也不用等客户学会用 ② 从最脏的活验证商业模式——房东一句「能帮我拆栋楼吗」就是第一单，先收钱再融资
+  ③ 把上一家的组织能力迁移到传统行业，SpaceX 式的软硬件 + 运营一起迭代，是建筑业完全没有的打法 ④ 用一个大愿景（火星）解决招聘与传播，用地球上的现金流解决生存，两条线各司其职
+  ⑤ 选「劳动力结构性短缺」的行业——建筑业生产率五十年倒退、操作员招不到，自动化不是抢饭碗是补缺口
 原文链接: https://www.terrafirma.com
-数据口径: 融资——2026 年 7 月约 1.15 亿美金，其中 1 亿美金 A 轮由 Kleiner Perkins 领投，Bain Capital Ventures、Glade Brook Capital、BANNER VC、Saga、Trust Ventures、Definition、PEAK6、Magnetar、Ravelin 等参投，天使来自 SpaceX、Anduril、Base Power、Shinkei、Hadrian（Robotics 24/7、CNBC、创始人公开帖）；效率主张「单操作员产出提升至约 300%」、计划一年招 300 人、建德州工厂与任务控制中心（官方口径）；行业背景——美国建筑业劳动生产率 1970 至 2020 年下降超 30%（里士满联储）
+数据口径: 融资——2026 年 7 月约 1.15 亿美金，其中 1 亿美金 A 轮由 Kleiner Perkins 领投，Bain Capital Ventures、Glade
+  Brook Capital、BANNER VC、Saga、Trust Ventures、Definition、PEAK6、Magnetar、Ravelin 等参投，天使来自
+  SpaceX、Anduril、Base Power、Shinkei、Hadrian（Robotics 24/7、CNBC、创始人公开帖）；效率主张「单操作员产出提升至约
+  300%」、计划一年招 300 人、建德州工厂与任务控制中心（官方口径）；行业背景——美国建筑业劳动生产率 1970 至 2020 年下降超 30%（里士满联储）
 类型: 收入案例
 证据等级: 官方披露
 分类: 机器人施工 / 建筑科技 / 英文 / 美国
 封面: /case-site/cases/terrafirma/site.png
 ---
+
 
 ![TerraFirma 官网](/cases/terrafirma/site.png)
 

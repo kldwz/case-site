@@ -1,19 +1,23 @@
 ---
-name: "ADDINVOICES"
-一句话: "ADDINVOICES 是一款面向自由职业者和小企业的智能发票平台，通过 AI 自动化和集成支付功能简化账单流程。"
-创始人地区: "由 Nicolas Forero 创立，US，2026 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$36/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR4），未披露 受众；官网 https://www.addinvoicesai.com/"
-可迁移点: "① AI 语音生成发票功能可提升操作效率 ② 集成 Stripe/PayPal 满足主流支付场景 ③ 自动化催款功能降低应收账款管理成本 ④ 品牌化模板设计强化专业形象 ⑤ 实时数据看板帮助掌握财务状况"
-原文链接: "https://www.addinvoicesai.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:55:43.898Z；域名评分 DR4；原始页 https://trustmrr.com/startup/addinvoices。"
-分类: "Fintech / 未披露 / 海外"
+name: ADDINVOICES
+一句话: ADDINVOICES 是一款面向自由职业者和小企业的智能发票平台，通过 AI 自动化和集成支付功能简化账单流程。
+创始人地区: 由 Nicolas Forero 创立，US，2026 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $36/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR4），未披露 受众；官网 https://www.addinvoicesai.com/
+可迁移点: ① AI 语音生成发票功能可提升操作效率 ② 集成 Stripe/PayPal 满足主流支付场景 ③ 自动化催款功能降低应收账款管理成本 ④ 品牌化模板设计强化专业形象
+  ⑤ 实时数据看板帮助掌握财务状况
+原文链接: https://www.addinvoicesai.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:55:43.898Z；域名评分 DR4；原始页
+  https://trustmrr.com/startup/addinvoices。
+分类: Fintech / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $36 · 活跃订阅 3 · 近12个月营收 $1,468 · 累计营收 $1,468 · 域名 DR4 · 国家 US · 创立 2026-01-12"
-封面: "/case-site/cases/addinvoices/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $36 · 活跃订阅 3 · 近12个月营收 $1,468 · 累计营收 $1,468 · 域名 DR4 ·
+  国家 US · 创立 2026-01-12
+封面: /case-site/cases/addinvoices/site.webp
 ---
+
 
 ![ADDINVOICES 官网](/cases/addinvoices/site.webp)
 

@@ -1,19 +1,22 @@
 ---
-name: "Book The Move"
-一句话: "为搬家和仓储公司提供自动化销售情报的SaaS工具。"
-创始人地区: "由 Rob Goldstein 创立，US，2025 年成立"
-营收模式: "Growth: $397/month, Pro: $697/month, Scale: $1197/month"
-月收入估算: "$5,625/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://www.bookthemove.com/"
-可迁移点: "① 聚焦垂直行业（搬家/仓储）的精准营销需求 ② 分层定价策略覆盖不同规模客户 ③ 通过数据验证+自动化外销解决获客痛点"
-原文链接: "https://www.bookthemove.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:55:42.006Z；域名评分 DR1；原始页 https://trustmrr.com/startup/book-the-move。"
-分类: "Marketing、Real Estate、SaaS / B2B / 海外"
+name: Book The Move
+一句话: 为搬家和仓储公司提供自动化销售情报的SaaS工具。
+创始人地区: 由 Rob Goldstein 创立，US，2025 年成立
+营收模式: 'Growth: $397/month, Pro: $697/month, Scale: $1197/month'
+月收入估算: $5,625/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://www.bookthemove.com/
+可迁移点: ① 聚焦垂直行业（搬家/仓储）的精准营销需求 ② 分层定价策略覆盖不同规模客户 ③ 通过数据验证+自动化外销解决获客痛点
+原文链接: https://www.bookthemove.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:55:42.006Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/book-the-move。
+分类: Marketing、Real Estate、SaaS / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $5,625 · 活跃订阅 6 · 近12个月营收 $137,098 · 累计营收 $142,834 · 域名 DR1 · 国家 US · 创立 2025-01-06"
-封面: "/case-site/cases/book-the-move/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $5,625 · 活跃订阅 6 · 近12个月营收 $137,098 · 累计营收 $142,834 · 域名
+  DR1 · 国家 US · 创立 2025-01-06
+封面: /case-site/cases/book-the-move/site.webp
 ---
+
 
 ![Book The Move 官网](/cases/book-the-move/site.webp)
 

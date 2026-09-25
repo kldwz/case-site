@@ -4,15 +4,21 @@ name: Build Concierge
 创始人地区: Martin Port，英国利兹，连续创业者（前 BigChange 创始人）
 营收模式: SaaS 订阅。面向工地服务（pest control、电气、水暖、清洁等）的 AI 客服与工单自动化平台，按坐席与使用量收费
 月收入估算: 约 16.7 万美元每月（公开披露 2025 年底年化营业额接近 200 万美元 ARR，并定下 2026 年底 500 万英镑 ARR 目标）
-流量来源: 创始人个人品牌与行业口碑（前 BigChange 卖出超 3 亿英镑）；直营销售 + 行业董事会资源（引入 Travis Perkins、Jet Aire 等高管）； LinkedIn 创始人日志式获客
-可迁移点: ① AI 不是再做一个 dashboard，而是做「永远在线的运营层」——听、读、决策、执行 ② 垂直行业 field service 痛点极其明确（漏接电话、手工录入、调度混乱），AI 替人「把活干了」比「给人看报表」价值高十倍 ③ 创始人 Previous exit 的信誉是冷启动最强资产 ④ 先在小范围真客户生产环境跑出数据，再对外讲增长故事
+流量来源: 创始人个人品牌与行业口碑（前 BigChange 卖出超 3 亿英镑）；直营销售 + 行业董事会资源（引入 Travis Perkins、Jet Aire
+  等高管）； LinkedIn 创始人日志式获客
+可迁移点: ① AI 不是再做一个 dashboard，而是做「永远在线的运营层」——听、读、决策、执行 ② 垂直行业 field service 痛点极其明确（漏接电话、手工录入、调度混乱），AI
+  替人「把活干了」比「给人看报表」价值高十倍 ③ 创始人 Previous exit 的信誉是冷启动最强资产 ④ 先在小范围真客户生产环境跑出数据，再对外讲增长故事
 原文链接: https://www.buildconcierge.com
-数据口径: 融资——2025 年 6 月完成约 510 万美元（380 万英镑）种子轮，估值约 3500 万英镑，由私人投资人财团出资，创始人 Martin Port 跟投（FinSMEs、PR Newswire、Seedtable）；营收——创始人 LinkedIn 公开披露 2025 年底 12 家付费客户在产，年化营业额接近 30 万英镑、逼近 200 万美元 ARR，并定下 2026 年底 200+ 客户、500 万英镑+ ARR 目标；另一篇创始人帖称正式交易约 6 个月即达 200 万美元 ARR；产品——AI 电话接待、网站助手、全渠道客服、工作流引擎四大模块全上线（LinkedIn Martin Port、Seedtable）
+数据口径: 融资——2025 年 6 月完成约 510 万美元（380 万英镑）种子轮，估值约 3500 万英镑，由私人投资人财团出资，创始人 Martin Port
+  跟投（FinSMEs、PR Newswire、Seedtable）；营收——创始人 LinkedIn 公开披露 2025 年底 12 家付费客户在产，年化营业额接近
+  30 万英镑、逼近 200 万美元 ARR，并定下 2026 年底 200+ 客户、500 万英镑+ ARR 目标；另一篇创始人帖称正式交易约 6 个月即达 200
+  万美元 ARR；产品——AI 电话接待、网站助手、全渠道客服、工作流引擎四大模块全上线（LinkedIn Martin Port、Seedtable）
 类型: 收入案例
 证据等级: 官方披露
 分类: 垂直行业 SaaS / 工地服务 AI / 英文 / 英国
 封面: /case-site/cases/build-concierge/site.png
 ---
+
 
 ![Build Concierge 官网](/cases/build-concierge/site.png)
 

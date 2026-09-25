@@ -1,11 +1,13 @@
 ---
 name: Design Arena
 一句话: 三个哈佛好友做的 AI 设计「擂台」，首月 4.7 万用户、覆盖 135+ 国家——用人类投票给模型排名
-创始人地区: Grace Li（CEO，Harvard CS + Neuro，ex Apple）、Kamryn Ohly（CTO，Harvard CS + Ed，ex Apple）、Jayden Personnat（Chief AI/ML），哈佛好友，YC S25，总部旧金山（Arcada Labs）
+创始人地区: Grace Li（CEO，Harvard CS + Neuro，ex Apple）、Kamryn Ohly（CTO，Harvard CS + Ed，ex
+  Apple）、Jayden Personnat（Chief AI/ML），哈佛好友，YC S25，总部旧金山（Arcada Labs）
 营收模式: 当前免费开放（众包评测），长期靠基准评测 API / 企业榜单变现；TechCrunch 报约 790 万美金融资
 月收入估算: TechCrunch 报道约 790 万美金融资（YC S25 期间）；首月 4.7 万用户、覆盖 135+ 国家
 流量来源: 开源社区 + 设计师 / 研究员口碑 + Hacker News 自然爆
-可迁移点: ① 用「人类偏好投票」解决 AI 评测的信任难题，比厂商自说自话可信 ② 把评测做成社区产品，用户既是裁判也是内容 ③ 免费开放换增长，基准成了行业标准再变现 ④ 名校 + 大厂同窗组队，人才和信任双到位 ⑤ 选「大家都在吵但没有标尺」的领域切入
+可迁移点: ① 用「人类偏好投票」解决 AI 评测的信任难题，比厂商自说自话可信 ② 把评测做成社区产品，用户既是裁判也是内容 ③ 免费开放换增长，基准成了行业标准再变现
+  ④ 名校 + 大厂同窗组队，人才和信任双到位 ⑤ 选「大家都在吵但没有标尺」的领域切入
 原文链接: https://designarena.ai
 数据口径: TechCrunch 2025 报道（约 790 万美金融资）；公司官网披露用户数与国家数；YC S25
 类型: 收入案例
@@ -13,6 +15,7 @@ name: Design Arena
 分类: AI 基准评测 / 社区 / 英文 / 开源
 封面: /case-site/cases/design-arena/site.png
 ---
+
 
 ![Design Arena 官网](/cases/design-arena/site.png)
 

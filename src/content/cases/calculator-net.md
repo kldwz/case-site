@@ -14,6 +14,7 @@ name: Calculator.net
 封面: /case-site/cases/calculator-net/site.png
 ---
 
+
 # Calculator.net：一个丑到没人想模仿的网站，月访问六千万
 
 ## 网站是什么

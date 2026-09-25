@@ -1,19 +1,22 @@
 ---
-name: "BillionVerify"
-一句话: "为中小企业提供邮件有效性验证服务的SaaS工具，主打AI代理集成能力。"
-创始人地区: "由 Lishi 创立，HK，2026 年成立"
-营收模式: "Free tier, no credit card"
-月收入估算: "$1,292/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR35），B2B 受众；官网 https://billionverify.com/"
-可迁移点: "① 免费层+无信用卡要求可降低用户试用门槛 ② 将验证服务定位为AI工作流的基础设施层 ③ 技术指标(10亿+验证量)直接作为信任背书"
-原文链接: "https://billionverify.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-04-06T00:42:42.836Z；域名评分 DR35；原始页 https://trustmrr.com/startup/billionverify。"
-分类: "Marketing、AI、SaaS、Dev Tools、Sales / B2B / 海外"
+name: BillionVerify
+一句话: 为中小企业提供邮件有效性验证服务的SaaS工具，主打AI代理集成能力。
+创始人地区: 由 Lishi 创立，HK，2026 年成立
+营收模式: Free tier, no credit card
+月收入估算: $1,292/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR35），B2B 受众；官网 https://billionverify.com/
+可迁移点: ① 免费层+无信用卡要求可降低用户试用门槛 ② 将验证服务定位为AI工作流的基础设施层 ③ 技术指标(10亿+验证量)直接作为信任背书
+原文链接: https://billionverify.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-04-06T00:42:42.836Z；域名评分
+  DR35；原始页 https://trustmrr.com/startup/billionverify。
+分类: Marketing、AI、SaaS、Dev Tools、Sales / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $1,292 · 活跃订阅 24 · 近12个月营收 $5,399 · 累计营收 $5,399 · 域名 DR35 · 国家 HK · 创立 2026-01-01"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $1,292 · 活跃订阅 24 · 近12个月营收 $5,399 · 累计营收 $5,399 · 域名 DR35
+  · 国家 HK · 创立 2026-01-01
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # BillionVerify：为中小企业提供邮件有效性验证服务的SaaS工具，主打AI代理集成能力。
 

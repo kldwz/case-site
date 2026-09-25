@@ -3,9 +3,11 @@ name: Enginy
 一句话: 巴塞罗那的 AI-native 销售平台，自主数字销售 agent 替代 SDR，seed 500 万欧，客户含 Canva
 创始人地区: Kai Brandt（CEO/联创）、Jaume Puig（CTO/联创）；2023 年创立于巴塞罗那（马德里 + 巴塞罗那办公室）
 营收模式: AI-native 销售平台——自主数字销售 agent 做外联、qualify、约会议；B2B 订阅，按 agent 工作量/席位收费
-月收入估算: seed 500 万欧元（2025-01，Samaipata 领投，KFund、Itnig 跟投）；20+ 人、接入 30+ 数据源；客户含 Factorial、Sequra、Metricool、Red Points、Canva；由 Genesy 改名 Enginy
+月收入估算: seed 500 万欧元（2025-01，Samaipata 领投，KFund、Itnig 跟投）；20+ 人、接入 30+ 数据源；客户含 Factorial、Sequra、Metricool、Red
+  Points、Canva；由 Genesy 改名 Enginy
 流量来源: 销售/RevOps 圈口碑 + 产品驱动 + 投资人网络（Itnig 等巴塞罗那本地生态）引荐
-可迁移点: ① AI-native 不是「给 CRM 加个按钮」，而是让 agent 自主跑完外联到约会的全流程 ② 从品牌名 Genesy 改名 Enginy，名字要配得上「引擎」定位 ③ 拿本地投资人（Itnig）的钱，换来生态与人才 ④ 客户名单里塞进 Canva 这种全球标杆，信任杠杆最大 ⑤ 西班牙也在出 AI 销售原生公司，不止硅谷
+可迁移点: ① AI-native 不是「给 CRM 加个按钮」，而是让 agent 自主跑完外联到约会的全流程 ② 从品牌名 Genesy 改名 Enginy，名字要配得上「引擎」定位
+  ③ 拿本地投资人（Itnig）的钱，换来生态与人才 ④ 客户名单里塞进 Canva 这种全球标杆，信任杠杆最大 ⑤ 西班牙也在出 AI 销售原生公司，不止硅谷
 原文链接: https://enginy.ai
 数据口径: 融资新闻（Samaipata 领投 seed）、官网客户与数据源统计、公司改名公开信息
 类型: 收入案例
@@ -13,6 +15,7 @@ name: Enginy
 分类: AI 工具 / 销售 / 西班牙
 封面: /case-site/cases/enginy/site.png
 ---
+
 
 ![Enginy 官网](/cases/enginy/site.png)
 

@@ -1,19 +1,22 @@
 ---
-name: "AGENTTEAMEMAIL"
-一句话: "为团队代理提供真实域邮箱的开源SaaS工具"
-创始人地区: "由 Gaurav Khanna 创立，US，2021 年成立"
-营收模式: "Launch: $29/mo, Team: $99/mo, Enterprise: Contact Sales"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR0），B2B 受众；官网 https://agentteam.email/"
-可迁移点: "①开源核心降低开发成本 ②分层定价覆盖不同规模客户 ③聚焦AI客服场景的垂直需求"
-原文链接: "https://agentteam.email/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:31:20.029Z；域名评分 DR0；原始页 https://trustmrr.com/startup/agentteamemail。"
-分类: "AI、SaaS、Productivity、Customer Support / B2B / 海外"
+name: AGENTTEAMEMAIL
+一句话: 为团队代理提供真实域邮箱的开源SaaS工具
+创始人地区: 由 Gaurav Khanna 创立，US，2021 年成立
+营收模式: 'Launch: $29/mo, Team: $99/mo, Enterprise: Contact Sales'
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR0），B2B 受众；官网 https://agentteam.email/
+可迁移点: ①开源核心降低开发成本 ②分层定价覆盖不同规模客户 ③聚焦AI客服场景的垂直需求
+原文链接: https://agentteam.email/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:31:20.029Z；域名评分 DR0；原始页
+  https://trustmrr.com/startup/agentteamemail。
+分类: AI、SaaS、Productivity、Customer Support / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $0 · 累计营收 $1,458 · 域名 DR0 · 国家 US · 创立 2021-06-01"
-封面: "/case-site/cases/agentteamemail/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $0 · 累计营收 $1,458 · 域名 DR0 · 国家 US
+  · 创立 2021-06-01
+封面: /case-site/cases/agentteamemail/site.webp
 ---
+
 # AGENTTEAMEMAIL
 
 

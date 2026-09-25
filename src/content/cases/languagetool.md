@@ -6,15 +6,19 @@ name: LanguageTool
 营收模式: 开源免费版 + Premium 订阅（更高级的语法与风格检查）；另有企业/团队方案
 月收入估算: 未官方披露；官网设 Premium 付费档，具体价格以官网为准
 流量来源: 「语法检查」搜索词 + 开源带来的社区传播 + 多语言支持带来的全球用户 + 企业集成
-可迁移点: ① 开源做分发，Premium 做收入：免费版负责铺量，付费版负责收钱 ② 把能力做成 API 与插件两头卖：个人用插件，企业接 API ③ 4.38 分配 5,309 条评价：校对类工具的口碑来自"误报少" ④ 多语言是最自然的扩张路径：一套引擎加一门语言，就多一个市场 ⑤ 在巨头（Grammarly）旁边活着：靠开源与自托管切走一部分人群
+可迁移点: ① 开源做分发，Premium 做收入：免费版负责铺量，付费版负责收钱 ② 把能力做成 API 与插件两头卖：个人用插件，企业接 API ③ 4.38
+  分配 5,309 条评价：校对类工具的口碑来自"误报少" ④ 多语言是最自然的扩张路径：一套引擎加一门语言，就多一个市场 ⑤ 在巨头（Grammarly）旁边活着：靠开源与自托管切走一部分人群
 原文链接: https://languagetool.org
-数据口径: Mozilla 官方附加组件 API（addons.mozilla.org/api/v5/addons/addon/languagetool/），2026-09-13 抓取：日活 343,682、评分 4.382（5,309 条评价）、上架 2016-06-10、作者 LanguageTooler GmbH、官网 languagetool.org（可见 Premium 与 Business 档位）。收入未官方披露
+数据口径: Mozilla 官方附加组件 API（addons.mozilla.org/api/v5/addons/addon/languagetool/），2026-09-13
+  抓取：日活 343,682、评分 4.382（5,309 条评价）、上架 2016-06-10、作者 LanguageTooler GmbH、官网 languagetool.org（可见
+  Premium 与 Business 档位）。收入未官方披露
 分类: 浏览器扩展 / 开源+订阅 / 英文 / 写作工具
 类型: 插件
 证据等级: 平台数据可查
 平台数据: Firefox 官方 API：日活 343,682 · 评分 4.382（5,309 条评价）· 上架 2016-06-10
 封面: /case-site/cases/languagetool/site.png
 ---
+
 
 ![LanguageTool 官网](/cases/languagetool/site.png)
 

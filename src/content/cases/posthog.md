@@ -11,9 +11,11 @@ name: PostHog
 分类: 产品分析 / 开源+订阅 / 英文
 类型: 开源变现
 证据等级: 官方披露
-平台数据: GitHub 39,797 star · 3,379 fork · NOASSERTION · 仓库创建于 2020-01-23（2026-09-15 抓取）
+平台数据: GitHub 39,797 star · 3,379 fork · NOASSERTION · 仓库创建于 2020-01-23（2026-09-15
+  抓取）
 封面: /case-site/cases/posthog/site.png
 ---
+
 
 ![PostHog 官网](/cases/posthog/site.png)
 

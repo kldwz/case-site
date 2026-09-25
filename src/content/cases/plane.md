@@ -15,6 +15,7 @@ name: Plane
 封面: /case-site/cases/plane/site.png
 ---
 
+
 ![Plane 官网](/cases/plane/site.png)
 
 # Plane：用开源自托管挑战 Jira，靠云服务年收近千万美元

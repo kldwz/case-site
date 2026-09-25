@@ -5,7 +5,8 @@ name: Refactoring UI
 营收模式: 数字产品一次买断（电子书 + 永久更新）
 月收入估算: 创始人自披露：2020 全年约 $600,000；累计销量 30,000+ 册；2022 AMA 自述累计总收入超过 $250 万
 流量来源: 个人 Twitter + 邮件列表（自述出第一本书时只有 3500 推特粉丝、1500 邮件订阅）
-可迁移点: ① 切窄受众到一句话：不教设计理论，只写给"会写代码但界面丑"的人 ② 用书和课养两年，再全职做免费大项目（Tailwind CSS） ③ 常青产品别下架：出版 2 年后还年卖 $60 万 ④ 发售靠自有流量，不依赖大平台
+可迁移点: ① 切窄受众到一句话：不教设计理论，只写给"会写代码但界面丑"的人 ② 用书和课养两年，再全职做免费大项目（Tailwind CSS） ③ 常青产品别下架：出版
+  2 年后还年卖 $60 万 ④ 发售靠自有流量，不依赖大平台
 原文链接: https://www.refactoringui.com
 数据口径: Adam Wathan 2020 Year in Review；Indie Hackers AMA 2022-09（创始人自披露）
 类型: 收入案例
@@ -13,6 +14,7 @@ name: Refactoring UI
 分类: 数字产品 / 电子书 / 英文
 封面: /case-site/cases/refactoringui/site.png
 ---
+
 
 ![Refactoring UI 官网首页](/cases/refactoringui/site.png)
 

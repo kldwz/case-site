@@ -1,19 +1,22 @@
 ---
-name: "Calma"
-一句话: "Calma是一款极简风格的iOS生产力应用，通过语音输入整合任务管理、习惯追踪和情绪日志功能，专为ADHD人群设计。"
-创始人地区: "由 Valery Alexeev 创立，地区未披露，2026 年成立"
-营收模式: "Free · In‑App Purchases · Week $1.99, Year $39.99"
-月收入估算: "$484/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6757744254"
-可迁移点: "① 垂直场景创新：针对ADHD人群的语音输入需求设计核心功能 ② 复合功能集成：将任务、习惯、日志三大模块整合在单一界面 ③ 定价策略：采用周订阅（1.99美元）降低使用门槛，年订阅（39.99美元）提升LTV"
-原文链接: "https://apps.apple.com/app/id6757744254"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:55:44.455Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/calma。"
-分类: "Productivity、Mobile Apps、AI、Health & Fitness / B2C / 海外"
+name: Calma
+一句话: Calma是一款极简风格的iOS生产力应用，通过语音输入整合任务管理、习惯追踪和情绪日志功能，专为ADHD人群设计。
+创始人地区: 由 Valery Alexeev 创立，地区未披露，2026 年成立
+营收模式: Free · In‑App Purchases · Week $1.99, Year $39.99
+月收入估算: $484/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6757744254
+可迁移点: ① 垂直场景创新：针对ADHD人群的语音输入需求设计核心功能 ② 复合功能集成：将任务、习惯、日志三大模块整合在单一界面 ③ 定价策略：采用周订阅（1.99美元）降低使用门槛，年订阅（39.99美元）提升LTV
+原文链接: https://apps.apple.com/app/id6757744254
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:55:44.455Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/calma。
+分类: Productivity、Mobile Apps、AI、Health & Fitness / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $484 · 活跃订阅 109 · 近12个月营收 $8,423 · 累计营收 $8,423 · 域名 DR未披露 · 国家 未披露 · 创立 2026-02-20"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：RevenueCat · 当前 MRR $484 · 活跃订阅 109 · 近12个月营收 $8,423 · 累计营收 $8,423 · 域名
+  DR未披露 · 国家 未披露 · 创立 2026-02-20
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Calma：是一款极简风格的iOS生产力应用，通过语音输入整合任务管理、习惯追踪和情绪日志功能，专为ADHD人群设计。
 

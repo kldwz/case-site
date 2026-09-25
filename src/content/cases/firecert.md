@@ -1,19 +1,23 @@
 ---
-name: "FireCert"
-一句话: "FireCert 是英国的一站式消防安全合规 SaaS 平台，通过订阅制为 B2B 客户管理消防系统认证及资产。"
-创始人地区: "创始人未披露，GB，2026 年成立"
-营收模式: "£79/month Unlimited users. Unlimited buildings. Unlimited certificates."
-月收入估算: "$6,055/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR23），B2B 受众；官网 https://firecert.uk/"
-可迁移点: "① 聚焦垂直领域（消防合规）的标准化需求 ② 用「无限用户/建筑/证书」的简单定价消除客户顾虑 ③ 通过 Xero 集成解决财务系统对接痛点 ④ 用 SaaS 替代传统电子表格/PDF 的零散管理方式"
-原文链接: "https://firecert.uk/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:26:35.249Z；域名评分 DR23；原始页 https://trustmrr.com/startup/firecert。"
-分类: "SaaS、Security / B2B / 海外"
+name: FireCert
+一句话: FireCert 是英国的一站式消防安全合规 SaaS 平台，通过订阅制为 B2B 客户管理消防系统认证及资产。
+创始人地区: 创始人未披露，GB，2026 年成立
+营收模式: £79/month Unlimited users. Unlimited buildings. Unlimited certificates.
+月收入估算: $6,055/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR23），B2B 受众；官网 https://firecert.uk/
+可迁移点: ① 聚焦垂直领域（消防合规）的标准化需求 ② 用「无限用户/建筑/证书」的简单定价消除客户顾虑 ③ 通过 Xero 集成解决财务系统对接痛点 ④ 用 SaaS
+  替代传统电子表格/PDF 的零散管理方式
+原文链接: https://firecert.uk/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:26:35.249Z；域名评分 DR23；原始页
+  https://trustmrr.com/startup/firecert。
+分类: SaaS、Security / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $6,055 · 活跃订阅 50 · 近12个月营收 $13,455 · 累计营收 $13,455 · 域名 DR23 · 国家 GB · 创立 2026-02-24"
-封面: "/case-site/cases/firecert/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $6,055 · 活跃订阅 50 · 近12个月营收 $13,455 · 累计营收 $13,455 · 域名
+  DR23 · 国家 GB · 创立 2026-02-24
+封面: /case-site/cases/firecert/site.webp
 ---
+
 # FireCert
 
 

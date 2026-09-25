@@ -1,19 +1,22 @@
 ---
-name: "AI Selfie Studio"
-一句话: "Create studio-quality profile pictures & photoshoots with AI."
-创始人地区: "由 Jim Raptis 创立，GR，2025 年成立"
-营收模式: "From $15"
-月收入估算: "$105/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR30），B2C 受众；官网 https://www.aiselfie.studio/"
-可迁移点: "① 利用AI技术简化专业级照片制作流程 ② 瞄准社交媒体、简历等场景的轻量化需求 ③ 采用按次付费模式降低用户尝试门槛"
-原文链接: "https://www.aiselfie.studio/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:08:54.498Z；域名评分 DR30；原始页 https://trustmrr.com/startup/ai-selfie-studio。"
-分类: "Design Tools、AI、Content Creation、Social Media / B2C / 海外"
+name: AI Selfie Studio
+一句话: Create studio-quality profile pictures & photoshoots with AI.
+创始人地区: 由 Jim Raptis 创立，GR，2025 年成立
+营收模式: From $15
+月收入估算: $105/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR30），B2C 受众；官网 https://www.aiselfie.studio/
+可迁移点: ① 利用AI技术简化专业级照片制作流程 ② 瞄准社交媒体、简历等场景的轻量化需求 ③ 采用按次付费模式降低用户尝试门槛
+原文链接: https://www.aiselfie.studio/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:08:54.498Z；域名评分 DR30；原始页
+  https://trustmrr.com/startup/ai-selfie-studio。
+分类: Design Tools、AI、Content Creation、Social Media / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,991 · 累计营收 $2,991 · 域名 DR30 · 国家 GR · 创立 2025-11-21"
-封面: "/case-site/cases/ai-selfie-studio/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,991 · 累计营收 $2,991 · 域名 DR30 ·
+  国家 GR · 创立 2025-11-21
+封面: /case-site/cases/ai-selfie-studio/site.webp
 ---
+
 
 ![AI Selfie Studio 官网](/cases/ai-selfie-studio/site.webp)
 

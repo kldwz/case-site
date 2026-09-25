@@ -1,19 +1,24 @@
 ---
-name: "Bluff AI"
-一句话: "Bluff AI 是一款通过 AI 技术一键美化或恶搞照片的应用，主要面向 Gen Z 用户，完全依靠 TikTok 自然流量增长。"
-创始人地区: "由 Jordan 创立，US，2026 年成立"
-营收模式: "$0.99 for a 3-day trial, then $6.99/week including 450 credits. We also have consumable in app credits available for purchase"
-月收入估算: "$4,351/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR0），B2C 受众；官网 https://bluffai.app/"
-可迁移点: "① 针对 Gen Z 用户设计的产品更容易在 TikTok 等平台获得自然流量 ② 提供 3 天试用期（$0.99）后转为周订阅（$6.99）的定价模式 ③ 产品定位清晰，解决用户照片编辑的痛点（无需专业技能、节省时间、替代付费工具）"
-原文链接: "https://bluffai.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:14:44.815Z；域名评分 DR0；原始页 https://trustmrr.com/startup/bluff-ai。"
-分类: "Entertainment、AI、Mobile Apps、SaaS、Utilities / B2C / 海外"
+name: Bluff AI
+一句话: Bluff AI 是一款通过 AI 技术一键美化或恶搞照片的应用，主要面向 Gen Z 用户，完全依靠 TikTok 自然流量增长。
+创始人地区: 由 Jordan 创立，US，2026 年成立
+营收模式: $0.99 for a 3-day trial, then $6.99/week including 450 credits. We also have
+  consumable in app credits available for purchase
+月收入估算: $4,351/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR0），B2C 受众；官网 https://bluffai.app/
+可迁移点: ① 针对 Gen Z 用户设计的产品更容易在 TikTok 等平台获得自然流量 ② 提供 3 天试用期（$0.99）后转为周订阅（$6.99）的定价模式
+  ③ 产品定位清晰，解决用户照片编辑的痛点（无需专业技能、节省时间、替代付费工具）
+原文链接: https://bluffai.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:14:44.815Z；域名评分 DR0；原始页
+  https://trustmrr.com/startup/bluff-ai。
+分类: Entertainment、AI、Mobile Apps、SaaS、Utilities / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $4,351 · 活跃订阅 156 · 近12个月营收 $19,812 · 累计营收 $19,812 · 域名 DR0 · 国家 US · 创立 2026-06-06"
-封面: "/case-site/cases/bluff-ai/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $4,351 · 活跃订阅 156 · 近12个月营收 $19,812 · 累计营收 $19,812 · 域名
+  DR0 · 国家 US · 创立 2026-06-06
+封面: /case-site/cases/bluff-ai/site.webp
 ---
+
 # Bluff AI
 
 

@@ -1,19 +1,21 @@
 ---
-name: "每日英语听力"
-一句话: "一款提供海量英语听力资源的免费学习工具。"
-创始人地区: "QianYan Network，2012-12-20 上架 App Store 中国区"
-营收模式: "免费下载 + 内购（具体档位未披露）"
-月收入估算: "未官方披露（App Store 不公开下载量与收入，本站不做估算）"
-流量来源: "App Store 中国区搜索与榜单（评分 4.89，505,874 个评分）；Education 类目长尾流量"
-可迁移点: "① 垂直领域资源聚合模式（英语听力） ② 长期内容更新策略（2012年上线至今） ③ 通过免费基础服务+增值服务变现（推测）"
-原文链接: "https://apps.apple.com/cn/app/%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B-%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E7%9A%84%E8%8B%B1%E8%AF%AD%E6%B3%9B%E5%90%AC%E8%B5%84%E6%BA%90%E5%BA%93/id570118289?uo=4"
-数据口径: "Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者 QianYan Network、价格 免费、评分 4.89、评分人数 505,874、上架日期 2012-12-20。收入未官方披露。"
-分类: "Education / 免费+内购 / 中文 / 听力"
-类型: "国内实践"
-证据等级: "平台数据可查"
-平台数据: "App Store 中国区 ★4.89（505,874 个评分）· 免费 · 上架 2012-12-20（iTunes 官方 API）"
-封面: "/case-site/cases/meiriyingyu/site.png"
+name: 每日英语听力
+一句话: 一款提供海量英语听力资源的免费学习工具。
+创始人地区: QianYan Network，2012-12-20 上架 App Store 中国区
+营收模式: 免费下载 + 内购（具体档位未披露）
+月收入估算: 未官方披露（App Store 不公开下载量与收入，本站不做估算）
+流量来源: App Store 中国区搜索与榜单（评分 4.89，505,874 个评分）；Education 类目长尾流量
+可迁移点: ① 垂直领域资源聚合模式（英语听力） ② 长期内容更新策略（2012年上线至今） ③ 通过免费基础服务+增值服务变现（推测）
+原文链接: https://apps.apple.com/cn/app/%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B-%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E7%9A%84%E8%8B%B1%E8%AF%AD%E6%B3%9B%E5%90%AC%E8%B5%84%E6%BA%90%E5%BA%93/id570118289?uo=4
+数据口径: Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者
+  QianYan Network、价格 免费、评分 4.89、评分人数 505,874、上架日期 2012-12-20。收入未官方披露。
+分类: Education / 免费+内购 / 中文 / 听力
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: App Store 中国区 ★4.89（505,874 个评分）· 免费 · 上架 2012-12-20（iTunes 官方 API）
+封面: /case-site/cases/meiriyingyu/site.png
 ---
+
 
 ![每日英语听力 App Store 页](/cases/meiriyingyu/site.png)
 

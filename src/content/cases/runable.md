@@ -1,18 +1,30 @@
 ---
 name: Runable
-一句话: 两个 IIT 与 Salesforce 背景的印度年轻人做通用 AI Agent，不跟 Cursor 抢开发者，专抢不会写代码的小老板，上线付费三周做到 200 万美金年化收入
-创始人地区: Umesh Kumar（联合创始人兼 CEO，IIT Roorkee 2023 届，前 Salesforce 工程师，连续创业者）与 Saksham Sarda（联合创始人），印度班加罗尔
+一句话: 两个 IIT 与 Salesforce 背景的印度年轻人做通用 AI Agent，不跟 Cursor 抢开发者，专抢不会写代码的小老板，上线付费三周做到
+  200 万美金年化收入
+创始人地区: Umesh Kumar（联合创始人兼 CEO，IIT Roorkee 2023 届，前 Salesforce 工程师，连续创业者）与 Saksham
+  Sarda（联合创始人），印度班加罗尔
 营收模式: 面向非技术小企业主的通用 AI Agent 平台订阅制，覆盖建站、做应用、做演示、投放广告、社媒运营、SEO 全链路，免费额度加付费订阅
 月收入估算: 2026 年 3 月上线付费后三周内达到 200 万美金年化收入；注册用户约 150 万至 170 万；融资总额 2200 万至 2240 万美金
 流量来源: 产品自己就是增长引擎——用 AI Agent 帮客户投放广告与做 SEO，等于把获客能力做成产品功能；主要市场为美国、英国、日本，巴西与印度次之
-可迁移点: ① 明确不跟谁打——创始人公开说「要写代码的人该去用 OpenAI 和 Anthropic 的工具」，把战场划到自己能赢的地方 ② 不只帮客户造东西，还帮客户卖东西——大多数 AI 建站工具停在交付，Runable 把获客也包了 ③ 把「小老板」当成一个被巨头忽略的独立人群，而不是拿开发者工具凑合用 ④ 早期就承认毛利率为负并押注推理成本下降，是一种清醒的赌法 ⑤ 注册用户 170 万但只强调 ARR，说明他们知道哪一个数字才是真的
+可迁移点: ① 明确不跟谁打——创始人公开说「要写代码的人该去用 OpenAI 和 Anthropic 的工具」，把战场划到自己能赢的地方 ② 不只帮客户造东西，还帮客户卖东西——大多数
+  AI 建站工具停在交付，Runable 把获客也包了 ③ 把「小老板」当成一个被巨头忽略的独立人群，而不是拿开发者工具凑合用 ④ 早期就承认毛利率为负并押注推理成本下降，是一种清醒的赌法
+  ⑤ 注册用户 170 万但只强调 ARR，说明他们知道哪一个数字才是真的
 原文链接: https://www.runable.com
-数据口径: 融资——2200 万至 2240 万美金，2026 年 8 月 26 日宣布 2100 万美金 A 轮，由 Susquehanna Venture Capital 与 Nexus Venture Partners 共同领投，Together Fund、Array Ventures 跟投，投后估值 6500 万美金（Inc42、AI Startups News、AI Market Watch）；营收——2026 年 3 月上线付费功能后三周内达到 200 万美金年化收入（ARR），注册用户约 150 万至 170 万（TechCrunch 报道、AI Market Watch、Inc42）；成本——公司公开表示当前毛利率为负，因对用户 AI 使用进行补贴，管理层预期随推理成本下降而改善（TechCrunch 报道）；产品——通用 AI Agent，可生成网站、应用、演示文稿、视频、图片、报告，并运行广告投放、社媒管理、SEO 优化，支持 iOS/Android 与 Mac 桌面端；宣称 GAIA 基准 92.1%，90 天内消耗超 1 万亿 token（公司披露）；创始人——Umesh Kumar，IIT Roorkee 计算机科学 2023 届，前 Salesforce 工程师，此前联合创办 SkoolStream（被 Bodhi AI 收购）与 Unbind（AI Market Watch、Inc42）
+数据口径: 融资——2200 万至 2240 万美金，2026 年 8 月 26 日宣布 2100 万美金 A 轮，由 Susquehanna Venture Capital
+  与 Nexus Venture Partners 共同领投，Together Fund、Array Ventures 跟投，投后估值 6500 万美金（Inc42、AI
+  Startups News、AI Market Watch）；营收——2026 年 3 月上线付费功能后三周内达到 200 万美金年化收入（ARR），注册用户约
+  150 万至 170 万（TechCrunch 报道、AI Market Watch、Inc42）；成本——公司公开表示当前毛利率为负，因对用户 AI 使用进行补贴，管理层预期随推理成本下降而改善（TechCrunch
+  报道）；产品——通用 AI Agent，可生成网站、应用、演示文稿、视频、图片、报告，并运行广告投放、社媒管理、SEO 优化，支持 iOS/Android 与
+  Mac 桌面端；宣称 GAIA 基准 92.1%，90 天内消耗超 1 万亿 token（公司披露）；创始人——Umesh Kumar，IIT Roorkee
+  计算机科学 2023 届，前 Salesforce 工程师，此前联合创办 SkoolStream（被 Bodhi AI 收购）与 Unbind（AI Market
+  Watch、Inc42）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI Agent / 小企业自动化 / 英文 / 印度
 封面: /case-site/cases/runable/site.png
 ---
+
 
 ![Runable 官网](/cases/runable/site.png)
 

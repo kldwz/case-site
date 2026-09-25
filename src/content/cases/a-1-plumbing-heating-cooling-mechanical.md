@@ -1,19 +1,23 @@
 ---
-name: "Unfair 2.0"
-一句话: "Payment must be rendered at time of service. Allow 1-2 business days for Charges to show."
-创始人地区: "创始人未披露，US，2023 年成立"
-营收模式: "30/per successful lead never higher , subscription available"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://www.facebook.com/betterplumbabq"
-可迁移点: "① 自动化工作流程提高潜在客户转化效率 ② 固定费率模式简化定价结构 ③ 合规认证(SOC2)增强用户信任"
-原文链接: "https://www.facebook.com/betterplumbabq"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:58:34.186Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/a-1-plumbing-heating-cooling-mechanical。"
-分类: "未披露 / B2C / 海外"
+name: Unfair 2.0
+一句话: Payment must be rendered at time of service. Allow 1-2 business days for Charges
+  to show.
+创始人地区: 创始人未披露，US，2023 年成立
+营收模式: 30/per successful lead never higher , subscription available
+月收入估算: $0/月（Stripe 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://www.facebook.com/betterplumbabq
+可迁移点: ① 自动化工作流程提高潜在客户转化效率 ② 固定费率模式简化定价结构 ③ 合规认证(SOC2)增强用户信任
+原文链接: https://www.facebook.com/betterplumbabq
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:58:34.186Z；域名评分 DR未披露；原始页
+  https://trustmrr.com/startup/a-1-plumbing-heating-cooling-mechanical。
+分类: 未披露 / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $0 · 累计营收 $19,823 · 域名 DR未披露 · 国家 US · 创立 2023-04-09"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $0 · 累计营收 $19,823 · 域名 DR未披露 · 国家
+  US · 创立 2023-04-09
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Unfair 2.0
 
 

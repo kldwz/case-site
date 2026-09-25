@@ -1,19 +1,22 @@
 ---
-name: "Advise.so"
-一句话: "Vibrant and active community of marketers"
-创始人地区: "由 Jacky Chou (buying online businesses up to $1m) 创立，CA，2022 年成立"
-营收模式: "$169/ per month"
-月收入估算: "$21,966/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR10），B2C 受众；官网 https://advise.so/"
-可迁移点: "① 聚焦AI与营销交叉领域的垂直社群 ② 采用会员订阅制（$169/月）实现稳定现金流 ③ 通过无联盟链接的客观评测建立信任 ④ 创始人具备收购在线业务的专业背景"
-原文链接: "https://advise.so/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:07:00.831Z；域名评分 DR10；原始页 https://trustmrr.com/startup/advise-so。"
-分类: "Community、AI、Marketing / B2C / 海外"
+name: Advise.so
+一句话: Vibrant and active community of marketers
+创始人地区: 由 Jacky Chou (buying online businesses up to $1m) 创立，CA，2022 年成立
+营收模式: $169/ per month
+月收入估算: $21,966/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR10），B2C 受众；官网 https://advise.so/
+可迁移点: ① 聚焦AI与营销交叉领域的垂直社群 ② 采用会员订阅制（$169/月）实现稳定现金流 ③ 通过无联盟链接的客观评测建立信任 ④ 创始人具备收购在线业务的专业背景
+原文链接: https://advise.so/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:07:00.831Z；域名评分 DR10；原始页
+  https://trustmrr.com/startup/advise-so。
+分类: Community、AI、Marketing / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $21,966 · 活跃订阅 215 · 近12个月营收 $308,255 · 累计营收 $1,009,239 · 域名 DR10 · 国家 CA · 创立 2022-12-06"
-封面: "/case-site/cases/advise-so/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $21,966 · 活跃订阅 215 · 近12个月营收 $308,255 · 累计营收 $1,009,239
+  · 域名 DR10 · 国家 CA · 创立 2022-12-06
+封面: /case-site/cases/advise-so/site.webp
 ---
+
 
 ![Advise.so 官网](/cases/advise-so/site.webp)
 

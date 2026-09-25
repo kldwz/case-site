@@ -1,19 +1,22 @@
 ---
-name: "ADELANTE LTD"
-一句话: "AI Agents for complex customer support."
-创始人地区: "创始人未披露，IL，2023 年成立"
-营收模式: "Starting at $800/mo"
-月收入估算: "$17,357/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR48），B2B 受众；官网 https://www.getadelante.com/"
-可迁移点: "① 高客单价B2B模式（起价$800/月） ② 专注解决通用聊天机器人无法完成的复杂工单场景 ③ Stripe支付验证的透明营收数据"
-原文链接: "https://www.getadelante.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:57:43.829Z；域名评分 DR48；原始页 https://trustmrr.com/startup/adelante-ltd。"
-分类: "AI、E-comm、Customer Support / B2B / 海外"
+name: ADELANTE LTD
+一句话: AI Agents for complex customer support.
+创始人地区: 创始人未披露，IL，2023 年成立
+营收模式: Starting at $800/mo
+月收入估算: $17,357/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR48），B2B 受众；官网 https://www.getadelante.com/
+可迁移点: ① 高客单价B2B模式（起价$800/月） ② 专注解决通用聊天机器人无法完成的复杂工单场景 ③ Stripe支付验证的透明营收数据
+原文链接: https://www.getadelante.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:57:43.829Z；域名评分 DR48；原始页
+  https://trustmrr.com/startup/adelante-ltd。
+分类: AI、E-comm、Customer Support / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $17,357 · 活跃订阅 69 · 近12个月营收 $115,333 · 累计营收 $226,493 · 域名 DR48 · 国家 IL · 创立 2023-11-01"
-封面: "/case-site/cases/adelante-ltd/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $17,357 · 活跃订阅 69 · 近12个月营收 $115,333 · 累计营收 $226,493 ·
+  域名 DR48 · 国家 IL · 创立 2023-11-01
+封面: /case-site/cases/adelante-ltd/site.webp
 ---
+
 # ADELANTE LTD
 
 

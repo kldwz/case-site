@@ -1,18 +1,29 @@
 ---
 name: Glean
-一句话: 前 Google 杰出工程师 Arvind Jain 做的「企业版 AI 搜索引擎」，把散落在 Slack、Drive、Salesforce 等上百个系统里的知识统一起来，ARR 从 1 亿（2025 年初）冲到 3 亿美金（2026 年中），估值 72 亿
-创始人地区: Arvind Jain（创始人兼 CEO，前 Google 杰出工程师，主导创建 Google Drive 与 Google Files）+ T.R. Vishwanath 等多位 ex-Google 工程师，2019 年创立于帕罗奥图
+一句话: 前 Google 杰出工程师 Arvind Jain 做的「企业版 AI 搜索引擎」，把散落在 Slack、Drive、Salesforce 等上百个系统里的知识统一起来，ARR
+  从 1 亿（2025 年初）冲到 3 亿美金（2026 年中），估值 72 亿
+创始人地区: Arvind Jain（创始人兼 CEO，前 Google 杰出工程师，主导创建 Google Drive 与 Google Files）+ T.R.
+  Vishwanath 等多位 ex-Google 工程师，2019 年创立于帕罗奥图
 营收模式: 面向 500 人以上中大型企业的 B2B SaaS 席位订阅，典型合同年费 10 万–50 万美金，财富 500 强大单可超 500 万美金/年
-月收入估算: ARR 2025 财年（截至 2025 年 1 月 31 日）破 1 亿美金，2025 年 12 月达 2 亿美金，2026 年 5 月 Sacra 估算约 3 亿美金；2025 年 6 月完成 1.5 亿美金 F 轮、估值 72 亿美金（Wellington 领投）
-流量来源: 产品契合「企业知识碎片化」这个普遍痛点 + 标杆客户（Databricks、Canva、Confluent、Duolingo、T-Mobile）+ 100+ SaaS 原生集成形成的生态锁 + 2025 年推出 Glean Agents 从搜索升级为 Agent 平台
-可迁移点: ① 先在一个明确痛点（企业内部「找东西难」）上做到极致，再自然扩张成平台，比一上来做「大平台」稳 ② 权限感知（permissions-aware）是企业 AI 的生死线——搜得到但看不到，客户才敢用 ③ 不做模型、只做「模型与企业系统之间的智能层」，和 OpenAI/Anthropic 是合作不是竞争，边界清晰 ④ 100+ 集成 + 企业图谱（Enterprise Graph）构成数据护城河，接得越多越难换 ⑤ 从搜索到 Agent 的演进路径：先占住「入口」，再用 Agent 吃下「执行」，逐步升维
+月收入估算: ARR 2025 财年（截至 2025 年 1 月 31 日）破 1 亿美金，2025 年 12 月达 2 亿美金，2026 年 5 月 Sacra
+  估算约 3 亿美金；2025 年 6 月完成 1.5 亿美金 F 轮、估值 72 亿美金（Wellington 领投）
+流量来源: 产品契合「企业知识碎片化」这个普遍痛点 + 标杆客户（Databricks、Canva、Confluent、Duolingo、T-Mobile）+ 100+
+  SaaS 原生集成形成的生态锁 + 2025 年推出 Glean Agents 从搜索升级为 Agent 平台
+可迁移点: ① 先在一个明确痛点（企业内部「找东西难」）上做到极致，再自然扩张成平台，比一上来做「大平台」稳 ② 权限感知（permissions-aware）是企业
+  AI 的生死线——搜得到但看不到，客户才敢用 ③ 不做模型、只做「模型与企业系统之间的智能层」，和 OpenAI/Anthropic 是合作不是竞争，边界清晰
+  ④ 100+ 集成 + 企业图谱（Enterprise Graph）构成数据护城河，接得越多越难换 ⑤ 从搜索到 Agent 的演进路径：先占住「入口」，再用
+  Agent 吃下「执行」，逐步升维
 原文链接: https://www.glean.com
-数据口径: 估值与融资——2025 年 6 月 F 轮 1.5 亿美金、Wellington 领投、估值 72 亿（Glean 官方稿与 NBC/CNBC）；2024 年 9 月 D 轮 2 亿、估值 46 亿；2023 年 5 月 C 轮 1 亿、估值 10 亿；ARR——官方 2025 财年破 1 亿，Sacra 2025 年 12 月估 2 亿、2026 年 5 月估 3 亿；客户（Databricks/Canva/Confluent/Duolingo/T-Mobile）（官方与 Sacra）
+数据口径: 估值与融资——2025 年 6 月 F 轮 1.5 亿美金、Wellington 领投、估值 72 亿（Glean 官方稿与 NBC/CNBC）；2024
+  年 9 月 D 轮 2 亿、估值 46 亿；2023 年 5 月 C 轮 1 亿、估值 10 亿；ARR——官方 2025 财年破 1 亿，Sacra 2025
+  年 12 月估 2 亿、2026 年 5 月估 3 亿；客户（Databricks/Canva/Confluent/Duolingo/T-Mobile）（官方与
+  Sacra）
 类型: 收入案例
 证据等级: 官方披露
 分类: 企业 AI 搜索 / Work AI 平台 / 英文 / 美国
 封面: /case-site/cases/glean/site.png
 ---
+
 
 ![Glean 官网](/cases/glean/site.png)
 

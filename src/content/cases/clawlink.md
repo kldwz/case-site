@@ -1,19 +1,22 @@
 ---
-name: "ClawLink"
-一句话: "ClawLink是一个无需OAuth设置和API密钥的开发者工具，实现OpenClaw与Hermes Agent对100+应用的快速连接。"
-创始人地区: "由 jay 创立，LK，2025 年成立"
-营收模式: "$7.99/month"
-月收入估算: "$721/月（Polar 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR18），B2B 受众；官网 https://claw-link.dev/"
-可迁移点: "①开源模式降低用户信任门槛 ②免配置集成解决开发者工具接入痛点 ③固定订阅制确保收入可预测性 ④多平台兼容性扩大潜在用户基础"
-原文链接: "https://claw-link.dev/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-16T22:53:57.304Z；域名评分 DR18；原始页 https://trustmrr.com/startup/clawlink。"
-分类: "Dev Tools、Productivity、SaaS、Utilities / B2B / 海外"
+name: ClawLink
+一句话: ClawLink是一个无需OAuth设置和API密钥的开发者工具，实现OpenClaw与Hermes Agent对100+应用的快速连接。
+创始人地区: 由 jay 创立，LK，2025 年成立
+营收模式: $7.99/month
+月收入估算: $721/月（Polar 验证）
+流量来源: SEO 自然流量为主（域名评分 DR18），B2B 受众；官网 https://claw-link.dev/
+可迁移点: ①开源模式降低用户信任门槛 ②免配置集成解决开发者工具接入痛点 ③固定订阅制确保收入可预测性 ④多平台兼容性扩大潜在用户基础
+原文链接: https://claw-link.dev/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-16T22:53:57.304Z；域名评分 DR18；原始页
+  https://trustmrr.com/startup/clawlink。
+分类: Dev Tools、Productivity、SaaS、Utilities / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Polar · 当前 MRR $721 · 活跃订阅 91 · 近12个月营收 $2,976 · 累计营收 $2,976 · 域名 DR18 · 国家 LK · 创立 2025-08-19"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Polar · 当前 MRR $721 · 活跃订阅 91 · 近12个月营收 $2,976 · 累计营收 $2,976 · 域名 DR18
+  · 国家 LK · 创立 2025-08-19
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # ClawLink：是一个无需OAuth设置和API密钥的开发者工具，实现OpenClaw与Hermes Agent对100+应用的快速连接。
 

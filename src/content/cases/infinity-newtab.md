@@ -1,19 +1,20 @@
 ---
-name: "Infinity新标签页"
-一句话: "Infinity新标签页是一款国产极简Chrome扩展，拥有海量用户。"
-创始人地区: "Chrome 扩展 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "① 极简风格满足用户对新标签页的轻量化需求 ② Chrome扩展形式降低用户使用门槛 ③ 未披露具体盈利模式但拥有规模化用户基础"
-原文链接: "https://infinitynewtab.com/"
-数据口径: "公开资料整理（来源：https://infinitynewtab.com/），2026-09-17 抓取。收入未官方披露。"
-分类: "Chrome插件/新标签 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://infinitynewtab.com/）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: Infinity新标签页
+一句话: Infinity新标签页是一款国产极简Chrome扩展，拥有海量用户。
+创始人地区: Chrome 扩展 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ① 极简风格满足用户对新标签页的轻量化需求 ② Chrome扩展形式降低用户使用门槛 ③ 未披露具体盈利模式但拥有规模化用户基础
+原文链接: https://infinitynewtab.com/
+数据口径: 公开资料整理（来源：https://infinitynewtab.com/），2026-09-17 抓取。收入未官方披露。
+分类: Chrome插件/新标签 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://infinitynewtab.com/）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Infinity新标签页
 
 

@@ -2,10 +2,13 @@
 name: StoreShot
 一句话: 给独立开发者做 App Store / Play 商店截图，免开 Figma，免费 3 次导出、按量订阅
 创始人地区: 未知（海外，X @StoreShotStudio）
-营收模式: 免费增值。Free 送 3 credits（半分辨率+水印）；Pro $6.99/月无限导出全分辨率无水印（年付标 Save 64%）；另有一次性的 credits packs 按次购买
+营收模式: 免费增值。Free 送 3 credits（半分辨率+水印）；Pro $6.99/月无限导出全分辨率无水印（年付标 Save 64%）；另有一次性的 credits
+  packs 按次购买
 月收入估算: 未官方披露
-流量来源: V2EX「分享创造」首发引流 + 开发者社区（IndieHackers/PH）+ 官网 SEO（app store screenshot maker）+ 模板内容做长尾
-可迁移点: ① 切开发者「上架时的烦琐活」，工具小但需求刚性、愿意付费 ② 免费额度设在水印+半分辨率，卡住商用场景逼升级 ③ 订阅 + 一次性 pack 双轨接住轻重用户 ④ 上架季是刚需高峰，模板/功能做深比做大更重要
+流量来源: V2EX「分享创造」首发引流 + 开发者社区（IndieHackers/PH）+ 官网 SEO（app store screenshot maker）+
+  模板内容做长尾
+可迁移点: ① 切开发者「上架时的烦琐活」，工具小但需求刚性、愿意付费 ② 免费额度设在水印+半分辨率，卡住商用场景逼升级 ③ 订阅 + 一次性 pack 双轨接住轻重用户
+  ④ 上架季是刚需高峰，模板/功能做深比做大更重要
 原文链接: https://storeshot.studio/
 数据口径: 官网 Pricing 区实测 + V2EX「上线了一个做APP市场图的小网站」帖（2026-09-05）
 类型: 收入案例
@@ -13,6 +16,7 @@ name: StoreShot
 分类: 开发者工具 / 免费增值 / 英文 / 国内发现
 封面: /case-site/cases/storeshot/site.png
 ---
+
 
 ![StoreShot 官网首页](/cases/storeshot/site.png)
 

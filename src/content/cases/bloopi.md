@@ -1,19 +1,23 @@
 ---
-name: "Bloopi"
-一句话: "Bloopi是一个为拉丁美洲数字创作者和企业提供支付处理服务的平台，作为商户记录方运营。"
-创始人地区: "创始人未披露，US，2024 年成立"
-营收模式: "9.9% + $1 per approved transaction, no monthly fee, no setup fee"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://bloopi.io/"
-可迁移点: "① 专注于特定地区（拉丁美洲）的支付处理需求 ② 提供端到端的支付解决方案，包括合规、争议处理和跨境结算 ③ 采用无月费、无设置费的纯交易抽成模式（9.9%+$1/笔） ④ 整合了销售漏斗、跟踪和AI功能的全球结账系统"
-原文链接: "https://bloopi.io/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:45:03.506Z；域名评分 DR1；原始页 https://trustmrr.com/startup/bloopi。"
-分类: "E-comm、SaaS、Analytics、AI、Marketing / B2B / 海外"
+name: Bloopi
+一句话: Bloopi是一个为拉丁美洲数字创作者和企业提供支付处理服务的平台，作为商户记录方运营。
+创始人地区: 创始人未披露，US，2024 年成立
+营收模式: 9.9% + $1 per approved transaction, no monthly fee, no setup fee
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://bloopi.io/
+可迁移点: ① 专注于特定地区（拉丁美洲）的支付处理需求 ② 提供端到端的支付解决方案，包括合规、争议处理和跨境结算 ③ 采用无月费、无设置费的纯交易抽成模式（9.9%+$1/笔）
+  ④ 整合了销售漏斗、跟踪和AI功能的全球结账系统
+原文链接: https://bloopi.io/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:45:03.506Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/bloopi。
+分类: E-comm、SaaS、Analytics、AI、Marketing / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $18,159 · 累计营收 $18,183 · 域名 DR1 · 国家 US · 创立 2024-02-22"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $18,159 · 累计营收 $18,183 · 域名 DR1 ·
+  国家 US · 创立 2024-02-22
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Bloopi：是一个为拉丁美洲数字创作者和企业提供支付处理服务的平台，作为商户记录方运营。
 

@@ -1,19 +1,22 @@
 ---
-name: "AffiliList"
-一句话: "AffiliList是一个帮助用户发现各行业联盟营销项目的平台。"
-创始人地区: "由 Evan Yang 创立，US，2025 年成立"
-营收模式: "$39 per submission"
-月收入估算: "$273/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR18），B2B 受众；官网 https://www.affililist.com/"
-可迁移点: "① 聚焦细分领域（联盟营销项目发现） ② 采用按提交收费的商业模式 ③ 域名评分较低但已产生实际营收"
-原文链接: "https://www.affililist.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:49:45.356Z；域名评分 DR18；原始页 https://trustmrr.com/startup/affililist。"
-分类: "Marketing、SaaS、E-comm、AI、Fintech / B2B / 海外"
+name: AffiliList
+一句话: AffiliList是一个帮助用户发现各行业联盟营销项目的平台。
+创始人地区: 由 Evan Yang 创立，US，2025 年成立
+营收模式: $39 per submission
+月收入估算: $273/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR18），B2B 受众；官网 https://www.affililist.com/
+可迁移点: ① 聚焦细分领域（联盟营销项目发现） ② 采用按提交收费的商业模式 ③ 域名评分较低但已产生实际营收
+原文链接: https://www.affililist.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:49:45.356Z；域名评分 DR18；原始页
+  https://trustmrr.com/startup/affililist。
+分类: Marketing、SaaS、E-comm、AI、Fintech / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,822 · 累计营收 $2,228 · 域名 DR18 · 国家 US · 创立 2025-02-17"
-封面: "/case-site/cases/affililist/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,822 · 累计营收 $2,228 · 域名 DR18 ·
+  国家 US · 创立 2025-02-17
+封面: /case-site/cases/affililist/site.webp
 ---
+
 # AffiliList
 
 

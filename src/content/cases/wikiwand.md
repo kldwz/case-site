@@ -1,19 +1,20 @@
 ---
-name: "Wikiwand"
-一句话: "Wikiwand 是一款优化维基百科阅读体验的 Chrome 扩展。"
-创始人地区: "Chrome 扩展 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "① 通过浏览器扩展优化现有内容平台的用户体验 ② 全球化的产品定位 ③ 专注于单一功能的简洁设计"
-原文链接: "https://www.wikiwand.com/"
-数据口径: "公开资料整理（来源：https://www.wikiwand.com/），2026-09-17 抓取。收入未官方披露。"
-分类: "Chrome插件/维基 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://www.wikiwand.com/）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: Wikiwand
+一句话: Wikiwand 是一款优化维基百科阅读体验的 Chrome 扩展。
+创始人地区: Chrome 扩展 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ① 通过浏览器扩展优化现有内容平台的用户体验 ② 全球化的产品定位 ③ 专注于单一功能的简洁设计
+原文链接: https://www.wikiwand.com/
+数据口径: 公开资料整理（来源：https://www.wikiwand.com/），2026-09-17 抓取。收入未官方披露。
+分类: Chrome插件/维基 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://www.wikiwand.com/）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Wikiwand
 
 

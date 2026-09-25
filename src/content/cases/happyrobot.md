@@ -1,18 +1,29 @@
 ---
 name: HappyRobot
-一句话: 三个西班牙人在 YC demo day 后推倒重来，转做货运电话的 AI agent——两年半做到 12 亿美金估值，客户包括 DHL、Kuehne+Nagel 和 Uber
+一句话: 三个西班牙人在 YC demo day 后推倒重来，转做货运电话的 AI agent——两年半做到 12 亿美金估值，客户包括 DHL、Kuehne+Nagel
+  和 Uber
 创始人地区: Pablo Palafox（联合创始人兼 CEO）、Javi Palafox（联合创始人兼 COO）、Luis Paarup（联合创始人兼 CTO），总部美国旧金山
 营收模式: 企业级 AI agent 平台订阅，按部署的 agent 与自动化工作量收费，采用「上线加持续迭代」的服务式交付
 月收入估算: B 轮后收入增长 5 倍以上（未披露绝对值）；净收入留存率超 150%；累计融资约 2 亿美金，2026 年 8 月 C 轮后估值 12 亿美金
-流量来源: 从货运经纪这个最苦、电话最多的切口撕开行业 + 150 家以上企业客户的标杆效应（DHL、Kuehne+Nagel、Naturgy、Repsol、Uber）+ a16z、Y Combinator、Base10 的资本背书 + 可量化的客户成效（一家客户每月自动化 2.8 万小时工作、客服满意度 9.4 分、自主解决率超 70%）
-可迁移点: ① 去用户已经在的地方，而不是再造一个仪表盘——货运行业靠电话和邮件运转，AI 去接电话就是最强的产品形态 ② 集成才是护城河，模型不是——语音模型人人可用，能把 agent 接进客户系统、说客户的语言才是壁垒 ③ 小收入有时是锚，不是里程碑——他们在 YC demo day 时已有 7 万美金 ARR，但这反而让转型更难，别让第一笔收入锁死你的判断 ④ 别过度迷信自己原本的专长——团队原是计算机视觉背景，一开始因此低估了 LLM，差点错过整个机会 ⑤ 卖「持续迭代的服务」而不是一次性项目——首批 agent 4 到 12 周上线，之后每个冲刺都在优化已上线的 agent
+流量来源: 从货运经纪这个最苦、电话最多的切口撕开行业 + 150 家以上企业客户的标杆效应（DHL、Kuehne+Nagel、Naturgy、Repsol、Uber）+
+  a16z、Y Combinator、Base10 的资本背书 + 可量化的客户成效（一家客户每月自动化 2.8 万小时工作、客服满意度 9.4 分、自主解决率超
+  70%）
+可迁移点: ① 去用户已经在的地方，而不是再造一个仪表盘——货运行业靠电话和邮件运转，AI 去接电话就是最强的产品形态 ② 集成才是护城河，模型不是——语音模型人人可用，能把
+  agent 接进客户系统、说客户的语言才是壁垒 ③ 小收入有时是锚，不是里程碑——他们在 YC demo day 时已有 7 万美金 ARR，但这反而让转型更难，别让第一笔收入锁死你的判断
+  ④ 别过度迷信自己原本的专长——团队原是计算机视觉背景，一开始因此低估了 LLM，差点错过整个机会 ⑤ 卖「持续迭代的服务」而不是一次性项目——首批 agent
+  4 到 12 周上线，之后每个冲刺都在优化已上线的 agent
 原文链接: https://happyrobot.ai
-数据口径: 融资——2024 年 12 月 1560 万美金 A 轮由 a16z 领投（RyderVentures 参投）；2025 年 9 月 4400 万美金 B 轮由 Base10 Partners 领投；2026 年 8 月 1.5 亿美金 C 轮由 Prysm Capital 领投、Eurazeo 共同领投，估值 12 亿美金，累计约 2 亿美金（HappyRobot 官方公告、Tech Funding News）；增长——B 轮后收入增长 5 倍以上，净收入留存率超 150%，一家大型供应链客户一年内合同扩大 10 倍（HappyRobot 官方、GenAI Daily）；客户——150 家以上企业客户，包括 DHL、Kuehne + Nagel、Naturgy、Repsol、Uber；覆盖前十货运经纪中的八家、前三海运承运商中的两家（HappyRobot 官方、Tech Funding News）
+数据口径: 融资——2024 年 12 月 1560 万美金 A 轮由 a16z 领投（RyderVentures 参投）；2025 年 9 月 4400 万美金
+  B 轮由 Base10 Partners 领投；2026 年 8 月 1.5 亿美金 C 轮由 Prysm Capital 领投、Eurazeo 共同领投，估值
+  12 亿美金，累计约 2 亿美金（HappyRobot 官方公告、Tech Funding News）；增长——B 轮后收入增长 5 倍以上，净收入留存率超 150%，一家大型供应链客户一年内合同扩大
+  10 倍（HappyRobot 官方、GenAI Daily）；客户——150 家以上企业客户，包括 DHL、Kuehne + Nagel、Naturgy、Repsol、Uber；覆盖前十货运经纪中的八家、前三海运承运商中的两家（HappyRobot
+  官方、Tech Funding News）
 类型: 收入案例
 证据等级: 官方披露
 分类: 企业 AI Agent / 供应链自动化 / 英文 / 美国
 封面: /case-site/cases/happyrobot/site.png
 ---
+
 
 ![HappyRobot 官网](/cases/happyrobot/site.png)
 

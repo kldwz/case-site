@@ -1,19 +1,21 @@
 ---
-name: "手工耿"
-一句话: "手工耿通过搞笑无用发明视频建立独特创作者人设并实现商业变现。"
-创始人地区: "创作者/独立开发 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "① 打造具有记忆点的垂直领域人设（无用发明家） ② 内容具备强娱乐性和传播性 ③ 通过持续产出强化个人IP辨识度"
-原文链接: "https://search.bilibili.com/upuser?keyword=%E6%89%8B%E5%B7%A5%E8%80%BF"
-数据口径: "公开资料整理（来源：https://search.bilibili.com/upuser?keyword=%E6%89%8B%E5%B7%A5%E8%80%BF），2026-09-17 抓取。收入未官方披露。"
-分类: "创作者/发明 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://search.bilibili.com/upuser?keyword=%E6%89%8B%E5%B7%A5%E8%80%BF）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: 手工耿
+一句话: 手工耿通过搞笑无用发明视频建立独特创作者人设并实现商业变现。
+创始人地区: 创作者/独立开发 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ① 打造具有记忆点的垂直领域人设（无用发明家） ② 内容具备强娱乐性和传播性 ③ 通过持续产出强化个人IP辨识度
+原文链接: https://search.bilibili.com/upuser?keyword=%E6%89%8B%E5%B7%A5%E8%80%BF
+数据口径: 公开资料整理（来源：https://search.bilibili.com/upuser?keyword=%E6%89%8B%E5%B7%A5%E8%80%BF），2026-09-17
+  抓取。收入未官方披露。
+分类: 创作者/发明 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://search.bilibili.com/upuser?keyword=%E6%89%8B%E5%B7%A5%E8%80%BF）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # 手工耿
 
 

@@ -1,19 +1,22 @@
 ---
-name: "Casora"
-一句话: "Casora是一款通过AI即时重新设计房间的移动应用，用户上传照片即可探索不同风格布局。"
-创始人地区: "由 Idan Masas 创立，地区未披露，2026 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$170/月（RevenueCat 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR2），B2C 受众；官网 https://casora.app/"
-可迁移点: "①AI+垂直设计工具组合验证 ②RevenueCat支付集成快速变现 ③X平台作为主要流量来源之一 ④挂牌出售机制提供退出路径"
-原文链接: "https://casora.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:08:37.868Z；域名评分 DR2；原始页 https://trustmrr.com/startup/casora。"
-分类: "Mobile Apps、AI、Design Tools / B2C / 海外"
+name: Casora
+一句话: Casora是一款通过AI即时重新设计房间的移动应用，用户上传照片即可探索不同风格布局。
+创始人地区: 由 Idan Masas 创立，地区未披露，2026 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $170/月（RevenueCat 验证）
+流量来源: SEO 自然流量为主（域名评分 DR2），B2C 受众；官网 https://casora.app/
+可迁移点: ①AI+垂直设计工具组合验证 ②RevenueCat支付集成快速变现 ③X平台作为主要流量来源之一 ④挂牌出售机制提供退出路径
+原文链接: https://casora.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:08:37.868Z；域名评分
+  DR2；原始页 https://trustmrr.com/startup/casora。
+分类: Mobile Apps、AI、Design Tools / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $170 · 活跃订阅 3 · 近12个月营收 $1,859 · 累计营收 $1,859 · 域名 DR2 · 国家 未披露 · 创立 2026-05-01"
-封面: "/case-site/cases/casora/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $170 · 活跃订阅 3 · 近12个月营收 $1,859 · 累计营收 $1,859 · 域名 DR2
+  · 国家 未披露 · 创立 2026-05-01
+封面: /case-site/cases/casora/site.webp
 ---
+
 # Casora
 
 

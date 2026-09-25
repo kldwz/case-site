@@ -1,19 +1,22 @@
 ---
-name: "Boxer AI"
-一句话: "Boxer AI 是一款将 iPhone 变成 AI 拳击教练的应用，通过摄像头追踪动作并提供实时反馈。"
-创始人地区: "创始人未披露，US，2026 年成立"
-营收模式: "Free · In‑App Purchases"
-月收入估算: "$7,763/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6759840821"
-可迁移点: "① 利用手机摄像头实现动作捕捉和实时反馈 ② 结合 AR 技术增强训练体验 ③ 提供数据统计和进度追踪功能 ④ 设置全球排行榜增加用户粘性 ⑤ 采用免费+应用内购买模式降低使用门槛"
-原文链接: "https://apps.apple.com/app/id6759840821"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T12:24:50.616Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/boxer-ai。"
-分类: "AI、Health & Fitness、Mobile Apps / B2C / 海外"
+name: Boxer AI
+一句话: Boxer AI 是一款将 iPhone 变成 AI 拳击教练的应用，通过摄像头追踪动作并提供实时反馈。
+创始人地区: 创始人未披露，US，2026 年成立
+营收模式: Free · In‑App Purchases
+月收入估算: $7,763/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6759840821
+可迁移点: ① 利用手机摄像头实现动作捕捉和实时反馈 ② 结合 AR 技术增强训练体验 ③ 提供数据统计和进度追踪功能 ④ 设置全球排行榜增加用户粘性 ⑤ 采用免费+应用内购买模式降低使用门槛
+原文链接: https://apps.apple.com/app/id6759840821
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T12:24:50.616Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/boxer-ai。
+分类: AI、Health & Fitness、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $7,763 · 活跃订阅 763 · 近12个月营收 $36,049 · 累计营收 $36,049 · 域名 DR未披露 · 国家 US · 创立 2026-03-08"
-封面: "/case-site/cases/boxer-ai/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $7,763 · 活跃订阅 763 · 近12个月营收 $36,049 · 累计营收 $36,049
+  · 域名 DR未披露 · 国家 US · 创立 2026-03-08
+封面: /case-site/cases/boxer-ai/site.webp
 ---
+
 
 ![Boxer AI 官网](/cases/boxer-ai/site.webp)
 

@@ -1,19 +1,23 @@
 ---
-name: "Anchor"
-一句话: "Adam Tomas’ Internet Holding Company: serving internet goods, services, and fun experiments to awesome people."
-创始人地区: "由 Adam Pang 创立，US，2021 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR32），B2B 受众；官网 https://anchormarianas.com/"
-可迁移点: "① 利用AI技术快速构建软件解决方案 ② 面向B2B市场提供定制化服务 ③ 通过Stripe实现支付验证 ④ 采用实验性项目组合策略"
-原文链接: "https://anchormarianas.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-05-01T09:19:33.051Z；域名评分 DR32；原始页 https://trustmrr.com/startup/anchor。"
-分类: "Dev Tools、AI、SaaS / B2B / 海外"
+name: Anchor
+一句话: 'Adam Tomas’ Internet Holding Company: serving internet goods, services, and
+  fun experiments to awesome people.'
+创始人地区: 由 Adam Pang 创立，US，2021 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR32），B2B 受众；官网 https://anchormarianas.com/
+可迁移点: ① 利用AI技术快速构建软件解决方案 ② 面向B2B市场提供定制化服务 ③ 通过Stripe实现支付验证 ④ 采用实验性项目组合策略
+原文链接: https://anchormarianas.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-05-01T09:19:33.051Z；域名评分
+  DR32；原始页 https://trustmrr.com/startup/anchor。
+分类: Dev Tools、AI、SaaS / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $657 · 累计营收 $1,751 · 域名 DR32 · 国家 US · 创立 2021-06-28"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $657 · 累计营收 $1,751 · 域名 DR32 · 国家
+  US · 创立 2021-06-28
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Anchor
 
 

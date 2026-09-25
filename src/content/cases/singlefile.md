@@ -2,18 +2,24 @@
 name: SingleFile
 一句话: 一键把整个网页存成一个 HTML 文件，Firefox 日活 9 万、评分 4.76，作者一人维护，免费开源
 创始人地区: Gildas Lormeau（法国独立开发者），2018-07 上架 Firefox，官网 getsinglefile.com
-营收模式: 浏览器扩展免费开源（官网明确写 "It is free and open source"）；另做命令行版 SingleFile CLI 面向自动化场景，Safari 版本经 Mac/iOS App Store 分发
+营收模式: 浏览器扩展免费开源（官网明确写 "It is free and open source"）；另做命令行版 SingleFile CLI 面向自动化场景，Safari
+  版本经 Mac/iOS App Store 分发
 月收入估算: 未官方披露（捐赠/商店分发，作者未公开数字）
 流量来源: '"我怕这个页面哪天没了"的刚需——归档、存证、离线阅读人群自发传播；另靠 GitHub 与其他工具的集成扩散'
-可迁移点: ① 抓住"链接会失效"这个永恒焦虑：网页 404 是每个人都遇到过的痛，需求不用教育 ② 把结果做成"一个文件"：单 HTML、能离线打开、不依赖任何服务——用户不需要信任你会活多久，这是最强的说服力 ③ 本地优先是卖点而非妥协：不上传、不登录、不云同步，隐私敏感人群（法务、记者、研究者）自然聚集 ④ 从 GUI 延伸到 CLI：同一套核心逻辑，命令行版本自动打开批量归档、服务器定时快照的 B2B 场景 ⑤ 一个人的项目也能进 App Store：Safari 版走官方商店分发，多一个渠道多一批用户，几乎不增加维护成本
+可迁移点: ① 抓住"链接会失效"这个永恒焦虑：网页 404 是每个人都遇到过的痛，需求不用教育 ② 把结果做成"一个文件"：单 HTML、能离线打开、不依赖任何服务——用户不需要信任你会活多久，这是最强的说服力
+  ③ 本地优先是卖点而非妥协：不上传、不登录、不云同步，隐私敏感人群（法务、记者、研究者）自然聚集 ④ 从 GUI 延伸到 CLI：同一套核心逻辑，命令行版本自动打开批量归档、服务器定时快照的
+  B2B 场景 ⑤ 一个人的项目也能进 App Store：Safari 版走官方商店分发，多一个渠道多一批用户，几乎不增加维护成本
 原文链接: https://www.getsinglefile.com/
-数据口径: Mozilla 官方附加组件 API（addons.mozilla.org/api/v5/addons/addon/single-file/），2026-09-12 抓取：日活 90,797、评分 4.76（1,042 条评价）、AMO 上架 2018-07-06；官网写明 "It is free and open source"，并提供 SingleFile CLI 与 Safari（App Store）版本。收入未官方披露。
+数据口径: Mozilla 官方附加组件 API（addons.mozilla.org/api/v5/addons/addon/single-file/），2026-09-12
+  抓取：日活 90,797、评分 4.76（1,042 条评价）、AMO 上架 2018-07-06；官网写明 "It is free and open source"，并提供
+  SingleFile CLI 与 Safari（App Store）版本。收入未官方披露。
 分类: 浏览器扩展 / 开源免费 / 英文 / 效率工具
 类型: 插件
 证据等级: 平台数据可查
 平台数据: Firefox 官方 API 日活 90,797 · 评分 4.76（1,042 条评价）· AMO 上架 2018-07-06
 封面: /case-site/cases/singlefile/site.png
 ---
+
 
 ![SingleFile 官网](/cases/singlefile/site.png)
 

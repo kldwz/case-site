@@ -1,19 +1,23 @@
 ---
-name: "Brand On Demand, Inc."
-一句话: "Supliful是一个为创作者提供从产品选择到订单履行的全周期CPG品牌建设平台，采用按购买收费模式。"
-创始人地区: "由 Martins Lasmanis 创立，US，2017 年成立"
-营收模式: "Free to design; selling starts at $69/month (or $55/month annually)."
-月收入估算: "$181,254/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR70），B2B 受众；官网 http://supliful.com/"
-可迁移点: "① 零前期成本的SaaS模式可降低用户启动门槛 ② 将供应链管理、电商支持和订单履行整合为一体化解决方案 ③ 按交易收费的商业模式与用户收入直接挂钩 ④ 选择补充剂、咖啡等标准化产品类目降低运营复杂度"
-原文链接: "http://supliful.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:58:48.309Z；域名评分 DR70；原始页 https://trustmrr.com/startup/brand-on-demand-inc。"
-分类: "E-comm、SaaS、Content Creation、Marketing、Health & Fitness / B2B / 海外"
+name: Brand On Demand, Inc.
+一句话: Supliful是一个为创作者提供从产品选择到订单履行的全周期CPG品牌建设平台，采用按购买收费模式。
+创始人地区: 由 Martins Lasmanis 创立，US，2017 年成立
+营收模式: Free to design; selling starts at $69/month (or $55/month annually).
+月收入估算: $181,254/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR70），B2B 受众；官网 http://supliful.com/
+可迁移点: ① 零前期成本的SaaS模式可降低用户启动门槛 ② 将供应链管理、电商支持和订单履行整合为一体化解决方案 ③ 按交易收费的商业模式与用户收入直接挂钩 ④
+  选择补充剂、咖啡等标准化产品类目降低运营复杂度
+原文链接: http://supliful.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:58:48.309Z；域名评分 DR70；原始页
+  https://trustmrr.com/startup/brand-on-demand-inc。
+分类: E-comm、SaaS、Content Creation、Marketing、Health & Fitness / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $181,254 · 活跃订阅 3,476 · 近12个月营收 $11,330,029 · 累计营收 $52,858,361 · 域名 DR70 · 国家 US · 创立 2017-06-11"
-封面: "/case-site/cases/brand-on-demand-inc/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $181,254 · 活跃订阅 3,476 · 近12个月营收 $11,330,029 · 累计营收 $52,858,361
+  · 域名 DR70 · 国家 US · 创立 2017-06-11
+封面: /case-site/cases/brand-on-demand-inc/site.webp
 ---
+
 
 ![Brand On Demand, Inc. 官网](/cases/brand-on-demand-inc/site.webp)
 

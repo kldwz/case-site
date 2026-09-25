@@ -1,19 +1,24 @@
 ---
-name: "Codelivly - Learn Cybersecurity"
-一句话: "Codelivly是一个专注于实用技术与网络安全教育的在线学习平台，通过电子书、在线课程和实践训练项目帮助学习者掌握实战技能。"
-创始人地区: "由 Codelivly - Your Journey To Cybersecurity 创立，GB，2026 年成立"
-营收模式: "Free to start; Pro unlocks advanced paths, hands-on projects, and verifiable certificates."
-月收入估算: "$48/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR29），B2C 受众；官网 https://codelivly.com/"
-可迁移点: "① 采用免费入门+专业版解锁高级功能的定价模式 ② 教学内容注重实战性，包含CTF挑战和可验证证书 ③ 通过Stripe实现支付验证，确保营收数据透明 ④ 结构化学习路径设计，从零基础到工作准备"
-原文链接: "https://codelivly.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-17T00:42:37.296Z；域名评分 DR29；原始页 https://trustmrr.com/startup/codelivly-learn-cybersecurity。"
-分类: "Education、Security / B2C / 海外"
+name: Codelivly - Learn Cybersecurity
+一句话: Codelivly是一个专注于实用技术与网络安全教育的在线学习平台，通过电子书、在线课程和实践训练项目帮助学习者掌握实战技能。
+创始人地区: 由 Codelivly - Your Journey To Cybersecurity 创立，GB，2026 年成立
+营收模式: Free to start; Pro unlocks advanced paths, hands-on projects, and verifiable
+  certificates.
+月收入估算: $48/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR29），B2C 受众；官网 https://codelivly.com/
+可迁移点: ① 采用免费入门+专业版解锁高级功能的定价模式 ② 教学内容注重实战性，包含CTF挑战和可验证证书 ③ 通过Stripe实现支付验证，确保营收数据透明
+  ④ 结构化学习路径设计，从零基础到工作准备
+原文链接: https://codelivly.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-17T00:42:37.296Z；域名评分 DR29；原始页
+  https://trustmrr.com/startup/codelivly-learn-cybersecurity。
+分类: Education、Security / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $48 · 活跃订阅 5 · 近12个月营收 $6,207 · 累计营收 $6,207 · 域名 DR29 · 国家 GB · 创立 2026-05-28"
-封面: "/case-site/cases/codelivly-learn-cybersecurity/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $48 · 活跃订阅 5 · 近12个月营收 $6,207 · 累计营收 $6,207 · 域名 DR29 ·
+  国家 GB · 创立 2026-05-28
+封面: /case-site/cases/codelivly-learn-cybersecurity/site.webp
 ---
+
 # Codelivly - Learn Cybersecurity
 
 

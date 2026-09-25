@@ -1,19 +1,23 @@
 ---
-name: "FitCal"
-一句话: "FitCal是一款AI驱动的卡路里和营养追踪应用，提供个性化计划和饮食记录功能。"
-创始人地区: "由 enzosegattoc 创立，BR，2024 年成立"
-营收模式: "Free · In-App Purchases, Fit Cal (Anual) $29.99, FitCal Monthly Plan $11.99, Annual Plan FitCal with discount $19.99"
-月收入估算: "$5,935/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6739812257"
-可迁移点: "① 采用AI技术提升营养追踪的准确性和个性化体验 ② 通过年费订阅折扣策略提高用户留存率 ③ 在竞争激烈的健康领域专注单一核心功能（饮食记录） ④ 采用阶梯定价策略覆盖不同付费意愿用户"
-原文链接: "https://apps.apple.com/app/id6739812257"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:04:14.572Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/fitcal。"
-分类: "Health & Fitness、AI、Mobile Apps / B2C / 海外"
+name: FitCal
+一句话: FitCal是一款AI驱动的卡路里和营养追踪应用，提供个性化计划和饮食记录功能。
+创始人地区: 由 enzosegattoc 创立，BR，2024 年成立
+营收模式: Free · In-App Purchases, Fit Cal (Anual) $29.99, FitCal Monthly Plan $11.99,
+  Annual Plan FitCal with discount $19.99
+月收入估算: $5,935/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6739812257
+可迁移点: ① 采用AI技术提升营养追踪的准确性和个性化体验 ② 通过年费订阅折扣策略提高用户留存率 ③ 在竞争激烈的健康领域专注单一核心功能（饮食记录） ④ 采用阶梯定价策略覆盖不同付费意愿用户
+原文链接: https://apps.apple.com/app/id6739812257
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:04:14.572Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/fitcal。
+分类: Health & Fitness、AI、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $5,935 · 活跃订阅 2,724 · 近12个月营收 $131,483 · 累计营收 $131,483 · 域名 DR未披露 · 国家 BR · 创立 2024-01-01"
-封面: "/case-site/cases/fitcal/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $5,935 · 活跃订阅 2,724 · 近12个月营收 $131,483 · 累计营收 $131,483
+  · 域名 DR未披露 · 国家 BR · 创立 2024-01-01
+封面: /case-site/cases/fitcal/site.webp
 ---
+
 
 ![FitCal 官网](/cases/fitcal/site.webp)
 

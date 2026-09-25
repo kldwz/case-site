@@ -4,15 +4,21 @@ name: Outward Intelligence
 创始人地区: Amir Kanpurwala、Abhish Raghavan、Brian Tatum，美国旧金山
 营收模式: B2B 市场调研与民意调查服务。按项目交付 + 订阅，用 AI 自动化压缩人工成本，保持高毛利
 月收入估算: 未公开精确月收入；公开报道称商业化 8 个月收入破 100 万美元，现达 8 位数 ARR（即年经常性收入超过 1000 万美元，约 83 万美元每月以上）
-流量来源: 创始人行业人脉与品牌客户背书（Hims & Hers、Warby Parker、T-Mobile 等被列为其研究服务客户）；公司官网与媒体曝光（Business Insider、Yahoo Finance 报道）
-可迁移点: ① 拒绝 VC、用 AI 延后招聘，小团队拥有大团队的交付能力 ② 在「慢且重」的传统行业（民调、调研），AI 最大的价值不是让人少干活，而是让小团队能做原本要几十人做的交付 ③ 创始人背景互补（产品/运营 + 研究 + 工程）可以替代早期招聘 ④ 控制权和客户导向优先于投资人导向——这是 bootstrap 公司的隐性竞争力
+流量来源: 创始人行业人脉与品牌客户背书（Hims & Hers、Warby Parker、T-Mobile 等被列为其研究服务客户）；公司官网与媒体曝光（Business
+  Insider、Yahoo Finance 报道）
+可迁移点: ① 拒绝 VC、用 AI 延后招聘，小团队拥有大团队的交付能力 ② 在「慢且重」的传统行业（民调、调研），AI 最大的价值不是让人少干活，而是让小团队能做原本要几十人做的交付
+  ③ 创始人背景互补（产品/运营 + 研究 + 工程）可以替代早期招聘 ④ 控制权和客户导向优先于投资人导向——这是 bootstrap 公司的隐性竞争力
 原文链接: https://www.outwardintelligence.com
-数据口径: 营收——Business Insider 2026-06-26 报道称三人 bootstrap，商业化 8 个月收入超 100 万美元，并称查验过其 2025 年税表验证 7 位数收入；另一中文科技媒体称其现超 8 位数 ARR；Yahoo Finance 复述同样数据（Business Insider、Yahoo Finance、460.net.cn）；团队——三位创始人分别来自 Google、Palantir、The Harris Poll，2023 年 3 月创立，不出外部资本；2025 年 11 月引入前 Harris Poll CEO Will Johnson 任 CEO（Business Insider、letsdatascience）；产品——AI 驱动的定量市场调研平台，结合技术与人力专家，交付速度更快、数据质量更高（outwardintelligence.com/about）
+数据口径: 营收——Business Insider 2026-06-26 报道称三人 bootstrap，商业化 8 个月收入超 100 万美元，并称查验过其 2025
+  年税表验证 7 位数收入；另一中文科技媒体称其现超 8 位数 ARR；Yahoo Finance 复述同样数据（Business Insider、Yahoo Finance、460.net.cn）；团队——三位创始人分别来自
+  Google、Palantir、The Harris Poll，2023 年 3 月创立，不出外部资本；2025 年 11 月引入前 Harris Poll CEO
+  Will Johnson 任 CEO（Business Insider、letsdatascience）；产品——AI 驱动的定量市场调研平台，结合技术与人力专家，交付速度更快、数据质量更高（outwardintelligence.com/about）
 类型: 收入案例
 证据等级: 官方披露
 分类: B2B 市场调研 / AI 自动化服务 / 英文 / 美国
 封面: /case-site/cases/outward/site.png
 ---
+
 
 ![Outward Intelligence 官网](/cases/outward/site.png)
 

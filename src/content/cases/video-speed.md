@@ -1,19 +1,20 @@
 ---
-name: "Video Speed Controller"
-一句话: "一个开源的Chrome扩展，允许用户调整视频播放速度。"
-创始人地区: "Chrome 扩展 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "① 开源模式可以吸引开发者社区贡献，降低维护成本 ② 解决特定痛点（视频播放速度控制）的小工具也有市场需求 ③ 浏览器扩展是验证产品想法的低成本方式"
-原文链接: "https://github.com/igrigorik/videospeed"
-数据口径: "公开资料整理（来源：https://github.com/igrigorik/videospeed），2026-09-17 抓取。收入未官方披露。"
-分类: "Chrome插件/倍速 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://github.com/igrigorik/videospeed）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: Video Speed Controller
+一句话: 一个开源的Chrome扩展，允许用户调整视频播放速度。
+创始人地区: Chrome 扩展 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ① 开源模式可以吸引开发者社区贡献，降低维护成本 ② 解决特定痛点（视频播放速度控制）的小工具也有市场需求 ③ 浏览器扩展是验证产品想法的低成本方式
+原文链接: https://github.com/igrigorik/videospeed
+数据口径: 公开资料整理（来源：https://github.com/igrigorik/videospeed），2026-09-17 抓取。收入未官方披露。
+分类: Chrome插件/倍速 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://github.com/igrigorik/videospeed）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Video Speed Controller：一个开源的Chrome扩展，允许用户调整视频播放速度。
 

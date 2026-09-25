@@ -1,19 +1,22 @@
 ---
-name: "Agent Idea Hub"
-一句话: "一个帮助用户发现可构建AI代理的灵感平台"
-创始人地区: "由 Matt 创立，US，2025 年成立"
-营收模式: "$49 lifetime"
-月收入估算: "$70/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），未披露 受众；官网 https://agentideahub.com/"
-可迁移点: "① 采用终身会员制(Lifetime Deal)快速获取早期收入 ② 通过Stripe验证支付提升可信度 ③ 聚焦AI细分领域解决具体需求"
-原文链接: "https://agentideahub.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:30:09.593Z；域名评分 DR1；原始页 https://trustmrr.com/startup/agent-idea-hub。"
-分类: "未披露 / 未披露 / 海外"
+name: Agent Idea Hub
+一句话: 一个帮助用户发现可构建AI代理的灵感平台
+创始人地区: 由 Matt 创立，US，2025 年成立
+营收模式: $49 lifetime
+月收入估算: $70/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），未披露 受众；官网 https://agentideahub.com/
+可迁移点: ① 采用终身会员制(Lifetime Deal)快速获取早期收入 ② 通过Stripe验证支付提升可信度 ③ 聚焦AI细分领域解决具体需求
+原文链接: https://agentideahub.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:30:09.593Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/agent-idea-hub。
+分类: 未披露 / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $70 · 活跃订阅 17 · 近12个月营收 $1,562 · 累计营收 $2,451 · 域名 DR1 · 国家 US · 创立 2025-05-01"
-封面: "/case-site/cases/agent-idea-hub/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $70 · 活跃订阅 17 · 近12个月营收 $1,562 · 累计营收 $2,451 · 域名 DR1 ·
+  国家 US · 创立 2025-05-01
+封面: /case-site/cases/agent-idea-hub/site.webp
 ---
+
 # Agent Idea Hub
 
 

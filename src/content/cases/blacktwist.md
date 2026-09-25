@@ -1,19 +1,24 @@
 ---
-name: "BlackTwist"
-一句话: "The toolkit serious Threads creators use to grow faster."
-创始人地区: "由 BlackTwist 创立，IT，2024 年成立"
-营收模式: "Creator Monthly: $19.00/month, Creator Annual: $150.00/year, Team Monthly: $69.00/month, Team Annual: $588.00/year, Agency Monthly: $119.00/month, Agency Annual: $1,068.00/year"
-月收入估算: "$2,270/月（Lemon Squeezy 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://blacktwist.lemonsqueezy.com/"
-可迁移点: "① 分层订阅模式覆盖个人创作者到机构客户 ② 通过年费套餐提升用户LTV ③ 专注垂直需求（Threads平台创作者工具）"
-原文链接: "https://blacktwist.lemonsqueezy.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Lemon Squeezy）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-09-14T04:16:46.778Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/blacktwist。"
-分类: "Social Media / 未披露 / 海外"
+name: BlackTwist
+一句话: The toolkit serious Threads creators use to grow faster.
+创始人地区: 由 BlackTwist 创立，IT，2024 年成立
+营收模式: 'Creator Monthly: $19.00/month, Creator Annual: $150.00/year, Team Monthly:
+  $69.00/month, Team Annual: $588.00/year, Agency Monthly: $119.00/month, Agency Annual:
+  $1,068.00/year'
+月收入估算: $2,270/月（Lemon Squeezy 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://blacktwist.lemonsqueezy.com/
+可迁移点: ① 分层订阅模式覆盖个人创作者到机构客户 ② 通过年费套餐提升用户LTV ③ 专注垂直需求（Threads平台创作者工具）
+原文链接: https://blacktwist.lemonsqueezy.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Lemon Squeezy）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-09-14T04:16:46.778Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/blacktwist。
+分类: Social Media / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Lemon Squeezy · 当前 MRR $2,270 · 活跃订阅 131 · 近12个月营收 $25,400 · 累计营收 $43,479 · 域名 DR未披露 · 国家 IT · 创立 2024-06-03"
-封面: "/case-site/cases/blacktwist/site.webp"
+平台数据: 支付验证：Lemon Squeezy · 当前 MRR $2,270 · 活跃订阅 131 · 近12个月营收 $25,400 · 累计营收 $43,479
+  · 域名 DR未披露 · 国家 IT · 创立 2024-06-03
+封面: /case-site/cases/blacktwist/site.webp
 ---
+
 # BlackTwist
 
 

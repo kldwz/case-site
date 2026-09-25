@@ -1,18 +1,29 @@
 ---
 name: TrendTrack
-一句话: 法国独立开发者把"电商竞品情报"做成 500 万+ Shopify 店、2.5 亿+ 广告的数据库，从 $42/月起步，靠免费 Chrome 插件 + 评测铺量打到 10 万+ 用户，是独立工具站的典型样本
+一句话: 法国独立开发者把"电商竞品情报"做成 500 万+ Shopify 店、2.5 亿+ 广告的数据库，从 $42/月起步，靠免费 Chrome 插件 + 评测铺量打到
+  10 万+ 用户，是独立工具站的典型样本
 创始人地区: Vincent Alonzi，法国；2026 年前后创立（trendtrack.io，亦称 TrendTracker）
-营收模式: 自助 SaaS 订阅：Starter $42/月（年付）、Pro $63、Business $105；另 €59/€89/€149 月付口径；覆盖 500 万+ Shopify 店、2.5 亿+ Meta 与 TikTok 广告的电商情报（店铺分析、广告间谍、Brand Tracker、热卖品发现），免费 Chrome 插件与 7 个免费工具引流
-月收入估算: 公开称 10 万+ 电商玩家与机构使用、Trustpilot 4.8/5；具体营收未披露（独立工具，无公开融资）；定价 $42 起、$105 封顶，按店铺数与 Brand Tracker 数量分档
-流量来源: 免费 Chrome 插件（1 万+ 用户）作获客漏斗 + 联盟/评测站铺量（多个 "Best Ad Spy Tool 2026" 榜单、affiliate 折扣链接）+ 内容营销（博客、TikTok 情报）；法式小团队、快速迭代
-可迁移点: ① 免费工具做漏斗、付费做留存：Chrome 插件零门槛拉新，付费才解锁组合筛选/EU 曝光数据/MCP ② 把"公开数据"聚成"决策数据库"：Shopify 店与广告库本就公开，难点在聚合与每日更新，壁垒是数据新鲜度与筛选维度 ③ 独立工具站也能 10 万+ 用户：不融资、不养大团队，靠 SEO + 评测 + 插件自然增长 ④ 分档定价匹配用户成熟度：solo $42、活跃卖家 $63、机构 $105，按品牌追踪数阶梯定价 ⑤ 区域数据差异化：独家 EU/UK 广告曝光数据，是它相对 BigSpy/Minea 的差异化钩子
+营收模式: 自助 SaaS 订阅：Starter $42/月（年付）、Pro $63、Business $105；另 €59/€89/€149 月付口径；覆盖 500
+  万+ Shopify 店、2.5 亿+ Meta 与 TikTok 广告的电商情报（店铺分析、广告间谍、Brand Tracker、热卖品发现），免费 Chrome
+  插件与 7 个免费工具引流
+月收入估算: 公开称 10 万+ 电商玩家与机构使用、Trustpilot 4.8/5；具体营收未披露（独立工具，无公开融资）；定价 $42 起、$105 封顶，按店铺数与
+  Brand Tracker 数量分档
+流量来源: 免费 Chrome 插件（1 万+ 用户）作获客漏斗 + 联盟/评测站铺量（多个 "Best Ad Spy Tool 2026" 榜单、affiliate
+  折扣链接）+ 内容营销（博客、TikTok 情报）；法式小团队、快速迭代
+可迁移点: ① 免费工具做漏斗、付费做留存：Chrome 插件零门槛拉新，付费才解锁组合筛选/EU 曝光数据/MCP ② 把"公开数据"聚成"决策数据库"：Shopify
+  店与广告库本就公开，难点在聚合与每日更新，壁垒是数据新鲜度与筛选维度 ③ 独立工具站也能 10 万+ 用户：不融资、不养大团队，靠 SEO + 评测 + 插件自然增长
+  ④ 分档定价匹配用户成熟度：solo $42、活跃卖家 $63、机构 $105，按品牌追踪数阶梯定价 ⑤ 区域数据差异化：独家 EU/UK 广告曝光数据，是它相对
+  BigSpy/Minea 的差异化钩子
 原文链接: https://www.trendtrack.io
-数据口径: TrendTrack 官网（500 万+ 店、2.5 亿+ 广告、10 万+ 用户、免费插件）；trendtrackreview.com 实测评测（Vincent Alonzi、法国、定价 $42 起、Trustpilot 4.8）；passivekit.com 2026-07 定价核实（Starter $42/Pro $63/Business $105 年付）；caimpare.ai 工具档案（分类、Trustpilot 4.8）
+数据口径: TrendTrack 官网（500 万+ 店、2.5 亿+ 广告、10 万+ 用户、免费插件）；trendtrackreview.com 实测评测（Vincent
+  Alonzi、法国、定价 $42 起、Trustpilot 4.8）；passivekit.com 2026-07 定价核实（Starter $42/Pro $63/Business
+  $105 年付）；caimpare.ai 工具档案（分类、Trustpilot 4.8）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 应用 / 订阅 SaaS / 英文 / 电商情报
 封面: /case-site/cases/trendtrack/site.png
 ---
+
 
 ![TrendTrack 官网](/cases/trendtrack/site.png)
 

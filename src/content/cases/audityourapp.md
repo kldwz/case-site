@@ -1,19 +1,23 @@
 ---
-name: "AuditYourApp"
-一句话: "为Supabase项目提供自动化安全扫描的SaaS工具，检测RLS规则暴露、RPC保护缺失和API密钥泄露问题。"
-创始人地区: "由 Burak Eregar 创立，GB，2026 年成立"
-营收模式: "Single Snapshot: $49.00/scan, Continuous Guard: $29.00/month, Expert Architecture Review: $499.00"
-月收入估算: "$58/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR21），B2B 受众；官网 https://audityour.app/"
-可迁移点: "① 垂直领域安全工具（Supabase生态）存在明确需求 ② 按扫描次数+订阅制混合定价覆盖不同场景 ③ 技术栈自动化能力可包装成高单价专家服务（$499/次）"
-原文链接: "https://audityour.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:17:52.392Z；域名评分 DR21；原始页 https://trustmrr.com/startup/audityourapp。"
-分类: "Security、Dev Tools、SaaS、Analytics、Mobile Apps / B2B / 海外"
+name: AuditYourApp
+一句话: 为Supabase项目提供自动化安全扫描的SaaS工具，检测RLS规则暴露、RPC保护缺失和API密钥泄露问题。
+创始人地区: 由 Burak Eregar 创立，GB，2026 年成立
+营收模式: 'Single Snapshot: $49.00/scan, Continuous Guard: $29.00/month, Expert Architecture
+  Review: $499.00'
+月收入估算: $58/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR21），B2B 受众；官网 https://audityour.app/
+可迁移点: ① 垂直领域安全工具（Supabase生态）存在明确需求 ② 按扫描次数+订阅制混合定价覆盖不同场景 ③ 技术栈自动化能力可包装成高单价专家服务（$499/次）
+原文链接: https://audityour.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:17:52.392Z；域名评分 DR21；原始页
+  https://trustmrr.com/startup/audityourapp。
+分类: Security、Dev Tools、SaaS、Analytics、Mobile Apps / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $58 · 活跃订阅 2 · 近12个月营收 $2,537 · 累计营收 $2,537 · 域名 DR21 · 国家 GB · 创立 2026-01-17"
-封面: "/case-site/cases/audityourapp/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $58 · 活跃订阅 2 · 近12个月营收 $2,537 · 累计营收 $2,537 · 域名 DR21 ·
+  国家 GB · 创立 2026-01-17
+封面: /case-site/cases/audityourapp/site.webp
 ---
+
 
 ![AuditYourApp 官网](/cases/audityourapp/site.webp)
 

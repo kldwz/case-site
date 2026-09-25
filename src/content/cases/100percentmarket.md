@@ -1,19 +1,22 @@
 ---
-name: "100PercentMarket"
-一句话: "为按需印刷行业提供原创媒体、字体和剪贴画市场的B2B平台。"
-创始人地区: "创始人未披露，US，2025 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$2,437/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR18），B2B 受众；官网 https://www.100percentmarket.com/"
-可迁移点: "①聚焦垂直细分市场(按需印刷)的数字化素材需求 ②通过Stripe实现标准化支付验证体系 ③MRR显示订阅模式初步验证可行性"
-原文链接: "https://www.100percentmarket.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:21:38.350Z；域名评分 DR18；原始页 https://trustmrr.com/startup/100percentmarket。"
-分类: "Content Creation、SaaS、Marketing、E-comm / B2B / 海外"
-类型: "收入案例"
-证据等级: "官方披露"
-平台数据: "支付验证：Stripe · 当前 MRR $2,437 · 活跃订阅 10 · 近12个月营收 $6,294 · 累计营收 $6,301 · 域名 DR18 · 国家 US · 创立 2025-09-05"
-封面: "/case-site/cases/100percentmarket/site.webp"
+name: 100PercentMarket
+一句话: 为按需印刷行业提供原创媒体、字体和剪贴画市场的B2B平台。
+创始人地区: 创始人未披露，US，2025 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $2,437/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR18），B2B 受众；官网 https://www.100percentmarket.com/
+可迁移点: ①聚焦垂直细分市场(按需印刷)的数字化素材需求 ②通过Stripe实现标准化支付验证体系 ③MRR显示订阅模式初步验证可行性
+原文链接: https://www.100percentmarket.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:21:38.350Z；域名评分 DR18；原始页
+  https://trustmrr.com/startup/100percentmarket。
+分类: Content Creation、SaaS、Marketing、E-comm / B2B / 海外
+类型: 收入案例
+证据等级: 官方披露
+平台数据: 支付验证：Stripe · 当前 MRR $2,437 · 活跃订阅 10 · 近12个月营收 $6,294 · 累计营收 $6,301 · 域名 DR18
+  · 国家 US · 创立 2025-09-05
+封面: /case-site/cases/100percentmarket/site.webp
 ---
+
 
 ![100PercentMarket 官网](/cases/100percentmarket/site.webp)
 

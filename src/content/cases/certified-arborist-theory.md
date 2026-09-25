@@ -1,19 +1,23 @@
 ---
-name: "Certified Arborist Theory"
-一句话: "为树艺师考试设计的理论学习应用，提供55节图文音频课程。"
-创始人地区: "由 Herman Palmgren 创立"
-营收模式: "Premium Monthly $17.99, Premium Weekly $7.99, Premium Yearly $69.99, Premium Lifetime $159.00"
-月收入估算: "$259/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6748621292"
-可迁移点: "① 垂直领域考试培训的数字化机会 ② 音频+图文的多媒体内容呈现 ③ 按周/月/年/终身的分级订阅模式 ④ 由持证专家参与内容制作的专业背书"
-原文链接: "https://apps.apple.com/app/id6748621292"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:53:55.949Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/certified-arborist-theory。"
-分类: "Mobile Apps、Education、SaaS / B2C / 海外"
+name: Certified Arborist Theory
+一句话: 为树艺师考试设计的理论学习应用，提供55节图文音频课程。
+创始人地区: 由 Herman Palmgren 创立
+营收模式: Premium Monthly $17.99, Premium Weekly $7.99, Premium Yearly $69.99, Premium
+  Lifetime $159.00
+月收入估算: $259/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6748621292
+可迁移点: ① 垂直领域考试培训的数字化机会 ② 音频+图文的多媒体内容呈现 ③ 按周/月/年/终身的分级订阅模式 ④ 由持证专家参与内容制作的专业背书
+原文链接: https://apps.apple.com/app/id6748621292
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:53:55.949Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/certified-arborist-theory。
+分类: Mobile Apps、Education、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $259 · 活跃订阅 32 · 近12个月营收 $4,123 · 累计营收 $5,092 · 域名 DR未披露 · 国家 未披露 · 创立 未披露"
-封面: "/case-site/cases/certified-arborist-theory/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $259 · 活跃订阅 32 · 近12个月营收 $4,123 · 累计营收 $5,092 · 域名
+  DR未披露 · 国家 未披露 · 创立 未披露
+封面: /case-site/cases/certified-arborist-theory/site.webp
 ---
+
 
 ![Certified Arborist Theory 官网](/cases/certified-arborist-theory/site.webp)
 

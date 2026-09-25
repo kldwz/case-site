@@ -1,18 +1,29 @@
 ---
 name: Higgsfield
-一句话: 前 Snap 生成式 AI 负责人带着"聚合 15+ 视频模型的工作流"杀进 AI 视频，2026 年 8 个月估值翻 4 倍到 54 亿美金、年化收入 7 亿、用户 3000 万，靠"把模型变成可用工作流"而非自研模型赢
-创始人地区: Alex Mashrabov（CEO，前 Snap 生成式 AI 负责人，其创业公司 AI Factory 2020 年被 Snap 以 1.66 亿美金收购）、CTO Yerzat Dulat、Mahi de Silva；美国旧金山；2023 年创立
-营收模式: 订阅制（Cinema Studio 面向影视创作者 + Marketing Studio 面向营销与广告团队，浏览器与移动端可用，聚合 Sora 2、Veo 3.1、Kling 3.0 等 15+ 模型）
-月收入估算: 年化收入 run-rate 约 7 亿美金（2026 年 8 月，较 1 月 2 亿增长 2.5 倍）；3000 万用户覆盖 238 个国家、月生成内容 2000 万+；2026-08 完成 4 亿美金 B 轮（DST Global 领投，估值 54 亿美金），此前 seed 800 万（Menlo 2024-04）、A 5000 万（GFT 2025-09）、A+ 8000 万（Accel 2026-01 估值 13 亿）；390 家财富 500 强在用
-流量来源: 消费级创作者病毒增长 + 企业客户转化（企业收入占比从 2026-01 不足 25% 升至过半）；2026-05 推 Supercomputer 后 agentic 产品用户 3 个月涨 42 倍
-可迁移点: ① 不一定要自研模型——"聚合层 + 工作流"也能成平台（Higgsfield 不赌单个模型赢，赌把模型变成可复用工作流）② 应用层比基础设施更值钱：当模型能力商品化，把原始生成变成"可重复的自动化公司工作流"才是商业胜利 ③ 消费级获客、企业级变现：先靠创作者起量，再把高确定性收入切换到企业 ④ 估值跃迁靠一个产品事件：Supercomputer 上线 3 个月用户 42 倍，证明单点突破能压缩融资周期 ⑤ 视频生成算力极重——把 compute 当结构性成本而非开销，融资很大一部分要锁算力
+一句话: 前 Snap 生成式 AI 负责人带着"聚合 15+ 视频模型的工作流"杀进 AI 视频，2026 年 8 个月估值翻 4 倍到 54 亿美金、年化收入
+  7 亿、用户 3000 万，靠"把模型变成可用工作流"而非自研模型赢
+创始人地区: Alex Mashrabov（CEO，前 Snap 生成式 AI 负责人，其创业公司 AI Factory 2020 年被 Snap 以 1.66 亿美金收购）、CTO
+  Yerzat Dulat、Mahi de Silva；美国旧金山；2023 年创立
+营收模式: 订阅制（Cinema Studio 面向影视创作者 + Marketing Studio 面向营销与广告团队，浏览器与移动端可用，聚合 Sora 2、Veo
+  3.1、Kling 3.0 等 15+ 模型）
+月收入估算: 年化收入 run-rate 约 7 亿美金（2026 年 8 月，较 1 月 2 亿增长 2.5 倍）；3000 万用户覆盖 238 个国家、月生成内容
+  2000 万+；2026-08 完成 4 亿美金 B 轮（DST Global 领投，估值 54 亿美金），此前 seed 800 万（Menlo 2024-04）、A
+  5000 万（GFT 2025-09）、A+ 8000 万（Accel 2026-01 估值 13 亿）；390 家财富 500 强在用
+流量来源: 消费级创作者病毒增长 + 企业客户转化（企业收入占比从 2026-01 不足 25% 升至过半）；2026-05 推 Supercomputer 后 agentic
+  产品用户 3 个月涨 42 倍
+可迁移点: ① 不一定要自研模型——"聚合层 + 工作流"也能成平台（Higgsfield 不赌单个模型赢，赌把模型变成可复用工作流）② 应用层比基础设施更值钱：当模型能力商品化，把原始生成变成"可重复的自动化公司工作流"才是商业胜利
+  ③ 消费级获客、企业级变现：先靠创作者起量，再把高确定性收入切换到企业 ④ 估值跃迁靠一个产品事件：Supercomputer 上线 3 个月用户 42 倍，证明单点突破能压缩融资周期
+  ⑤ 视频生成算力极重——把 compute 当结构性成本而非开销，融资很大一部分要锁算力
 原文链接: https://higgsfield.ai
-数据口径: TechCrunch 2026-08-17 B 轮报道（经 CornerForAI、Entrepreneur APAC、Pomegra 转述，一致数据：4 亿美金 B 轮、54 亿估值、7 亿年化收入、3000 万用户、238 国、390 家财富 500 强）；Financial Times 对创始人 Mashrabov 采访（企业收入占比变化）；公司公开披露的产品线（Cinema Studio / Marketing Studio / Soul ID / Supercomputer）
+数据口径: TechCrunch 2026-08-17 B 轮报道（经 CornerForAI、Entrepreneur APAC、Pomegra 转述，一致数据：4
+  亿美金 B 轮、54 亿估值、7 亿年化收入、3000 万用户、238 国、390 家财富 500 强）；Financial Times 对创始人 Mashrabov
+  采访（企业收入占比变化）；公司公开披露的产品线（Cinema Studio / Marketing Studio / Soul ID / Supercomputer）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 应用 / 订阅 SaaS / 英文 / AI 视频生成
 封面: /case-site/cases/higgsfield/site.png
 ---
+
 
 ![Higgsfield 官网](/cases/higgsfield/site.png)
 

@@ -1,19 +1,22 @@
 ---
-name: "Clear Food"
-一句话: "Clear Food 是一款来自德国的移动应用，自2026年6月上线以来，通过订阅模式积累了86名活跃用户，累计营收1,751美元。"
-创始人地区: "创始人未披露，DE，2026 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$317/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://apps.apple.com/app/id6779364653"
-可迁移点: "① 新应用可在短期内通过订阅模式获得稳定收入 ② 无需庞大用户基数也能实现盈利 ③ 专注单一平台（iOS）的轻量化开发路径"
-原文链接: "https://apps.apple.com/app/id6779364653"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-17T00:36:47.524Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/clear-food。"
-分类: "Mobile Apps / 未披露 / 海外"
+name: Clear Food
+一句话: Clear Food 是一款来自德国的移动应用，自2026年6月上线以来，通过订阅模式积累了86名活跃用户，累计营收1,751美元。
+创始人地区: 创始人未披露，DE，2026 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $317/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://apps.apple.com/app/id6779364653
+可迁移点: ① 新应用可在短期内通过订阅模式获得稳定收入 ② 无需庞大用户基数也能实现盈利 ③ 专注单一平台（iOS）的轻量化开发路径
+原文链接: https://apps.apple.com/app/id6779364653
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-17T00:36:47.524Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/clear-food。
+分类: Mobile Apps / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $317 · 活跃订阅 86 · 近12个月营收 $1,751 · 累计营收 $1,751 · 域名 DR未披露 · 国家 DE · 创立 2026-06-16"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：RevenueCat · 当前 MRR $317 · 活跃订阅 86 · 近12个月营收 $1,751 · 累计营收 $1,751 · 域名
+  DR未披露 · 国家 DE · 创立 2026-06-16
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Clear Food
 
 

@@ -1,19 +1,22 @@
 ---
-name: "Bibby"
-一句话: "AI驱动的社交媒体自动化平台Bibby，以低成本替代社交媒体经理和设计工具。"
-创始人地区: "由 Ben Dolgoff 创立，US，2025 年成立"
-营收模式: "Bibby Pro from $19/mo billed yearly or $29/mo monthly"
-月收入估算: "$125/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR4），B2C 受众；官网 http://gobibby.com/"
-可迁移点: "① 聚焦AI+社交媒体自动化细分场景 ② 采用分层订阅模式（年付/月付） ③ 通过Stripe实现轻量化支付验证"
-原文链接: "http://gobibby.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:52:52.601Z；域名评分 DR4；原始页 https://trustmrr.com/startup/bibby。"
-分类: "Social Media、AI、Productivity、Content Creation、Marketing / B2C / 海外"
+name: Bibby
+一句话: AI驱动的社交媒体自动化平台Bibby，以低成本替代社交媒体经理和设计工具。
+创始人地区: 由 Ben Dolgoff 创立，US，2025 年成立
+营收模式: Bibby Pro from $19/mo billed yearly or $29/mo monthly
+月收入估算: $125/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR4），B2C 受众；官网 http://gobibby.com/
+可迁移点: ① 聚焦AI+社交媒体自动化细分场景 ② 采用分层订阅模式（年付/月付） ③ 通过Stripe实现轻量化支付验证
+原文链接: http://gobibby.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:52:52.601Z；域名评分 DR4；原始页
+  https://trustmrr.com/startup/bibby。
+分类: Social Media、AI、Productivity、Content Creation、Marketing / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $125 · 活跃订阅 5 · 近12个月营收 $1,350 · 累计营收 $1,350 · 域名 DR4 · 国家 US · 创立 2025-02-03"
-封面: "/case-site/cases/bibby/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $125 · 活跃订阅 5 · 近12个月营收 $1,350 · 累计营收 $1,350 · 域名 DR4 ·
+  国家 US · 创立 2025-02-03
+封面: /case-site/cases/bibby/site.webp
 ---
+
 # Bibby
 
 

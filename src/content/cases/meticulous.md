@@ -1,11 +1,15 @@
 ---
 name: Meticulous
 一句话: 给 AI 写的代码做自动验证的测试平台，ARR 一年涨 5 倍，A 轮 1500 万美元
-创始人地区: Gabriel Spencer-Harper（前 Dropbox 软件工程师）+ Quentin Spencer-Harper（前 Palantir Foundry 前端负责人，干了十年），一对亲兄弟，2021 年创立于英国伦敦
+创始人地区: Gabriel Spencer-Harper（前 Dropbox 软件工程师）+ Quentin Spencer-Harper（前 Palantir
+  Foundry 前端负责人，干了十年），一对亲兄弟，2021 年创立于英国伦敦
 营收模式: 前端自动化测试 SaaS 订阅，按代码库规模与团队收费；自动采集真实用户交互生成并维护端到端测试用例
-月收入估算: A 轮 1500 万美元，由 Chemistry 的 Ethan Kurzweil 领投、Menlo Ventures 跟投；ARR 过去一年增长 5 倍（绝对值未披露）；团队 20 人，计划 12 个月内扩到 30 至 40 人
-流量来源: 此前纯靠口碑零市场投入 + 客户名单背书（Notion、ElevenLabs、Dropbox、Wiz、LaunchDarkly）+ 豪华天使阵容自带传播（Dropbox 联创 Arash Ferdowsi、Vercel 创始人 Guillermo Rauch、前 Adobe CPO Scott Belsky 等）
-可迁移点: ① 每一波生产力革命都会制造一个新的瓶颈——AI 让写代码变快，瓶颈就挪到了「验证」 ② 先做到纯口碑能活，再拿钱做营销，节奏最稳 ③ 让客户名单成为你的市场部，几个大牌 logo 顶一个销售团队 ④ 传统测试要人手写维护几千条脚本，它改成自动采集真实交互——把维护成本从客户身上挪走 ⑤ 兄弟/熟人合伙，信任成本极低，早期决策快
+月收入估算: A 轮 1500 万美元，由 Chemistry 的 Ethan Kurzweil 领投、Menlo Ventures 跟投；ARR 过去一年增长 5
+  倍（绝对值未披露）；团队 20 人，计划 12 个月内扩到 30 至 40 人
+流量来源: 此前纯靠口碑零市场投入 + 客户名单背书（Notion、ElevenLabs、Dropbox、Wiz、LaunchDarkly）+ 豪华天使阵容自带传播（Dropbox
+  联创 Arash Ferdowsi、Vercel 创始人 Guillermo Rauch、前 Adobe CPO Scott Belsky 等）
+可迁移点: ① 每一波生产力革命都会制造一个新的瓶颈——AI 让写代码变快，瓶颈就挪到了「验证」 ② 先做到纯口碑能活，再拿钱做营销，节奏最稳 ③ 让客户名单成为你的市场部，几个大牌
+  logo 顶一个销售团队 ④ 传统测试要人手写维护几千条脚本，它改成自动采集真实交互——把维护成本从客户身上挪走 ⑤ 兄弟/熟人合伙，信任成本极低，早期决策快
 原文链接: https://meticulous.ai
 数据口径: Sifted 等主流媒体报道（A 轮 1500 万美元、Chemistry 领投、Menlo Ventures 跟投、ARR 一年增长 5 倍、客户名单、团队规模）
 类型: 收入案例
@@ -13,6 +17,7 @@ name: Meticulous
 分类: 开发者工具 / AI 代码测试 / 英文 / 欧洲
 封面: /case-site/cases/meticulous/site.png
 ---
+
 
 ![Meticulous 官网](/cases/meticulous/site.png)
 

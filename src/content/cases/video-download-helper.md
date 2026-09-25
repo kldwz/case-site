@@ -6,15 +6,19 @@ name: Video Download Helper
 营收模式: 免费版 + 捐赠，另提供付费版本解锁完整功能（官网可见 Premium/Donate 入口）
 月收入估算: 未官方披露（本站不做估算）
 流量来源: 「怎么把网页视频存下来」是长盛不衰的搜索需求 + 二十年积累的评价与品牌
-可迁移点: ① 二十年做一个需求：视频下载这个需求从没变过，变的只是网站 ② 4.2 万条评价是护城河：同类产品再好也追不上这个信任基数 ③ 灰色地带的生存术：始终在"能下"与"不能下"之间走钢丝，靠免费+捐赠避开正面收费的争议 ④ 个人开发者能做二十年，前提是产品形态足够稳定 ⑤ 评分 4.30 分不算高：这类工具的差评多来自"网站一改版就失效"
+可迁移点: ① 二十年做一个需求：视频下载这个需求从没变过，变的只是网站 ② 4.2 万条评价是护城河：同类产品再好也追不上这个信任基数 ③ 灰色地带的生存术：始终在"能下"与"不能下"之间走钢丝，靠免费+捐赠避开正面收费的争议
+  ④ 个人开发者能做二十年，前提是产品形态足够稳定 ⑤ 评分 4.30 分不算高：这类工具的差评多来自"网站一改版就失效"
 原文链接: https://www.downloadhelper.net/
-数据口径: Mozilla 官方附加组件 API（addons.mozilla.org/api/v5/addons/addon/video-downloadhelper/），2026-09-13 抓取：日活 1,831,384、评分 4.3034（42,471 条评价）、上架 2006-07-22、作者 vdh、官网 downloadhelper.net（可见 Premium 与 Donate 入口）。收入未官方披露
+数据口径: Mozilla 官方附加组件 API（addons.mozilla.org/api/v5/addons/addon/video-downloadhelper/），2026-09-13
+  抓取：日活 1,831,384、评分 4.3034（42,471 条评价）、上架 2006-07-22、作者 vdh、官网 downloadhelper.net（可见
+  Premium 与 Donate 入口）。收入未官方披露
 分类: 浏览器扩展 / 免费+捐赠 / 英文 / 下载工具
 类型: 插件
 证据等级: 平台数据可查
 平台数据: Firefox 官方 API：日活 1,831,384 · 评分 4.3034（42,471 条评价）· 上架 2006-07-22
 封面: /case-site/cases/video-download-helper/site.png
 ---
+
 
 ![Video Download Helper 官网](/cases/video-download-helper/site.png)
 

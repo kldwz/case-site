@@ -3,9 +3,12 @@ name: Origami（origami-agents）
 一句话: YC F24 里增长最快的 AI 销售探客 agent，研究 15+ 实时数据源自动找客户，种子轮 200 万美金
 创始人地区: Finn Mallery（Stanford 退学）+ Kenson Chung（UCL 退学），2024 创立于旧金山，YC F24 批次
 营收模式: 给销售/增长团队做 AI 探客 agent，按席位订阅，自动从全网实时数据源挖潜在客户并写 outreach
-月收入估算: 2025-01 种子轮 200 万美金（YC + Antigravity + Pioneer）；beta 期约 5 万美金 MRR，是 YC F24 批次里增长最快的公司之一；客户含 CBRE / Clipboard Health / Remote.com / Stellar / Redesign Health
+月收入估算: 2025-01 种子轮 200 万美金（YC + Antigravity + Pioneer）；beta 期约 5 万美金 MRR，是 YC F24
+  批次里增长最快的公司之一；客户含 CBRE / Clipboard Health / Remote.com / Stellar / Redesign Health
 流量来源: YC 品牌 + 销售圈口碑 + 客户案例展示（CBRE 等知名客户背书）+ 产品演示传播
-可迁移点: ① 探客（找客户）是销售最痛的环节，AI agent 自动研究 15+ 数据源比人肉搜又快又全 ② 用"实时数据源"做差异化，不卖静态数据库而是卖"此刻谁在买" ③ 斯坦福/UCL 退学猛干，YC F24 增长最快说明方向对 ④ 知名客户案例（CBRE）是最强信任状，B2B 晒大客户 ⑤ 5 万美金 MRR 还在 beta 就证明 PMF，小 MRR 也能验证大市场
+可迁移点: ① 探客（找客户）是销售最痛的环节，AI agent 自动研究 15+ 数据源比人肉搜又快又全 ② 用"实时数据源"做差异化，不卖静态数据库而是卖"此刻谁在买"
+  ③ 斯坦福/UCL 退学猛干，YC F24 增长最快说明方向对 ④ 知名客户案例（CBRE）是最强信任状，B2B 晒大客户 ⑤ 5 万美金 MRR 还在 beta
+  就证明 PMF，小 MRR 也能验证大市场
 原文链接: https://origamiagents.com
 数据口径: YC（F24）、种子轮公告（2025-01）、origamiagents.com 官网；MRR/客户为公开披露
 类型: 收入案例
@@ -13,6 +16,7 @@ name: Origami（origami-agents）
 分类: AI 销售 / 探客 agent / 英文 / 企业服务
 封面: /case-site/cases/origami-agents/site.png
 ---
+
 
 ![Origami 官网](/cases/origami-agents/site.png)
 

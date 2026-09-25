@@ -1,19 +1,22 @@
 ---
-name: "FirstRep"
-一句话: "FirstRep 是一个为私人教练提供 AI 驱动的全流程业务管理平台，整合获客、训练计划制定、进度追踪和支付管理。"
-创始人地区: "创始人未披露，ES，2025 年成立"
-营收模式: "Free: $0/mo, Pro: $19/mo + $1.50 per client beyond 8"
-月收入估算: "$2,445/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR3），B2C 受众；官网 https://firstrep.fit/"
-可迁移点: "① AI 代理可替代人工处理行政类重复工作 ② 按客户数阶梯定价的 SaaS 模式 ③ 将工具型产品与 marketplace 获客渠道结合"
-原文链接: "https://firstrep.fit/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-08-12T10:39:23.693Z；域名评分 DR3；原始页 https://trustmrr.com/startup/firstrep。"
-分类: "Health & Fitness、AI、SaaS、Marketplace、Productivity / B2C / 海外"
+name: FirstRep
+一句话: FirstRep 是一个为私人教练提供 AI 驱动的全流程业务管理平台，整合获客、训练计划制定、进度追踪和支付管理。
+创始人地区: 创始人未披露，ES，2025 年成立
+营收模式: 'Free: $0/mo, Pro: $19/mo + $1.50 per client beyond 8'
+月收入估算: $2,445/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR3），B2C 受众；官网 https://firstrep.fit/
+可迁移点: ① AI 代理可替代人工处理行政类重复工作 ② 按客户数阶梯定价的 SaaS 模式 ③ 将工具型产品与 marketplace 获客渠道结合
+原文链接: https://firstrep.fit/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-08-12T10:39:23.693Z；域名评分
+  DR3；原始页 https://trustmrr.com/startup/firstrep。
+分类: Health & Fitness、AI、SaaS、Marketplace、Productivity / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $6,750 · 累计营收 $6,750 · 域名 DR3 · 国家 ES · 创立 2025-12-03"
-封面: "/case-site/cases/firstrep/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $6,750 · 累计营收 $6,750 · 域名 DR3 · 国家
+  ES · 创立 2025-12-03
+封面: /case-site/cases/firstrep/site.webp
 ---
+
 
 ![FirstRep 官网](/cases/firstrep/site.webp)
 

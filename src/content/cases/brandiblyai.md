@@ -1,19 +1,22 @@
 ---
-name: "BrandiblyAI"
-一句话: "AI驱动的品牌创意工作台，30秒生成品牌策略与提案"
-创始人地区: "由 Damien Bradshaw 创立，CA，2023 年成立"
-营收模式: "Free: $0/mo, Starter: $19/mo, Founder: $49/mo, Agency: $199/mo"
-月收入估算: "$350/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://brandiblyai.com/"
-可迁移点: "① 聚焦B2B高频刚需场景（品牌提案） ② 阶梯定价覆盖个人创业者到机构客户 ③ 极简价值主张（30秒生成）降低决策成本"
-原文链接: "https://brandiblyai.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:26:17.242Z；域名评分 DR1；原始页 https://trustmrr.com/startup/brandiblyai。"
-分类: "AI、Design Tools、Content Creation、Marketing / B2B / 海外"
+name: BrandiblyAI
+一句话: AI驱动的品牌创意工作台，30秒生成品牌策略与提案
+创始人地区: 由 Damien Bradshaw 创立，CA，2023 年成立
+营收模式: 'Free: $0/mo, Starter: $19/mo, Founder: $49/mo, Agency: $199/mo'
+月收入估算: $350/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://brandiblyai.com/
+可迁移点: ① 聚焦B2B高频刚需场景（品牌提案） ② 阶梯定价覆盖个人创业者到机构客户 ③ 极简价值主张（30秒生成）降低决策成本
+原文链接: https://brandiblyai.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:26:17.242Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/brandiblyai。
+分类: AI、Design Tools、Content Creation、Marketing / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $350 · 活跃订阅 7 · 近12个月营收 $32,581 · 累计营收 $105,904 · 域名 DR1 · 国家 CA · 创立 2023-08-13"
-封面: "/case-site/cases/brandiblyai/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $350 · 活跃订阅 7 · 近12个月营收 $32,581 · 累计营收 $105,904 · 域名 DR1
+  · 国家 CA · 创立 2023-08-13
+封面: /case-site/cases/brandiblyai/site.webp
 ---
+
 
 ![BrandiblyAI 官网](/cases/brandiblyai/site.webp)
 

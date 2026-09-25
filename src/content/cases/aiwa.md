@@ -1,19 +1,22 @@
 ---
-name: "AIWA"
-一句话: "AIWA是一个帮助自由职业者和机构通过AI无代码构建网站和应用的平台，拥有14000用户和超1.5M总营收。"
-创始人地区: "由 Leon Andrew 创立，US，2021 年成立"
-营收模式: "Launchpad: $0, Solo: $52.99/mo, Agency: $299.99/mo, Enterprise: Custom"
-月收入估算: "$83/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR15），Both 受众；官网 https://aiwa.codes/"
-可迁移点: "① 采用分层定价策略覆盖个人到企业客户 ② 通过AI+No-code技术降低用户使用门槛 ③ 提供免费层(Launchpad)作为获客入口 ④ 针对机构客户设置高单价套餐(299.99美元/月)"
-原文链接: "https://aiwa.codes/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:48:34.225Z；域名评分 DR15；原始页 https://trustmrr.com/startup/aiwa。"
-分类: "No-Code、Dev Tools、SaaS、Content Creation / Both / 海外"
+name: AIWA
+一句话: AIWA是一个帮助自由职业者和机构通过AI无代码构建网站和应用的平台，拥有14000用户和超1.5M总营收。
+创始人地区: 由 Leon Andrew 创立，US，2021 年成立
+营收模式: 'Launchpad: $0, Solo: $52.99/mo, Agency: $299.99/mo, Enterprise: Custom'
+月收入估算: $83/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR15），Both 受众；官网 https://aiwa.codes/
+可迁移点: ① 采用分层定价策略覆盖个人到企业客户 ② 通过AI+No-code技术降低用户使用门槛 ③ 提供免费层(Launchpad)作为获客入口 ④ 针对机构客户设置高单价套餐(299.99美元/月)
+原文链接: https://aiwa.codes/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:48:34.225Z；域名评分 DR15；原始页
+  https://trustmrr.com/startup/aiwa。
+分类: No-Code、Dev Tools、SaaS、Content Creation / Both / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $83 · 活跃订阅 1 · 近12个月营收 $4,158 · 累计营收 $16,713 · 域名 DR15 · 国家 US · 创立 2021-03-22"
-封面: "/case-site/cases/aiwa/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $83 · 活跃订阅 1 · 近12个月营收 $4,158 · 累计营收 $16,713 · 域名 DR15
+  · 国家 US · 创立 2021-03-22
+封面: /case-site/cases/aiwa/site.webp
 ---
+
 # AIWA
 
 

@@ -1,19 +1,23 @@
 ---
-name: "Clickbait INC"
-一句话: "Old business funding my new SAAS GojiberryAI : Check out my website for some tips :)"
-创始人地区: "由 Romàn 创立，FR，2019 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$74/月（Stripe 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://www.notion.so/The-LinkedIn-High-Intent-Outreach-System-How-We-Booked-9-Calls-in-2-Days-for-a-SaaS-Customer-26fb9abcbe3f80eca978f3ede6acf809"
-可迁移点: "① 利用现有业务现金流孵化新SAAS项目 ② 通过个人X账号（7,225粉丝）进行产品冷启动 ③ 新旧业务协同的财务策略"
-原文链接: "https://www.notion.so/The-LinkedIn-High-Intent-Outreach-System-How-We-Booked-9-Calls-in-2-Days-for-a-SaaS-Customer-26fb9abcbe3f80eca978f3ede6acf809"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2025-11-19T16:17:11.094Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/clickbait-inc。"
-分类: "AI / 未披露 / 海外"
+name: Clickbait INC
+一句话: 'Old business funding my new SAAS GojiberryAI : Check out my website for some
+  tips :)'
+创始人地区: 由 Romàn 创立，FR，2019 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $74/月（Stripe 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://www.notion.so/The-LinkedIn-High-Intent-Outreach-System-How-We-Booked-9-Calls-in-2-Days-for-a-SaaS-Customer-26fb9abcbe3f80eca978f3ede6acf809
+可迁移点: ① 利用现有业务现金流孵化新SAAS项目 ② 通过个人X账号（7,225粉丝）进行产品冷启动 ③ 新旧业务协同的财务策略
+原文链接: https://www.notion.so/The-LinkedIn-High-Intent-Outreach-System-How-We-Booked-9-Calls-in-2-Days-for-a-SaaS-Customer-26fb9abcbe3f80eca978f3ede6acf809
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2025-11-19T16:17:11.094Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/clickbait-inc。
+分类: AI / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $74 · 活跃订阅 2 · 近12个月营收 $26,512 · 累计营收 $1,463,483 · 域名 DR未披露 · 国家 FR · 创立 2019-06-13"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $74 · 活跃订阅 2 · 近12个月营收 $26,512 · 累计营收 $1,463,483 · 域名 DR未披露
+  · 国家 FR · 创立 2019-06-13
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Clickbait INC
 
 

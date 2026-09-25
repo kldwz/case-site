@@ -1,19 +1,23 @@
 ---
-name: "Brainrot.mov"
-一句话: "AI驱动的病毒式视频生成工具，帮助创作者快速制作社交媒体内容。"
-创始人地区: "由 cjthetechguy 创立，US，2023 年成立"
-营收模式: "Free: $0/mo, Hobby: $8/mo billed yearly, Creator: $20/mo billed yearly, Business: $32/mo billed yearly, Enterprise: Contact Sales"
-月收入估算: "$9,279/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR13），B2C 受众；官网 https://brainrot.mov/"
-可迁移点: "① 分层订阅模式覆盖不同用户需求 ② 利用AI技术简化视频创作流程 ③ 瞄准社交媒体内容创作者的痛点 ④ 通过年付优惠提高用户粘性"
-原文链接: "https://brainrot.mov/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:27:03.982Z；域名评分 DR13；原始页 https://trustmrr.com/startup/brainrot-mov。"
-分类: "Content Creation、AI、Entertainment、Social Media / B2C / 海外"
+name: Brainrot.mov
+一句话: AI驱动的病毒式视频生成工具，帮助创作者快速制作社交媒体内容。
+创始人地区: 由 cjthetechguy 创立，US，2023 年成立
+营收模式: 'Free: $0/mo, Hobby: $8/mo billed yearly, Creator: $20/mo billed yearly, Business:
+  $32/mo billed yearly, Enterprise: Contact Sales'
+月收入估算: $9,279/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR13），B2C 受众；官网 https://brainrot.mov/
+可迁移点: ① 分层订阅模式覆盖不同用户需求 ② 利用AI技术简化视频创作流程 ③ 瞄准社交媒体内容创作者的痛点 ④ 通过年付优惠提高用户粘性
+原文链接: https://brainrot.mov/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:27:03.982Z；域名评分 DR13；原始页
+  https://trustmrr.com/startup/brainrot-mov。
+分类: Content Creation、AI、Entertainment、Social Media / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $9,279 · 活跃订阅 452 · 近12个月营收 $129,732 · 累计营收 $132,077 · 域名 DR13 · 国家 US · 创立 2023-05-14"
-封面: "/case-site/cases/brainrot-mov/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $9,279 · 活跃订阅 452 · 近12个月营收 $129,732 · 累计营收 $132,077 ·
+  域名 DR13 · 国家 US · 创立 2023-05-14
+封面: /case-site/cases/brainrot-mov/site.webp
 ---
+
 
 ![Brainrot.mov 官网](/cases/brainrot-mov/site.webp)
 

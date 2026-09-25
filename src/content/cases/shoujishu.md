@@ -1,19 +1,21 @@
 ---
-name: "随手记"
-一句话: "随手记是一款老牌记账App，主打快捷自动记账和多账本家庭理财功能。"
-创始人地区: "Shenzhen Mingshu Information Co., Ltd.，2010-05-17 上架 App Store 中国区"
-营收模式: "免费下载 + 内购（具体档位未披露）"
-月收入估算: "未官方披露（App Store 不公开下载量与收入，本站不做估算）"
-流量来源: "App Store 中国区搜索与榜单（评分 4.88，669,419 个评分）；Finance 类目长尾流量"
-可迁移点: "① 长期运营积累用户信任（2010年上架至今） ② 细分功能定位（家庭多账本管理） ③ 免费模式降低使用门槛"
-原文链接: "https://apps.apple.com/cn/app/%E9%9A%8F%E6%89%8B%E8%AE%B0-%E5%BF%AB%E6%8D%B7%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/id372353614?uo=4"
-数据口径: "Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者 Shenzhen Mingshu Information Co., Ltd.、价格 免费、评分 4.88、评分人数 669,419、上架日期 2010-05-17。收入未官方披露。"
-分类: "Finance / 免费+内购 / 中文 / 记账"
-类型: "国内实践"
-证据等级: "平台数据可查"
-平台数据: "App Store 中国区 ★4.88（669,419 个评分）· 免费 · 上架 2010-05-17（iTunes 官方 API）"
-封面: "/case-site/cases/shoujishu/site.png"
+name: 随手记
+一句话: 随手记是一款老牌记账App，主打快捷自动记账和多账本家庭理财功能。
+创始人地区: Shenzhen Mingshu Information Co., Ltd.，2010-05-17 上架 App Store 中国区
+营收模式: 免费下载 + 内购（具体档位未披露）
+月收入估算: 未官方披露（App Store 不公开下载量与收入，本站不做估算）
+流量来源: App Store 中国区搜索与榜单（评分 4.88，669,419 个评分）；Finance 类目长尾流量
+可迁移点: ① 长期运营积累用户信任（2010年上架至今） ② 细分功能定位（家庭多账本管理） ③ 免费模式降低使用门槛
+原文链接: https://apps.apple.com/cn/app/%E9%9A%8F%E6%89%8B%E8%AE%B0-%E5%BF%AB%E6%8D%B7%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/id372353614?uo=4
+数据口径: Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者
+  Shenzhen Mingshu Information Co., Ltd.、价格 免费、评分 4.88、评分人数 669,419、上架日期 2010-05-17。收入未官方披露。
+分类: Finance / 免费+内购 / 中文 / 记账
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: App Store 中国区 ★4.88（669,419 个评分）· 免费 · 上架 2010-05-17（iTunes 官方 API）
+封面: /case-site/cases/shoujishu/site.png
 ---
+
 
 ![随手记 App Store 页](/cases/shoujishu/site.png)
 

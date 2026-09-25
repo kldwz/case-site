@@ -1,11 +1,14 @@
 ---
 name: LINQ
 一句话: 从数字名片做成 iMessage / RCS API，让 AI agent 用"蓝气泡"程序化发消息，月发 3000 万+ 条、零流失、NRR 295%
-创始人地区: Elliott Potter（CEO，ex-Shipt）+ Patrick Sullivan（CTO）+ Jared Mattsson（president），2019 创立，伯明翰阿拉巴马
+创始人地区: Elliott Potter（CEO，ex-Shipt）+ Patrick Sullivan（CTO）+ Jared Mattsson（president），2019
+  创立，伯明翰阿拉巴马
 营收模式: SaaS 订阅（数字名片 + 开发者 API），面向营销团队和 AI agent 团队，按席位 / 用量收费
 月收入估算: 2026 年 2 月 2000 万美金 A 轮（TQ Ventures 领投，Mucker Capital 跟投）；营收未公开披露
 流量来源: 消费者数字名片病毒传播 + 开发者 API 客户（Poke / Ramp / GoHighLevel / Clay / Lindy / Pika 等 100+）
-可迁移点: ① 消费级产品（数字名片）做流量池，再开 B 端 API 变现——C 端获客、B 端收钱是经典双轮 ② 抢"蓝气泡"这个心理锚：iMessage 比绿气泡信任感高，程序化发蓝气泡=agent 更有亲和力 ③ 零流失 + 295% NRR 说明产品黏性极强，留存本身就是增长引擎 ④ 把自己定位成"通讯基础设施"而非"名片工具"，天花板高十倍 ⑤ 100+ 客户含 Ramp/Clay 这类头部，标杆客户带来链式口碑
+可迁移点: ① 消费级产品（数字名片）做流量池，再开 B 端 API 变现——C 端获客、B 端收钱是经典双轮 ② 抢"蓝气泡"这个心理锚：iMessage 比绿气泡信任感高，程序化发蓝气泡=agent
+  更有亲和力 ③ 零流失 + 295% NRR 说明产品黏性极强，留存本身就是增长引擎 ④ 把自己定位成"通讯基础设施"而非"名片工具"，天花板高十倍 ⑤ 100+
+  客户含 Ramp/Clay 这类头部，标杆客户带来链式口碑
 原文链接: https://linqapp.com
 数据口径: TechCrunch / 公司公告（2026-02 A 轮）、linqapp.com 官网指标（3000 万+ 消息/月、134k MAU、295% NRR）；融资/客户为公开披露
 类型: 收入案例
@@ -13,6 +16,7 @@ name: LINQ
 分类: 通讯 API / 数字名片 / 英文
 封面: /case-site/cases/linq/site.png
 ---
+
 
 ![LINQ 官网](/cases/linq/site.png)
 

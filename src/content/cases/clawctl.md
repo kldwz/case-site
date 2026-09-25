@@ -1,19 +1,24 @@
 ---
-name: "Clawctl"
-一句话: "Clawctl 是一款面向企业的 OpenClaw 安全部署工具，提供企业级安全防护，消除常见安全漏洞。"
-创始人地区: "由 Adi Oran 创立，US，2026 年成立"
-营收模式: "Starter: $49/mo, Team: $299/mo, Business: $999/mo, Enterprise: Starting at $2500/mo"
-月收入估算: "$139/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR24），B2B 受众；官网 https://www.clawctl.com/"
-可迁移点: "① 针对开源工具的安全加固服务存在市场需求 ② 分层定价策略可覆盖从初创企业到大型企业的客户 ③ 明确的价值主张（消除安全漏洞）能有效吸引技术决策者 ④ 与现有开源生态（OpenClaw）集成降低用户采用门槛"
-原文链接: "https://www.clawctl.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:49:04.894Z；域名评分 DR24；原始页 https://trustmrr.com/startup/clawctl。"
-分类: "Dev Tools、Security、SaaS / B2B / 海外"
+name: Clawctl
+一句话: Clawctl 是一款面向企业的 OpenClaw 安全部署工具，提供企业级安全防护，消除常见安全漏洞。
+创始人地区: 由 Adi Oran 创立，US，2026 年成立
+营收模式: 'Starter: $49/mo, Team: $299/mo, Business: $999/mo, Enterprise: Starting at
+  $2500/mo'
+月收入估算: $139/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR24），B2B 受众；官网 https://www.clawctl.com/
+可迁移点: ① 针对开源工具的安全加固服务存在市场需求 ② 分层定价策略可覆盖从初创企业到大型企业的客户 ③ 明确的价值主张（消除安全漏洞）能有效吸引技术决策者 ④
+  与现有开源生态（OpenClaw）集成降低用户采用门槛
+原文链接: https://www.clawctl.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:49:04.894Z；域名评分 DR24；原始页
+  https://trustmrr.com/startup/clawctl。
+分类: Dev Tools、Security、SaaS / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $139 · 活跃订阅 3 · 近12个月营收 $2,945 · 累计营收 $2,945 · 域名 DR24 · 国家 US · 创立 2026-01-27"
-封面: "/case-site/cases/clawctl/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $139 · 活跃订阅 3 · 近12个月营收 $2,945 · 累计营收 $2,945 · 域名 DR24
+  · 国家 US · 创立 2026-01-27
+封面: /case-site/cases/clawctl/site.webp
 ---
+
 
 ![Clawctl 官网](/cases/clawctl/site.webp)
 

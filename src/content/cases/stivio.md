@@ -2,10 +2,12 @@
 name: Stivio
 一句话: 上传一张照片、说一句话，让照片动起来的图生视频 AI，免费引流、按 credits 计费
 创始人地区: 未知
-营收模式: 免费增值 + 按 credits 计费（非纯订阅）：Free 送 10 credits 首条视频免费（带水印）；Pro $19/月 200 credits；Team $59/月 800 credits；一次性 credits 永不过期
+营收模式: 免费增值 + 按 credits 计费（非纯订阅）：Free 送 10 credits 首条视频免费（带水印）；Pro $19/月 200 credits；Team
+  $59/月 800 credits；一次性 credits 永不过期
 月收入估算: 未官方披露
 流量来源: 官网 SEO（图生视频/老照片动态化长尾词）+ ProductHunt/社区首发 + 免费首条引流 + 生成结果自带水印传播
-可迁移点: ① 用「首条免费 + credits 按量付费」降低试用门槛，跑通再收费 ② 差异化做「一句话描述动起来」而非拼参数，把复杂变简单 ③ 失败自动退款 + 无水印诱导，建立付费信任 ④ credits 永不过期，消除「买了一次没用完」的下单阻力
+可迁移点: ① 用「首条免费 + credits 按量付费」降低试用门槛，跑通再收费 ② 差异化做「一句话描述动起来」而非拼参数，把复杂变简单 ③ 失败自动退款 +
+  无水印诱导，建立付费信任 ④ credits 永不过期，消除「买了一次没用完」的下单阻力
 原文链接: https://stivio.ai/
 数据口径: 官网 Pricing/How it works 页实测（2026-09）
 类型: 收入案例
@@ -13,6 +15,7 @@ name: Stivio
 分类: AI 生成 / 图生视频 / 免费增值 / 英文
 封面: /case-site/cases/stivio/site.png
 ---
+
 
 ![Stivio 官网首页](/cases/stivio/site.png)
 

@@ -3,9 +3,11 @@ name: Covai Cars
 一句话: 把 WhatsApp 变成租车公司的完整预订台——询价、查库存、付款链接、确认全自动，24/7 不用人盯
 创始人地区: 匿名（TrustMRR 登记为 Anonymous）；西班牙
 营收模式: B2B 订阅制——面向租车公司的 WhatsApp 预订自动化（官网为「申请提前体验」制，未公开定价）
-月收入估算: MRR 约 1000 美元，累计营收约 6.1 万美元；**注意：该条数据未经 TrustMRR 验证（verified=False），且客户数仅 1、月增长率 -98.33%，属异常数据**
+月收入估算: MRR 约 1000 美元，累计营收约 6.1 万美元；**注意：该条数据未经 TrustMRR 验证（verified=False），且客户数仅 1、月增长率
+  -98.33%，属异常数据**
 流量来源: 官网未公开披露获客渠道；以「Book a demo / 提前体验申请」转化，配套 ROI 计算器做说服
-可迁移点: ① 不打新渠道，直接占用客户已经在用的聊天软件（WhatsApp）② 用 ROI 计算器把「省下的人工小时」直接换算成钱 ③ 展示与既有系统（Renteon、HQ Rental Software）的对接，消除替换顾虑 ④ 做垂直行业（租车）而不是通用客服机器人
+可迁移点: ① 不打新渠道，直接占用客户已经在用的聊天软件（WhatsApp）② 用 ROI 计算器把「省下的人工小时」直接换算成钱 ③ 展示与既有系统（Renteon、HQ
+  Rental Software）的对接，消除替换顾虑 ④ 做垂直行业（租车）而不是通用客服机器人
 原文链接: https://covai.es/
 数据口径: TrustMRR 平台（Stripe 数据，但**未经验证 verified=False**，快照 2026-09-07）；产品功能与文案来自官网首页。**本条数据存在明显异常，仅作为产品案例收录，营收数字请谨慎参考**
 封面: /case-site/cases/covai-cars/site.png
@@ -13,6 +15,7 @@ name: Covai Cars
 证据等级: 官方披露
 分类: AI 自动化 / 租车行业 / B2B SaaS / 西班牙
 ---
+
 
 # Covai Cars：把 WhatsApp 变成租车公司的前台
 

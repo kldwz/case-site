@@ -15,6 +15,7 @@ name: Supabase
 封面: /case-site/cases/supabase/site.png
 ---
 
+
 ![Supabase 官网](/cases/supabase/site.png)
 
 # Supabase：如何用开源PostgreSQL做成估值10亿的"Firebase替代品"

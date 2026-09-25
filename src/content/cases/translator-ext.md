@@ -1,19 +1,20 @@
 ---
-name: "Google 翻译"
-一句话: "Google 翻译是全球最常用的网页翻译扩展。"
-创始人地区: "Chrome 扩展 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "① 解决跨语言浏览的刚需 ② 依托Chrome生态快速触达用户 ③ 作为基础工具嵌入高频使用场景"
-原文链接: "https://translate.google.com/"
-数据口径: "公开资料整理（来源：https://translate.google.com/），2026-09-17 抓取。收入未官方披露。"
-分类: "Chrome插件/翻译 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://translate.google.com/）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: Google 翻译
+一句话: Google 翻译是全球最常用的网页翻译扩展。
+创始人地区: Chrome 扩展 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ① 解决跨语言浏览的刚需 ② 依托Chrome生态快速触达用户 ③ 作为基础工具嵌入高频使用场景
+原文链接: https://translate.google.com/
+数据口径: 公开资料整理（来源：https://translate.google.com/），2026-09-17 抓取。收入未官方披露。
+分类: Chrome插件/翻译 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://translate.google.com/）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Google 翻译
 
 

@@ -1,19 +1,22 @@
 ---
-name: "AutoSaaSLaunch"
-一句话: "一款自动填写目录提交表单的Chrome扩展工具，帮助SaaS开发者节省时间"
-创始人地区: "由 Christos 创立，GB，2025 年成立"
-营收模式: "$29 one-time for lifetime access"
-月收入估算: "$29/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR24），B2B 受众；官网 https://autosaaslaunch.com/"
-可迁移点: "① 一次性付费模式适合工具类产品 ② 解决重复性手工操作痛点有市场需求 ③ 浏览器扩展形式降低用户使用门槛"
-原文链接: "https://autosaaslaunch.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:14:57.479Z；域名评分 DR24；原始页 https://trustmrr.com/startup/autosaaslaunch。"
-分类: "Marketing、SaaS、Dev Tools、Productivity / B2B / 海外"
+name: AutoSaaSLaunch
+一句话: 一款自动填写目录提交表单的Chrome扩展工具，帮助SaaS开发者节省时间
+创始人地区: 由 Christos 创立，GB，2025 年成立
+营收模式: $29 one-time for lifetime access
+月收入估算: $29/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR24），B2B 受众；官网 https://autosaaslaunch.com/
+可迁移点: ① 一次性付费模式适合工具类产品 ② 解决重复性手工操作痛点有市场需求 ③ 浏览器扩展形式降低用户使用门槛
+原文链接: https://autosaaslaunch.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:14:57.479Z；域名评分 DR24；原始页
+  https://trustmrr.com/startup/autosaaslaunch。
+分类: Marketing、SaaS、Dev Tools、Productivity / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,181 · 累计营收 $1,181 · 域名 DR24 · 国家 GB · 创立 2025-10-11"
-封面: "/case-site/cases/autosaaslaunch/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,181 · 累计营收 $1,181 · 域名 DR24 ·
+  国家 GB · 创立 2025-10-11
+封面: /case-site/cases/autosaaslaunch/site.webp
 ---
+
 # AutoSaaSLaunch
 
 

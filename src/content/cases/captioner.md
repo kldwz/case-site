@@ -1,19 +1,22 @@
 ---
-name: "Captioner"
-一句话: "Captioner 是一款基于浏览器的 AI 视频翻译工具，用户可直接上传视频并翻译为其他语言。"
-创始人地区: "由 Simon Liang 创立，SG，2024 年成立"
-营收模式: "Free: $0/mo, Basic: $10/mo, Creator: $20/mo, One-Week Pass: $7"
-月收入估算: "$132/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR17），B2C 受众；官网 https://captioner.io/"
-可迁移点: "① 轻量化浏览器端工具降低用户使用门槛 ② 按周订阅制满足临时需求场景 ③ 多语言翻译瞄准全球化内容创作者"
-原文链接: "https://captioner.io/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:13:37.042Z；域名评分 DR17；原始页 https://trustmrr.com/startup/captioner。"
-分类: "AI、Content Creation、SaaS、Productivity / B2C / 海外"
+name: Captioner
+一句话: Captioner 是一款基于浏览器的 AI 视频翻译工具，用户可直接上传视频并翻译为其他语言。
+创始人地区: 由 Simon Liang 创立，SG，2024 年成立
+营收模式: 'Free: $0/mo, Basic: $10/mo, Creator: $20/mo, One-Week Pass: $7'
+月收入估算: $132/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR17），B2C 受众；官网 https://captioner.io/
+可迁移点: ① 轻量化浏览器端工具降低用户使用门槛 ② 按周订阅制满足临时需求场景 ③ 多语言翻译瞄准全球化内容创作者
+原文链接: https://captioner.io/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:13:37.042Z；域名评分 DR17；原始页
+  https://trustmrr.com/startup/captioner。
+分类: AI、Content Creation、SaaS、Productivity / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $132 · 活跃订阅 14 · 近12个月营收 $1,835 · 累计营收 $2,797 · 域名 DR17 · 国家 SG · 创立 2024-04-08"
-封面: "/case-site/cases/captioner/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $132 · 活跃订阅 14 · 近12个月营收 $1,835 · 累计营收 $2,797 · 域名 DR17
+  · 国家 SG · 创立 2024-04-08
+封面: /case-site/cases/captioner/site.webp
 ---
+
 
 ![Captioner 官网](/cases/captioner/site.webp)
 

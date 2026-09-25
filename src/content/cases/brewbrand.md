@@ -1,19 +1,22 @@
 ---
-name: "Brewbrand"
-一句话: "LinkedIn post generator that doesn't sound like AI"
-创始人地区: "由 Adrian Ispas 创立，RO，2025 年成立"
-营收模式: "Free plan available, pay when sure it works for you."
-月收入估算: "$162/月（Paddle 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR3），Both 受众；官网 https://www.brewbrand.ai/"
-可迁移点: "① 定位解决AI生成内容缺乏个性表达的痛点 ② 采用'先用后付'的定价策略降低用户决策门槛 ③ 聚焦垂直场景（LinkedIn内容创作）实现差异化"
-原文链接: "https://www.brewbrand.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-06-12T17:11:28.830Z；域名评分 DR3；原始页 https://trustmrr.com/startup/brewbrand。"
-分类: "Content Creation、AI、Productivity、Social Media / Both / 海外"
+name: Brewbrand
+一句话: LinkedIn post generator that doesn't sound like AI
+创始人地区: 由 Adrian Ispas 创立，RO，2025 年成立
+营收模式: Free plan available, pay when sure it works for you.
+月收入估算: $162/月（Paddle 验证）
+流量来源: SEO 自然流量为主（域名评分 DR3），Both 受众；官网 https://www.brewbrand.ai/
+可迁移点: ① 定位解决AI生成内容缺乏个性表达的痛点 ② 采用'先用后付'的定价策略降低用户决策门槛 ③ 聚焦垂直场景（LinkedIn内容创作）实现差异化
+原文链接: https://www.brewbrand.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-06-12T17:11:28.830Z；域名评分
+  DR3；原始页 https://trustmrr.com/startup/brewbrand。
+分类: Content Creation、AI、Productivity、Social Media / Both / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Paddle · 当前 MRR $162 · 活跃订阅 9 · 近12个月营收 $3,091 · 累计营收 $3,091 · 域名 DR3 · 国家 RO · 创立 2025-10-01"
-封面: "/case-site/cases/brewbrand/site.webp"
+平台数据: 支付验证：Paddle · 当前 MRR $162 · 活跃订阅 9 · 近12个月营收 $3,091 · 累计营收 $3,091 · 域名 DR3 ·
+  国家 RO · 创立 2025-10-01
+封面: /case-site/cases/brewbrand/site.webp
 ---
+
 
 ![Brewbrand 官网](/cases/brewbrand/site.webp)
 

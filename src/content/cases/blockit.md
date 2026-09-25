@@ -1,19 +1,23 @@
 ---
-name: "Blockit"
-一句话: "Blockit 是一款通过 3D 姿态检测解锁成瘾性应用的健康工具，用户需完成俯卧撑等动作才能使用被屏蔽的社交软件。"
-创始人地区: "创始人未披露，FR，2026 年成立"
-营收模式: "Free · In-App Purchases"
-月收入估算: "$413/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6757078968"
-可迁移点: "① 设备端 3D 姿态检测替代可跳过的计时器 ② 免费试用+付费墙的混合变现模式 ③ 通过游戏化设计（等级/徽章/排行榜）提升留存 ④ 支持 5 种语言的国际化策略 ⑤ 纯自然增长依赖短视频内容传播"
-原文链接: "https://apps.apple.com/app/id6757078968"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T12:03:15.383Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/blockit。"
-分类: "Productivity、Health & Fitness、Mobile Apps / B2C / 海外"
+name: Blockit
+一句话: Blockit 是一款通过 3D 姿态检测解锁成瘾性应用的健康工具，用户需完成俯卧撑等动作才能使用被屏蔽的社交软件。
+创始人地区: 创始人未披露，FR，2026 年成立
+营收模式: Free · In-App Purchases
+月收入估算: $413/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6757078968
+可迁移点: ① 设备端 3D 姿态检测替代可跳过的计时器 ② 免费试用+付费墙的混合变现模式 ③ 通过游戏化设计（等级/徽章/排行榜）提升留存 ④ 支持 5 种语言的国际化策略
+  ⑤ 纯自然增长依赖短视频内容传播
+原文链接: https://apps.apple.com/app/id6757078968
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T12:03:15.383Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/blockit。
+分类: Productivity、Health & Fitness、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $413 · 活跃订阅 130 · 近12个月营收 $5,124 · 累计营收 $5,124 · 域名 DR未披露 · 国家 FR · 创立 2026-03-01"
-封面: "/case-site/cases/blockit/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $413 · 活跃订阅 130 · 近12个月营收 $5,124 · 累计营收 $5,124 · 域名
+  DR未披露 · 国家 FR · 创立 2026-03-01
+封面: /case-site/cases/blockit/site.webp
 ---
+
 # Blockit
 
 

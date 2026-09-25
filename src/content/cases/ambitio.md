@@ -5,14 +5,20 @@ name: Ambitio
 营收模式: Freemium 直营消费者（DTC）。AI 申请 Copilot 免费引流，高级订阅与一对一顾问服务变现
 月收入估算: 未公开月收入；公司公开目标为 2026 财年（FY26）收入 200 万美元；已积累 5 万+ 注册用户、7.5 万月活
 流量来源: SEO + 内容营销 + 印度留学社群口碑；以「成功率 98.2%」「录取率提升 5 倍以上」的数据主张获客
-可迁移点: ① 用 100 万+ 真实申请数据训练匹配算法，把「顾问的隐性经验」产品化，而不是卖人力 ② student-first、不绑定大学返佣，靠透明和数据建立信任 ③ 垂直人群（印度出国家庭）痛点强、付费意愿高、信息极度不对称，是 AI 产品化的好土壤 ④ 用硬指标（成功率、录取数）做增长钩子
+可迁移点: ① 用 100 万+ 真实申请数据训练匹配算法，把「顾问的隐性经验」产品化，而不是卖人力 ② student-first、不绑定大学返佣，靠透明和数据建立信任
+  ③ 垂直人群（印度出国家庭）痛点强、付费意愿高、信息极度不对称，是 AI 产品化的好土壤 ④ 用硬指标（成功率、录取数）做增长钩子
 原文链接: https://ambitio.in
-数据口径: 融资——2025 年 3 月完成 200 万美元种子轮，由 BLinC Invest 领投，Ritu Bapna 等天使参投；此前另有约 18.7 万美元 pre-seed（First Cheque 等）（Entrepreneur India、ambitio.in/blog、Startup Intros）；产品与运营——AI 引擎基于 1000 万+ 数据点、100 万+ 成功申请训练，覆盖 5 万+ 大学项目；首年助 175+ 学生录取哈佛/斯坦福/牛津等，自称成功率 98.2%、录取率提升 5 倍以上；5 万+ 注册、7.5 万月活；目标 FY26 收入 200 万美元（NITI Aayog、TheKaroStartup、ambitio.in/blog）；创始人——Dirghayu Kaushik（CEO）与 Vikrant Shivalik（COO），2022 年创立于班加罗尔（Entrepreneur India）
+数据口径: 融资——2025 年 3 月完成 200 万美元种子轮，由 BLinC Invest 领投，Ritu Bapna 等天使参投；此前另有约 18.7 万美元
+  pre-seed（First Cheque 等）（Entrepreneur India、ambitio.in/blog、Startup Intros）；产品与运营——AI
+  引擎基于 1000 万+ 数据点、100 万+ 成功申请训练，覆盖 5 万+ 大学项目；首年助 175+ 学生录取哈佛/斯坦福/牛津等，自称成功率 98.2%、录取率提升
+  5 倍以上；5 万+ 注册、7.5 万月活；目标 FY26 收入 200 万美元（NITI Aayog、TheKaroStartup、ambitio.in/blog）；创始人——Dirghayu
+  Kaushik（CEO）与 Vikrant Shivalik（COO），2022 年创立于班加罗尔（Entrepreneur India）
 类型: 收入案例
 证据等级: 官方披露
 分类: 教育科技 / AI 留学申请 / 英文 / 印度
 封面: /case-site/cases/ambitio/site.png
 ---
+
 
 ![Ambitio 官网](/cases/ambitio/site.png)
 

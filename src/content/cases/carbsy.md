@@ -1,19 +1,22 @@
 ---
-name: "Carbsy"
-一句话: "Carbsy是一款通过拍照快速估算食物碳水化合物和营养成分的AI健康应用。"
-创始人地区: "由 Kirill Gusev 创立"
-营收模式: "Free · In-App Purchases · Weekly Plan $3.99, Annual Plan $39.99, Lifetime $39.99"
-月收入估算: "$259/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6745561317"
-可迁移点: "① 聚焦垂直健康需求（糖尿病/生酮饮食人群） ② 使用AI图像识别降低用户输入门槛 ③ 采用订阅制+买断制混合变现模式 ④ 通过解决具体场景痛点（无需搜索/计算）建立价值主张"
-原文链接: "https://apps.apple.com/app/id6745561317"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:20:22.845Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/carbsy。"
-分类: "Health & Fitness、AI、Mobile Apps / B2C / 海外"
+name: Carbsy
+一句话: Carbsy是一款通过拍照快速估算食物碳水化合物和营养成分的AI健康应用。
+创始人地区: 由 Kirill Gusev 创立
+营收模式: Free · In-App Purchases · Weekly Plan $3.99, Annual Plan $39.99, Lifetime $39.99
+月收入估算: $259/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6745561317
+可迁移点: ① 聚焦垂直健康需求（糖尿病/生酮饮食人群） ② 使用AI图像识别降低用户输入门槛 ③ 采用订阅制+买断制混合变现模式 ④ 通过解决具体场景痛点（无需搜索/计算）建立价值主张
+原文链接: https://apps.apple.com/app/id6745561317
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:20:22.845Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/carbsy。
+分类: Health & Fitness、AI、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $259 · 活跃订阅 52 · 近12个月营收 $2,028 · 累计营收 $2,028 · 域名 DR未披露 · 国家 未披露 · 创立 未披露"
-封面: "/case-site/cases/carbsy/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $259 · 活跃订阅 52 · 近12个月营收 $2,028 · 累计营收 $2,028 · 域名
+  DR未披露 · 国家 未披露 · 创立 未披露
+封面: /case-site/cases/carbsy/site.webp
 ---
+
 
 ![Carbsy 官网](/cases/carbsy/site.webp)
 

@@ -1,18 +1,25 @@
 ---
 name: Blacksmith
-一句话: 用裸金属游戏 CPU 把 CI 跑快 2 倍、便宜 60%：三个 Waterloo 校友 2 年半干到 5000 万美金 ARR，B 轮 4500 万、估值 5.5 亿
-创始人地区: Aditya "JP" Jayaprakash（CEO，ex-Faire）+ Aayush Shah、Aditya Maru（均 ex-Cockroach Labs），三人为滑铁卢大学校友，2024 年创立，YC W24，总部旧金山
+一句话: 用裸金属游戏 CPU 把 CI 跑快 2 倍、便宜 60%：三个 Waterloo 校友 2 年半干到 5000 万美金 ARR，B 轮 4500 万、估值
+  5.5 亿
+创始人地区: Aditya "JP" Jayaprakash（CEO，ex-Faire）+ Aayush Shah、Aditya Maru（均 ex-Cockroach
+  Labs），三人为滑铁卢大学校友，2024 年创立，YC W24，总部旧金山
 营收模式: 按用量计费（CI 分钟/任务），面向工程团队，替换 GitHub Actions 等托管 runners，更快更便宜
-月收入估算: 约 5000 万美金 ARR（创立 2.5 年）、5000–6000+ 家公司使用、月处理 5000 万+ jobs；累计融资 5850 万美金（B 轮 4500 万 @ 5.5 亿估值，Peak XV 领投，2026-08 披露）
+月收入估算: 约 5000 万美金 ARR（创立 2.5 年）、5000–6000+ 家公司使用、月处理 5000 万+ jobs；累计融资 5850 万美金（B
+  轮 4500 万 @ 5.5 亿估值，Peak XV 领投，2026-08 披露）
 流量来源: 开发者口碑（Supabase/Clerk/Ashby/Mercury/Expensify 等标杆客户）+ YC 网络 + 技术博客/性能对比的「快又便宜」硬指标传播
-可迁移点: ① 不做新平台，做「现有平台的更快更便宜替身」——替换摩擦极小 ② 用裸金属+游戏 CPU 这种「别人嫌麻烦」的硬件组合做出性能差 ③ 面向开发者，性能数字本身就是营销（快 2 倍/便宜 60% 一张图传遍 HN） ④ 三位校友合伙，技术互补（Faire 增长 + Cockroach 系统） ⑤ YC 仍是硬科技公司的强力跳板，W24 之后 2 年半就到 5000 万 ARR
+可迁移点: ① 不做新平台，做「现有平台的更快更便宜替身」——替换摩擦极小 ② 用裸金属+游戏 CPU 这种「别人嫌麻烦」的硬件组合做出性能差 ③ 面向开发者，性能数字本身就是营销（快
+  2 倍/便宜 60% 一张图传遍 HN） ④ 三位校友合伙，技术互补（Faire 增长 + Cockroach 系统） ⑤ YC 仍是硬科技公司的强力跳板，W24
+  之后 2 年半就到 5000 万 ARR
 原文链接: https://blacksmith.sh
-数据口径: blacksmith.sh 官方、Y Combinator 公司页、MachineHerald 报道；ARR/公司数/jobs 量/B 轮金额为公开披露；「快 2 倍/便宜 60%」为公司对外性能宣称
+数据口径: blacksmith.sh 官方、Y Combinator 公司页、MachineHerald 报道；ARR/公司数/jobs 量/B 轮金额为公开披露；「快
+  2 倍/便宜 60%」为公司对外性能宣称
 类型: 收入案例
 证据等级: 官方披露
 分类: AI/开发者基础设施 / 按量计费 / 英文 / 开发者工具
 封面: /case-site/cases/blacksmith/site.png
 ---
+
 
 ![Blacksmith 官网](/cases/blacksmith/site.png)
 

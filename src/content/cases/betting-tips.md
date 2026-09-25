@@ -1,19 +1,22 @@
 ---
-name: "Betting Tips"
-一句话: "Betting Tips Pro 是一款提供足球、篮球、网球、美式足球和棒球每日专家预测的订阅制移动应用。"
-创始人地区: "创始人未披露"
-营收模式: "Monthly subscription: $34.99 per month."
-月收入估算: "$308/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id1320810039"
-可迁移点: "① 垂直领域订阅模式（体育博彩建议） ② 高单价月费设定（$34.99/月） ③ 多体育品类覆盖增加用户覆盖面"
-原文链接: "https://apps.apple.com/app/id1320810039"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:28:17.452Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/betting-tips。"
-分类: "Entertainment、Games、Mobile Apps / B2C / 海外"
+name: Betting Tips
+一句话: Betting Tips Pro 是一款提供足球、篮球、网球、美式足球和棒球每日专家预测的订阅制移动应用。
+创始人地区: 创始人未披露
+营收模式: 'Monthly subscription: $34.99 per month.'
+月收入估算: $308/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id1320810039
+可迁移点: ① 垂直领域订阅模式（体育博彩建议） ② 高单价月费设定（$34.99/月） ③ 多体育品类覆盖增加用户覆盖面
+原文链接: https://apps.apple.com/app/id1320810039
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:28:17.452Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/betting-tips。
+分类: Entertainment、Games、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $308 · 活跃订阅 7 · 近12个月营收 $4,103 · 累计营收 $71,472 · 域名 DR未披露 · 国家 未披露 · 创立 未披露"
-封面: "/case-site/cases/betting-tips/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $308 · 活跃订阅 7 · 近12个月营收 $4,103 · 累计营收 $71,472 · 域名
+  DR未披露 · 国家 未披露 · 创立 未披露
+封面: /case-site/cases/betting-tips/site.webp
 ---
+
 
 ![Betting Tips 官网](/cases/betting-tips/site.webp)
 

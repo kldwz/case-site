@@ -1,19 +1,23 @@
 ---
-name: "ChatBackup for WhatsApp"
-一句话: "一款帮助用户从PC端下载WhatsApp聊天记录的Chrome扩展程序。"
-创始人地区: "由 Prajeesh 创立，IN，2024 年成立"
-营收模式: "ChatBackup for WhatsApp: $17.99, ChatBridge - Pro: $19.00/month, ChatBridge - Starter: $9.00/month, Email ID Extractor: $14.99"
-月收入估算: "$216/月（Lemon Squeezy 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://chromewebstore.google.com/detail/chatbackup-for-whatsapp-d/ijiakhjgjpbjhkbogdbhfjhapedjhnog"
-可迁移点: "① 通过Chrome扩展商店直接触达用户 ② 采用分层定价策略（一次性付费+订阅制） ③ 聚焦单一垂直需求（WhatsApp数据导出）"
-原文链接: "https://chromewebstore.google.com/detail/chatbackup-for-whatsapp-d/ijiakhjgjpbjhkbogdbhfjhapedjhnog"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Lemon Squeezy）验证，最后同步于 2026-09-16T21:36:12.900Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/chatbackup-for-whatsapp。"
-分类: "Social Media / 未披露 / 海外"
+name: ChatBackup for WhatsApp
+一句话: 一款帮助用户从PC端下载WhatsApp聊天记录的Chrome扩展程序。
+创始人地区: 由 Prajeesh 创立，IN，2024 年成立
+营收模式: 'ChatBackup for WhatsApp: $17.99, ChatBridge - Pro: $19.00/month, ChatBridge
+  - Starter: $9.00/month, Email ID Extractor: $14.99'
+月收入估算: $216/月（Lemon Squeezy 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://chromewebstore.google.com/detail/chatbackup-for-whatsapp-d/ijiakhjgjpbjhkbogdbhfjhapedjhnog
+可迁移点: ① 通过Chrome扩展商店直接触达用户 ② 采用分层定价策略（一次性付费+订阅制） ③ 聚焦单一垂直需求（WhatsApp数据导出）
+原文链接: https://chromewebstore.google.com/detail/chatbackup-for-whatsapp-d/ijiakhjgjpbjhkbogdbhfjhapedjhnog
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Lemon Squeezy）验证，最后同步于 2026-09-16T21:36:12.900Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/chatbackup-for-whatsapp。
+分类: Social Media / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Lemon Squeezy · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,698 · 累计营收 $3,564 · 域名 DR未披露 · 国家 IN · 创立 2024-07-30"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Lemon Squeezy · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,698 · 累计营收 $3,564 · 域名
+  DR未披露 · 国家 IN · 创立 2024-07-30
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # ChatBackup for WhatsApp
 
 

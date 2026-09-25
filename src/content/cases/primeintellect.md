@@ -1,11 +1,14 @@
 ---
 name: Prime Intellect
-一句话: 做"开放超级智能栈"（RL / 后训练）——2024 年创立，1 亿+ 美元 ARR、6000+ 客户、1.3 亿 A 轮（10 亿估值，Radical Ventures 领投），要让人人能训自己的模型
+一句话: 做"开放超级智能栈"（RL / 后训练）——2024 年创立，1 亿+ 美元 ARR、6000+ 客户、1.3 亿 A 轮（10 亿估值，Radical
+  Ventures 领投），要让人人能训自己的模型
 创始人地区: Vincent Weisser（CEO）、Johannes Hagemann（CTO）；2024 年创立
 营收模式: 企业订阅 / 算力 + 后训练平台（"Open Superintelligence Stack"：RL、后训练、分布式训练）
-月收入估算: ARR 1 亿+ 美金；6000+ 客户；2026 年 7 月 1.3 亿美金 Series A（估值 10 亿美金，Radical Ventures 领投），累计融资超 1.5 亿；NVIDIA / Intel / Dell 资本参与
+月收入估算: ARR 1 亿+ 美金；6000+ 客户；2026 年 7 月 1.3 亿美金 Series A（估值 10 亿美金，Radical Ventures
+  领投），累计融资超 1.5 亿；NVIDIA / Intel / Dell 资本参与
 流量来源: 开源社区（去中心化训练项目闻名）+ 前沿 AI 研究者口碑 + 大客户（Ramp、Zapier）
-可迁移点: ① 押"开放权重 + 分布式训练"的长期 thesis ② 用开源项目建立技术声誉再商业化 ③ 同时服务研究者与企业的"栈"思维 ④ 硬件巨头（NVIDIA / Intel / Dell）战略投资 = 资源 + 信用 ⑤ 早期站对边际趋势（开放 vs 封闭）
+可迁移点: ① 押"开放权重 + 分布式训练"的长期 thesis ② 用开源项目建立技术声誉再商业化 ③ 同时服务研究者与企业的"栈"思维 ④ 硬件巨头（NVIDIA
+  / Intel / Dell）战略投资 = 资源 + 信用 ⑤ 早期站对边际趋势（开放 vs 封闭）
 原文链接: https://www.primeintellect.ai
 数据口径: Prime Intellect 官方 + 行业媒体（2024–2026）；ARR、客户数、A 轮与领投方为公开口径
 类型: 收入案例
@@ -13,6 +16,7 @@ name: Prime Intellect
 分类: AI 基础设施 / 企业订阅 / 英文 / 开放模型 / 后训练
 封面: /case-site/cases/primeintellect/site.png
 ---
+
 
 ![Prime Intellect 官网](/cases/primeintellect/site.png)
 

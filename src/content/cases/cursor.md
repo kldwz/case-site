@@ -1,11 +1,13 @@
 ---
 name: Cursor
 一句话: 从 VS Code 衍生出的 AI 编程编辑器——4 个 MIT 毕业生创业，估值冲到 293 亿美金、ARR 破 10 亿，5 万+ 企业团队在用（NVIDIA、Adobe、Uber、Shopify、PayPal）
-创始人地区: Michael Truell（CEO）、Aman Sanger、Sualeh Asif、Arvid Lunnemark——4 名 MIT 毕业生；2022 年创立（公司 Anysphere）
+创始人地区: Michael Truell（CEO）、Aman Sanger、Sualeh Asif、Arvid Lunnemark——4 名 MIT 毕业生；2022
+  年创立（公司 Anysphere）
 营收模式: 订阅（个人 Pro / 团队 / 企业版）+ 自研 Composer 模型（2025 年 10 月推出）
 月收入估算: ARR 10 亿+ 美金；2025 年 11 月估值 293 亿美金（23 亿 Series D，Accel + Coatue 领投）；5 万+ 企业团队
 流量来源: 开发者口碑 + Product Hunt / build in public + VS Code 用户自然迁移 + 免费版转化
-可迁移点: ① 站在 VS Code（开源生态）肩膀上做差异化 AI 层 ② 开发者产品靠口碑病毒传播，几乎不投广告 ③ 从"插件"长成"独立 IDE"再自研模型（纵向整合）④ 免费 / 低价个人版养大漏斗，企业版收钱 ⑤ 明星团队 + 清晰品类 = 融资飞速
+可迁移点: ① 站在 VS Code（开源生态）肩膀上做差异化 AI 层 ② 开发者产品靠口碑病毒传播，几乎不投广告 ③ 从"插件"长成"独立 IDE"再自研模型（纵向整合）④
+  免费 / 低价个人版养大漏斗，企业版收钱 ⑤ 明星团队 + 清晰品类 = 融资飞速
 原文链接: https://cursor.com
 数据口径: Anysphere / Cursor 官方 + 多家科技媒体（2022–2025）；估值、ARR、企业客户数为公开口径
 类型: 收入案例
@@ -13,6 +15,7 @@ name: Cursor
 分类: AI 工具 / 订阅 / 英文 / 开发者工具 / 明星团队
 封面: /case-site/cases/cursor/site.png
 ---
+
 
 ![Cursor 官网](/cases/cursor/site.png)
 

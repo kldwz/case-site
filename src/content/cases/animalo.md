@@ -1,19 +1,23 @@
 ---
-name: "Animalo"
-一句话: "Animalo是一款为宠物企业设计的一站式管理软件，2021年上线，2024年被独立开发者收购并重建。"
-创始人地区: "由 Achille 创立，BE，2021 年成立"
-营收模式: "Core: $89/monthly, Pro: $169/monthly, Scale: $279/monthly"
-月收入估算: "$1,229/月（Paddle 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR33），B2B 受众；官网 https://animalo.com/"
-可迁移点: "① 从现有产品收购并重建可以降低初始开发风险 ② 针对特定行业（宠物服务）的垂直SaaS存在市场需求 ③ 高单价订阅模式（$89-$279/月）验证B2B客户支付意愿 ④ 支付系统集成(Paddle)可实现营收验证透明度"
-原文链接: "https://animalo.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T12:29:36.005Z；域名评分 DR33；原始页 https://trustmrr.com/startup/animalo。"
-分类: "Productivity、SaaS / B2B / 海外"
+name: Animalo
+一句话: Animalo是一款为宠物企业设计的一站式管理软件，2021年上线，2024年被独立开发者收购并重建。
+创始人地区: 由 Achille 创立，BE，2021 年成立
+营收模式: 'Core: $89/monthly, Pro: $169/monthly, Scale: $279/monthly'
+月收入估算: $1,229/月（Paddle 验证）
+流量来源: SEO 自然流量为主（域名评分 DR33），B2B 受众；官网 https://animalo.com/
+可迁移点: ① 从现有产品收购并重建可以降低初始开发风险 ② 针对特定行业（宠物服务）的垂直SaaS存在市场需求 ③ 高单价订阅模式（$89-$279/月）验证B2B客户支付意愿
+  ④ 支付系统集成(Paddle)可实现营收验证透明度
+原文链接: https://animalo.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T12:29:36.005Z；域名评分 DR33；原始页
+  https://trustmrr.com/startup/animalo。
+分类: Productivity、SaaS / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Paddle · 当前 MRR $1,229 · 活跃订阅 16 · 近12个月营收 $4,963 · 累计营收 $4,963 · 域名 DR33 · 国家 BE · 创立 2021-01-01"
-封面: "/case-site/cases/animalo/site.webp"
+平台数据: 支付验证：Paddle · 当前 MRR $1,229 · 活跃订阅 16 · 近12个月营收 $4,963 · 累计营收 $4,963 · 域名 DR33
+  · 国家 BE · 创立 2021-01-01
+封面: /case-site/cases/animalo/site.webp
 ---
+
 # Animalo
 
 

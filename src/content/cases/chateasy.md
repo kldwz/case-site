@@ -1,19 +1,22 @@
 ---
-name: "ChatEasy"
-一句话: "Chateasy.AI 是一个面向电商的多渠道AI聊天解决方案，通过统一LINE、Facebook等7个平台的客户沟通提升销售效率。"
-创始人地区: "创始人未披露，TH，2026 年成立"
-营收模式: "Starter ฿299/ month, Pro ฿799/ month, Enterprise ฿2,499/ month"
-月收入估算: "$3,845/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://chateasy.ai/"
-可迁移点: "① 聚焦东南亚市场（泰国）本地化定价（泰铢） ② 采用阶梯式订阅模式覆盖不同规模企业需求 ③ 通过Stripe实现轻量化支付验证 ④ 产品价值明确指向电商场景的降本增效"
-原文链接: "https://chateasy.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:07:10.527Z；域名评分 DR1；原始页 https://trustmrr.com/startup/chateasy。"
-分类: "SaaS、AI、Customer Support、E-comm、Analytics / B2B / 海外"
+name: ChatEasy
+一句话: Chateasy.AI 是一个面向电商的多渠道AI聊天解决方案，通过统一LINE、Facebook等7个平台的客户沟通提升销售效率。
+创始人地区: 创始人未披露，TH，2026 年成立
+营收模式: Starter ฿299/ month, Pro ฿799/ month, Enterprise ฿2,499/ month
+月收入估算: $3,845/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://chateasy.ai/
+可迁移点: ① 聚焦东南亚市场（泰国）本地化定价（泰铢） ② 采用阶梯式订阅模式覆盖不同规模企业需求 ③ 通过Stripe实现轻量化支付验证 ④ 产品价值明确指向电商场景的降本增效
+原文链接: https://chateasy.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:07:10.527Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/chateasy。
+分类: SaaS、AI、Customer Support、E-comm、Analytics / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $9,255 · 累计营收 $9,255 · 域名 DR1 · 国家 TH · 创立 2026-03-09"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $9,255 · 累计营收 $9,255 · 域名 DR1 · 国家
+  TH · 创立 2026-03-09
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # ChatEasy
 
 

@@ -1,19 +1,21 @@
 ---
-name: "故宫展览"
-一句话: "故宫官方推出的线上展览App，提供虚拟看展体验。"
-创始人地区: "The Palace Museum，2015-12-17 上架 App Store 中国区"
-营收模式: "免费下载 + 内购（具体档位未披露）"
-月收入估算: "未官方披露（App Store 不公开下载量与收入，本站不做估算）"
-流量来源: "App Store 中国区搜索与榜单（评分 4.33，428 个评分）；Lifestyle 类目长尾流量"
-可迁移点: "① 文化IP数字化是博物馆类机构的新方向 ② 官方背书提升用户信任度 ③ 免费模式适合公共服务类产品 ④ 长期维护（2015年上架至今）形成内容沉淀"
-原文链接: "https://apps.apple.com/cn/app/%E6%95%85%E5%AE%AB%E5%B1%95%E8%A7%88/id1051633498?uo=4"
-数据口径: "Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者 The Palace Museum、价格 免费、评分 4.33、评分人数 428、上架日期 2015-12-17。收入未官方披露。"
-分类: "Lifestyle / 免费+内购 / 中文 / 文创"
-类型: "国内实践"
-证据等级: "平台数据可查"
-平台数据: "App Store 中国区 ★4.33（428 个评分）· 免费 · 上架 2015-12-17（iTunes 官方 API）"
-封面: "/case-site/cases/gugong-zhanlan/site.png"
+name: 故宫展览
+一句话: 故宫官方推出的线上展览App，提供虚拟看展体验。
+创始人地区: The Palace Museum，2015-12-17 上架 App Store 中国区
+营收模式: 免费下载 + 内购（具体档位未披露）
+月收入估算: 未官方披露（App Store 不公开下载量与收入，本站不做估算）
+流量来源: App Store 中国区搜索与榜单（评分 4.33，428 个评分）；Lifestyle 类目长尾流量
+可迁移点: ① 文化IP数字化是博物馆类机构的新方向 ② 官方背书提升用户信任度 ③ 免费模式适合公共服务类产品 ④ 长期维护（2015年上架至今）形成内容沉淀
+原文链接: https://apps.apple.com/cn/app/%E6%95%85%E5%AE%AB%E5%B1%95%E8%A7%88/id1051633498?uo=4
+数据口径: Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者
+  The Palace Museum、价格 免费、评分 4.33、评分人数 428、上架日期 2015-12-17。收入未官方披露。
+分类: Lifestyle / 免费+内购 / 中文 / 文创
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: App Store 中国区 ★4.33（428 个评分）· 免费 · 上架 2015-12-17（iTunes 官方 API）
+封面: /case-site/cases/gugong-zhanlan/site.png
 ---
+
 # 故宫展览
 
 

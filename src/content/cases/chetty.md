@@ -1,19 +1,22 @@
 ---
-name: "Chetty"
-一句话: "Chetty 是面向企业的 AI 客服代理，通过聊天和语音处理客户查询、捕获销售线索并自动过滤需人工介入的请求。"
-创始人地区: "由 Michal Stoklasa 创立，CZ，2024 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$115/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR11），B2B 受众；官网 https://chetty.ai/"
-可迁移点: "① B2B场景的AI客服工具可聚焦「人工干预过滤」作为核心价值 ② 未公开定价时可通过Stripe快速验证商业模型 ③ 语音+文本多模态交互可能成为企业服务差异化点"
-原文链接: "https://chetty.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:38:15.353Z；域名评分 DR11；原始页 https://trustmrr.com/startup/chetty。"
-分类: "AI、Customer Support、SaaS / B2B / 海外"
+name: Chetty
+一句话: Chetty 是面向企业的 AI 客服代理，通过聊天和语音处理客户查询、捕获销售线索并自动过滤需人工介入的请求。
+创始人地区: 由 Michal Stoklasa 创立，CZ，2024 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $115/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR11），B2B 受众；官网 https://chetty.ai/
+可迁移点: ① B2B场景的AI客服工具可聚焦「人工干预过滤」作为核心价值 ② 未公开定价时可通过Stripe快速验证商业模型 ③ 语音+文本多模态交互可能成为企业服务差异化点
+原文链接: https://chetty.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:38:15.353Z；域名评分 DR11；原始页
+  https://trustmrr.com/startup/chetty。
+分类: AI、Customer Support、SaaS / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $115 · 活跃订阅 3 · 近12个月营收 $1,710 · 累计营收 $4,065 · 域名 DR11 · 国家 CZ · 创立 2024-03-18"
-封面: "/case-site/cases/chetty/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $115 · 活跃订阅 3 · 近12个月营收 $1,710 · 累计营收 $4,065 · 域名 DR11
+  · 国家 CZ · 创立 2024-03-18
+封面: /case-site/cases/chetty/site.webp
 ---
+
 
 ![Chetty 官网](/cases/chetty/site.webp)
 

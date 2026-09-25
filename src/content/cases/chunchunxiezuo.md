@@ -1,19 +1,21 @@
 ---
-name: "纯纯写作"
-一句话: "纯纯写作是一款专注沉浸式写作体验的Markdown编辑器应用。"
-创始人地区: "Hangzhou Baokan Network Technology Co., Ltd，2023-03-13 上架 App Store 中国区"
-营收模式: "免费下载 + 内购（具体档位未披露）"
-月收入估算: "未官方披露（App Store 不公开下载量与收入，本站不做估算）"
-流量来源: "App Store 中国区搜索与榜单（评分 4.88，10,332 个评分）；Utilities 类目长尾流量"
-可迁移点: "① 专注细分领域（写作工具） ② 提供沉浸式体验的核心卖点 n③ 使用免费模式（可能含内购或订阅） ④ 独立开发模式"
-原文链接: "https://apps.apple.com/cn/app/%E5%A5%BD%E5%A5%BD%E7%A0%81%E5%AD%97-%E5%86%99%E4%BD%9C%E7%88%B1%E5%A5%BD%E8%80%85%E7%9A%84%E4%B8%93%E5%B1%9E%E7%A0%81%E5%AD%97%E8%BD%AF%E4%BB%B6/id1659175866?uo=4"
-数据口径: "Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者 Hangzhou Baokan Network Technology Co., Ltd、价格 免费、评分 4.88、评分人数 10,332、上架日期 2023-03-13。收入未官方披露。"
-分类: "Utilities / 免费+内购 / 中文 / 写作工具"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "App Store 中国区 ★4.88（10,332 个评分）· 免费 · 上架 2023-03-13（iTunes 官方 API）"
-封面: "/case-site/cases/chunchunxiezuo/site.png"
+name: 纯纯写作
+一句话: 纯纯写作是一款专注沉浸式写作体验的Markdown编辑器应用。
+创始人地区: Hangzhou Baokan Network Technology Co., Ltd，2023-03-13 上架 App Store 中国区
+营收模式: 免费下载 + 内购（具体档位未披露）
+月收入估算: 未官方披露（App Store 不公开下载量与收入，本站不做估算）
+流量来源: App Store 中国区搜索与榜单（评分 4.88，10,332 个评分）；Utilities 类目长尾流量
+可迁移点: ① 专注细分领域（写作工具） ② 提供沉浸式体验的核心卖点 n③ 使用免费模式（可能含内购或订阅） ④ 独立开发模式
+原文链接: https://apps.apple.com/cn/app/%E5%A5%BD%E5%A5%BD%E7%A0%81%E5%AD%97-%E5%86%99%E4%BD%9C%E7%88%B1%E5%A5%BD%E8%80%85%E7%9A%84%E4%B8%93%E5%B1%9E%E7%A0%81%E5%AD%97%E8%BD%AF%E4%BB%B6/id1659175866?uo=4
+数据口径: Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者
+  Hangzhou Baokan Network Technology Co., Ltd、价格 免费、评分 4.88、评分人数 10,332、上架日期 2023-03-13。收入未官方披露。
+分类: Utilities / 免费+内购 / 中文 / 写作工具
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: App Store 中国区 ★4.88（10,332 个评分）· 免费 · 上架 2023-03-13（iTunes 官方 API）
+封面: /case-site/cases/chunchunxiezuo/site.png
 ---
+
 # 纯纯写作
 
 

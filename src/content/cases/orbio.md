@@ -1,19 +1,22 @@
 ---
-name: "Orbio"
-一句话: "Orbio是一个AI信用额度的交易市场，用户可买卖闲置的AI模型使用额度。"
-创始人地区: "由 Yash 创立，地区未披露，2026 年成立"
-营收模式: "$0 setup, subscription or minimum"
-月收入估算: "$6,830/月（Whop 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR15），B2C 受众；官网 https://orbio.so/"
-可迁移点: "① 创建闲置资源交易市场 ② 为开发者提供折扣AI资源 ③ 利用支付服务商API验证营收"
-原文链接: "https://orbio.so/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Whop）验证，最后同步于 2026-09-15T12:49:27.880Z；域名评分 DR15；原始页 https://trustmrr.com/startup/orbio。"
-分类: "AI、Crypto & Web3 / B2C / 海外"
+name: Orbio
+一句话: Orbio是一个AI信用额度的交易市场，用户可买卖闲置的AI模型使用额度。
+创始人地区: 由 Yash 创立，地区未披露，2026 年成立
+营收模式: $0 setup, subscription or minimum
+月收入估算: $6,830/月（Whop 验证）
+流量来源: SEO 自然流量为主（域名评分 DR15），B2C 受众；官网 https://orbio.so/
+可迁移点: ① 创建闲置资源交易市场 ② 为开发者提供折扣AI资源 ③ 利用支付服务商API验证营收
+原文链接: https://orbio.so/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Whop）验证，最后同步于 2026-09-15T12:49:27.880Z；域名评分 DR15；原始页
+  https://trustmrr.com/startup/orbio。
+分类: AI、Crypto & Web3 / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Whop · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $6,830 · 累计营收 $6,830 · 域名 DR15 · 国家 未披露 · 创立 2026-09-01"
-封面: "/case-site/cases/orbio/site.webp"
+平台数据: 支付验证：Whop · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $6,830 · 累计营收 $6,830 · 域名 DR15 · 国家
+  未披露 · 创立 2026-09-01
+封面: /case-site/cases/orbio/site.webp
 ---
+
 # Orbio
 
 

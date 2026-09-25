@@ -1,18 +1,29 @@
 ---
 name: Sandra AI
-一句话: 三个在巴黎综合理工相识的同学（都做过麦肯锡），做了个替汽车经销商接电话的 AI 前台，24/7 多语种、直接约试驾，2025 年营收约 44 万美金、YC 背书、种子轮约 50 万美金（2024-12）
-创始人地区: Badr El Idrissi Mokdad（CEO，前 McKinsey 与 Bain，BPO 与呼叫中心背景）、Ismail Majjad（CPO，前 McKinsey）、Skandere Sahli（CTO，前 QuantumBlack 与 McKinsey、MIT）；三人十年前在 École Polytechnique 相识；2024 创立于巴黎
+一句话: 三个在巴黎综合理工相识的同学（都做过麦肯锡），做了个替汽车经销商接电话的 AI 前台，24/7 多语种、直接约试驾，2025 年营收约 44 万美金、YC
+  背书、种子轮约 50 万美金（2024-12）
+创始人地区: Badr El Idrissi Mokdad（CEO，前 McKinsey 与 Bain，BPO 与呼叫中心背景）、Ismail Majjad（CPO，前
+  McKinsey）、Skandere Sahli（CTO，前 QuantumBlack 与 McKinsey、MIT）；三人十年前在 École Polytechnique
+  相识；2024 创立于巴黎
 营收模式: B2B SaaS 订阅——按经销商门店数与通话或消息量收费，AI 前台接管来电、邮件、短信、直接排试驾，深层集成 DMS
-月收入估算: 2025 年营收约 44 万美金（GetLatka 估算，约 3.7 万美金/月 run rate）；YC 2024 年秋 batch；种子轮约 50 万美金（2024-12，indexed.vc 口径）
+月收入估算: 2025 年营收约 44 万美金（GetLatka 估算，约 3.7 万美金/月 run rate）；YC 2024 年秋 batch；种子轮约 50
+  万美金（2024-12，indexed.vc 口径）
 流量来源: 踩中「经销商漏接电话等于丢单」的硬痛点——行业约 30% 来电无人接、每店年损可达 200 万美金；YC 网络带来首批经销商客户与信任；产品 demo（多语种真人感接电话）自带传播力，在汽车零售圈口碑传导
-可迁移点: ① 选「电话即收入」的垂类：汽车经销商约 80% 预约靠电话，漏接等于直接丢单，AI 接电话的 ROI 最硬 ② 做「AI 员工」而非「AI 功能」：Sandra 定位成替代前台，不是加个按钮 ③ 深集成客户系统才值钱：接 DMS 才能处理复杂查询，浅层 chatbot 不行 ④ 名校同窗合伙的信任红利：三人十年前相识，磨合成本趋近于零 ⑤ 用行业痛点量化获客：把「漏接 30% 电话等于年损 200 万」拍脸，比讲技术好卖
+可迁移点: ① 选「电话即收入」的垂类：汽车经销商约 80% 预约靠电话，漏接等于直接丢单，AI 接电话的 ROI 最硬 ② 做「AI 员工」而非「AI 功能」：Sandra
+  定位成替代前台，不是加个按钮 ③ 深集成客户系统才值钱：接 DMS 才能处理复杂查询，浅层 chatbot 不行 ④ 名校同窗合伙的信任红利：三人十年前相识，磨合成本趋近于零
+  ⑤ 用行业痛点量化获客：把「漏接 30% 电话等于年损 200 万」拍脸，比讲技术好卖
 原文链接: https://www.sandra-ai.com
-数据口径: 产品——面向汽车经销商与修理厂的 AI 语音前台（AI receptionist），24/7 多语种接管来电、邮件、短信、直接排试驾与预约，深层集成 DMS；痛点——行业约 30% 来电无人接、每店年损可达约 200 万美金；创始人——Badr El Idrissi Mokdad（CEO，前 McKinsey 与 Bain）、Ismail Majjad（CPO，前 McKinsey）、Skandere Sahli（CTO，前 QuantumBlack/McKinsey、MIT），三人十年前在 École Polytechnique 相识；总部巴黎；背书——Y Combinator（2024 年秋 batch）；经营——2025 年营收约 44 万美金（GetLatka），种子轮约 50 万美金（2024-12，YC F24 + Kima Ventures 等）
+数据口径: 产品——面向汽车经销商与修理厂的 AI 语音前台（AI receptionist），24/7 多语种接管来电、邮件、短信、直接排试驾与预约，深层集成 DMS；痛点——行业约
+  30% 来电无人接、每店年损可达约 200 万美金；创始人——Badr El Idrissi Mokdad（CEO，前 McKinsey 与 Bain）、Ismail
+  Majjad（CPO，前 McKinsey）、Skandere Sahli（CTO，前 QuantumBlack/McKinsey、MIT），三人十年前在 École
+  Polytechnique 相识；总部巴黎；背书——Y Combinator（2024 年秋 batch）；经营——2025 年营收约 44 万美金（GetLatka），种子轮约
+  50 万美金（2024-12，YC F24 + Kima Ventures 等）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 垂直行业 SaaS / 汽车经销商语音 AI / 英文 / 法国
 封面: /case-site/cases/sandra-ai/site.png
 ---
+
 
 ![Sandra AI 官网](/cases/sandra-ai/site.png)
 

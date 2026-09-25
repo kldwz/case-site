@@ -4,7 +4,8 @@ name: Jigsaw Haiku
 创始人地区: 未知（国外）
 营收模式: 商业化方式未官方披露。从公开信息看，它是作者在已有谜题站 The Daily Baffle 之外的副产品，规模较小，暂未见订阅、付费解锁或广告等明确说明；具体收
 月收入估算: 未官方披露
-流量来源: 上线初期流量主要来自 HackerNews 的 Show HN 发布帖，作者在帖子中介绍了产品由来与定位，并在介绍中顺带关联其主站 The Daily Baffle。目标人群以海外独立开发者、谜题爱好
+流量来源: 上线初期流量主要来自 HackerNews 的 Show HN 发布帖，作者在帖子中介绍了产品由来与定位，并在介绍中顺带关联其主站 The Daily
+  Baffle。目标人群以海外独立开发者、谜题爱好
 可迁移点: 把为主项目设计的功能/创意单独拆出，若定位契合就能低成本成为新产品；小体量游戏不必一味烧脑，轻松有趣的体验也能形成差异化；Show HN 是独立开发者获取早期用户和反馈的低成本渠道；副产品可复用主站开发经验，降低冷启动门槛。
 原文链接: https://jigsawhaiku.com/
 数据口径: HackerNews_Show 收录
@@ -13,6 +14,7 @@ name: Jigsaw Haiku
 分类: 网页小游戏 / 拼图 / 英文
 封面: /case-site/cases/jigsawhaiku/site.png
 ---
+
 
 ![Jigsaw Haiku 官网](/cases/jigsawhaiku/site.png)
 

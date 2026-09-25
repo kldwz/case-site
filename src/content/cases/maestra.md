@@ -1,11 +1,16 @@
 ---
 name: Maestra
 一句话: 剑桥/阿灵顿出身的四人联创团队做 DTC 电商全栈营销操作系统，零融资自举，营收约 400 万美元
-创始人地区: Alex Gornik（CEO）、Ivan Borovikov（战略合伙人）、Maryna Hradovich（CRO/联创）、Roman Ivonin（CTO）；2022 年创立，总部剑桥 MA 与阿灵顿 MA，另设阿姆斯特丹办公室
-营收模式: DTC 电商全栈营销平台——实时 CDP + 全渠道消息 + 站点个性化 + 产品个性化 + 价格个性化 + 分析 + 专属 CSM；订阅制，15 万 profiles 内 $2,990/月起
-月收入估算: 约 400 万美元营收（CrustData 记 $4.02M，RocketReach 记 $6.3M/2026）；112 人、4 万用户；2026 年 Q2 ARR 同比 +86%；CrustData 标注「never raised funding」，全程零融资自举
+创始人地区: Alex Gornik（CEO）、Ivan Borovikov（战略合伙人）、Maryna Hradovich（CRO/联创）、Roman Ivonin（CTO）；2022
+  年创立，总部剑桥 MA 与阿灵顿 MA，另设阿姆斯特丹办公室
+营收模式: DTC 电商全栈营销平台——实时 CDP + 全渠道消息 + 站点个性化 + 产品个性化 + 价格个性化 + 分析 + 专属 CSM；订阅制，15 万
+  profiles 内 $2,990/月起
+月收入估算: 约 400 万美元营收（CrustData 记 $4.02M，RocketReach 记 $6.3M/2026）；112 人、4 万用户；2026 年
+  Q2 ARR 同比 +86%；CrustData 标注「never raised funding」，全程零融资自举
 流量来源: 以产品驱动增长（PLG）为核心，叠加 DTC 品牌圈口碑与内容营销获客；具体渠道拆解未公开，企业级客户由专属 CSM 承接落地
-可迁移点: ① 把散落的电商营销能力（CDP、个性化、消息、分析）收进一个操作系统，单点工具拼不出壁垒 ② 用「专属 CSM」替代纯自助，把高客单价 SaaS 做成带服务的生意 ③ 定价锚定 profiles 量级而非席位，随客户业务规模自然扩容 ④ 零融资也能跑到百万级 ARR，自举逼出纪律 ⑤ 同时做站点、产品、价格三层个性化，才是电商 AI 的真实落点
+可迁移点: ① 把散落的电商营销能力（CDP、个性化、消息、分析）收进一个操作系统，单点工具拼不出壁垒 ② 用「专属 CSM」替代纯自助，把高客单价 SaaS 做成带服务的生意
+  ③ 定价锚定 profiles 量级而非席位，随客户业务规模自然扩容 ④ 零融资也能跑到百万级 ARR，自举逼出纪律 ⑤ 同时做站点、产品、价格三层个性化，才是电商
+  AI 的真实落点
 原文链接: https://maestra.io
 数据口径: CrustData 公司财务快照、RocketReach 营收估算、官网产品页与定价页；自举与团队规模以 CrustData 标注为准
 类型: 收入案例
@@ -13,6 +18,7 @@ name: Maestra
 分类: AI 工具 / 电商 / 营销 / 美国
 封面: /case-site/cases/maestra/site.png
 ---
+
 
 ![Maestra 官网](/cases/maestra/site.png)
 

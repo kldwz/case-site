@@ -1,19 +1,22 @@
 ---
-name: "Replymer"
-一句话: "Replymer 是一个自动化在 Reddit 和 X 上获取推荐的 SaaS 工具。"
-创始人地区: "由 Alexander Belogubov 🇺🇦 创立，UA，2025 年成立"
-营收模式: "Starter: $99/mo, Growth: $199/mo, Scale: $399/mo"
-月收入估算: "$5,115/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR32），B2B 受众；官网 https://replymer.com/"
-可迁移点: "① 自动化社交媒体互动可以节省用户时间 ② 分层定价策略（$99-$399/mo）覆盖不同规模客户 ③ 通过 Stripe 验证的支付流程增强可信度"
-原文链接: "https://replymer.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:01:33.753Z；域名评分 DR32；原始页 https://trustmrr.com/startup/belord-llc。"
-分类: "Marketing、SaaS / B2B / 海外"
+name: Replymer
+一句话: Replymer 是一个自动化在 Reddit 和 X 上获取推荐的 SaaS 工具。
+创始人地区: 由 Alexander Belogubov 🇺🇦 创立，UA，2025 年成立
+营收模式: 'Starter: $99/mo, Growth: $199/mo, Scale: $399/mo'
+月收入估算: $5,115/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR32），B2B 受众；官网 https://replymer.com/
+可迁移点: ① 自动化社交媒体互动可以节省用户时间 ② 分层定价策略（$99-$399/mo）覆盖不同规模客户 ③ 通过 Stripe 验证的支付流程增强可信度
+原文链接: https://replymer.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:01:33.753Z；域名评分 DR32；原始页
+  https://trustmrr.com/startup/belord-llc。
+分类: Marketing、SaaS / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $5,115 · 活跃订阅 33 · 近12个月营收 $96,967 · 累计营收 $96,967 · 域名 DR32 · 国家 UA · 创立 2025-09-30"
-封面: "/case-site/cases/belord-llc/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $5,115 · 活跃订阅 33 · 近12个月营收 $96,967 · 累计营收 $96,967 · 域名
+  DR32 · 国家 UA · 创立 2025-09-30
+封面: /case-site/cases/belord-llc/site.webp
 ---
+
 
 ![Replymer 官网](/cases/belord-llc/site.webp)
 

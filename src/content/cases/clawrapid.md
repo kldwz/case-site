@@ -1,19 +1,22 @@
 ---
-name: "ClawRapid"
-一句话: "ClawRapid 为基于 OpenClaw 的 AI 代理提供开箱即用的云托管服务（VPS），用户按月订阅即可获得预配置私人 AI 助手的虚拟服务器。"
-创始人地区: "由 Jean \\\\| Solo Builder 创立，FR，2026 年成立"
-营收模式: "$45/month"
-月收入估算: "$309/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR17），未披露 受众；官网 https://www.clawrapid.com/"
-可迁移点: "① 技术复杂度的封装（将AI部署简化为1分钟流程） ② 订阅制+自动化运维的SaaS模式 ③ 针对非技术用户的「零配置」价值主张"
-原文链接: "https://www.clawrapid.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T22:04:17.538Z；域名评分 DR17；原始页 https://trustmrr.com/startup/clawrapid。"
-分类: "AI、Dev Tools、Productivity、SaaS、Security / 未披露 / 海外"
+name: ClawRapid
+一句话: ClawRapid 为基于 OpenClaw 的 AI 代理提供开箱即用的云托管服务（VPS），用户按月订阅即可获得预配置私人 AI 助手的虚拟服务器。
+创始人地区: 由 Jean \\| Solo Builder 创立，FR，2026 年成立
+营收模式: $45/month
+月收入估算: $309/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR17），未披露 受众；官网 https://www.clawrapid.com/
+可迁移点: ① 技术复杂度的封装（将AI部署简化为1分钟流程） ② 订阅制+自动化运维的SaaS模式 ③ 针对非技术用户的「零配置」价值主张
+原文链接: https://www.clawrapid.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T22:04:17.538Z；域名评分 DR17；原始页
+  https://trustmrr.com/startup/clawrapid。
+分类: AI、Dev Tools、Productivity、SaaS、Security / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $309 · 活跃订阅 6 · 近12个月营收 $4,684 · 累计营收 $4,684 · 域名 DR17 · 国家 FR · 创立 2026-02-06"
-封面: "/case-site/cases/clawrapid/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $309 · 活跃订阅 6 · 近12个月营收 $4,684 · 累计营收 $4,684 · 域名 DR17
+  · 国家 FR · 创立 2026-02-06
+封面: /case-site/cases/clawrapid/site.webp
 ---
+
 
 ![ClawRapid 官网](/cases/clawrapid/site.webp)
 

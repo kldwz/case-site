@@ -1,19 +1,23 @@
 ---
-name: "AI Girlfriend"
-一句话: "一款完全自动化的AI女友应用，通过iOS应用商店自然流量获取用户，采用订阅制盈利。"
-创始人地区: "由 Daniel 创立"
-营收模式: "Free · In-App Purchases: Pro Weekly Free Trial $4.99, Pro Monthly $12.99"
-月收入估算: "$138/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6476343315"
-可迁移点: "① 完全自动化运维，极低服务器成本 ② 纯应用商店自然流量，零外部营销 ③ 复用技术栈快速扩展同类产品（如AI男友） ④ React Native+Flask轻量技术组合 ⑤ 通过对话质量优化可显著提升收益"
-原文链接: "https://apps.apple.com/app/id6476343315"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:18:40.592Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/ai-girlfriend。"
-分类: "AI、Mobile Apps、Entertainment、Games、Social Media / B2C / 海外"
+name: AI Girlfriend
+一句话: 一款完全自动化的AI女友应用，通过iOS应用商店自然流量获取用户，采用订阅制盈利。
+创始人地区: 由 Daniel 创立
+营收模式: 'Free · In-App Purchases: Pro Weekly Free Trial $4.99, Pro Monthly $12.99'
+月收入估算: $138/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6476343315
+可迁移点: ① 完全自动化运维，极低服务器成本 ② 纯应用商店自然流量，零外部营销 ③ 复用技术栈快速扩展同类产品（如AI男友） ④ React Native+Flask轻量技术组合
+  ⑤ 通过对话质量优化可显著提升收益
+原文链接: https://apps.apple.com/app/id6476343315
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:18:40.592Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/ai-girlfriend。
+分类: AI、Mobile Apps、Entertainment、Games、Social Media / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $138 · 活跃订阅 9 · 近12个月营收 $1,577 · 累计营收 $2,093 · 域名 DR未披露 · 国家 未披露 · 创立 未披露"
-封面: "/case-site/cases/ai-girlfriend/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $138 · 活跃订阅 9 · 近12个月营收 $1,577 · 累计营收 $2,093 · 域名 DR未披露
+  · 国家 未披露 · 创立 未披露
+封面: /case-site/cases/ai-girlfriend/site.webp
 ---
+
 
 ![AI Girlfriend 官网](/cases/ai-girlfriend/site.webp)
 

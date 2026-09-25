@@ -1,11 +1,15 @@
 ---
 name: Nelly
 一句话: 柏林的医疗行业财务操作系统，把纸质文档数字化，Series B 5000 万欧，1200+ 诊所、200 万患者
-创始人地区: Niklas Radner（CEO）、Lukas Eicher（Co-CEO/CPO）、Tobias Heuer（COO）、Rasmus Schults（CTO）、Laurids Seibel（VP CS）；2021 年创立于柏林
-营收模式: 医疗行业 Financial Operating System——FinOS（财务运营系统）+ 患者体验平台；面向诊所订阅 + 按量，覆盖账单、支付、保险核验、患者 onboarding
-月收入估算: Series B 5000 万欧元（2025-01，Cathay Innovation、Notion Capital 领投），累计约 6700 万欧元；1200+ 诊所、200 万+ 患者、已数字化 3000 万张纸质文档；创始人团队出自 Klarna
+创始人地区: Niklas Radner（CEO）、Lukas Eicher（Co-CEO/CPO）、Tobias Heuer（COO）、Rasmus Schults（CTO）、Laurids
+  Seibel（VP CS）；2021 年创立于柏林
+营收模式: 医疗行业 Financial Operating System——FinOS（财务运营系统）+ 患者体验平台；面向诊所订阅 + 按量，覆盖账单、支付、保险核验、患者
+  onboarding
+月收入估算: Series B 5000 万欧元（2025-01，Cathay Innovation、Notion Capital 领投），累计约 6700 万欧元；1200+
+  诊所、200 万+ 患者、已数字化 3000 万张纸质文档；创始人团队出自 Klarna
 流量来源: 诊所直销 + 医疗行业口碑 + Klarna 系网络；医疗行业强合规、强转介绍，标杆诊所带动区域扩散
-可迁移点: ① 医疗的「纸质文档数字化」是被低估的刚需，数字化 3000 万张就是壁垒 ② 金融 OS 思路从 Klarna 搬到医疗，支付/账单/保险一站打通 ③ 强合规行业靠标杆诊所口碑，不靠投流 ④ 联创班底完整（CEO/CPO/COO/CTO/CS），分工即执行力 ⑤ 垂直 OS 比通用工具贵且黏，客单价随诊所规模涨
+可迁移点: ① 医疗的「纸质文档数字化」是被低估的刚需，数字化 3000 万张就是壁垒 ② 金融 OS 思路从 Klarna 搬到医疗，支付/账单/保险一站打通 ③
+  强合规行业靠标杆诊所口碑，不靠投流 ④ 联创班底完整（CEO/CPO/COO/CTO/CS），分工即执行力 ⑤ 垂直 OS 比通用工具贵且黏，客单价随诊所规模涨
 原文链接: https://getnelly.de
 数据口径: 融资新闻（Series B Cathay Innovation、Notion Capital 领投）、官网诊所与患者规模统计、创始人背景公开资料
 类型: 收入案例
@@ -13,6 +17,7 @@ name: Nelly
 分类: 垂直行业 AI / 医疗 / 德国
 封面: /case-site/cases/nelly/site.png
 ---
+
 
 ![Nelly 官网](/cases/nelly/site.png)
 

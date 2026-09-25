@@ -1,19 +1,21 @@
 ---
-name: "潮汐"
-一句话: "潮汐是一款结合白噪音、冥想与睡眠监测的身心健康App，由小团队独立开发。"
-创始人地区: "Moreless, Inc.，2016-02-16 上架 App Store 中国区"
-营收模式: "免费下载 + 内购（具体档位未披露）"
-月收入估算: "未官方披露（App Store 不公开下载量与收入，本站不做估算）"
-流量来源: "App Store 中国区搜索与榜单（评分 4.85，151,319 个评分）；Health & Fitness 类目长尾流量"
-可迁移点: "① 专注细分领域（睡眠+冥想+白噪音） ② 免费模式+内购变现 ③ 长期维护（2016年上架至今） ④ 轻量化工具属性"
-原文链接: "https://apps.apple.com/cn/app/%E6%BD%AE%E6%B1%90-%E7%9D%A1%E7%9C%A0%E7%9B%91%E6%B5%8B-%E5%8A%A9%E7%9C%A0%E5%86%A5%E6%83%B3-%E6%A2%A6%E8%AF%9D%E6%89%93%E9%BC%BE-%E7%99%BD%E5%99%AA%E9%9F%B3-hrv%E5%8E%8B%E5%8A%9B/id1077776989?uo=4"
-数据口径: "Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者 Moreless, Inc.、价格 免费、评分 4.85、评分人数 151,319、上架日期 2016-02-16。收入未官方披露。"
-分类: "Health & Fitness / 免费+内购 / 中文 / 冥想/白噪音"
-类型: "国内实践"
-证据等级: "平台数据可查"
-平台数据: "App Store 中国区 ★4.85（151,319 个评分）· 免费 · 上架 2016-02-16（iTunes 官方 API）"
-封面: "/case-site/cases/tide/site.png"
+name: 潮汐
+一句话: 潮汐是一款结合白噪音、冥想与睡眠监测的身心健康App，由小团队独立开发。
+创始人地区: Moreless, Inc.，2016-02-16 上架 App Store 中国区
+营收模式: 免费下载 + 内购（具体档位未披露）
+月收入估算: 未官方披露（App Store 不公开下载量与收入，本站不做估算）
+流量来源: App Store 中国区搜索与榜单（评分 4.85，151,319 个评分）；Health & Fitness 类目长尾流量
+可迁移点: ① 专注细分领域（睡眠+冥想+白噪音） ② 免费模式+内购变现 ③ 长期维护（2016年上架至今） ④ 轻量化工具属性
+原文链接: https://apps.apple.com/cn/app/%E6%BD%AE%E6%B1%90-%E7%9D%A1%E7%9C%A0%E7%9B%91%E6%B5%8B-%E5%8A%A9%E7%9C%A0%E5%86%A5%E6%83%B3-%E6%A2%A6%E8%AF%9D%E6%89%93%E9%BC%BE-%E7%99%BD%E5%99%AA%E9%9F%B3-hrv%E5%8E%8B%E5%8A%9B/id1077776989?uo=4
+数据口径: Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者
+  Moreless, Inc.、价格 免费、评分 4.85、评分人数 151,319、上架日期 2016-02-16。收入未官方披露。
+分类: Health & Fitness / 免费+内购 / 中文 / 冥想/白噪音
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: App Store 中国区 ★4.85（151,319 个评分）· 免费 · 上架 2016-02-16（iTunes 官方 API）
+封面: /case-site/cases/tide/site.png
 ---
+
 # 潮汐
 
 

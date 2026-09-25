@@ -1,19 +1,22 @@
 ---
-name: "1FoodMenu"
-一句话: "为餐厅和餐车提供10分钟快速上线的单页菜单网站。"
-创始人地区: "由 Nick 创立，AT，2022 年成立"
-营收模式: "Free to start, $129/year for Pro"
-月收入估算: "$22/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR27），B2B 受众；官网 https://1food.menu/"
-可迁移点: "① 极简单页设计解决特定场景需求 ② 年费订阅制确保长期收入 ③ 免费起步降低用户决策门槛 ④ 专注实体餐饮业数字化痛点"
-原文链接: "https://1food.menu/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T13:00:15.187Z；域名评分 DR27；原始页 https://trustmrr.com/startup/1foodmenu。"
-分类: "SaaS、No-Code / B2B / 海外"
-类型: "收入案例"
-证据等级: "官方披露"
-平台数据: "支付验证：Stripe · 当前 MRR $22 · 活跃订阅 2 · 近12个月营收 $164 · 累计营收 $437 · 域名 DR27 · 国家 AT · 创立 2022-11-02"
-封面: "/case-site/cases/1foodmenu/site.webp"
+name: 1FoodMenu
+一句话: 为餐厅和餐车提供10分钟快速上线的单页菜单网站。
+创始人地区: 由 Nick 创立，AT，2022 年成立
+营收模式: Free to start, $129/year for Pro
+月收入估算: $22/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR27），B2B 受众；官网 https://1food.menu/
+可迁移点: ① 极简单页设计解决特定场景需求 ② 年费订阅制确保长期收入 ③ 免费起步降低用户决策门槛 ④ 专注实体餐饮业数字化痛点
+原文链接: https://1food.menu/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T13:00:15.187Z；域名评分 DR27；原始页
+  https://trustmrr.com/startup/1foodmenu。
+分类: SaaS、No-Code / B2B / 海外
+类型: 收入案例
+证据等级: 官方披露
+平台数据: 支付验证：Stripe · 当前 MRR $22 · 活跃订阅 2 · 近12个月营收 $164 · 累计营收 $437 · 域名 DR27 · 国家
+  AT · 创立 2022-11-02
+封面: /case-site/cases/1foodmenu/site.webp
 ---
+
 # 1FoodMenu
 
 

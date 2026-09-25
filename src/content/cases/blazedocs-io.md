@@ -1,19 +1,23 @@
 ---
-name: "blazedocs.io"
-一句话: "BlazeDocs uses AI to unlock data trapped in PDFs, converting documents into structured formats like Markdown and tables for faster analysis."
-创始人地区: "由 kyle 创立，GB，2025 年成立"
-营收模式: "Free: $0/mo, Starter: $7.99/mo, Pro: $14.99/mo, Enterprise: $49.99/mo"
-月收入估算: "$541/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://blazedocs.io/"
-可迁移点: "① 针对AI工作流中的PDF处理痛点开发垂直工具 ② 采用阶梯定价覆盖从个人到企业不同需求 ③ 输出标准化格式(Markdown)增强工具兼容性 ④ 支持多格式输入(PDF/PPTX/DOCX等)扩大使用场景"
-原文链接: "https://blazedocs.io/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:48:29.067Z；域名评分 DR1；原始页 https://trustmrr.com/startup/blazedocs-io。"
-分类: "AI、Dev Tools、Productivity、SaaS、Content Creation / B2B / 海外"
+name: blazedocs.io
+一句话: BlazeDocs uses AI to unlock data trapped in PDFs, converting documents into structured
+  formats like Markdown and tables for faster analysis.
+创始人地区: 由 kyle 创立，GB，2025 年成立
+营收模式: 'Free: $0/mo, Starter: $7.99/mo, Pro: $14.99/mo, Enterprise: $49.99/mo'
+月收入估算: $541/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://blazedocs.io/
+可迁移点: ① 针对AI工作流中的PDF处理痛点开发垂直工具 ② 采用阶梯定价覆盖从个人到企业不同需求 ③ 输出标准化格式(Markdown)增强工具兼容性 ④ 支持多格式输入(PDF/PPTX/DOCX等)扩大使用场景
+原文链接: https://blazedocs.io/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:48:29.067Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/blazedocs-io。
+分类: AI、Dev Tools、Productivity、SaaS、Content Creation / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $6,547 · 累计营收 $6,576 · 域名 DR1 · 国家 GB · 创立 2025-09-02"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $6,547 · 累计营收 $6,576 · 域名 DR1 · 国家
+  GB · 创立 2025-09-02
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # blazedocs.io：BlazeDocs uses AI to unlock data trapped in PDFs, converting documents into structured formats like Markdown and tables for faster analysis.
 

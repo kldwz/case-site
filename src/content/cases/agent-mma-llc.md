@@ -1,19 +1,22 @@
 ---
-name: "Agent MMA"
-一句话: "Agent MMA是一个AI驱动的MMA分析平台，为粉丝和媒体提供基于机器学习的比赛洞察和预测。"
-创始人地区: "由 Agent MMA 创立，US，2025 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$736/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR24），B2C 受众；官网 https://agentmma.com/"
-可迁移点: "① 垂直领域AI工具存在市场需求 ② 体育分析+B2C订阅模式已验证可行性 ③ 通过Stripe实现轻量化支付验证"
-原文链接: "https://agentmma.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:02:48.648Z；域名评分 DR24；原始页 https://trustmrr.com/startup/agent-mma-llc。"
-分类: "AI、Analytics / B2C / 海外"
+name: Agent MMA
+一句话: Agent MMA是一个AI驱动的MMA分析平台，为粉丝和媒体提供基于机器学习的比赛洞察和预测。
+创始人地区: 由 Agent MMA 创立，US，2025 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $736/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR24），B2C 受众；官网 https://agentmma.com/
+可迁移点: ① 垂直领域AI工具存在市场需求 ② 体育分析+B2C订阅模式已验证可行性 ③ 通过Stripe实现轻量化支付验证
+原文链接: https://agentmma.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:02:48.648Z；域名评分 DR24；原始页
+  https://trustmrr.com/startup/agent-mma-llc。
+分类: AI、Analytics / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $736 · 活跃订阅 58 · 近12个月营收 $6,511 · 累计营收 $6,718 · 域名 DR24 · 国家 US · 创立 2025-07-24"
-封面: "/case-site/cases/agent-mma-llc/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $736 · 活跃订阅 58 · 近12个月营收 $6,511 · 累计营收 $6,718 · 域名 DR24
+  · 国家 US · 创立 2025-07-24
+封面: /case-site/cases/agent-mma-llc/site.webp
 ---
+
 # Agent MMA
 
 

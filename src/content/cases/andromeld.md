@@ -4,8 +4,10 @@ name: AndroMeld
 创始人地区: 中国，作者 heruoxin（独立开发者，代表作冰箱 IceBox / 通知滤盒）
 营收模式: 商业付费（非开源）。国区买断 ¥88 一次性；App Store 内购另有年付 ¥38 / 季付 ¥14；免费额度（每周镜像 30 次、文件写入 5G）钩住轻用户
 月收入估算: 未官方披露
-流量来源: V2EX「分享创造」送激活码冷启动 + 作者既有粉丝（IceBox/通知滤盒用户）+ Mac App Store 搜索（Android Mac 互通/连续互通词）+ 口碑
-可迁移点: ① 接好 macOS 与 Android 的互通缝隙，需求真实且愿意付费 ② 免费额度「够用不够爽」，逼高频场景升级 ③ 买断+订阅双轨，尊重不同付费习惯 ④ 送激活码做社区冷启动，精准触达目标用户
+流量来源: V2EX「分享创造」送激活码冷启动 + 作者既有粉丝（IceBox/通知滤盒用户）+ Mac App Store 搜索（Android Mac 互通/连续互通词）+
+  口碑
+可迁移点: ① 接好 macOS 与 Android 的互通缝隙，需求真实且愿意付费 ② 免费额度「够用不够爽」，逼高频场景升级 ③ 买断+订阅双轨，尊重不同付费习惯
+  ④ 送激活码做社区冷启动，精准触达目标用户
 原文链接: https://andromeld.catchingnow.com/
 数据口径: 官网 Pricing 页 + Mac App Store 内购页实测（2026-09-06）
 类型: 收入案例
@@ -13,6 +15,7 @@ name: AndroMeld
 分类: 效率工具 / 买断+订阅 / 中文
 封面: /case-site/cases/andromeld/site.png
 ---
+
 
 ![AndroMeld 官网首页](/cases/andromeld/site.png)
 

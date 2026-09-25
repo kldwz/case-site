@@ -1,19 +1,22 @@
 ---
-name: "CaptionCreator"
-一句话: "AI视频字幕生成工具，支持76种语言的转录与互译"
-创始人地区: "由 Vijayabhaskar J 创立，IN，2022 年成立"
-营收模式: "Starts from 100 credits for $10"
-月收入估算: "$0/月（Paddle 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR22），B2C 受众；官网 https://captioncreator.cc/"
-可迁移点: "① 垂直领域AI工具开发 ② 多语言支持作为核心卖点 ③ 按需付费的积分制商业模式"
-原文链接: "https://captioncreator.cc/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T12:07:24.225Z；域名评分 DR22；原始页 https://trustmrr.com/startup/captioncreator。"
-分类: "AI、Productivity、Content Creation、Social Media / B2C / 海外"
+name: CaptionCreator
+一句话: AI视频字幕生成工具，支持76种语言的转录与互译
+创始人地区: 由 Vijayabhaskar J 创立，IN，2022 年成立
+营收模式: Starts from 100 credits for $10
+月收入估算: $0/月（Paddle 验证）
+流量来源: SEO 自然流量为主（域名评分 DR22），B2C 受众；官网 https://captioncreator.cc/
+可迁移点: ① 垂直领域AI工具开发 ② 多语言支持作为核心卖点 ③ 按需付费的积分制商业模式
+原文链接: https://captioncreator.cc/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T12:07:24.225Z；域名评分 DR22；原始页
+  https://trustmrr.com/startup/captioncreator。
+分类: AI、Productivity、Content Creation、Social Media / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Paddle · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $143 · 累计营收 $1,799 · 域名 DR22 · 国家 IN · 创立 2022-12-01"
-封面: "/case-site/cases/captioncreator/site.webp"
+平台数据: 支付验证：Paddle · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $143 · 累计营收 $1,799 · 域名 DR22 · 国家
+  IN · 创立 2022-12-01
+封面: /case-site/cases/captioncreator/site.webp
 ---
+
 
 ![CaptionCreator 官网](/cases/captioncreator/site.webp)
 

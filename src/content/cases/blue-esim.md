@@ -1,19 +1,22 @@
 ---
-name: "Blue eSIM"
-一句话: "为全球旅行者和数字游民提供覆盖190+国家的eSIM预付数据套餐服务。"
-创始人地区: "创始人未披露，LT，2024 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$520/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR18），B2C 受众；官网 https://blue-esim.com/"
-可迁移点: "① 聚焦旅行场景的细分需求 ② 轻量化eSIM技术替代实体SIM卡 ③ 通过Stripe实现全球支付覆盖 ④ 纯线上交付的数字化产品形态"
-原文链接: "https://blue-esim.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-05-07T11:21:30.547Z；域名评分 DR18；原始页 https://trustmrr.com/startup/blue-esim。"
-分类: "Travel、Mobile Apps / B2C / 海外"
+name: Blue eSIM
+一句话: 为全球旅行者和数字游民提供覆盖190+国家的eSIM预付数据套餐服务。
+创始人地区: 创始人未披露，LT，2024 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $520/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR18），B2C 受众；官网 https://blue-esim.com/
+可迁移点: ① 聚焦旅行场景的细分需求 ② 轻量化eSIM技术替代实体SIM卡 ③ 通过Stripe实现全球支付覆盖 ④ 纯线上交付的数字化产品形态
+原文链接: https://blue-esim.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-05-07T11:21:30.547Z；域名评分
+  DR18；原始页 https://trustmrr.com/startup/blue-esim。
+分类: Travel、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $4,833 · 累计营收 $4,833 · 域名 DR18 · 国家 LT · 创立 2024-09-28"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $4,833 · 累计营收 $4,833 · 域名 DR18 ·
+  国家 LT · 创立 2024-09-28
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Blue eSIM：为全球旅行者和数字游民提供覆盖190+国家的eSIM预付数据套餐服务。
 

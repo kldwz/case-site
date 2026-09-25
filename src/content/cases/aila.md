@@ -1,19 +1,23 @@
 ---
-name: "Aila"
-一句话: "Voice to data"
-创始人地区: "由 hotl.eth 创立，US，2023 年成立"
-营收模式: "$50/mo/user • Unlimited calls & exports"
-月收入估算: "$19,333/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR2），B2B 受众；官网 https://aila.fyi/"
-可迁移点: "① 聚焦垂直领域（房地产、法律、保险）的AI语音转结构化数据方案 ② 采用固定月费制（$50/用户/月）简化定价模型 ③ 通过Stripe实现支付验证的透明营收披露 ④ 产品定位明确解决通话数据转化与团队绩效分析需求"
-原文链接: "https://aila.fyi/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:05:45.463Z；域名评分 DR2；原始页 https://trustmrr.com/startup/aila。"
-分类: "Sales、AI、SaaS、Analytics、Real Estate / B2B / 海外"
+name: Aila
+一句话: Voice to data
+创始人地区: 由 hotl.eth 创立，US，2023 年成立
+营收模式: $50/mo/user • Unlimited calls & exports
+月收入估算: $19,333/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR2），B2B 受众；官网 https://aila.fyi/
+可迁移点: ① 聚焦垂直领域（房地产、法律、保险）的AI语音转结构化数据方案 ② 采用固定月费制（$50/用户/月）简化定价模型 ③ 通过Stripe实现支付验证的透明营收披露
+  ④ 产品定位明确解决通话数据转化与团队绩效分析需求
+原文链接: https://aila.fyi/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:05:45.463Z；域名评分 DR2；原始页
+  https://trustmrr.com/startup/aila。
+分类: Sales、AI、SaaS、Analytics、Real Estate / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $19,333 · 活跃订阅 105 · 近12个月营收 $81,185 · 累计营收 $103,668 · 域名 DR2 · 国家 US · 创立 2023-11-12"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $19,333 · 活跃订阅 105 · 近12个月营收 $81,185 · 累计营收 $103,668 ·
+  域名 DR2 · 国家 US · 创立 2023-11-12
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Aila：Voice to data
 

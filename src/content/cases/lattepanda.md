@@ -1,19 +1,20 @@
 ---
-name: "拿铁熊猫 LattePanda"
-一句话: "深圳出品的Windows/Android兼容单板计算机，面向创客。"
-创始人地区: "开源硬件 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "① 开源硬件领域存在创客市场的需求 ② 兼容多系统（Windows/Android）可扩大使用场景 ③ 深圳供应链优势有助于硬件开发"
-原文链接: "https://www.lattepanda.com/"
-数据口径: "公开资料整理（来源：https://www.lattepanda.com/），2026-09-17 抓取。收入未官方披露。"
-分类: "开源硬件/单板 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://www.lattepanda.com/）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: 拿铁熊猫 LattePanda
+一句话: 深圳出品的Windows/Android兼容单板计算机，面向创客。
+创始人地区: 开源硬件 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ① 开源硬件领域存在创客市场的需求 ② 兼容多系统（Windows/Android）可扩大使用场景 ③ 深圳供应链优势有助于硬件开发
+原文链接: https://www.lattepanda.com/
+数据口径: 公开资料整理（来源：https://www.lattepanda.com/），2026-09-17 抓取。收入未官方披露。
+分类: 开源硬件/单板 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://www.lattepanda.com/）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # 拿铁熊猫 LattePanda：深圳出品的Windows/Android兼容单板计算机，面向创客。
 

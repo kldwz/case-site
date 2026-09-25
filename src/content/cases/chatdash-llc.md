@@ -1,19 +1,22 @@
 ---
-name: "ChatDash, LLC"
-一句话: "ChatDash为营销机构提供白标AI助手仪表盘解决方案，帮助客户管理知识库并提升服务溢价能力。"
-创始人地区: "创始人未披露，US，2024 年成立"
-营收模式: "Automated, Usage-Based Billing"
-月收入估算: "$34,404/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR35），B2B 受众；官网 https://chat-dash.com/"
-可迁移点: "① 白标化产品满足B端机构品牌定制需求 ② 集成Voiceflow和OpenAI API降低技术门槛 ③ 按使用量计费模式匹配不同规模客户 ④ 专注解决机构多客户管理的运维痛点"
-原文链接: "https://chat-dash.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:06:22.076Z；域名评分 DR35；原始页 https://trustmrr.com/startup/chatdash-llc。"
-分类: "AI、SaaS、Productivity、Customer Support / B2B / 海外"
+name: ChatDash, LLC
+一句话: ChatDash为营销机构提供白标AI助手仪表盘解决方案，帮助客户管理知识库并提升服务溢价能力。
+创始人地区: 创始人未披露，US，2024 年成立
+营收模式: Automated, Usage-Based Billing
+月收入估算: $34,404/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR35），B2B 受众；官网 https://chat-dash.com/
+可迁移点: ① 白标化产品满足B端机构品牌定制需求 ② 集成Voiceflow和OpenAI API降低技术门槛 ③ 按使用量计费模式匹配不同规模客户 ④ 专注解决机构多客户管理的运维痛点
+原文链接: https://chat-dash.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:06:22.076Z；域名评分 DR35；原始页
+  https://trustmrr.com/startup/chatdash-llc。
+分类: AI、SaaS、Productivity、Customer Support / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $34,404 · 活跃订阅 187 · 近12个月营收 $391,901 · 累计营收 $569,351 · 域名 DR35 · 国家 US · 创立 2024-04-01"
-封面: "/case-site/cases/chatdash-llc/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $34,404 · 活跃订阅 187 · 近12个月营收 $391,901 · 累计营收 $569,351 ·
+  域名 DR35 · 国家 US · 创立 2024-04-01
+封面: /case-site/cases/chatdash-llc/site.webp
 ---
+
 
 ![ChatDash, LLC 官网](/cases/chatdash-llc/site.webp)
 

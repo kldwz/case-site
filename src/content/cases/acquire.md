@@ -3,16 +3,23 @@ name: Acquire.com
 一句话: 一个连续创业者把「卖 SaaS 公司」做成线上市场，不靠大团队就做到 800 万美元级年收入、帮 2000 多个创始人退出
 创始人地区: Andrew Gazdecki，美国旧金山（连续创业者）
 营收模式: 双边市场。卖家免费挂公司，买家付年费订阅（390-1500 美元每年）；大单成功费 5-15%；推荐/数据许可等 ancillary 收入
-月收入估算: 未公开精确月收入；公开资料显示年营收约 800 万美元（约 67 万美元每月），买家订阅 ARR 约 2860 万美元（约 2.4 万美元每月经常性，含生态收入）；累计促成 5 亿+ 美元交易、2000+ 笔退出
+月收入估算: 未公开精确月收入；公开资料显示年营收约 800 万美元（约 67 万美元每月），买家订阅 ARR 约 2860 万美元（约 2.4 万美元每月经常性，含生态收入）；累计促成
+  5 亿+ 美元交易、2000+ 笔退出
 流量来源: SEO + 内容（估值工具、行业报告）+ 创始人 Andrew Gazdecki 个人品牌与媒体曝光；50 万+ 注册买家网络的自然网络效应
-可迁移点: ① 把「低频高客单价」的并购流程产品化、标准化，用 LOI/APA 生成器 + Escrow 集成把成交周期压到 30-90 天 ② 卖家免费、买家付费的双边模型，靠网络效应自增长——买家越多，卖家越愿意来 ③ 不靠大团队：用冷外联 + 内容 + 产品化流程 bootstrap 到 800 万美元营收 ④ 在「信任」是核心壁垒的市场，免费工具（估值器）是最强获客钩子
+可迁移点: ① 把「低频高客单价」的并购流程产品化、标准化，用 LOI/APA 生成器 + Escrow 集成把成交周期压到 30-90 天 ② 卖家免费、买家付费的双边模型，靠网络效应自增长——买家越多，卖家越愿意来
+  ③ 不靠大团队：用冷外联 + 内容 + 产品化流程 bootstrap 到 800 万美元营收 ④ 在「信任」是核心壁垒的市场，免费工具（估值器）是最强获客钩子
 原文链接: https://acquire.com
-数据口径: 运营——线上 SaaS 并购市场，2020 年由 Andrew Gazdecki 创立；50 万+ 注册买家、2200+ 在售列表、累计促成 5 亿+ 美元交易、2000+ 创始人退出（acquire.com、Startup Intros、blog.acquire.com）；营收——公开资料称年营收约 800 万美元，团队 20-36 人；买家订阅 ARR 约 2860 万美元（canvasbusinessmodel 测算，约 2.5 万订阅者、390-1500 美元每年）+ 大单成功费 + 生态/数据收入（Startup Intros、canvasbusinessmodel）；模式——卖家免费挂公司，买家年费订阅，大单（超 100 万美元）收 5-15% 成功费，另有 Escrow/法律/数据许可 ancillary 收入（Startup Intros、canvasbusinessmodel、blog.acquire.com）
+数据口径: 运营——线上 SaaS 并购市场，2020 年由 Andrew Gazdecki 创立；50 万+ 注册买家、2200+ 在售列表、累计促成 5 亿+
+  美元交易、2000+ 创始人退出（acquire.com、Startup Intros、blog.acquire.com）；营收——公开资料称年营收约 800
+  万美元，团队 20-36 人；买家订阅 ARR 约 2860 万美元（canvasbusinessmodel 测算，约 2.5 万订阅者、390-1500 美元每年）+
+  大单成功费 + 生态/数据收入（Startup Intros、canvasbusinessmodel）；模式——卖家免费挂公司，买家年费订阅，大单（超 100
+  万美元）收 5-15% 成功费，另有 Escrow/法律/数据许可 ancillary 收入（Startup Intros、canvasbusinessmodel、blog.acquire.com）
 类型: 收入案例
 证据等级: 官方披露
 分类: SaaS 并购市场 / B2B 平台 / 英文 / 美国
 封面: /case-site/cases/acquire/site.png
 ---
+
 
 ![Acquire.com 官网](/cases/acquire/site.png)
 

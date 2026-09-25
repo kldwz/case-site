@@ -1,19 +1,22 @@
 ---
-name: "ClawHost"
-一句话: "One-click cloud hosting for OpenClaw AI agents."
-创始人地区: "创始人未披露，MK，2026 年成立"
-营收模式: "$10/mo Starting"
-月收入估算: "$350/月（Polar 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR19），B2C 受众；官网 https://clawhost.cloud/"
-可迁移点: "① 瞄准AI开发者工具细分领域（OpenClaw部署）的即时需求 ② 开源策略可能降低用户信任门槛 ③ 极简价值主张：分钟级部署替代手工配置"
-原文链接: "https://clawhost.cloud/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-16T21:19:14.468Z；域名评分 DR19；原始页 https://trustmrr.com/startup/clawhost。"
-分类: "AI、Dev Tools、SaaS / B2C / 海外"
+name: ClawHost
+一句话: One-click cloud hosting for OpenClaw AI agents.
+创始人地区: 创始人未披露，MK，2026 年成立
+营收模式: $10/mo Starting
+月收入估算: $350/月（Polar 验证）
+流量来源: SEO 自然流量为主（域名评分 DR19），B2C 受众；官网 https://clawhost.cloud/
+可迁移点: ① 瞄准AI开发者工具细分领域（OpenClaw部署）的即时需求 ② 开源策略可能降低用户信任门槛 ③ 极简价值主张：分钟级部署替代手工配置
+原文链接: https://clawhost.cloud/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-16T21:19:14.468Z；域名评分 DR19；原始页
+  https://trustmrr.com/startup/clawhost。
+分类: AI、Dev Tools、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Polar · 当前 MRR $350 · 活跃订阅 11 · 近12个月营收 $7,225 · 累计营收 $7,225 · 域名 DR19 · 国家 MK · 创立 2026-02-08"
-封面: "/case-site/cases/clawhost/site.webp"
+平台数据: 支付验证：Polar · 当前 MRR $350 · 活跃订阅 11 · 近12个月营收 $7,225 · 累计营收 $7,225 · 域名 DR19
+  · 国家 MK · 创立 2026-02-08
+封面: /case-site/cases/clawhost/site.webp
 ---
+
 # ClawHost
 
 

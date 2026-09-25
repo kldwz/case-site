@@ -3,16 +3,25 @@ name: Alta
 一句话: monday.com 早期员工把内部工具做成产品——AI 不只当 SDR，而是给收入团队当「公司大脑」，一个月做出第一个 100 万美金的 8 倍速增长
 创始人地区: Stav Levi-Neumark（CEO）+ Tom Hoffen、Mor Shabtai（联创），2023 年创立于特拉维夫
 营收模式: B2B AI GTM 平台订阅，按公司部署 + 配套增长策略师服务（非纯自助），连接 50+ 数据源与 60+ GTM 工具
-月收入估算: 首个 100 万美金收入用了一年，随后在一个月内又做了 100 万美金；官方称今年营收增速约 800%；累计融资 3200 万美金（2025 年 3 月 700 万种子轮由 Entrée Capital 与 Target Global 领投 + 2025 年 7 月 2500 万 A 轮由 IN Venture 领投），估值未披露
-流量来源: 创始人 monday.com 早期员工的信誉 + 三个具名 AI 员工（Katie / Alex / Luna）的产品化叙事 + 与 Salesforce、HubSpot、IBM、Google 等生态合作 + 「AI 不该装成人」的透明主张带来的信任
-可迁移点: ① 把大厂内部工具产品化——Levi-Neumark 在 monday.com 做的 BigBrain 就是 Alta 的原型，内部验证过的东西才有底气卖 ② 不卖单点工具卖决策层，CRM 只记录发生了什么，Alta 决定接下来该做什么 ③ 测试发现客户不要自助后，果断加服务层——「客户不知道自己缺什么」本身就是产品的一部分 ④ 坚持 AI 透明，建议客户主动披露是 AI 在沟通，短期降转化、长期建信任 ⑤ 三个 agent 各司其职（外呼 / 承接 / 洞察），比一个「万能助手」更容易被理解和采购
+月收入估算: 首个 100 万美金收入用了一年，随后在一个月内又做了 100 万美金；官方称今年营收增速约 800%；累计融资 3200 万美金（2025 年 3
+  月 700 万种子轮由 Entrée Capital 与 Target Global 领投 + 2025 年 7 月 2500 万 A 轮由 IN Venture
+  领投），估值未披露
+流量来源: 创始人 monday.com 早期员工的信誉 + 三个具名 AI 员工（Katie / Alex / Luna）的产品化叙事 + 与 Salesforce、HubSpot、IBM、Google
+  等生态合作 + 「AI 不该装成人」的透明主张带来的信任
+可迁移点: ① 把大厂内部工具产品化——Levi-Neumark 在 monday.com 做的 BigBrain 就是 Alta 的原型，内部验证过的东西才有底气卖
+  ② 不卖单点工具卖决策层，CRM 只记录发生了什么，Alta 决定接下来该做什么 ③ 测试发现客户不要自助后，果断加服务层——「客户不知道自己缺什么」本身就是产品的一部分
+  ④ 坚持 AI 透明，建议客户主动披露是 AI 在沟通，短期降转化、长期建信任 ⑤ 三个 agent 各司其职（外呼 / 承接 / 洞察），比一个「万能助手」更容易被理解和采购
 原文链接: https://www.altahq.com
-数据口径: 融资——2025 年 3 月 700 万美金种子轮（Entrée Capital 与 Target Global 领投）、2025 年 7 月 2500 万美金 A 轮（IN Venture 领投，Mindset Ventures、Skywell Capital、LeumiTech77 及老股东参投），累计 3200 万（PR Newswire、公开报道）；营收——首个 100 万美金耗时一年、随后单月再获 100 万、今年增速预计 800%（官方口径）；产品——连接 50+ 数据源与 60+ GTM 工具，合作方含 Salesforce、HubSpot、IBM、Google（官方与报道）
+数据口径: 融资——2025 年 3 月 700 万美金种子轮（Entrée Capital 与 Target Global 领投）、2025 年 7 月 2500
+  万美金 A 轮（IN Venture 领投，Mindset Ventures、Skywell Capital、LeumiTech77 及老股东参投），累计 3200
+  万（PR Newswire、公开报道）；营收——首个 100 万美金耗时一年、随后单月再获 100 万、今年增速预计 800%（官方口径）；产品——连接 50+
+  数据源与 60+ GTM 工具，合作方含 Salesforce、HubSpot、IBM、Google（官方与报道）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 销售 / GTM 智能体 / 英文 / 以色列
 封面: /case-site/cases/alta/site.png
 ---
+
 
 ![Alta 官网](/cases/alta/site.png)
 

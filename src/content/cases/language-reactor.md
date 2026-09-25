@@ -1,19 +1,20 @@
 ---
-name: "Language Reactor"
-一句话: "Language Reactor是一款帮助用户通过双语字幕学习语言的Chrome扩展。"
-创始人地区: "Chrome 扩展 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "① 通过浏览器扩展形式解决垂直学习需求 ② 聚焦语言学习中的字幕痛点 ③ 轻量化工具型产品开发路径"
-原文链接: "https://www.languagereactor.com/"
-数据口径: "公开资料整理（来源：https://www.languagereactor.com/），2026-09-17 抓取。收入未官方披露。"
-分类: "Chrome插件/字幕 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://www.languagereactor.com/）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: Language Reactor
+一句话: Language Reactor是一款帮助用户通过双语字幕学习语言的Chrome扩展。
+创始人地区: Chrome 扩展 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ① 通过浏览器扩展形式解决垂直学习需求 ② 聚焦语言学习中的字幕痛点 ③ 轻量化工具型产品开发路径
+原文链接: https://www.languagereactor.com/
+数据口径: 公开资料整理（来源：https://www.languagereactor.com/），2026-09-17 抓取。收入未官方披露。
+分类: Chrome插件/字幕 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://www.languagereactor.com/）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Language Reactor
 
 

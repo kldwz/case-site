@@ -1,19 +1,24 @@
 ---
-name: "BackdropBoost"
-一句话: "AI工具将产品照片转化为电商和Google广告的生活化场景"
-创始人地区: "由 Alfred Simon 创立，NL，2025 年成立"
-营收模式: "Free: 5 credits, Lite: €9.90/mo, Core: €49/mo, Pro: €119/mo, Ultra: €229/mo, Custom: Contact us"
-月收入估算: "$46/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR39），B2B 受众；官网 https://www.backdropboost.com/"
-可迁移点: "① 针对电商摄影高成本痛点提供AI解决方案 ② 采用分层订阅模式覆盖不同规模客户需求 ③ 直接集成Stripe验证支付提升数据可信度 ④ 支持Google Shopping feed批量处理提升效率"
-原文链接: "https://www.backdropboost.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:40:37.831Z；域名评分 DR39；原始页 https://trustmrr.com/startup/backdropboost。"
-分类: "AI、E-comm、SaaS、Content Creation、Marketing / B2B / 海外"
+name: BackdropBoost
+一句话: AI工具将产品照片转化为电商和Google广告的生活化场景
+创始人地区: 由 Alfred Simon 创立，NL，2025 年成立
+营收模式: 'Free: 5 credits, Lite: €9.90/mo, Core: €49/mo, Pro: €119/mo, Ultra: €229/mo,
+  Custom: Contact us'
+月收入估算: $46/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR39），B2B 受众；官网 https://www.backdropboost.com/
+可迁移点: ① 针对电商摄影高成本痛点提供AI解决方案 ② 采用分层订阅模式覆盖不同规模客户需求 ③ 直接集成Stripe验证支付提升数据可信度 ④ 支持Google
+  Shopping feed批量处理提升效率
+原文链接: https://www.backdropboost.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:40:37.831Z；域名评分 DR39；原始页
+  https://trustmrr.com/startup/backdropboost。
+分类: AI、E-comm、SaaS、Content Creation、Marketing / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $46 · 活跃订阅 2 · 近12个月营收 $1,865 · 累计营收 $2,189 · 域名 DR39 · 国家 NL · 创立 2025-04-26"
-封面: "/case-site/cases/backdropboost/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $46 · 活跃订阅 2 · 近12个月营收 $1,865 · 累计营收 $2,189 · 域名 DR39 ·
+  国家 NL · 创立 2025-04-26
+封面: /case-site/cases/backdropboost/site.webp
 ---
+
 
 ![BackdropBoost 官网](/cases/backdropboost/site.webp)
 

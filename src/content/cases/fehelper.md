@@ -1,19 +1,20 @@
 ---
-name: "FE助手"
-一句话: "百度FE团队开发的开源Chrome扩展工具，为前端开发者提供便捷功能。"
-创始人地区: "Chrome 扩展 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "① 大厂技术团队可开源工具建立行业影响力 ② 垂直开发工具能精准服务技术人群 ③ Chrome扩展是轻量级产品验证方式"
-原文链接: "https://www.baidufe.com/fehelper"
-数据口径: "公开资料整理（来源：https://www.baidufe.com/fehelper），2026-09-17 抓取。收入未官方披露。"
-分类: "Chrome插件/前端 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://www.baidufe.com/fehelper）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: FE助手
+一句话: 百度FE团队开发的开源Chrome扩展工具，为前端开发者提供便捷功能。
+创始人地区: Chrome 扩展 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ① 大厂技术团队可开源工具建立行业影响力 ② 垂直开发工具能精准服务技术人群 ③ Chrome扩展是轻量级产品验证方式
+原文链接: https://www.baidufe.com/fehelper
+数据口径: 公开资料整理（来源：https://www.baidufe.com/fehelper），2026-09-17 抓取。收入未官方披露。
+分类: Chrome插件/前端 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://www.baidufe.com/fehelper）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # FE助手
 
 

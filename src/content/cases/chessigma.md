@@ -1,19 +1,23 @@
 ---
-name: "Chessigma"
-一句话: "Chessigma 是一个提供免费国际象棋游戏分析和复盘的工具，基于 Stockfish 17 引擎，没有每日限制或付费层级。"
-创始人地区: "由 Mehdi Ben Haddou 创立，BE，2025 年成立"
-营收模式: "Free"
-月收入估算: "$6,497/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR18），B2C 受众；官网 https://www.chessigma.com/"
-可迁移点: "① 提供完全免费的核心功能，打破行业常见的付费墙模式 ② 利用开源引擎 Stockfish 降低技术成本 ③ 瞄准 Chess.com 等平台的功能限制作为差异化切入点 ④ 简洁的价值主张（Chess.com but free）易于传播"
-原文链接: "https://www.chessigma.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:58:45.832Z；域名评分 DR18；原始页 https://trustmrr.com/startup/chessigma。"
-分类: "Games、Education、AI / B2C / 海外"
+name: Chessigma
+一句话: Chessigma 是一个提供免费国际象棋游戏分析和复盘的工具，基于 Stockfish 17 引擎，没有每日限制或付费层级。
+创始人地区: 由 Mehdi Ben Haddou 创立，BE，2025 年成立
+营收模式: Free
+月收入估算: $6,497/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR18），B2C 受众；官网 https://www.chessigma.com/
+可迁移点: ① 提供完全免费的核心功能，打破行业常见的付费墙模式 ② 利用开源引擎 Stockfish 降低技术成本 ③ 瞄准 Chess.com 等平台的功能限制作为差异化切入点
+  ④ 简洁的价值主张（Chess.com but free）易于传播
+原文链接: https://www.chessigma.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:58:45.832Z；域名评分 DR18；原始页
+  https://trustmrr.com/startup/chessigma。
+分类: Games、Education、AI / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $6,497 · 活跃订阅 485 · 近12个月营收 $50,006 · 累计营收 $50,006 · 域名 DR18 · 国家 BE · 创立 2025-03-27"
-封面: "/case-site/cases/chessigma/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $6,497 · 活跃订阅 485 · 近12个月营收 $50,006 · 累计营收 $50,006 · 域名
+  DR18 · 国家 BE · 创立 2025-03-27
+封面: /case-site/cases/chessigma/site.webp
 ---
+
 
 ![Chessigma 官网](/cases/chessigma/site.webp)
 

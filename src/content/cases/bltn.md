@@ -1,19 +1,22 @@
 ---
-name: "bltn"
-一句话: "为教堂提供数字公告订阅服务的SaaS产品，按月收费。"
-创始人地区: "由 Justin Funk 创立，US，2014 年成立"
-营收模式: "Free trial"
-月收入估算: "$38/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR29），B2C 受众；官网 http://usebltn.com/"
-可迁移点: "① 垂直领域SaaS需求明确（教堂公告管理） ② 采用免费试用模式降低用户决策门槛 ③ 多平台发布功能（印刷/数字/邮件/社交）集成解决工作流痛点"
-原文链接: "http://usebltn.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:07:34.485Z；域名评分 DR29；原始页 https://trustmrr.com/startup/bltn。"
-分类: "Community、Content Creation、Productivity、SaaS / B2C / 海外"
+name: bltn
+一句话: 为教堂提供数字公告订阅服务的SaaS产品，按月收费。
+创始人地区: 由 Justin Funk 创立，US，2014 年成立
+营收模式: Free trial
+月收入估算: $38/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR29），B2C 受众；官网 http://usebltn.com/
+可迁移点: ① 垂直领域SaaS需求明确（教堂公告管理） ② 采用免费试用模式降低用户决策门槛 ③ 多平台发布功能（印刷/数字/邮件/社交）集成解决工作流痛点
+原文链接: http://usebltn.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:07:34.485Z；域名评分 DR29；原始页
+  https://trustmrr.com/startup/bltn。
+分类: Community、Content Creation、Productivity、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $38 · 活跃订阅 2 · 近12个月营收 $39,295 · 累计营收 $244,911 · 域名 DR29 · 国家 US · 创立 2014-07-04"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $38 · 活跃订阅 2 · 近12个月营收 $39,295 · 累计营收 $244,911 · 域名 DR29
+  · 国家 US · 创立 2014-07-04
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # bltn：为教堂提供数字公告订阅服务的SaaS产品，按月收费。
 

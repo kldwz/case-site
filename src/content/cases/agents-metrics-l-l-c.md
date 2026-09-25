@@ -1,19 +1,22 @@
 ---
-name: "Agents Metrics L.L.C."
-一句话: "AI驱动的房地产经纪人绩效评估与招聘情报平台"
-创始人地区: "由 Tin Ho Chu 创立，US，2023 年成立"
-营收模式: "$479 USD / month"
-月收入估算: "$149/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR5），B2B 受众；官网 https://agentsmetrics.com/"
-可迁移点: "① 聚焦B2B细分市场痛点（经纪人流动预警） ② 高单价订阅模式（$479/月） ③ 通过Stripe实现轻量化支付验证 ④ 数据看板类产品可快速验证PMF"
-原文链接: "https://agentsmetrics.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:47:13.839Z；域名评分 DR5；原始页 https://trustmrr.com/startup/agents-metrics-l-l-c。"
-分类: "Recruiting & HR、AI、Real Estate、Analytics / B2B / 海外"
+name: Agents Metrics L.L.C.
+一句话: AI驱动的房地产经纪人绩效评估与招聘情报平台
+创始人地区: 由 Tin Ho Chu 创立，US，2023 年成立
+营收模式: $479 USD / month
+月收入估算: $149/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR5），B2B 受众；官网 https://agentsmetrics.com/
+可迁移点: ① 聚焦B2B细分市场痛点（经纪人流动预警） ② 高单价订阅模式（$479/月） ③ 通过Stripe实现轻量化支付验证 ④ 数据看板类产品可快速验证PMF
+原文链接: https://agentsmetrics.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:47:13.839Z；域名评分 DR5；原始页
+  https://trustmrr.com/startup/agents-metrics-l-l-c。
+分类: Recruiting & HR、AI、Real Estate、Analytics / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $149 · 活跃订阅 1 · 近12个月营收 $4,539 · 累计营收 $19,636 · 域名 DR5 · 国家 US · 创立 2023-12-01"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $149 · 活跃订阅 1 · 近12个月营收 $4,539 · 累计营收 $19,636 · 域名 DR5
+  · 国家 US · 创立 2023-12-01
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Agents Metrics L.L.C.：AI驱动的房地产经纪人绩效评估与招聘情报平台
 

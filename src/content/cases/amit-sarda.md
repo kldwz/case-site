@@ -1,19 +1,22 @@
 ---
-name: "Amit Sarda"
-一句话: "Amit Sarda 为商业创始人提供无代码、自动化和分析咨询服务。"
-创始人地区: "由 amitsarda.xyz 创立，IN，2018 年成立"
-营收模式: "Higher rates for high-quality projects"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR58），B2B 受众；官网 https://www.amitsarda.xyz/"
-可迁移点: "① 专注于高价值项目，采用优质优价的定价策略 ② 通过专业咨询而非订阅模式实现营收 ③ 结合无代码工具和自动化技术解决企业规模化问题"
-原文链接: "https://www.amitsarda.xyz/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:17:14.169Z；域名评分 DR58；原始页 https://trustmrr.com/startup/amit-sarda。"
-分类: "No-Code、SaaS、Productivity / B2B / 海外"
+name: Amit Sarda
+一句话: Amit Sarda 为商业创始人提供无代码、自动化和分析咨询服务。
+创始人地区: 由 amitsarda.xyz 创立，IN，2018 年成立
+营收模式: Higher rates for high-quality projects
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR58），B2B 受众；官网 https://www.amitsarda.xyz/
+可迁移点: ① 专注于高价值项目，采用优质优价的定价策略 ② 通过专业咨询而非订阅模式实现营收 ③ 结合无代码工具和自动化技术解决企业规模化问题
+原文链接: https://www.amitsarda.xyz/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:17:14.169Z；域名评分 DR58；原始页
+  https://trustmrr.com/startup/amit-sarda。
+分类: No-Code、SaaS、Productivity / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $750 · 累计营收 $11,948 · 域名 DR58 · 国家 IN · 创立 2018-09-17"
-封面: "/case-site/cases/amit-sarda/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $750 · 累计营收 $11,948 · 域名 DR58 · 国家
+  IN · 创立 2018-09-17
+封面: /case-site/cases/amit-sarda/site.webp
 ---
+
 # Amit Sarda
 
 

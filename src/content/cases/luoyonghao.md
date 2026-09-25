@@ -1,19 +1,21 @@
 ---
-name: "罗永浩"
-一句话: "罗永浩通过直播带货和内容创作实现变现。"
-创始人地区: "创作者/独立开发 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "①利用个人影响力快速切入新领域 ②跨平台内容分发扩大受众面 ③将创业经验转化为内容资产"
-原文链接: "https://search.bilibili.com/upuser?keyword=%E7%BD%97%E6%B0%B8%E8%92%8F"
-数据口径: "公开资料整理（来源：https://search.bilibili.com/upuser?keyword=%E7%BD%97%E6%B0%B8%E8%92%8F），2026-09-17 抓取。收入未官方披露。"
-分类: "创作者/创业 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://search.bilibili.com/upuser?keyword=%E7%BD%97%E6%B0%B8%E8%92%8F）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: 罗永浩
+一句话: 罗永浩通过直播带货和内容创作实现变现。
+创始人地区: 创作者/独立开发 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ①利用个人影响力快速切入新领域 ②跨平台内容分发扩大受众面 ③将创业经验转化为内容资产
+原文链接: https://search.bilibili.com/upuser?keyword=%E7%BD%97%E6%B0%B8%E8%92%8F
+数据口径: 公开资料整理（来源：https://search.bilibili.com/upuser?keyword=%E7%BD%97%E6%B0%B8%E8%92%8F），2026-09-17
+  抓取。收入未官方披露。
+分类: 创作者/创业 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://search.bilibili.com/upuser?keyword=%E7%BD%97%E6%B0%B8%E8%92%8F）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # 罗永浩
 
 

@@ -1,19 +1,23 @@
 ---
-name: "Aura AI - AI Video & Image Generator"
-一句话: "Aura AI 是一个整合多款AI模型的视频与图像生成平台，让用户无需切换工具即可完成从创意到成品的全流程。"
-创始人地区: "由 Ivan 创立，IT，2023 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$2,029/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR48），B2C 受众；官网 https://auraai.app/"
-可迁移点: "① 整合多个AI模型提供一站式解决方案 ② 跨平台支持（Web/iOS/Android/Mac/Windows） ③ 通过去除水印等基础功能差异化 ④ 采用Stripe实现轻量化支付验证"
-原文链接: "https://auraai.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:14:53.960Z；域名评分 DR48；原始页 https://trustmrr.com/startup/aura-ai-ai-video-image-generator。"
-分类: "Content Creation、AI、Design Tools、Entertainment / B2C / 海外"
+name: Aura AI - AI Video & Image Generator
+一句话: Aura AI 是一个整合多款AI模型的视频与图像生成平台，让用户无需切换工具即可完成从创意到成品的全流程。
+创始人地区: 由 Ivan 创立，IT，2023 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $2,029/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR48），B2C 受众；官网 https://auraai.app/
+可迁移点: ① 整合多个AI模型提供一站式解决方案 ② 跨平台支持（Web/iOS/Android/Mac/Windows） ③ 通过去除水印等基础功能差异化 ④
+  采用Stripe实现轻量化支付验证
+原文链接: https://auraai.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:14:53.960Z；域名评分 DR48；原始页
+  https://trustmrr.com/startup/aura-ai-ai-video-image-generator。
+分类: Content Creation、AI、Design Tools、Entertainment / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $2,029 · 活跃订阅 62 · 近12个月营收 $31,474 · 累计营收 $31,475 · 域名 DR48 · 国家 IT · 创立 2023-12-25"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $2,029 · 活跃订阅 62 · 近12个月营收 $31,474 · 累计营收 $31,475 · 域名
+  DR48 · 国家 IT · 创立 2023-12-25
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Aura AI - AI Video & Image Generator：Aura AI 是一个整合多款AI模型的视频与图像生成平台，让用户无需切换工具即可完成从创意到成品的全流程。
 

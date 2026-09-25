@@ -1,19 +1,23 @@
 ---
-name: "Advanced GSC MCP"
-一句话: "Advanced GSC MCP 是一款让 AI 代理直接接入 SEO 工具链的协议服务器，通过自然语言查询实现 SEO 数据分析和报告自动化。"
-创始人地区: "由 Amin Foroutan 创立，CA，2026 年成立"
-营收模式: "Starter: $12/mo, Pro: $35/mo, Agency: $100/mo"
-月收入估算: "$4,081/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR4），B2B 受众；官网 https://www.advancedgsc.com/mcp"
-可迁移点: "① 通过 OAuth 无密钥连接简化集成流程 ② 分层订阅模式覆盖从个人到企业级需求 ③ 将专业 SEO 数据查询转化为自然语言交互 ④ 直接对接 Google 官方数据接口确保信息时效性"
-原文链接: "https://www.advancedgsc.com/mcp"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:37:24.544Z；域名评分 DR4；原始页 https://trustmrr.com/startup/advanced-gsc-mcp。"
-分类: "Marketing、AI、SaaS、Analytics / B2B / 海外"
+name: Advanced GSC MCP
+一句话: Advanced GSC MCP 是一款让 AI 代理直接接入 SEO 工具链的协议服务器，通过自然语言查询实现 SEO 数据分析和报告自动化。
+创始人地区: 由 Amin Foroutan 创立，CA，2026 年成立
+营收模式: 'Starter: $12/mo, Pro: $35/mo, Agency: $100/mo'
+月收入估算: $4,081/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR4），B2B 受众；官网 https://www.advancedgsc.com/mcp
+可迁移点: ① 通过 OAuth 无密钥连接简化集成流程 ② 分层订阅模式覆盖从个人到企业级需求 ③ 将专业 SEO 数据查询转化为自然语言交互 ④ 直接对接 Google
+  官方数据接口确保信息时效性
+原文链接: https://www.advancedgsc.com/mcp
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:37:24.544Z；域名评分 DR4；原始页
+  https://trustmrr.com/startup/advanced-gsc-mcp。
+分类: Marketing、AI、SaaS、Analytics / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $4,081 · 活跃订阅 128 · 近12个月营收 $10,935 · 累计营收 $10,935 · 域名 DR4 · 国家 CA · 创立 2026-04-29"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $4,081 · 活跃订阅 128 · 近12个月营收 $10,935 · 累计营收 $10,935 · 域名
+  DR4 · 国家 CA · 创立 2026-04-29
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Advanced GSC MCP
 
 

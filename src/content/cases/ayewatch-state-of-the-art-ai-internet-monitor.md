@@ -1,19 +1,23 @@
 ---
-name: "AyeWatch - State of the Art AI Internet Monitor"
-一句话: "AI驱动的全网变化监测工具，通过聚合关键更新帮助用户快速掌握动态。"
-创始人地区: "由 Raj Savaliya 创立，地区未披露，2026 年成立"
-营收模式: "Free Preview: $0, Pro: $9/month, Pro+: $19/month"
-月收入估算: "$149/月（RevenueCat 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR4），Both 受众；官网 https://ayewatch.ai/"
-可迁移点: "① 聚焦信息过载痛点，用AI替代人工追踪 ② 分层订阅模式测试价格敏感度（$9/$19） ③ 轻量化价值主张：'Understand the day faster' ④ 多维度监测能力（公司/市场/法律等垂直场景）"
-原文链接: "https://ayewatch.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:35:30.129Z；域名评分 DR4；原始页 https://trustmrr.com/startup/ayewatch-state-of-the-art-ai-internet-monitor。"
-分类: "Productivity、Mobile Apps、AI、Analytics、SaaS / Both / 海外"
+name: AyeWatch - State of the Art AI Internet Monitor
+一句话: AI驱动的全网变化监测工具，通过聚合关键更新帮助用户快速掌握动态。
+创始人地区: 由 Raj Savaliya 创立，地区未披露，2026 年成立
+营收模式: 'Free Preview: $0, Pro: $9/month, Pro+: $19/month'
+月收入估算: $149/月（RevenueCat 验证）
+流量来源: SEO 自然流量为主（域名评分 DR4），Both 受众；官网 https://ayewatch.ai/
+可迁移点: ① 聚焦信息过载痛点，用AI替代人工追踪 ② 分层订阅模式测试价格敏感度（$9/$19） ③ 轻量化价值主张：'Understand the day faster'
+  ④ 多维度监测能力（公司/市场/法律等垂直场景）
+原文链接: https://ayewatch.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:35:30.129Z；域名评分
+  DR4；原始页 https://trustmrr.com/startup/ayewatch-state-of-the-art-ai-internet-monitor。
+分类: Productivity、Mobile Apps、AI、Analytics、SaaS / Both / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $149 · 活跃订阅 9 · 近12个月营收 $2,802 · 累计营收 $2,822 · 域名 DR4 · 国家 未披露 · 创立 2026-01-01"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：RevenueCat · 当前 MRR $149 · 活跃订阅 9 · 近12个月营收 $2,802 · 累计营收 $2,822 · 域名 DR4
+  · 国家 未披露 · 创立 2026-01-01
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # AyeWatch - State of the Art AI Internet Monitor：AI驱动的全网变化监测工具，通过聚合关键更新帮助用户快速掌握动态。
 

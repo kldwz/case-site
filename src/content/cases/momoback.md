@@ -1,19 +1,21 @@
 ---
-name: "墨墨背单词"
-一句话: "墨墨背单词是一款基于记忆曲线的英语词汇记忆App，长期运营并保持高评分。"
-创始人地区: "MaiMemo Inc.，2014-07-13 上架 App Store 中国区"
-营收模式: "免费下载 + 内购（具体档位未披露）"
-月收入估算: "未官方披露（App Store 不公开下载量与收入，本站不做估算）"
-流量来源: "App Store 中国区搜索与榜单（评分 4.85，978,200 个评分）；Education 类目长尾流量"
-可迁移点: "① 专注细分领域（英语词汇记忆） ② 利用记忆曲线提升学习效果 ③ 长期运营积累口碑 ④ 免费模式（具体变现方式未披露） ⑤ 高用户评分（4.85/5）"
-原文链接: "https://apps.apple.com/cn/app/%E5%A2%A8%E5%A2%A8%E8%83%8C%E5%8D%95%E8%AF%8D-%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%80%83%E7%A0%94%E7%AD%89%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87%E8%AE%B0%E5%BF%86/id888483369?uo=4"
-数据口径: "Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者 MaiMemo Inc.、价格 免费、评分 4.85、评分人数 978,200、上架日期 2014-07-13。收入未官方披露。"
-分类: "Education / 免费+内购 / 中文 / 背单词"
-类型: "国内实践"
-证据等级: "平台数据可查"
-平台数据: "App Store 中国区 ★4.85（978,200 个评分）· 免费 · 上架 2014-07-13（iTunes 官方 API）"
-封面: "/case-site/cases/momoback/site.png"
+name: 墨墨背单词
+一句话: 墨墨背单词是一款基于记忆曲线的英语词汇记忆App，长期运营并保持高评分。
+创始人地区: MaiMemo Inc.，2014-07-13 上架 App Store 中国区
+营收模式: 免费下载 + 内购（具体档位未披露）
+月收入估算: 未官方披露（App Store 不公开下载量与收入，本站不做估算）
+流量来源: App Store 中国区搜索与榜单（评分 4.85，978,200 个评分）；Education 类目长尾流量
+可迁移点: ① 专注细分领域（英语词汇记忆） ② 利用记忆曲线提升学习效果 ③ 长期运营积累口碑 ④ 免费模式（具体变现方式未披露） ⑤ 高用户评分（4.85/5）
+原文链接: https://apps.apple.com/cn/app/%E5%A2%A8%E5%A2%A8%E8%83%8C%E5%8D%95%E8%AF%8D-%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%80%83%E7%A0%94%E7%AD%89%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87%E8%AE%B0%E5%BF%86/id888483369?uo=4
+数据口径: Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者
+  MaiMemo Inc.、价格 免费、评分 4.85、评分人数 978,200、上架日期 2014-07-13。收入未官方披露。
+分类: Education / 免费+内购 / 中文 / 背单词
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: App Store 中国区 ★4.85（978,200 个评分）· 免费 · 上架 2014-07-13（iTunes 官方 API）
+封面: /case-site/cases/momoback/site.png
 ---
+
 
 ![墨墨背单词 App Store 页](/cases/momoback/site.png)
 

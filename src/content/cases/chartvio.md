@@ -1,19 +1,22 @@
 ---
-name: "Chartvio"
-一句话: "AI驱动的图表分析与交易策略工具，帮助交易者消除猜测。"
-创始人地区: "由 Landon Ritchie 创立，US，2025 年成立"
-营收模式: "$20/month $100/Lifetime"
-月收入估算: "$840/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR0），B2C 受众；官网 https://chartvio.com/"
-可迁移点: "① 采用订阅制与终身会员并行的定价策略 ② 专注AI技术解决特定领域（交易决策）的痛点 ③ 通过Stripe实现支付验证提升可信度"
-原文链接: "https://chartvio.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T22:09:30.914Z；域名评分 DR0；原始页 https://trustmrr.com/startup/chartvio。"
-分类: "AI、SaaS、Analytics / B2C / 海外"
+name: Chartvio
+一句话: AI驱动的图表分析与交易策略工具，帮助交易者消除猜测。
+创始人地区: 由 Landon Ritchie 创立，US，2025 年成立
+营收模式: $20/month $100/Lifetime
+月收入估算: $840/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR0），B2C 受众；官网 https://chartvio.com/
+可迁移点: ① 采用订阅制与终身会员并行的定价策略 ② 专注AI技术解决特定领域（交易决策）的痛点 ③ 通过Stripe实现支付验证提升可信度
+原文链接: https://chartvio.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T22:09:30.914Z；域名评分 DR0；原始页
+  https://trustmrr.com/startup/chartvio。
+分类: AI、SaaS、Analytics / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $840 · 活跃订阅 42 · 近12个月营收 $6,216 · 累计营收 $6,216 · 域名 DR0 · 国家 US · 创立 2025-12-16"
-封面: "/case-site/cases/chartvio/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $840 · 活跃订阅 42 · 近12个月营收 $6,216 · 累计营收 $6,216 · 域名 DR0
+  · 国家 US · 创立 2025-12-16
+封面: /case-site/cases/chartvio/site.webp
 ---
+
 # Chartvio
 
 

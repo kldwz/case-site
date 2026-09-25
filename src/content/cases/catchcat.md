@@ -1,19 +1,24 @@
 ---
-name: "CatchCat"
-一句话: "CatchCat 是一款通过真实世界猫咪发现与收集的移动游戏，结合AI验证和社区地图功能。"
-创始人地区: "由 Sebastian Seidel 创立，地区未披露，2026 年成立"
-营收模式: "Free: Core game. Optional ads and in-app purchases (CatchCat Pro, snack packs, cosmetics)."
-月收入估算: "$132/月（RevenueCat 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR10），B2C 受众；官网 https://www.catchcat.lol/"
-可迁移点: "① 将实体世界探索与游戏化收集机制结合 ② 使用设备端AI验证用户生成内容 ③ 通过稀有度系统和成就体系驱动用户留存 ④ 社区地图功能增强社交属性 ⑤ 即将推出的PvP模式拓展变现可能"
-原文链接: "https://www.catchcat.lol/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:49:58.454Z；域名评分 DR10；原始页 https://trustmrr.com/startup/catchcat。"
-分类: "Mobile Apps、Entertainment、Games、Community / B2C / 海外"
+name: CatchCat
+一句话: CatchCat 是一款通过真实世界猫咪发现与收集的移动游戏，结合AI验证和社区地图功能。
+创始人地区: 由 Sebastian Seidel 创立，地区未披露，2026 年成立
+营收模式: 'Free: Core game. Optional ads and in-app purchases (CatchCat Pro, snack packs,
+  cosmetics).'
+月收入估算: $132/月（RevenueCat 验证）
+流量来源: SEO 自然流量为主（域名评分 DR10），B2C 受众；官网 https://www.catchcat.lol/
+可迁移点: ① 将实体世界探索与游戏化收集机制结合 ② 使用设备端AI验证用户生成内容 ③ 通过稀有度系统和成就体系驱动用户留存 ④ 社区地图功能增强社交属性 ⑤
+  即将推出的PvP模式拓展变现可能
+原文链接: https://www.catchcat.lol/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:49:58.454Z；域名评分
+  DR10；原始页 https://trustmrr.com/startup/catchcat。
+分类: Mobile Apps、Entertainment、Games、Community / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $132 · 活跃订阅 21 · 近12个月营收 $1,846 · 累计营收 $1,846 · 域名 DR10 · 国家 未披露 · 创立 2026-06-28"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：RevenueCat · 当前 MRR $132 · 活跃订阅 21 · 近12个月营收 $1,846 · 累计营收 $1,846 · 域名
+  DR10 · 国家 未披露 · 创立 2026-06-28
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # CatchCat
 
 

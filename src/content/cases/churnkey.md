@@ -1,11 +1,15 @@
 ---
 name: Churnkey
 一句话: 帮订阅制 SaaS 挽回要跑的用户，自动做取消流和失败支付催收，累计帮客户救回约 3 亿美元
-创始人地区: Nick Fogle（CEO）+ Scott Hurff + Rob Moore + Baird Hall，Charleston（南卡），bootstrapped 起步
+创始人地区: Nick Fogle（CEO）+ Scott Hurff + Rob Moore + Baird Hall，Charleston（南卡），bootstrapped
+  起步
 营收模式: 订阅留存 SaaS，按挽回金额/订阅收费，面向有周期性取消和失败支付的订阅制公司
-月收入估算: 2022 年 TinySeed 22 万美金；2024-04 成长股 150 万美金（CreativeCo）；累计为客户挽回约 3 亿美元流失；前公司 Wavve 以 15 万美金 MRR 售予 Calm Capital（2021）；Inc 5000 排名第 188
+月收入估算: 2022 年 TinySeed 22 万美金；2024-04 成长股 150 万美金（CreativeCo）；累计为客户挽回约 3 亿美元流失；前公司
+  Wavve 以 15 万美金 MRR 售予 Calm Capital（2021）；Inc 5000 排名第 188
 流量来源: 创始人个人品牌（Nick Fogle/Scott Hurff 都是资深产品人）+ 留存圈口碑 + 前公司 Wavve 客户转化 + 内容营销
-可迁移点: ① 做"留存"比做"增长"更赚钱，救回一个要走的用户成本远低于拉一个新用户 ② 取消流/失败支付催收是订阅生意的隐形流血点，自动化它 ROI 极高 ③ bootstrapped 起步、靠前公司现金养团队，慢但稳、股权不稀释 ④ 创始人自带产品信众（Scott Hurff 是知名产品播客主），个人品牌就是获客渠道 ⑤ 进 Inc 5000 说明增长真实，小团队也能打出高增长
+可迁移点: ① 做"留存"比做"增长"更赚钱，救回一个要走的用户成本远低于拉一个新用户 ② 取消流/失败支付催收是订阅生意的隐形流血点，自动化它 ROI 极高 ③
+  bootstrapped 起步、靠前公司现金养团队，慢但稳、股权不稀释 ④ 创始人自带产品信众（Scott Hurff 是知名产品播客主），个人品牌就是获客渠道
+  ⑤ 进 Inc 5000 说明增长真实，小团队也能打出高增长
 原文链接: https://churnkey.com
 数据口径: TinySeed（2022）、CreativeCo 成长股公告（2024-04）、Inc 5000（2024）；挽回金额/前公司出售为公开披露
 类型: 收入案例
@@ -13,6 +17,7 @@ name: Churnkey
 分类: 订阅留存 / 留存自动化 / 英文 / 企业服务
 封面: /case-site/cases/churnkey/site.png
 ---
+
 
 ![Churnkey 官网](/cases/churnkey/site.png)
 

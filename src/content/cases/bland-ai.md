@@ -3,16 +3,27 @@ name: Bland AI
 一句话: 被 180 家机构拒绝后仍坚持自研全栈语音模型——给企业做能打三十分钟长电话的 AI 接线员，每周处理三百五十万通，累计融资超一亿美金
 创始人地区: Isaiah Granet（CEO）与 Sobhan Nejad（联合创始人），2023 年创立，总部美国旧金山
 营收模式: 面向受监管行业企业的语音 AI 平台，按通话分钟数计费，语音克隆与多语言等能力另计；公开定价自 299 美金每月起
-月收入估算: 未披露营收；累计融资超过 1 亿美金——种子 12.5 万美金（YC，2023-06）、A 轮 1600 万美金（2024-08，Scale Venture Partners）、B 轮 4000 万美金（2025-01，Emergence Capital）、C 轮 5000 万美金（2026-06，Dell Technologies Capital）；约 112 名员工
-流量来源: YC S23 起步 + 客户名单自带信任（Samsara、Kin Insurance、Mutual of Omaha、克利夫兰骑士队）+ 受监管行业的合规资质作为准入门槛 + 创始人被拒 180 次的逆袭叙事被 Fortune 报道
-可迁移点: ① 在最难的地方自建壁垒——他坚持自研端到端语音模型，甚至不让客户接入 OpenAI 或 Anthropic，换来的是三十到四十五分钟的长电话能力 ② 合规不是成本而是准入证，SOC 2 Type II、HIPAA、PCI DSS、GDPR 直接把一大批对手挡在医疗与保险门外 ③ 挑通话量极大且高度重复的行业切入，医疗、保险、金融服务的电话场景天然高频且有明确 ROI ④ 先给自己做——创始团队是在上一家公司里被医疗沟通的低效刺痛才转做这个 ⑤ 融资被拒不等于判断错，被 180 家机构拒绝后仍拿到 Dell Technologies Capital 领投的 5000 万美金 C 轮 ⑥ 让天使投资人成为分销节点，Twilio 联创 Jeff Lawson、PayPal 联创 Max Levchin 站台在语音赛道里格外有分量
+月收入估算: 未披露营收；累计融资超过 1 亿美金——种子 12.5 万美金（YC，2023-06）、A 轮 1600 万美金（2024-08，Scale Venture
+  Partners）、B 轮 4000 万美金（2025-01，Emergence Capital）、C 轮 5000 万美金（2026-06，Dell Technologies
+  Capital）；约 112 名员工
+流量来源: YC S23 起步 + 客户名单自带信任（Samsara、Kin Insurance、Mutual of Omaha、克利夫兰骑士队）+ 受监管行业的合规资质作为准入门槛
+  + 创始人被拒 180 次的逆袭叙事被 Fortune 报道
+可迁移点: ① 在最难的地方自建壁垒——他坚持自研端到端语音模型，甚至不让客户接入 OpenAI 或 Anthropic，换来的是三十到四十五分钟的长电话能力 ②
+  合规不是成本而是准入证，SOC 2 Type II、HIPAA、PCI DSS、GDPR 直接把一大批对手挡在医疗与保险门外 ③ 挑通话量极大且高度重复的行业切入，医疗、保险、金融服务的电话场景天然高频且有明确
+  ROI ④ 先给自己做——创始团队是在上一家公司里被医疗沟通的低效刺痛才转做这个 ⑤ 融资被拒不等于判断错，被 180 家机构拒绝后仍拿到 Dell Technologies
+  Capital 领投的 5000 万美金 C 轮 ⑥ 让天使投资人成为分销节点，Twilio 联创 Jeff Lawson、PayPal 联创 Max Levchin
+  站台在语音赛道里格外有分量
 原文链接: https://www.bland.ai
-数据口径: 融资——YC 种子 12.5 万美金（2023-06）、A 轮 1600 万美金（2024-08，Scale Venture Partners 领投）、B 轮 4000 万美金（2025-01，Emergence Capital 领投）、C 轮 5000 万美金（2026-06，Dell Technologies Capital 领投），累计约 1.06 亿美金；运营——每周处理约 350 万通电话，250 家以上企业客户，支持 40 多种语言，约 112 名员工；客户——Samsara、Kin Insurance、Mutual of Omaha、CNO Financial、克利夫兰骑士队、Better.com、University of Phoenix、Sears
+数据口径: 融资——YC 种子 12.5 万美金（2023-06）、A 轮 1600 万美金（2024-08，Scale Venture Partners 领投）、B
+  轮 4000 万美金（2025-01，Emergence Capital 领投）、C 轮 5000 万美金（2026-06，Dell Technologies
+  Capital 领投），累计约 1.06 亿美金；运营——每周处理约 350 万通电话，250 家以上企业客户，支持 40 多种语言，约 112 名员工；客户——Samsara、Kin
+  Insurance、Mutual of Omaha、CNO Financial、克利夫兰骑士队、Better.com、University of Phoenix、Sears
 类型: 收入案例
 证据等级: 官方披露
 分类: 语音 AI / 企业客服 / 受监管行业 / 美国
 封面: /case-site/cases/bland-ai/site.png
 ---
+
 
 ![Bland AI 官网](/cases/bland-ai/site.png)
 

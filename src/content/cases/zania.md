@@ -1,18 +1,25 @@
 ---
 name: Zania
-一句话: 前 Airbnb/Instacart/Brex 的华人 CISO 带队做「GRC 合规 AI agent」，自动跑风险评估、集证据、测控制项，6 个月 ARR 涨 10 倍，NEA 领投 1800 万美金 A 轮
-创始人地区: Shruti Gupta（CEO，前 Airbnb、Instacart、Brex 首席信息安全官 CISO，早年任职微软 AI）+ 团队含多位合规与安全工作背景，2023 年创立于帕罗奥图（Palo Alto）
+一句话: 前 Airbnb/Instacart/Brex 的华人 CISO 带队做「GRC 合规 AI agent」，自动跑风险评估、集证据、测控制项，6 个月 ARR
+  涨 10 倍，NEA 领投 1800 万美金 A 轮
+创始人地区: Shruti Gupta（CEO，前 Airbnb、Instacart、Brex 首席信息安全官 CISO，早年任职微软 AI）+ 团队含多位合规与安全工作背景，2023
+  年创立于帕罗奥图（Palo Alto）
 营收模式: 面向企业安全/合规/风险团队的 B2B SaaS，按席位与用量订阅，提供 GRC（治理、风险与合规）自动化 agent
 月收入估算: 未披露绝对数；官方口径 6 个月 ARR 增长 10 倍；2025 年 9 月完成 1800 万美金 A 轮（NEA 领投，超额认购）
-流量来源: 创始人合规圈顶级声誉（连续服务 Airbnb/Instacart/Brex 多家独角兽的 CISO）+ 企业客户与四大/Plaid 等标杆案例 + 伙伴网络（TCS、HCLTech、KPMG）+ Anthropic Anthology Fund 等机构背书
-可迁移点: ① 创始人要「自己就是目标客户」——做过 CISO 才懂 CISO 的痛，这种一手经验是产品直觉的来源 ② GRC 是「监管逼出来的刚需」，不靠尝鲜预算，靠合规铁律，抗周期 ③ AI agent 不做通用助手，而是替代一个明确岗位的具体动作（取证、测控制项），ROI 极清晰 ④ 用「准确率 94%+、快 30 倍、便宜 90%」这种可量化指标卖，比讲大故事有用 ⑤ 借大厂伙伴网络（TCS/HCL/KPMG）做交付杠杆，小团队也能吃下大客户
+流量来源: 创始人合规圈顶级声誉（连续服务 Airbnb/Instacart/Brex 多家独角兽的 CISO）+ 企业客户与四大/Plaid 等标杆案例 + 伙伴网络（TCS、HCLTech、KPMG）+
+  Anthropic Anthology Fund 等机构背书
+可迁移点: ① 创始人要「自己就是目标客户」——做过 CISO 才懂 CISO 的痛，这种一手经验是产品直觉的来源 ② GRC 是「监管逼出来的刚需」，不靠尝鲜预算，靠合规铁律，抗周期
+  ③ AI agent 不做通用助手，而是替代一个明确岗位的具体动作（取证、测控制项），ROI 极清晰 ④ 用「准确率 94%+、快 30 倍、便宜 90%」这种可量化指标卖，比讲大故事有用
+  ⑤ 借大厂伙伴网络（TCS/HCL/KPMG）做交付杠杆，小团队也能吃下大客户
 原文链接: https://www.zania.ai
-数据口径: A 轮 1800 万美金、NEA 领投、2025 年 9 月、超额认购（公司披露与报道）；6 个月 ARR 10 倍增长（公司对外口径）；客户含 Plaid、Grant Thornton、Stanford、四大之一（公司披露）；准确率 94%+、80+ 语言、快 30 倍、便宜 90%（官方产品口径）
+数据口径: A 轮 1800 万美金、NEA 领投、2025 年 9 月、超额认购（公司披露与报道）；6 个月 ARR 10 倍增长（公司对外口径）；客户含 Plaid、Grant
+  Thornton、Stanford、四大之一（公司披露）；准确率 94%+、80+ 语言、快 30 倍、便宜 90%（官方产品口径）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 合规 GRC / 企业安全 / 英文 / 美国
 封面: /case-site/cases/zania/site.png
 ---
+
 
 ![Zania 官网](/cases/zania/site.png)
 

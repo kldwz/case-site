@@ -1,19 +1,22 @@
 ---
-name: "Anonymous Bot for Slack"
-一句话: "Slack平台的匿名消息发送工具"
-创始人地区: "由 Fernando Falci ⚡ 创立，地区未披露，2020 年成立"
-营收模式: "Free Version: $0/mo, Pro Version: $50/mo, Business Version: $100/mo"
-月收入估算: "$831/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR30），B2B 受众；官网 https://anonymousbot.com/"
-可迁移点: "① 针对企业协作工具的垂直场景需求开发轻量级插件 ② 采用阶梯定价策略覆盖免费用户到企业级需求 ③ 通过Slack生态自然获取B端流量 ④ 保持单一核心功能避免功能冗余"
-原文链接: "https://anonymousbot.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:40:06.797Z；域名评分 DR30；原始页 https://trustmrr.com/startup/anonymous-bot-for-slack。"
-分类: "SaaS、Productivity、Security / B2B / 海外"
+name: Anonymous Bot for Slack
+一句话: Slack平台的匿名消息发送工具
+创始人地区: 由 Fernando Falci ⚡ 创立，地区未披露，2020 年成立
+营收模式: 'Free Version: $0/mo, Pro Version: $50/mo, Business Version: $100/mo'
+月收入估算: $831/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR30），B2B 受众；官网 https://anonymousbot.com/
+可迁移点: ① 针对企业协作工具的垂直场景需求开发轻量级插件 ② 采用阶梯定价策略覆盖免费用户到企业级需求 ③ 通过Slack生态自然获取B端流量 ④ 保持单一核心功能避免功能冗余
+原文链接: https://anonymousbot.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:40:06.797Z；域名评分 DR30；原始页
+  https://trustmrr.com/startup/anonymous-bot-for-slack。
+分类: SaaS、Productivity、Security / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $831 · 活跃订阅 10 · 近12个月营收 $12,916 · 累计营收 $49,873 · 域名 DR30 · 国家 未披露 · 创立 2020-03-01"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $831 · 活跃订阅 10 · 近12个月营收 $12,916 · 累计营收 $49,873 · 域名 DR30
+  · 国家 未披露 · 创立 2020-03-01
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Anonymous Bot for Slack
 
 

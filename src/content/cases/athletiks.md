@@ -1,19 +1,22 @@
 ---
-name: "Athletiks"
-一句话: "Athletiks是一个通过体育活动连接人们的平台，支持创建和参与体育赛事。"
-创始人地区: "由 Llorenç Pujol 创立，ES，2024 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$29,740/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR13），B2C 受众；官网 https://athletiks.io/"
-可迁移点: "① 专注于特定垂直领域（体育社交）的社区平台 ② 通过工具化功能（赛事组织）解决用户实际痛点 ③ 采用Stripe实现轻量化支付验证 ④ 在无订阅模式下实现单次活动变现"
-原文链接: "https://athletiks.io/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:34:06.279Z；域名评分 DR13；原始页 https://trustmrr.com/startup/athletiks。"
-分类: "Community、Health & Fitness、Social Media / B2C / 海外"
+name: Athletiks
+一句话: Athletiks是一个通过体育活动连接人们的平台，支持创建和参与体育赛事。
+创始人地区: 由 Llorenç Pujol 创立，ES，2024 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $29,740/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR13），B2C 受众；官网 https://athletiks.io/
+可迁移点: ① 专注于特定垂直领域（体育社交）的社区平台 ② 通过工具化功能（赛事组织）解决用户实际痛点 ③ 采用Stripe实现轻量化支付验证 ④ 在无订阅模式下实现单次活动变现
+原文链接: https://athletiks.io/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:34:06.279Z；域名评分 DR13；原始页
+  https://trustmrr.com/startup/athletiks。
+分类: Community、Health & Fitness、Social Media / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $115,623 · 累计营收 $218,066 · 域名 DR13 · 国家 ES · 创立 2024-03-29"
-封面: "/case-site/cases/athletiks/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $115,623 · 累计营收 $218,066 · 域名 DR13
+  · 国家 ES · 创立 2024-03-29
+封面: /case-site/cases/athletiks/site.webp
 ---
+
 
 ![Athletiks 官网](/cases/athletiks/site.webp)
 

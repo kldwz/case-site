@@ -1,19 +1,22 @@
 ---
-name: "Buoy Club"
-一句话: "Buoy Club 是一个帮助用户监控 Farcaster 网络关键词并接收实时通知的工具。"
-创始人地区: "由 Michael Pfister 创立，US，2024 年成立"
-营收模式: "Free: $0/mo, Pro: $10/mo, Max: $100/mo"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR31），B2C 受众；官网 https://buoy.club/"
-可迁移点: "① 瞄准新兴 Web3 社交平台（Farcaster）的工具需求 ② 采用阶梯定价策略（免费/专业版/高级版） ③ 通过关键词过滤功能解决信息过载问题"
-原文链接: "https://buoy.club/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:05:53.878Z；域名评分 DR31；原始页 https://trustmrr.com/startup/buoy-club。"
-分类: "Crypto & Web3、Social Media、Productivity、Analytics / B2C / 海外"
+name: Buoy Club
+一句话: Buoy Club 是一个帮助用户监控 Farcaster 网络关键词并接收实时通知的工具。
+创始人地区: 由 Michael Pfister 创立，US，2024 年成立
+营收模式: 'Free: $0/mo, Pro: $10/mo, Max: $100/mo'
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR31），B2C 受众；官网 https://buoy.club/
+可迁移点: ① 瞄准新兴 Web3 社交平台（Farcaster）的工具需求 ② 采用阶梯定价策略（免费/专业版/高级版） ③ 通过关键词过滤功能解决信息过载问题
+原文链接: https://buoy.club/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:05:53.878Z；域名评分 DR31；原始页
+  https://trustmrr.com/startup/buoy-club。
+分类: Crypto & Web3、Social Media、Productivity、Analytics / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,420 · 累计营收 $12,551 · 域名 DR31 · 国家 US · 创立 2024-03-07"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,420 · 累计营收 $12,551 · 域名 DR31 ·
+  国家 US · 创立 2024-03-07
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Buoy Club
 
 

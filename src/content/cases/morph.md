@@ -1,18 +1,25 @@
 ---
 name: Morph
-一句话: 用自研"Fast Apply"代码合并模型（~10500 tok/s、98% 准确率）把 AI 改代码的落地速度拉满，YC S23、AWS / Binance 客户
-创始人地区: Tejas Bhakta（CEO，ex-Tesla Autopilot 计算机视觉，UCSD 电子工程，YC S23），2023 创立（AutoInfra, Inc.），旧金山
+一句话: 用自研"Fast Apply"代码合并模型（~10500 tok/s、98% 准确率）把 AI 改代码的落地速度拉满，YC S23、AWS / Binance
+  客户
+创始人地区: Tejas Bhakta（CEO，ex-Tesla Autopilot 计算机视觉，UCSD 电子工程，YC S23），2023 创立（AutoInfra,
+  Inc.），旧金山
 营收模式: API 订阅（Fast Apply / WarpGrep / Flash Compact 等代码模型接口），按调用量计费，面向 AI 编码工具和开发团队
-月收入估算: 融资数据有出入（见数据口径）：2024 年 3 月 1900 万美金种子（Dragonfly / Pantera / Polychain 领投）vs 2024 年 8 月 575 万美金种子（Khosla Ventures）；营收未公开披露
+月收入估算: 融资数据有出入（见数据口径）：2024 年 3 月 1900 万美金种子（Dragonfly / Pantera / Polychain 领投）vs
+  2024 年 8 月 575 万美金种子（Khosla Ventures）；营收未公开披露
 流量来源: 开发者社区（GitHub / HN）+ AWS 案例 + Binance 等加密客户（效率提升 50%~70%）
-可迁移点: ① 大模型能"想"但不能"快落地"，卡在"把改动写回文件"这一步——专攻这个卡点就是壁垒 ② 自研小模型打不过 GPT 的"聪明"，但能打赢它的"速度"，速度也是产品力 ③ YC 带来第一批种子客户和背书 ④ 把内部工具（代码检索/压缩）也包装成 API 卖，一份研发投入多份收入 ⑤ 选加密/基础设施这类"重代码量"客户，ROI 最容易算清
+可迁移点: ① 大模型能"想"但不能"快落地"，卡在"把改动写回文件"这一步——专攻这个卡点就是壁垒 ② 自研小模型打不过 GPT 的"聪明"，但能打赢它的"速度"，速度也是产品力
+  ③ YC 带来第一批种子客户和背书 ④ 把内部工具（代码检索/压缩）也包装成 API 卖，一份研发投入多份收入 ⑤ 选加密/基础设施这类"重代码量"客户，ROI
+  最容易算清
 原文链接: https://morphllm.com
-数据口径: startupintros（1900 万种子 2024-03，Dragonfly/Pantera/Polychain）、everydev（575 万种子 2024-08，Khosla Ventures）；两源融资额冲突，取较可信口径并标注；性能数据来自官方基准
+数据口径: startupintros（1900 万种子 2024-03，Dragonfly/Pantera/Polychain）、everydev（575 万种子
+  2024-08，Khosla Ventures）；两源融资额冲突，取较可信口径并标注；性能数据来自官方基准
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 开发者工具 / 代码模型 / YC / 英文
 封面: /case-site/cases/morph/site.png
 ---
+
 
 ![Morph 官网](/cases/morph/site.png)
 

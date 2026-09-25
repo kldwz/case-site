@@ -1,18 +1,26 @@
 ---
 name: Applied Compute
-一句话: 三个前 OpenAI 研究员（o1 / Codex / RL 基建）2025 年创业，帮企业"用自己的数据训练专属模型"而不是买通用大模型——"Specific Intelligence"，约 50M 年化收入、估值 13 亿、在谈 30 亿新一轮
-创始人地区: Yash Patil（CEO，前 OpenAI Codex）、Rhythm Garg（CTO，共同打造 o1 推理）、Linden Li（首席架构师，RL 训练基建）；三人均斯坦福校友；2025 年 5 月创立于旧金山
+一句话: 三个前 OpenAI 研究员（o1 / Codex / RL 基建）2025 年创业，帮企业"用自己的数据训练专属模型"而不是买通用大模型——"Specific
+  Intelligence"，约 50M 年化收入、估值 13 亿、在谈 30 亿新一轮
+创始人地区: Yash Patil（CEO，前 OpenAI Codex）、Rhythm Garg（CTO，共同打造 o1 推理）、Linden Li（首席架构师，RL
+  训练基建）；三人均斯坦福校友；2025 年 5 月创立于旧金山
 营收模式: 企业订阅 / 用量（"Agent Cloud"：训练 + 推理 + 持续改进的开放权重模型平台；嵌入式或托管两种合作模式）+ 定制化训练服务
-月收入估算: 年化收入约 5000 万美金（2026-Q3）；累计融资约 1.6 亿美金；2026 年 4 月 8000 万 Series B（Kleiner Perkins 领投）估值 13 亿；2026 年 8 月在谈约 30 亿估值新一轮（Elad Gil 领投）
-流量来源: 创始人 / OpenAI 校友光环 + 大客户直销（DoorDash、NVIDIA、Microsoft、Cognition、Mercor、Harvey）+ Satya Nadella 同台背书
-可迁移点: ① "最好的 AI 是造出来的不是买来的"——切 enterprises 不愿把数据交给通用大模型 ② 把前沿研究能力打包成"嵌入式工程师"卖 ③ 极速估值跃迁靠"OpenAI 校友"信用 + 清晰 thesis ④ 开放权重 + 数据主权（SOC 2 / VPC）是企业真正关心的 ⑤ 客户名单即最好广告（DoorDash / NVIDIA 同款）
+月收入估算: 年化收入约 5000 万美金（2026-Q3）；累计融资约 1.6 亿美金；2026 年 4 月 8000 万 Series B（Kleiner Perkins
+  领投）估值 13 亿；2026 年 8 月在谈约 30 亿估值新一轮（Elad Gil 领投）
+流量来源: 创始人 / OpenAI 校友光环 + 大客户直销（DoorDash、NVIDIA、Microsoft、Cognition、Mercor、Harvey）+
+  Satya Nadella 同台背书
+可迁移点: ① "最好的 AI 是造出来的不是买来的"——切 enterprises 不愿把数据交给通用大模型 ② 把前沿研究能力打包成"嵌入式工程师"卖 ③ 极速估值跃迁靠"OpenAI
+  校友"信用 + 清晰 thesis ④ 开放权重 + 数据主权（SOC 2 / VPC）是企业真正关心的 ⑤ 客户名单即最好广告（DoorDash / NVIDIA
+  同款）
 原文链接: https://www.appliedcompute.com
-数据口径: 多家媒体（The Information / QuantLogix / AI Market Watch / Silicon Valley Invest Club）2026 年报道；创始团队、轮次、估值、客户为公开口径；新轮未关闭，以已披露 13 亿为基准
+数据口径: 多家媒体（The Information / QuantLogix / AI Market Watch / Silicon Valley Invest
+  Club）2026 年报道；创始团队、轮次、估值、客户为公开口径；新轮未关闭，以已披露 13 亿为基准
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 基础设施 / 企业订阅 / 英文 / 模型微调 / 明星团队
 封面: /case-site/cases/appliedcompute/site.png
 ---
+
 
 ![Applied Compute 官网](/cases/appliedcompute/site.png)
 

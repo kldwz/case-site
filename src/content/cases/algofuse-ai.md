@@ -1,19 +1,22 @@
 ---
-name: "AlgoFuse.ai"
-一句话: "AI驱动的亚马逊商品图片生成工具，自动分析竞品并生成专业级商品图集"
-创始人地区: "创始人未披露，US，2026 年成立"
-营收模式: "Starter: $20/month, Pro: $40/month, Enterprise: $140/month"
-月收入估算: "$880/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR2），B2B 受众；官网 https://www.algofuse.ai/"
-可迁移点: "① 聚焦细分场景（亚马逊卖家图片需求） ② 竞品数据分析驱动内容生成 ③ 价格锚定设计（$5/listing vs 设计师$150+） ④ 多层级订阅模式覆盖不同客户群体"
-原文链接: "https://www.algofuse.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:52:11.383Z；域名评分 DR2；原始页 https://trustmrr.com/startup/algofuse-ai。"
-分类: "AI、E-comm、SaaS、Content Creation / B2B / 海外"
+name: AlgoFuse.ai
+一句话: AI驱动的亚马逊商品图片生成工具，自动分析竞品并生成专业级商品图集
+创始人地区: 创始人未披露，US，2026 年成立
+营收模式: 'Starter: $20/month, Pro: $40/month, Enterprise: $140/month'
+月收入估算: $880/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR2），B2B 受众；官网 https://www.algofuse.ai/
+可迁移点: ① 聚焦细分场景（亚马逊卖家图片需求） ② 竞品数据分析驱动内容生成 ③ 价格锚定设计（$5/listing vs 设计师$150+） ④ 多层级订阅模式覆盖不同客户群体
+原文链接: https://www.algofuse.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:52:11.383Z；域名评分 DR2；原始页
+  https://trustmrr.com/startup/algofuse-ai。
+分类: AI、E-comm、SaaS、Content Creation / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $880 · 活跃订阅 12 · 近12个月营收 $31,519 · 累计营收 $31,669 · 域名 DR2 · 国家 US · 创立 2026-01-08"
-封面: "/case-site/cases/algofuse-ai/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $880 · 活跃订阅 12 · 近12个月营收 $31,519 · 累计营收 $31,669 · 域名 DR2
+  · 国家 US · 创立 2026-01-08
+封面: /case-site/cases/algofuse-ai/site.webp
 ---
+
 
 ![AlgoFuse.ai 官网](/cases/algofuse-ai/site.webp)
 

@@ -1,19 +1,22 @@
 ---
-name: "breakly"
-一句话: "一款通过短/长休息机制打断无意识刷屏行为的效率类iOS应用"
-创始人地区: "由 bresai 创立"
-营收模式: "Free · In-App Purchases: annual member $19.99, quarterly member $9.99"
-月收入估算: "$107/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6503225166"
-可迁移点: "① 通过系统级中断机制解决行为成瘾问题 ② 采用订阅制而非买断制变现 ③ 功能聚焦单一痛点（刷屏控制） ④ 利用iOS系统特性实现轻量化开发"
-原文链接: "https://apps.apple.com/app/id6503225166"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:38:31.808Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/breakly。"
-分类: "Productivity、Mobile Apps / B2C / 海外"
+name: breakly
+一句话: 一款通过短/长休息机制打断无意识刷屏行为的效率类iOS应用
+创始人地区: 由 bresai 创立
+营收模式: 'Free · In-App Purchases: annual member $19.99, quarterly member $9.99'
+月收入估算: $107/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6503225166
+可迁移点: ① 通过系统级中断机制解决行为成瘾问题 ② 采用订阅制而非买断制变现 ③ 功能聚焦单一痛点（刷屏控制） ④ 利用iOS系统特性实现轻量化开发
+原文链接: https://apps.apple.com/app/id6503225166
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:38:31.808Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/breakly。
+分类: Productivity、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $107 · 活跃订阅 57 · 近12个月营收 $1,239 · 累计营收 $1,516 · 域名 DR未披露 · 国家 未披露 · 创立 未披露"
-封面: "/case-site/cases/breakly/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $107 · 活跃订阅 57 · 近12个月营收 $1,239 · 累计营收 $1,516 · 域名
+  DR未披露 · 国家 未披露 · 创立 未披露
+封面: /case-site/cases/breakly/site.webp
 ---
+
 # breakly
 
 

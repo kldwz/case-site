@@ -1,19 +1,22 @@
 ---
-name: "Billguard"
-一句话: "Billguard 是一个云成本优化平台，专注于帮助企业优化云服务开支。"
-创始人地区: "由 Uriel Bitton 创立，CA，2026 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR0），未披露 受众；官网 https://www.billguard.app/"
-可迁移点: "① 云成本优化是一个持续增长的企业需求领域 ② 即使没有活跃订阅，产品也可能产生一定收入 ③ Stripe 集成提供了透明的支付验证机制"
-原文链接: "https://www.billguard.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:45:08.511Z；域名评分 DR0；原始页 https://trustmrr.com/startup/billguard。"
-分类: "Analytics / 未披露 / 海外"
+name: Billguard
+一句话: Billguard 是一个云成本优化平台，专注于帮助企业优化云服务开支。
+创始人地区: 由 Uriel Bitton 创立，CA，2026 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR0），未披露 受众；官网 https://www.billguard.app/
+可迁移点: ① 云成本优化是一个持续增长的企业需求领域 ② 即使没有活跃订阅，产品也可能产生一定收入 ③ Stripe 集成提供了透明的支付验证机制
+原文链接: https://www.billguard.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:45:08.511Z；域名评分 DR0；原始页
+  https://trustmrr.com/startup/billguard。
+分类: Analytics / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,315 · 累计营收 $2,315 · 域名 DR0 · 国家 CA · 创立 2026-04-12"
-封面: "/case-site/cases/billguard/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,315 · 累计营收 $2,315 · 域名 DR0 · 国家
+  CA · 创立 2026-04-12
+封面: /case-site/cases/billguard/site.webp
 ---
+
 # Billguard
 
 

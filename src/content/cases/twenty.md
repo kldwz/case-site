@@ -15,6 +15,7 @@ name: Twenty
 封面: /case-site/cases/twenty/site.png
 ---
 
+
 ![Twenty 官网](/cases/twenty/site.png)
 
 # Twenty：如何用开源CRM挑战Salesforce的订阅霸权

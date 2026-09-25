@@ -1,19 +1,23 @@
 ---
-name: "Aura++"
-一句话: "Aura++是一个AI驱动的产品发布和发现平台，帮助初创公司、独立开发者、SaaS公司和开发者发布产品、获得曝光并吸引早期用户。"
-创始人地区: "由 Praneet Brar 创立，IN，2025 年成立"
-营收模式: "Free Plan: Basic product launch & directory listing. Premium ($17): promotional benefits, and dofollow backlinks. Premium Plus ($34): More visibility"
-月收入估算: "$2,232/月（Polar 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR73），B2B 受众；官网 https://auraplusplus.com/"
-可迁移点: "① AI生成发布内容可标准化获客流程 ② 多层级定价满足不同推广需求 ③ 社区驱动排名增强用户粘性 ④ 长期产品可发现性突破单次发布局限"
-原文链接: "https://auraplusplus.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-15T10:32:59.810Z；域名评分 DR73；原始页 https://trustmrr.com/startup/aura。"
-分类: "Marketing、AI、SaaS、Content Creation / B2B / 海外"
+name: Aura++
+一句话: Aura++是一个AI驱动的产品发布和发现平台，帮助初创公司、独立开发者、SaaS公司和开发者发布产品、获得曝光并吸引早期用户。
+创始人地区: 由 Praneet Brar 创立，IN，2025 年成立
+营收模式: 'Free Plan: Basic product launch & directory listing. Premium ($17): promotional
+  benefits, and dofollow backlinks. Premium Plus ($34): More visibility'
+月收入估算: $2,232/月（Polar 验证）
+流量来源: SEO 自然流量为主（域名评分 DR73），B2B 受众；官网 https://auraplusplus.com/
+可迁移点: ① AI生成发布内容可标准化获客流程 ② 多层级定价满足不同推广需求 ③ 社区驱动排名增强用户粘性 ④ 长期产品可发现性突破单次发布局限
+原文链接: https://auraplusplus.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-15T10:32:59.810Z；域名评分 DR73；原始页
+  https://trustmrr.com/startup/aura。
+分类: Marketing、AI、SaaS、Content Creation / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Polar · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $11,687 · 累计营收 $11,689 · 域名 DR73 · 国家 IN · 创立 2025-07-28"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Polar · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $11,687 · 累计营收 $11,689 · 域名 DR73 ·
+  国家 IN · 创立 2025-07-28
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Aura++：是一个AI驱动的产品发布和发现平台，帮助初创公司、独立开发者、SaaS公司和开发者发布产品、获得曝光并吸引早期用户。
 

@@ -4,8 +4,10 @@ name: B2B SaaS OS
 创始人地区: Wendel Andrady（X @WendelAndrady），海外，单人
 营收模式: 数字产品一次买断（$249 lifetime，更新包含，无订阅无分成），Gumroad 收款
 月收入估算: 未官方披露（IndieHackers 显示 pre-scale，验证定价阶段）
-流量来源: IndieHackers/ProductHunt 开发者社区发布 + 官网 SEO（B2B SaaS boilerplate 关键词）+ X/Twitter build in public + 免费 demo 引流
-可迁移点: ① 把「反复要做的脏活」打包成一次买断模板，卖时间给同行 ② 单人多产品线成本趋近零：写一次源码卖给 N 个人 ③ 用 live demo + 文档立信任，模板类产品先让人验货 ④ 明确授权边界（一次购买、客户可用、不可转售）消除合规顾虑
+流量来源: IndieHackers/ProductHunt 开发者社区发布 + 官网 SEO（B2B SaaS boilerplate 关键词）+ X/Twitter
+  build in public + 免费 demo 引流
+可迁移点: ① 把「反复要做的脏活」打包成一次买断模板，卖时间给同行 ② 单人多产品线成本趋近零：写一次源码卖给 N 个人 ③ 用 live demo + 文档立信任，模板类产品先让人验货
+  ④ 明确授权边界（一次购买、客户可用、不可转售）消除合规顾虑
 原文链接: https://andrady.co/
 数据口径: 官网 Pricing/License 页实测 + Gumroad checkout（2026-09）
 类型: 收入案例
@@ -13,6 +15,7 @@ name: B2B SaaS OS
 分类: 开发者工具 / 模板一次买断 / 英文
 封面: /case-site/cases/b2bsaasos/site.png
 ---
+
 
 ![B2B SaaS OS 官网首页](/cases/b2bsaasos/site.png)
 

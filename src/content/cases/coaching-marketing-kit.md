@@ -1,19 +1,22 @@
 ---
-name: "Coaching Marketing Kit"
-一句话: "Canva Templates for Digital Creators"
-创始人地区: "由 Chan 创立，GB，2024 年成立"
-营收模式: "$14 for limited time only"
-月收入估算: "$4,089/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR2），B2C 受众；官网 https://www.thecoachingmarketingkit.com/"
-可迁移点: "① 针对无设计技能人群提供即用型模板 ② 采用一次性付费的lifetime access模式 ③ 绑定Canva生态降低使用门槛 ④ 明确解决课程发布者的视觉设计痛点"
-原文链接: "https://www.thecoachingmarketingkit.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T20:03:18.721Z；域名评分 DR2；原始页 https://trustmrr.com/startup/coaching-marketing-kit。"
-分类: "Design Tools、Education、Content Creation、Marketing / B2C / 海外"
+name: Coaching Marketing Kit
+一句话: Canva Templates for Digital Creators
+创始人地区: 由 Chan 创立，GB，2024 年成立
+营收模式: $14 for limited time only
+月收入估算: $4,089/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR2），B2C 受众；官网 https://www.thecoachingmarketingkit.com/
+可迁移点: ① 针对无设计技能人群提供即用型模板 ② 采用一次性付费的lifetime access模式 ③ 绑定Canva生态降低使用门槛 ④ 明确解决课程发布者的视觉设计痛点
+原文链接: https://www.thecoachingmarketingkit.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T20:03:18.721Z；域名评分 DR2；原始页
+  https://trustmrr.com/startup/coaching-marketing-kit。
+分类: Design Tools、Education、Content Creation、Marketing / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $16,993 · 累计营收 $17,703 · 域名 DR2 · 国家 GB · 创立 2024-03-14"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $16,993 · 累计营收 $17,703 · 域名 DR2 ·
+  国家 GB · 创立 2024-03-14
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Coaching Marketing Kit：Canva Templates for Digital Creators
 

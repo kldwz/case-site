@@ -1,19 +1,22 @@
 ---
-name: "Clip Recipe"
-一句话: "AI驱动的视频食谱提取工具，帮助用户从社交媒体视频中快速获取结构化食谱。"
-创始人地区: "由 Francisco Macedo 创立，PT，2024 年成立"
-营收模式: "Resident Chef: $3.29/month billed annually, Master Chef: $149.00 one-time"
-月收入估算: "$200/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR7），B2C 受众；官网 https://cliprecipe.com/"
-可迁移点: "① 瞄准特定场景（烹饪视频回放痛点）的AI工具开发 ② 混合订阅制（月费）与买断制（终身许可）的定价策略 ③ 通过Stripe实现轻量化支付验证 ④ 聚焦多平台内容（YouTube/TikTok/Facebook等）的兼容性"
-原文链接: "https://cliprecipe.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:41:30.766Z；域名评分 DR7；原始页 https://trustmrr.com/startup/clip-recipe。"
-分类: "AI、Content Creation、Productivity、Utilities / B2C / 海外"
+name: Clip Recipe
+一句话: AI驱动的视频食谱提取工具，帮助用户从社交媒体视频中快速获取结构化食谱。
+创始人地区: 由 Francisco Macedo 创立，PT，2024 年成立
+营收模式: 'Resident Chef: $3.29/month billed annually, Master Chef: $149.00 one-time'
+月收入估算: $200/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR7），B2C 受众；官网 https://cliprecipe.com/
+可迁移点: ① 瞄准特定场景（烹饪视频回放痛点）的AI工具开发 ② 混合订阅制（月费）与买断制（终身许可）的定价策略 ③ 通过Stripe实现轻量化支付验证 ④ 聚焦多平台内容（YouTube/TikTok/Facebook等）的兼容性
+原文链接: https://cliprecipe.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:41:30.766Z；域名评分 DR7；原始页
+  https://trustmrr.com/startup/clip-recipe。
+分类: AI、Content Creation、Productivity、Utilities / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $200 · 活跃订阅 54 · 近12个月营收 $4,651 · 累计营收 $10,772 · 域名 DR7 · 国家 PT · 创立 2024-10-18"
-封面: "/case-site/cases/clip-recipe/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $200 · 活跃订阅 54 · 近12个月营收 $4,651 · 累计营收 $10,772 · 域名 DR7
+  · 国家 PT · 创立 2024-10-18
+封面: /case-site/cases/clip-recipe/site.webp
 ---
+
 
 ![Clip Recipe 官网](/cases/clip-recipe/site.webp)
 

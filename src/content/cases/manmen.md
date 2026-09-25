@@ -1,19 +1,22 @@
 ---
-name: "慢门"
-一句话: "一款专注长曝光和光绘摄影的专业相机App，2017年上架App Store。"
-创始人地区: "Xiamen Suijisenlin Technology Co., Ltd.，2017-04-15 上架 App Store 中国区"
-营收模式: "免费下载 + 内购（具体档位未披露）"
-月收入估算: "未官方披露（App Store 不公开下载量与收入，本站不做估算）"
-流量来源: "App Store 中国区搜索与榜单（评分 4.7，22,433 个评分）；Photo & Video 类目长尾流量"
-可迁移点: "① 垂直功能定位（长曝光/光绘细分场景） ② 专业命名强化工具属性（Pro Camera+单反摄影等关键词） ③ 免费模式+未披露的内购/IAP策略 ④ 独立开发验证小众工具可行性"
-原文链接: "https://apps.apple.com/cn/app/pro-camera-%E4%B8%93%E4%B8%9A%E7%9B%B8%E6%9C%BA%E6%A8%A1%E5%BC%8F%E5%8D%95%E5%8F%8D%E6%91%84%E5%BD%B1%E6%91%84%E5%83%8F%E6%8B%8D%E7%85%A7%E7%9B%B8%E6%9C%BA%E8%BD%AF%E4%BB%B6/id1224581974?uo=4"
-数据口径: "Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者 Xiamen Suijisenlin Technology Co., Ltd.、价格 免费、评分 4.7、评分人数 22,433、上架日期 2017-04-15。收入未官方披露。"
-分类: "Photo & Video / 免费+内购 / 中文 / 摄影"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "App Store 中国区 ★4.7（22,433 个评分）· 免费 · 上架 2017-04-15（iTunes 官方 API）"
-封面: "/case-site/cases/manmen/site.png"
+name: 慢门
+一句话: 一款专注长曝光和光绘摄影的专业相机App，2017年上架App Store。
+创始人地区: Xiamen Suijisenlin Technology Co., Ltd.，2017-04-15 上架 App Store 中国区
+营收模式: 免费下载 + 内购（具体档位未披露）
+月收入估算: 未官方披露（App Store 不公开下载量与收入，本站不做估算）
+流量来源: App Store 中国区搜索与榜单（评分 4.7，22,433 个评分）；Photo & Video 类目长尾流量
+可迁移点: ① 垂直功能定位（长曝光/光绘细分场景） ② 专业命名强化工具属性（Pro Camera+单反摄影等关键词） ③ 免费模式+未披露的内购/IAP策略 ④
+  独立开发验证小众工具可行性
+原文链接: https://apps.apple.com/cn/app/pro-camera-%E4%B8%93%E4%B8%9A%E7%9B%B8%E6%9C%BA%E6%A8%A1%E5%BC%8F%E5%8D%95%E5%8F%8D%E6%91%84%E5%BD%B1%E6%91%84%E5%83%8F%E6%8B%8D%E7%85%A7%E7%9B%B8%E6%9C%BA%E8%BD%AF%E4%BB%B6/id1224581974?uo=4
+数据口径: Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者
+  Xiamen Suijisenlin Technology Co., Ltd.、价格 免费、评分 4.7、评分人数 22,433、上架日期 2017-04-15。收入未官方披露。
+分类: Photo & Video / 免费+内购 / 中文 / 摄影
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: App Store 中国区 ★4.7（22,433 个评分）· 免费 · 上架 2017-04-15（iTunes 官方 API）
+封面: /case-site/cases/manmen/site.png
 ---
+
 # 慢门
 
 

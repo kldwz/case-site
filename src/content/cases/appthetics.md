@@ -1,19 +1,22 @@
 ---
-name: "Appthetics"
-一句话: "通过AI对话快速生成移动应用设计稿的SaaS工具"
-创始人地区: "由 Aditya 创立，IN，2026 年成立"
-营收模式: "Lite: $9/month, Pro: $20/month, Lifetime: $79 one-time"
-月收入估算: "$151/月（Polar (API key), Dodo Payments 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR7），B2C 受众；官网 https://www.appthetics.com/"
-可迁移点: "① 将AI对话能力与传统设计工具结合创造新产品形态 ② 针对非技术用户提供全流程设计解决方案 ③ 采用订阅制+买断制的混合定价策略"
-原文链接: "https://www.appthetics.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Polar (API key), Dodo Payments）验证，最后同步于 2026-09-15T09:32:57.779Z；域名评分 DR7；原始页 https://trustmrr.com/startup/appthetics。"
-分类: "AI、Design Tools、No-Code、Mobile Apps、SaaS / B2C / 海外"
+name: Appthetics
+一句话: 通过AI对话快速生成移动应用设计稿的SaaS工具
+创始人地区: 由 Aditya 创立，IN，2026 年成立
+营收模式: 'Lite: $9/month, Pro: $20/month, Lifetime: $79 one-time'
+月收入估算: $151/月（Polar (API key), Dodo Payments 验证）
+流量来源: SEO 自然流量为主（域名评分 DR7），B2C 受众；官网 https://www.appthetics.com/
+可迁移点: ① 将AI对话能力与传统设计工具结合创造新产品形态 ② 针对非技术用户提供全流程设计解决方案 ③ 采用订阅制+买断制的混合定价策略
+原文链接: https://www.appthetics.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Polar (API key), Dodo Payments）验证，最后同步于 2026-09-15T09:32:57.779Z；域名评分
+  DR7；原始页 https://trustmrr.com/startup/appthetics。
+分类: AI、Design Tools、No-Code、Mobile Apps、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Polar (API key), Dodo Payments · 当前 MRR $151 · 活跃订阅 14 · 近12个月营收 $2,058 · 累计营收 $2,058 · 域名 DR7 · 国家 IN · 创立 2026-02-02"
-封面: "/case-site/cases/appthetics/site.webp"
+平台数据: 支付验证：Polar (API key), Dodo Payments · 当前 MRR $151 · 活跃订阅 14 · 近12个月营收 $2,058
+  · 累计营收 $2,058 · 域名 DR7 · 国家 IN · 创立 2026-02-02
+封面: /case-site/cases/appthetics/site.webp
 ---
+
 
 ![Appthetics 官网](/cases/appthetics/site.webp)
 

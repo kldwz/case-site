@@ -1,19 +1,23 @@
 ---
-name: "AI SuitUp"
-一句话: "AI SuitUp 是一款通过自拍生成专业头像的 AI 工具，主打快速、经济、高质量的解决方案。"
-创始人地区: "由 @profondob1ue 创立，US，2023 年成立"
-营收模式: "Basic: $27, Professional: $37, Executive: $57"
-月收入估算: "$1,087/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR40），B2C 受众；官网 https://www.aisuitup.com/"
-可迁移点: "① 利用 AI 技术简化传统专业摄影流程 ② 针对 LinkedIn 等职业场景的明确价值主张 ③ 阶梯定价策略覆盖不同预算需求 ④ 轻量级 SaaS 模式实现快速交付"
-原文链接: "https://www.aisuitup.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:48:29.759Z；域名评分 DR40；原始页 https://trustmrr.com/startup/ai-suitup。"
-分类: "AI、Content Creation、Productivity、SaaS / B2C / 海外"
+name: AI SuitUp
+一句话: AI SuitUp 是一款通过自拍生成专业头像的 AI 工具，主打快速、经济、高质量的解决方案。
+创始人地区: 由 @profondob1ue 创立，US，2023 年成立
+营收模式: 'Basic: $27, Professional: $37, Executive: $57'
+月收入估算: $1,087/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR40），B2C 受众；官网 https://www.aisuitup.com/
+可迁移点: ① 利用 AI 技术简化传统专业摄影流程 ② 针对 LinkedIn 等职业场景的明确价值主张 ③ 阶梯定价策略覆盖不同预算需求 ④ 轻量级 SaaS
+  模式实现快速交付
+原文链接: https://www.aisuitup.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:48:29.759Z；域名评分 DR40；原始页
+  https://trustmrr.com/startup/ai-suitup。
+分类: AI、Content Creation、Productivity、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $49,691 · 累计营收 $646,480 · 域名 DR40 · 国家 US · 创立 2023-02-16"
-封面: "/case-site/cases/ai-suitup/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $49,691 · 累计营收 $646,480 · 域名 DR40
+  · 国家 US · 创立 2023-02-16
+封面: /case-site/cases/ai-suitup/site.webp
 ---
+
 
 ![AI SuitUp 官网](/cases/ai-suitup/site.webp)
 

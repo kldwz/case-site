@@ -1,18 +1,24 @@
 ---
 name: Arcads
-一句话: 用 AI 演员生成视频广告——前七位数减肥 App 创业者 2024 年 1 月创业，2026 年营收 1500 万、6000 付费客户、10 人团队、约 100 个 Gumloop AI agent，自称 bootstrapped 且盈利
+一句话: 用 AI 演员生成视频广告——前七位数减肥 App 创业者 2024 年 1 月创业，2026 年营收 1500 万、6000 付费客户、10 人团队、约
+  100 个 Gumloop AI agent，自称 bootstrapped 且盈利
 创始人地区: Romain Torres（CEO，负责营销销售）、Dylan Fournier（联合创始人，负责产品）；巴黎 / 法国背景；2024 年 1 月创立
 营收模式: 用量订阅（AI 视频广告生成，按生成量计费；企业年单可达 10 万+ 美金）
-月收入估算: 2026 年营收约 1500 万美金（2025 年 11 月 ARR 1000 万、2025 年 5 月 600 万、2024 年 6 月 100 万 ARR）；6000 付费客户、10 人团队、人均营收约 100 万美金；⚠️ 融资口径有矛盾：创始人称完全 bootstrapped 无外部融资，但 GetLatka 汇总同时列 "raised $25M"——以创始人 bootstrapped + 盈利口径为主
+月收入估算: 2026 年营收约 1500 万美金（2025 年 11 月 ARR 1000 万、2025 年 5 月 600 万、2024 年 6 月 100 万
+  ARR）；6000 付费客户、10 人团队、人均营收约 100 万美金；⚠️ 融资口径有矛盾：创始人称完全 bootstrapped 无外部融资，但 GetLatka
+  汇总同时列 "raised $25M"——以创始人 bootstrapped + 盈利口径为主
 流量来源: 自己用自家产品跑广告（产品 = 广告，直接反馈闭环）+ 约 100 个内部 AI agent 自动化获客（竞品监控、红人 sourcing、内容生成）
-可迁移点: ① 产品自己就是获客渠道——用自家 AI 跑自家广告 ② 极小团队靠"内部 AI agent 军团"放大（Gumloop 100 个）③ 用量定价让客户用得越多付越多 ④ bootstrapped 也能高速 grow——盈利优先 ⑤ 切"UGC 广告"这个被验证的大痛点（品牌要持续产出素材）
+可迁移点: ① 产品自己就是获客渠道——用自家 AI 跑自家广告 ② 极小团队靠"内部 AI agent 军团"放大（Gumloop 100 个）③ 用量定价让客户用得越多付越多
+  ④ bootstrapped 也能高速 grow——盈利优先 ⑤ 切"UGC 广告"这个被验证的大痛点（品牌要持续产出素材）
 原文链接: https://www.arcads.ai
-数据口径: GetLatka 对 CEO Romain Torres 的访谈（2025-12-01 及 2026 更新）；营收 / 客户 / 团队为公开口径；融资数据存在 "bootstrapped" 与 "raised $25M" 的矛盾，已注明
+数据口径: GetLatka 对 CEO Romain Torres 的访谈（2025-12-01 及 2026 更新）；营收 / 客户 / 团队为公开口径；融资数据存在
+  "bootstrapped" 与 "raised $25M" 的矛盾，已注明
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 工具 / 用量订阅 / 英文 / 视频广告 / 独立团队
 封面: /case-site/cases/arcads/site.png
 ---
+
 
 ![Arcads 官网](/cases/arcads/site.png)
 

@@ -1,19 +1,24 @@
 ---
-name: "BeGen"
-一句话: "BeGen是一款基于AI的短视频生成器，帮助用户在几秒钟内为TikTok、Reels和Shorts创建病毒式风格的视频。"
-创始人地区: "由 @JoeBuilds 创立，US，2023 年成立"
-营收模式: "Yearly Premium Subscription $29.99, Weekly Premium Subscription $9.99, Monthly Premium Subscription $8.99"
-月收入估算: "$202/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6450462999"
-可迁移点: "① 利用预设模板简化内容创作流程 ② 针对社交媒体平台的短视频需求设计 ③ 提供多种订阅选项以适应不同用户需求 ④ 专注于移动端体验（iOS和iPad） ⑤ 通过AI技术降低视频制作门槛"
-原文链接: "https://apps.apple.com/app/id6450462999"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:55:43.643Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/begen。"
-分类: "Content Creation、Mobile Apps、AI、Social Media、Entertainment / B2C / 海外"
+name: BeGen
+一句话: BeGen是一款基于AI的短视频生成器，帮助用户在几秒钟内为TikTok、Reels和Shorts创建病毒式风格的视频。
+创始人地区: 由 @JoeBuilds 创立，US，2023 年成立
+营收模式: Yearly Premium Subscription $29.99, Weekly Premium Subscription $9.99, Monthly
+  Premium Subscription $8.99
+月收入估算: $202/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6450462999
+可迁移点: ① 利用预设模板简化内容创作流程 ② 针对社交媒体平台的短视频需求设计 ③ 提供多种订阅选项以适应不同用户需求 ④ 专注于移动端体验（iOS和iPad）
+  ⑤ 通过AI技术降低视频制作门槛
+原文链接: https://apps.apple.com/app/id6450462999
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:55:43.643Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/begen。
+分类: Content Creation、Mobile Apps、AI、Social Media、Entertainment / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $202 · 活跃订阅 63 · 近12个月营收 $3,057 · 累计营收 $12,774 · 域名 DR未披露 · 国家 US · 创立 2023-08-10"
-封面: "/case-site/cases/begen/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $202 · 活跃订阅 63 · 近12个月营收 $3,057 · 累计营收 $12,774 · 域名
+  DR未披露 · 国家 US · 创立 2023-08-10
+封面: /case-site/cases/begen/site.webp
 ---
+
 
 ![BeGen 官网](/cases/begen/site.webp)
 

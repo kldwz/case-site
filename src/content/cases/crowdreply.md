@@ -1,18 +1,31 @@
 ---
 name: CrowdReply
-一句话: 两个连续创业者把"AI 搜索里的品牌排名"做成生意，自创 searchmaxxing 一词，跨 8 个 AI 模型跟踪品牌提及并直接帮你发帖干预，5000+ 品牌在用、$99 起
-创始人地区: Jim Loining 与 Dawood Khan（部分报道亦提及 Sheheryaar Khan 为 CTO）；2025 年 2 月 1 日创立；两人均有 Pixelied（在线设计套件，宣称百万用户）的发行与增长背景
-营收模式: 自助 SaaS 订阅 $99-$499/月（Pro $99 / Growth $299 / Enterprise $499），另按互动收费（$7-10/条 Reddit 评论、$15-25/帖）；跟踪 ChatGPT、Perplexity、Gemini、Claude、Grok、Copilot、Google AI Overview 与 AI Mode 共 8 个 AI 模型的品牌可见度，配 Engagement Engine（AI 内容生成 + 引用外联 + 4 万+ 发布商反向链接市场）
-月收入估算: 公开称 5000+ 品牌使用、G2 评分 4.9/5；$99-$499/月定价区间；具体营收未披露（早期阶段，无公开融资数据）。增长靠"AI 答案排名 = 新增长渠道"叙事 + 发布商市场闭环
-流量来源: 新品发布节奏（2025-05 首发 Reddit 营销、2026-03 推 2.0 进 AI 答案跟踪）+ 内容/播客评测铺量（多个 "Best LLM Rank Tracker 2026" 榜单把它排第一）+ 创始人发行背景（Pixelied 百万用户打法复用）
-可迁移点: ① 新渠道出现 = 新工具机会：当流量从 Google 搜索转向 AI 答案，跟踪与干预 AI 里品牌可见度就是下一批 SEO 工具 ② 不仅测量还要行动：别人只做 dashboard，CrowdReply 把"发现弱排名"接到"发帖/外联"闭环，工具价值翻倍 ③ 自创品类词（searchmaxxing）抢心智：用一个新词定义问题，等于定义赛道 ④ 发行型创始人复用旧打法：两人从 Pixelied 带来的低成本获客经验直接套到新品类 ⑤ 信任风险要透明：用马甲账号在 Reddit/Quora 发商业内容易变 astroturfing，披露与平台容忍度决定长期价值
+一句话: 两个连续创业者把"AI 搜索里的品牌排名"做成生意，自创 searchmaxxing 一词，跨 8 个 AI 模型跟踪品牌提及并直接帮你发帖干预，5000+
+  品牌在用、$99 起
+创始人地区: Jim Loining 与 Dawood Khan（部分报道亦提及 Sheheryaar Khan 为 CTO）；2025 年 2 月 1 日创立；两人均有
+  Pixelied（在线设计套件，宣称百万用户）的发行与增长背景
+营收模式: 自助 SaaS 订阅 $99-$499/月（Pro $99 / Growth $299 / Enterprise $499），另按互动收费（$7-10/条
+  Reddit 评论、$15-25/帖）；跟踪 ChatGPT、Perplexity、Gemini、Claude、Grok、Copilot、Google AI Overview
+  与 AI Mode 共 8 个 AI 模型的品牌可见度，配 Engagement Engine（AI 内容生成 + 引用外联 + 4 万+ 发布商反向链接市场）
+月收入估算: 公开称 5000+ 品牌使用、G2 评分 4.9/5；$99-$499/月定价区间；具体营收未披露（早期阶段，无公开融资数据）。增长靠"AI 答案排名
+  = 新增长渠道"叙事 + 发布商市场闭环
+流量来源: 新品发布节奏（2025-05 首发 Reddit 营销、2026-03 推 2.0 进 AI 答案跟踪）+ 内容/播客评测铺量（多个 "Best LLM
+  Rank Tracker 2026" 榜单把它排第一）+ 创始人发行背景（Pixelied 百万用户打法复用）
+可迁移点: ① 新渠道出现 = 新工具机会：当流量从 Google 搜索转向 AI 答案，跟踪与干预 AI 里品牌可见度就是下一批 SEO 工具 ② 不仅测量还要行动：别人只做
+  dashboard，CrowdReply 把"发现弱排名"接到"发帖/外联"闭环，工具价值翻倍 ③ 自创品类词（searchmaxxing）抢心智：用一个新词定义问题，等于定义赛道
+  ④ 发行型创始人复用旧打法：两人从 Pixelied 带来的低成本获客经验直接套到新品类 ⑤ 信任风险要透明：用马甲账号在 Reddit/Quora 发商业内容易变
+  astroturfing，披露与平台容忍度决定长期价值
 原文链接: https://crowdreply.io
-数据口径: CrowdReply 官网（定价 $99 起、8 个 AI 模型、4 万+ 发布商）；Castro.fm 与 Transistor.fm "Software & SaaS Review" 2026 系列（创始人 Jim Loining 与 Dawood Khan、2025-02-01 创立、5000+ 品牌、G2 4.9、searchmaxxing 定义、Engagement Engine）；wpnews.pro 调查（创始人 Dawood 与 Sheheryaar Khan、Pixelied 背景、$1M/月营销声称存疑、astroturfing 风险）
+数据口径: CrowdReply 官网（定价 $99 起、8 个 AI 模型、4 万+ 发布商）；Castro.fm 与 Transistor.fm "Software
+  & SaaS Review" 2026 系列（创始人 Jim Loining 与 Dawood Khan、2025-02-01 创立、5000+ 品牌、G2 4.9、searchmaxxing
+  定义、Engagement Engine）；wpnews.pro 调查（创始人 Dawood 与 Sheheryaar Khan、Pixelied 背景、$1M/月营销声称存疑、astroturfing
+  风险）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 应用 / 订阅 SaaS / 英文 / AI 搜索可见性
 封面: /case-site/cases/crowdreply/site.png
 ---
+
 
 ![CrowdReply 官网](/cases/crowdreply/site.png)
 

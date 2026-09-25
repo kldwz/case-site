@@ -1,19 +1,28 @@
 ---
 name: Immich
 一句话: 用 AGPL 开源的自托管相册，11.4 万星、被 FUTO 养着全职团队，靠用户自愿买"产品密钥"活着
-创始人地区: Alex（GitHub 账号 alextran1502，自述 Builder / BDFL @immich-app，现居美国），2022 年 2 月立项；现由 FUTO 资助全职团队
+创始人地区: Alex（GitHub 账号 alextran1502，自述 Builder / BDFL @immich-app，现居美国），2022 年 2 月立项；现由
+  FUTO 资助全职团队
 营收模式: 没有付费墙、没有订阅——自托管全功能免费，收入来自用户自愿购买 Product Key（产品密钥）、周边商店，以及 FUTO 的资助
 月收入估算: 未披露（项目不卖功能，收入为自愿支持与机构资助，无公开数字）
-流量来源: GitHub 开源口碑 + Reddit/Discord 自建社区 + 移动端 App Store 与 Play 商店自然搜索 + "Google Photos 替代品"这个搜索意图本身
-可迁移点: ① 不卖功能也能活：Product Key 是纯自愿的"支持凭证"，不给任何解锁权益，靠的是用户"这东西别死"的心理而不是功能卡脖子 ② 找一个巨头产品的直接替代位置（自托管 Google Photos），用户的搜索词就是你的获客渠道 ③ 机构资助可以替代 VC：由 FUTO 出钱养全职工程师，项目不必为了变现去阉割自托管版本 ④ 开源许可用 AGPL-3.0 是防守动作——想拿它做闭源商业托管的人必须公开自己的改动，挡住了"白嫖开源做云生意"的路 ⑤ 版本发布记录本身是信任资产：每个版本的 changelog 都点名列出贡献者，一个常规版本就有 15 位首次贡献者，社区的可见度就是留存率
+流量来源: GitHub 开源口碑 + Reddit/Discord 自建社区 + 移动端 App Store 与 Play 商店自然搜索 + "Google Photos
+  替代品"这个搜索意图本身
+可迁移点: ① 不卖功能也能活：Product Key 是纯自愿的"支持凭证"，不给任何解锁权益，靠的是用户"这东西别死"的心理而不是功能卡脖子 ② 找一个巨头产品的直接替代位置（自托管
+  Google Photos），用户的搜索词就是你的获客渠道 ③ 机构资助可以替代 VC：由 FUTO 出钱养全职工程师，项目不必为了变现去阉割自托管版本 ④ 开源许可用
+  AGPL-3.0 是防守动作——想拿它做闭源商业托管的人必须公开自己的改动，挡住了"白嫖开源做云生意"的路 ⑤ 版本发布记录本身是信任资产：每个版本的 changelog
+  都点名列出贡献者，一个常规版本就有 15 位首次贡献者，社区的可见度就是留存率
 原文链接: https://immich.app
-数据口径: GitHub 数据（star / fork / 许可 / 创建时间 / 最新版本 / 各安装包下载量）取自官方 REST API（2026-09-13）；创始人身份取自 GitHub 用户 API（bio 自述 Builder, BDFL @immich-app）；资助方与产品密钥机制取自官网 immich.app 首页（Product Key 区域与页脚 Company 指向 FUTO）；版本号以 GitHub Releases 最新一条为准（v3.1.0，2026-07-29 发布）
+数据口径: GitHub 数据（star / fork / 许可 / 创建时间 / 最新版本 / 各安装包下载量）取自官方 REST API（2026-09-13）；创始人身份取自
+  GitHub 用户 API（bio 自述 Builder, BDFL @immich-app）；资助方与产品密钥机制取自官网 immich.app 首页（Product
+  Key 区域与页脚 Company 指向 FUTO）；版本号以 GitHub Releases 最新一条为准（v3.1.0，2026-07-29 发布）
 分类: 自托管相册 / 开源+自愿支持 / 英文 / 消费产品
 类型: 开源变现
 证据等级: 平台数据可查
-平台数据: GitHub 113,966 star · 6,899 fork · AGPL-3.0 · 仓库创建于 2022-02-03；最新版本 v3.1.0（2026-07-29），其中 arm64 安卓安装包被下载 42,735 次、docker-compose.yml 被下载 146,903 次（2026-09-13 抓取）
+平台数据: GitHub 113,966 star · 6,899 fork · AGPL-3.0 · 仓库创建于 2022-02-03；最新版本 v3.1.0（2026-07-29），其中
+  arm64 安卓安装包被下载 42,735 次、docker-compose.yml 被下载 146,903 次（2026-09-13 抓取）
 封面: /case-site/cases/immich/site.png
 ---
+
 
 ![Immich 官网](/cases/immich/site.png)
 

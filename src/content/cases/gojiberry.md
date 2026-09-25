@@ -1,18 +1,30 @@
 ---
 name: Gojiberry AI
-一句话: 三个巴黎创业者把「冷邮件没人理」改成「盯紧买家意图信号再出手」，做了一个 AI 销售 Agent 自动找高意向线索并约demo，bootstrapped 不到一年干到 300 万+ MRR、约 400 万美金 ARR
-创始人地区: Pierre-Eliott Lallemant（CEO）、Dylan Coia（CTO）、Romàn Faucher（CMO），总部法国巴黎（部分团队葡萄牙）；2024 年注册，2025 年初上线
-营收模式: SaaS 订阅，Pro 约 99 美金/月每席位（含 15+ 意图信号、100 验证邮箱/月、无限 LinkedIn 活动），Elite 249 美金/月；无免费层，7 天试用
-月收入估算: 约 300 万美金 MRR、约 350–400 万美金 ARR（2025 年底，bootstrapped，后加入 YC）；2000–2800 付费客户、5000+ 企业用过；从 0 到 100 万 ARR 约 9 个月，月增约 30%
-流量来源: 创始人把自家增长打法公开写成五阶段 playbook（社媒/博客疯传）；Product Hunt 首发（2026-03）；与 Instantly、Clay、HubSpot 等集成形成生态；意图信号定位天然契合 LinkedIn 重度用户
-可迁移点: ① 不做「更大名单」，做「更热信号」——意图 > 名单 ② 把自家增长打法公开成内容，既是获客也是信任 ③ bootstrapped 也能 3 人冲 400 万 ARR，关键在单点突破 ④ 产品即自身最佳案例——用 Gojiberry 卖 Gojiberry ⑤ 集成生态（Instantly/Clay）而非单打独斗
+一句话: 三个巴黎创业者把「冷邮件没人理」改成「盯紧买家意图信号再出手」，做了一个 AI 销售 Agent 自动找高意向线索并约demo，bootstrapped
+  不到一年干到 300 万+ MRR、约 400 万美金 ARR
+创始人地区: Pierre-Eliott Lallemant（CEO）、Dylan Coia（CTO）、Romàn Faucher（CMO），总部法国巴黎（部分团队葡萄牙）；2024
+  年注册，2025 年初上线
+营收模式: SaaS 订阅，Pro 约 99 美金/月每席位（含 15+ 意图信号、100 验证邮箱/月、无限 LinkedIn 活动），Elite 249 美金/月；无免费层，7
+  天试用
+月收入估算: 约 300 万美金 MRR、约 350–400 万美金 ARR（2025 年底，bootstrapped，后加入 YC）；2000–2800 付费客户、5000+
+  企业用过；从 0 到 100 万 ARR 约 9 个月，月增约 30%
+流量来源: 创始人把自家增长打法公开写成五阶段 playbook（社媒/博客疯传）；Product Hunt 首发（2026-03）；与 Instantly、Clay、HubSpot
+  等集成形成生态；意图信号定位天然契合 LinkedIn 重度用户
+可迁移点: ① 不做「更大名单」，做「更热信号」——意图 > 名单 ② 把自家增长打法公开成内容，既是获客也是信任 ③ bootstrapped 也能 3 人冲 400
+  万 ARR，关键在单点突破 ④ 产品即自身最佳案例——用 Gojiberry 卖 Gojiberry ⑤ 集成生态（Instantly/Clay）而非单打独斗
 原文链接: https://www.gojiberry.ai
-数据口径: 融资——bootstrapped，2025 年约 9 个月做到 100 万 ARR，2025 年底约 350–400 万 ARR、约 30 万 MRR，后加入 YC（Dealroom 记 2026-03 YC 12.5 万种子）；母公司 SUPERFRUITS SAS 2024-06 巴黎注册（dealroom、productwatch、arrfounder）；规模——2000–2800 付费客户、5000+ 企业用过（productwatch、arrfounder）；产品——AI 销售 Agent，监控 15–30+ LinkedIn 意图信号（竞品互动、融资、换工作、活动、关键词），按 ICP 过滤+富化+评分，自动发个性化 LinkedIn 外联约 demo；集成 HubSpot、Pipedrive、Slack、Clay、Instantly；定价 Pro 99/月、Elite 249/月（makerstack、dealroom）；创始人——Pierre-Eliott Lallemant（CEO，连续创业者，前 CoCo AI）、Dylan Coia（CTO，前 Edusign 联创）、Romàn Faucher（CMO）（dealroom、productwatch）
+数据口径: 融资——bootstrapped，2025 年约 9 个月做到 100 万 ARR，2025 年底约 350–400 万 ARR、约 30 万 MRR，后加入
+  YC（Dealroom 记 2026-03 YC 12.5 万种子）；母公司 SUPERFRUITS SAS 2024-06 巴黎注册（dealroom、productwatch、arrfounder）；规模——2000–2800
+  付费客户、5000+ 企业用过（productwatch、arrfounder）；产品——AI 销售 Agent，监控 15–30+ LinkedIn 意图信号（竞品互动、融资、换工作、活动、关键词），按
+  ICP 过滤+富化+评分，自动发个性化 LinkedIn 外联约 demo；集成 HubSpot、Pipedrive、Slack、Clay、Instantly；定价
+  Pro 99/月、Elite 249/月（makerstack、dealroom）；创始人——Pierre-Eliott Lallemant（CEO，连续创业者，前
+  CoCo AI）、Dylan Coia（CTO，前 Edusign 联创）、Romàn Faucher（CMO）（dealroom、productwatch）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 应用 / 销售获客 / 英文 / 法国
 封面: /case-site/cases/gojiberry/site.png
 ---
+
 
 ![Gojiberry AI 官网](/cases/gojiberry/site.png)
 

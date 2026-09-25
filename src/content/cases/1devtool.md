@@ -1,19 +1,22 @@
 ---
-name: "1DevTool"
-一句话: "Vibe Coding IDE — 一个让开发者同时管理多个AI编程代理和项目的集成工作空间。"
-创始人地区: "由 Khoa Nguyen 创立，VN，2025 年成立"
-营收模式: "Free forever tier · $29 one-time to unlock everything · No subscription"
-月收入估算: "$5/月（Lemon Squeezy 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR34），B2C 受众；官网 https://1devtool.com/"
-可迁移点: "① 一次性付费模式（$29）可避免订阅疲劳 ② 多AI代理并行处理的设计契合开发者实际需求 ③ 通过解决终端标签页混乱的痛点建立价值主张"
-原文链接: "https://1devtool.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Lemon Squeezy）验证，最后同步于 2026-09-15T10:52:55.575Z；域名评分 DR34；原始页 https://trustmrr.com/startup/1devtool。"
-分类: "Dev Tools、AI、Productivity、SaaS / B2C / 海外"
-类型: "收入案例"
-证据等级: "官方披露"
-平台数据: "支付验证：Lemon Squeezy · 当前 MRR $5 · 活跃订阅 2 · 近12个月营收 $7,217 · 累计营收 $7,217 · 域名 DR34 · 国家 VN · 创立 2025-11-05"
-封面: "/case-site/cases/1devtool/site.webp"
+name: 1DevTool
+一句话: Vibe Coding IDE — 一个让开发者同时管理多个AI编程代理和项目的集成工作空间。
+创始人地区: 由 Khoa Nguyen 创立，VN，2025 年成立
+营收模式: Free forever tier · $29 one-time to unlock everything · No subscription
+月收入估算: $5/月（Lemon Squeezy 验证）
+流量来源: SEO 自然流量为主（域名评分 DR34），B2C 受众；官网 https://1devtool.com/
+可迁移点: ① 一次性付费模式（$29）可避免订阅疲劳 ② 多AI代理并行处理的设计契合开发者实际需求 ③ 通过解决终端标签页混乱的痛点建立价值主张
+原文链接: https://1devtool.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Lemon Squeezy）验证，最后同步于 2026-09-15T10:52:55.575Z；域名评分
+  DR34；原始页 https://trustmrr.com/startup/1devtool。
+分类: Dev Tools、AI、Productivity、SaaS / B2C / 海外
+类型: 收入案例
+证据等级: 官方披露
+平台数据: 支付验证：Lemon Squeezy · 当前 MRR $5 · 活跃订阅 2 · 近12个月营收 $7,217 · 累计营收 $7,217 · 域名
+  DR34 · 国家 VN · 创立 2025-11-05
+封面: /case-site/cases/1devtool/site.webp
 ---
+
 # 1DevTool
 
 

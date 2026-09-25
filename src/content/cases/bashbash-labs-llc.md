@@ -1,19 +1,22 @@
 ---
-name: "BashBash Labs, LLC"
-一句话: "BashBash Labs LLC 是一家专注于软件设计和科技艺术体验的创意工作室，采用预付款模式开展业务。"
-创始人地区: "由 BashBash, the Builder ☀️ 创立，US，2024 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR34），未披露 受众；官网 https://bashbashlabs.com/"
-可迁移点: "① 100%预付款模式适用于标准应用开发 ② 定制项目采用50%预付款+50%尾款的分期支付方式(周期2-8周) ③ 艺术装置项目要求可退还的保证金+50/50付款方案"
-原文链接: "https://bashbashlabs.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:05:10.521Z；域名评分 DR34；原始页 https://trustmrr.com/startup/bashbash-labs-llc。"
-分类: "Design Tools / 未披露 / 海外"
+name: BashBash Labs, LLC
+一句话: BashBash Labs LLC 是一家专注于软件设计和科技艺术体验的创意工作室，采用预付款模式开展业务。
+创始人地区: 由 BashBash, the Builder ☀️ 创立，US，2024 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR34），未披露 受众；官网 https://bashbashlabs.com/
+可迁移点: ① 100%预付款模式适用于标准应用开发 ② 定制项目采用50%预付款+50%尾款的分期支付方式(周期2-8周) ③ 艺术装置项目要求可退还的保证金+50/50付款方案
+原文链接: https://bashbashlabs.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:05:10.521Z；域名评分 DR34；原始页
+  https://trustmrr.com/startup/bashbash-labs-llc。
+分类: Design Tools / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,220 · 累计营收 $1,299 · 域名 DR34 · 国家 US · 创立 2024-09-24"
-封面: "/case-site/cases/bashbash-labs-llc/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,220 · 累计营收 $1,299 · 域名 DR34 ·
+  国家 US · 创立 2024-09-24
+封面: /case-site/cases/bashbash-labs-llc/site.webp
 ---
+
 
 ![BashBash Labs, LLC 官网](/cases/bashbash-labs-llc/site.webp)
 

@@ -1,19 +1,20 @@
 ---
-name: "Reader View"
-一句话: "Mozilla开发的Chrome扩展Reader View，提供简洁的网页阅读模式。"
-创始人地区: "Chrome 扩展 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "① 大厂开源项目可作为独立开发参考 ② 浏览器扩展是轻量化工具赛道 ③ 未盈利项目仍具技术参考价值"
-原文链接: "https://github.com/piroor/readerview"
-数据口径: "公开资料整理（来源：https://github.com/piroor/readerview），2026-09-17 抓取。收入未官方披露。"
-分类: "Chrome插件/阅读 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://github.com/piroor/readerview）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: Reader View
+一句话: Mozilla开发的Chrome扩展Reader View，提供简洁的网页阅读模式。
+创始人地区: Chrome 扩展 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ① 大厂开源项目可作为独立开发参考 ② 浏览器扩展是轻量化工具赛道 ③ 未盈利项目仍具技术参考价值
+原文链接: https://github.com/piroor/readerview
+数据口径: 公开资料整理（来源：https://github.com/piroor/readerview），2026-09-17 抓取。收入未官方披露。
+分类: Chrome插件/阅读 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://github.com/piroor/readerview）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Reader View
 
 

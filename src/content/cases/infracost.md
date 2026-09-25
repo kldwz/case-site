@@ -1,18 +1,30 @@
 ---
 name: Infracost
-一句话: 三兄弟（含一位云成本建模博士）把「等账单出来再优化」改成「写代码时就看见成本」，做了一个开源云成本估算工具，YC W21 起步，五年做到 3500+ 企业用户、1500 万美金 A 轮
-创始人地区: Hassan Khajeh-Hosseini（CEO）、Ali Khajeh-Hosseini（CPO，云成本建模博士）、Alistair Scott（CTO），美国圣地亚哥；FinOps 老兵，2012 年做过最早的云成本管理产品（后被 RightScale/Flexera 收购）
+一句话: 三兄弟（含一位云成本建模博士）把「等账单出来再优化」改成「写代码时就看见成本」，做了一个开源云成本估算工具，YC W21 起步，五年做到 3500+ 企业用户、1500
+  万美金 A 轮
+创始人地区: Hassan Khajeh-Hosseini（CEO）、Ali Khajeh-Hosseini（CPO，云成本建模博士）、Alistair Scott（CTO），美国圣地亚哥；FinOps
+  老兵，2012 年做过最早的云成本管理产品（后被 RightScale/Flexera 收购）
 营收模式: 开源核心 + 企业版 SaaS；CI/CD 免费层面向个人工程师，托管 Cloud Pricing API 按用量计费（250 美金/月每 1 万次运行），企业版支持定制价目表（EDP/EA）
-月收入估算: 未公开 ARR；2025-11 完成 1500 万美金 A 轮（Pruven Capital 领投，YC、Sequoia、Mango、Alumni Ventures、TIAA Ventures 等参投），累计约 1800 万美金；3500+ 企业用户，含 10% 财富 500 强
-流量来源: 开源社区（1.2 万 GitHub stars）自然获客；嵌入 GitHub/GitLab/Azure DevOps PR 评论，开发者即用即见；FinOps Foundation 官方成员身份与行业背书；财富 500 强标杆案例
-可迁移点: ① 把分析的起点从「账单」前移到「代码」——Shift FinOps Left ② 开源做获客引擎，企业版做变现，开发者工具经典双轨 ③ 创始人本身就是品类老兵，认知即护城河 ④ 嵌入工作流（PR 评论）比单独 dashboard 留存高 ⑤ 用合规/企业特性（SOC2、定制价目表）切大客户
+月收入估算: 未公开 ARR；2025-11 完成 1500 万美金 A 轮（Pruven Capital 领投，YC、Sequoia、Mango、Alumni Ventures、TIAA
+  Ventures 等参投），累计约 1800 万美金；3500+ 企业用户，含 10% 财富 500 强
+流量来源: 开源社区（1.2 万 GitHub stars）自然获客；嵌入 GitHub/GitLab/Azure DevOps PR 评论，开发者即用即见；FinOps
+  Foundation 官方成员身份与行业背书；财富 500 强标杆案例
+可迁移点: ① 把分析的起点从「账单」前移到「代码」——Shift FinOps Left ② 开源做获客引擎，企业版做变现，开发者工具经典双轨 ③ 创始人本身就是品类老兵，认知即护城河
+  ④ 嵌入工作流（PR 评论）比单独 dashboard 留存高 ⑤ 用合规/企业特性（SOC2、定制价目表）切大客户
 原文链接: https://www.infracost.io
-数据口径: 融资——YC W21；种子轮 2021-09 约 300 万美金（Sequoia、YC、SV Angel、Mango、Brighter、Conductive、Goodwater 等）；A 轮 2025-11 约 1500 万美金（Pruven Capital 领投，YC、Sequoia、Mango、Alumni Ventures、TIAA Ventures 参投，Supabase 联创 Paul Copplestone、Essence VC Timothy Chen 等天使），累计约 1800 万美金（startupintros、infracost.io/blog）；规模——3500+ 企业用户、10% 财富 500 强、1.2 万 GitHub stars、追踪 400 万+ 云价格（infracost.io、startupintros）；产品——开源云成本估算，嵌入 GitHub/GitLab/Azure DevOps PR 评论，预算检查、FinOps 策略、标签合规、SOC 2 Type 2（infracost.io、extruct.ai）；创始人——Hassan Khajeh-Hosseini（CEO）、Ali Khajeh-Hosseini（CPO，云成本建模博士）、Alistair Scott（CTO），2012 年做过最早云成本管理产品（被 RightScale/Flexera 收购），FinOps Foundation 董事会成员（infracost.io/about）
+数据口径: 融资——YC W21；种子轮 2021-09 约 300 万美金（Sequoia、YC、SV Angel、Mango、Brighter、Conductive、Goodwater
+  等）；A 轮 2025-11 约 1500 万美金（Pruven Capital 领投，YC、Sequoia、Mango、Alumni Ventures、TIAA
+  Ventures 参投，Supabase 联创 Paul Copplestone、Essence VC Timothy Chen 等天使），累计约 1800 万美金（startupintros、infracost.io/blog）；规模——3500+
+  企业用户、10% 财富 500 强、1.2 万 GitHub stars、追踪 400 万+ 云价格（infracost.io、startupintros）；产品——开源云成本估算，嵌入
+  GitHub/GitLab/Azure DevOps PR 评论，预算检查、FinOps 策略、标签合规、SOC 2 Type 2（infracost.io、extruct.ai）；创始人——Hassan
+  Khajeh-Hosseini（CEO）、Ali Khajeh-Hosseini（CPO，云成本建模博士）、Alistair Scott（CTO），2012 年做过最早云成本管理产品（被
+  RightScale/Flexera 收购），FinOps Foundation 董事会成员（infracost.io/about）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 基础设施 / 开发者工具·FinOps / 英文 / 美国
 封面: /case-site/cases/infracost/site.png
 ---
+
 
 ![Infracost 官网](/cases/infracost/site.png)
 

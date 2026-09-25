@@ -1,19 +1,23 @@
 ---
-name: "Ai Music Maker - Soneva"
-一句话: "Soneva是一款iOS端AI音乐生成应用，提供50种预设风格和歌词教育功能，上线三个月累计营收1,162美元。"
-创始人地区: "创始人未披露，GB，2025 年成立"
-营收模式: "Free users can create a limited number of songs per day. Premium members get unlimited generation."
-月收入估算: "$106/月（RevenueCat 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR0），B2C 受众；官网 https://sonevamusic.com/"
-可迁移点: "① 垂直场景的AI工具（音乐+教育歌词）能形成差异化 ② 免费+订阅模式验证最小可行性 ③ 无营销情况下自然流量产生付费转化"
-原文链接: "https://sonevamusic.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:02:17.559Z；域名评分 DR0；原始页 https://trustmrr.com/startup/ai-music-maker-soneva。"
-分类: "AI、Mobile Apps、Content Creation、Education、Entertainment / B2C / 海外"
+name: Ai Music Maker - Soneva
+一句话: Soneva是一款iOS端AI音乐生成应用，提供50种预设风格和歌词教育功能，上线三个月累计营收1,162美元。
+创始人地区: 创始人未披露，GB，2025 年成立
+营收模式: Free users can create a limited number of songs per day. Premium members get
+  unlimited generation.
+月收入估算: $106/月（RevenueCat 验证）
+流量来源: SEO 自然流量为主（域名评分 DR0），B2C 受众；官网 https://sonevamusic.com/
+可迁移点: ① 垂直场景的AI工具（音乐+教育歌词）能形成差异化 ② 免费+订阅模式验证最小可行性 ③ 无营销情况下自然流量产生付费转化
+原文链接: https://sonevamusic.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:02:17.559Z；域名评分
+  DR0；原始页 https://trustmrr.com/startup/ai-music-maker-soneva。
+分类: AI、Mobile Apps、Content Creation、Education、Entertainment / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $106 · 活跃订阅 6 · 近12个月营收 $1,162 · 累计营收 $1,162 · 域名 DR0 · 国家 GB · 创立 2025-11-01"
-封面: "/case-site/cases/ai-music-maker-soneva/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $106 · 活跃订阅 6 · 近12个月营收 $1,162 · 累计营收 $1,162 · 域名 DR0
+  · 国家 GB · 创立 2025-11-01
+封面: /case-site/cases/ai-music-maker-soneva/site.webp
 ---
+
 
 ![Ai Music Maker - Soneva 官网](/cases/ai-music-maker-soneva/site.webp)
 

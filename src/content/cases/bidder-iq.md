@@ -1,19 +1,22 @@
 ---
-name: "Bidder iQ"
-一句话: "Bidder iQ 是一款面向收藏车买家和爱好者的定价智能工具，提供市场数据分析和 AI 预测功能。"
-创始人地区: "由 Whitlock 创立，US，2025 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$133/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），未披露 受众；官网 https://bidderiq.com/"
-可迁移点: "① 垂直领域的数据分析工具存在市场需求 ② 结合 Web App 和浏览器插件提升用户体验 ③ AI 技术可应用于传统行业的定价预测"
-原文链接: "https://bidderiq.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:17:12.458Z；域名评分 DR1；原始页 https://trustmrr.com/startup/bidder-iq。"
-分类: "Analytics / 未披露 / 海外"
+name: Bidder iQ
+一句话: Bidder iQ 是一款面向收藏车买家和爱好者的定价智能工具，提供市场数据分析和 AI 预测功能。
+创始人地区: 由 Whitlock 创立，US，2025 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $133/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），未披露 受众；官网 https://bidderiq.com/
+可迁移点: ① 垂直领域的数据分析工具存在市场需求 ② 结合 Web App 和浏览器插件提升用户体验 ③ AI 技术可应用于传统行业的定价预测
+原文链接: https://bidderiq.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:17:12.458Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/bidder-iq。
+分类: Analytics / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $9,716 · 累计营收 $11,684 · 域名 DR1 · 国家 US · 创立 2025-05-18"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $9,716 · 累计营收 $11,684 · 域名 DR1 ·
+  国家 US · 创立 2025-05-18
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Bidder iQ：是一款面向收藏车买家和爱好者的定价智能工具，提供市场数据分析和 AI 预测功能。
 

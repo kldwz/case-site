@@ -1,19 +1,24 @@
 ---
-name: "AbMaxx"
-一句话: "AbMaxx是一款基于订阅的健身应用，利用AI分析用户腹肌并生成个性化训练计划。"
-创始人地区: "由 Lino 创立，地区未披露，2026 年成立"
-营收模式: "Free · In‑App Purchases, AbMaxx Premium Monthly $11.99, Abmaxx Yearly Discount $19.99, AbMaxx Yearly $34.99, AbMaxx Exclusive Yearly $29.99, AbMaxx Weekly $4.99, 4 Guest Scans $2.99, 2 Guest Scans $1.99"
-月收入估算: "$15,098/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6757769125"
-可迁移点: "① AI驱动的个性化健身方案可作为细分领域切入点 ② 多层级订阅定价策略覆盖不同用户支付意愿 ③ 通过应用内扫描功能创造额外收入点 ④ 年费套餐设置折扣价促进长期用户留存"
-原文链接: "https://apps.apple.com/app/id6757769125"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:22:22.906Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/abmaxx。"
-分类: "Mobile Apps、AI、Health & Fitness / B2C / 海外"
+name: AbMaxx
+一句话: AbMaxx是一款基于订阅的健身应用，利用AI分析用户腹肌并生成个性化训练计划。
+创始人地区: 由 Lino 创立，地区未披露，2026 年成立
+营收模式: Free · In‑App Purchases, AbMaxx Premium Monthly $11.99, Abmaxx Yearly Discount
+  $19.99, AbMaxx Yearly $34.99, AbMaxx Exclusive Yearly $29.99, AbMaxx Weekly $4.99,
+  4 Guest Scans $2.99, 2 Guest Scans $1.99
+月收入估算: $15,098/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6757769125
+可迁移点: ① AI驱动的个性化健身方案可作为细分领域切入点 ② 多层级订阅定价策略覆盖不同用户支付意愿 ③ 通过应用内扫描功能创造额外收入点 ④ 年费套餐设置折扣价促进长期用户留存
+原文链接: https://apps.apple.com/app/id6757769125
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:22:22.906Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/abmaxx。
+分类: Mobile Apps、AI、Health & Fitness / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $15,098 · 活跃订阅 3,737 · 近12个月营收 $114,807 · 累计营收 $114,807 · 域名 DR未披露 · 国家 未披露 · 创立 2026-03-18"
-封面: "/case-site/cases/abmaxx/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $15,098 · 活跃订阅 3,737 · 近12个月营收 $114,807 · 累计营收 $114,807
+  · 域名 DR未披露 · 国家 未披露 · 创立 2026-03-18
+封面: /case-site/cases/abmaxx/site.webp
 ---
+
 # AbMaxx
 
 

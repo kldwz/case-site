@@ -1,19 +1,22 @@
 ---
-name: "AnalizaKolorystyczna.Online"
-一句话: "AI驱动的个人色彩分析服务，用户上传照片即可获得基于肤色的个性化色彩季节报告。"
-创始人地区: "由 Marcin Krzemiński 创立，PL，2026 年成立"
-营收模式: "49 zł for the first 100, 79 zł up to 250, 99 zł up to 500"
-月收入估算: "$1,012/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR38），B2C 受众；官网 https://analizakolorystyczna.online/"
-可迁移点: "① 利用AI技术提供即时个性化报告 ② 采用阶梯定价策略（49-99 zł） ③ 纯数字交付（PDF报告）降低边际成本 ④ 瞄准时尚/美容领域的决策痛点"
-原文链接: "https://analizakolorystyczna.online/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:22:21.567Z；域名评分 DR38；原始页 https://trustmrr.com/startup/analizakolorystyczna-online。"
-分类: "AI、Design Tools、SaaS / B2C / 海外"
+name: AnalizaKolorystyczna.Online
+一句话: AI驱动的个人色彩分析服务，用户上传照片即可获得基于肤色的个性化色彩季节报告。
+创始人地区: 由 Marcin Krzemiński 创立，PL，2026 年成立
+营收模式: 49 zł for the first 100, 79 zł up to 250, 99 zł up to 500
+月收入估算: $1,012/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR38），B2C 受众；官网 https://analizakolorystyczna.online/
+可迁移点: ① 利用AI技术提供即时个性化报告 ② 采用阶梯定价策略（49-99 zł） ③ 纯数字交付（PDF报告）降低边际成本 ④ 瞄准时尚/美容领域的决策痛点
+原文链接: https://analizakolorystyczna.online/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:22:21.567Z；域名评分 DR38；原始页
+  https://trustmrr.com/startup/analizakolorystyczna-online。
+分类: AI、Design Tools、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $4,541 · 累计营收 $4,541 · 域名 DR38 · 国家 PL · 创立 2026-03-10"
-封面: "/case-site/cases/analizakolorystyczna-online/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $4,541 · 累计营收 $4,541 · 域名 DR38 ·
+  国家 PL · 创立 2026-03-10
+封面: /case-site/cases/analizakolorystyczna-online/site.webp
 ---
+
 # AnalizaKolorystyczna.Online
 
 

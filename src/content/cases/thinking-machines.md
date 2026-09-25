@@ -1,18 +1,25 @@
 ---
 name: Thinking Machines Lab
-一句话: 前 OpenAI CTO Mira Murati 带队、约 2/3 成员来自 OpenAI 的神秘实验室，靠一张 BP 拿下 a16z 领投的 20 亿美金种子轮（估值 120 亿），首款产品是给企业定制微调前沿模型的 Tinker
-创始人地区: Mira Murati（CEO，前 OpenAI 首席技术官）+ John Schulman（首席科学家，前 OpenAI 研究员）+ Barret Zoph（CTO，前 OpenAI 研究副总裁），2025 年 2 月创立于旧金山
+一句话: 前 OpenAI CTO Mira Murati 带队、约 2/3 成员来自 OpenAI 的神秘实验室，靠一张 BP 拿下 a16z 领投的 20 亿美金种子轮（估值
+  120 亿），首款产品是给企业定制微调前沿模型的 Tinker
+创始人地区: Mira Murati（CEO，前 OpenAI 首席技术官）+ John Schulman（首席科学家，前 OpenAI 研究员）+ Barret
+  Zoph（CTO，前 OpenAI 研究副总裁），2025 年 2 月创立于旧金山
 营收模式: 暂无营收（pre-revenue），方向为前沿模型研发 + 企业级模型定制微调平台 Tinker
 月收入估算: 无（未商业化，2025 年 10 月才推出首款产品 Tinker）
-流量来源: 创始人顶级声誉（Murati 是 AI 圈最知名女性技术领袖之一）+ 空前豪华的阵容背书 + a16z 等顶级机构站台；投资方含 Nvidia、AMD、Cisco、Accel、ServiceNow、Jane Street
-可迁移点: ① 人才密度本身就是产品——约 2/3 成员来自 OpenAI，这种「整建制挖人」比融多少钱都值钱 ② 在没人信你产品时，用顶级机构的超额认购替你背书，20 亿种子轮本身就是营销 ③ 不做通用 chatbot 红海，直接卡位「企业定制微调」这个高客单价、高壁垒的缝隙 ④ 研究型公司也可以产品化——Tinker 把前沿模型的微调能力封装成企业能用的东西 ⑤ pre-revenue 阶段也能 120 亿估值，资本为「人」和「方向」付费，不为收入付费
+流量来源: 创始人顶级声誉（Murati 是 AI 圈最知名女性技术领袖之一）+ 空前豪华的阵容背书 + a16z 等顶级机构站台；投资方含 Nvidia、AMD、Cisco、Accel、ServiceNow、Jane
+  Street
+可迁移点: ① 人才密度本身就是产品——约 2/3 成员来自 OpenAI，这种「整建制挖人」比融多少钱都值钱 ② 在没人信你产品时，用顶级机构的超额认购替你背书，20
+  亿种子轮本身就是营销 ③ 不做通用 chatbot 红海，直接卡位「企业定制微调」这个高客单价、高壁垒的缝隙 ④ 研究型公司也可以产品化——Tinker 把前沿模型的微调能力封装成企业能用的东西
+  ⑤ pre-revenue 阶段也能 120 亿估值，资本为「人」和「方向」付费，不为收入付费
 原文链接: https://www.thinkingmachines.ai
-数据口径: 种子轮 20 亿美金、a16z 领投、估值 120 亿美金（2025 年 7 月，史上最大种子轮之一）；团队约 30 人、约 2/3 来自 OpenAI；首款产品 Tinker 2025 年 10 月发布；为公开报道与官方披露
+数据口径: 种子轮 20 亿美金、a16z 领投、估值 120 亿美金（2025 年 7 月，史上最大种子轮之一）；团队约 30 人、约 2/3 来自 OpenAI；首款产品
+  Tinker 2025 年 10 月发布；为公开报道与官方披露
 类型: 收入案例
 证据等级: 官方披露
 分类: 前沿模型实验室 / 企业模型微调 / 英文 / 美国
 封面: /case-site/cases/thinking-machines/site.png
 ---
+
 
 ![Thinking Machines Lab 官网](/cases/thinking-machines/site.png)
 

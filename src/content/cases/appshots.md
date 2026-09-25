@@ -1,19 +1,22 @@
 ---
-name: "Appshots"
-一句话: "AI驱动的应用商店截图生成工具，帮助非设计师用户快速创建专业级展示素材"
-创始人地区: "由 Salim 创立，US，2026 年成立"
-营收模式: "Go: $8/mo, Launch: $19/mo, Studio: $49/mo"
-月收入估算: "$194/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR2），B2C 受众；官网 https://appshots.me/"
-可迁移点: "① 瞄准应用开发者高频刚需的素材生产场景 ② 阶梯定价覆盖个人开发者到小型工作室需求 ③ 通过Stripe实现轻量化支付验证 ④ 完全基于API验证的透明营收披露机制"
-原文链接: "https://appshots.me/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:46:53.791Z；域名评分 DR2；原始页 https://trustmrr.com/startup/appshots。"
-分类: "AI、Dev Tools、Design Tools、Content Creation、Mobile Apps / B2C / 海外"
+name: Appshots
+一句话: AI驱动的应用商店截图生成工具，帮助非设计师用户快速创建专业级展示素材
+创始人地区: 由 Salim 创立，US，2026 年成立
+营收模式: 'Go: $8/mo, Launch: $19/mo, Studio: $49/mo'
+月收入估算: $194/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR2），B2C 受众；官网 https://appshots.me/
+可迁移点: ① 瞄准应用开发者高频刚需的素材生产场景 ② 阶梯定价覆盖个人开发者到小型工作室需求 ③ 通过Stripe实现轻量化支付验证 ④ 完全基于API验证的透明营收披露机制
+原文链接: https://appshots.me/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:46:53.791Z；域名评分 DR2；原始页
+  https://trustmrr.com/startup/appshots。
+分类: AI、Dev Tools、Design Tools、Content Creation、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $194 · 活跃订阅 16 · 近12个月营收 $2,626 · 累计营收 $2,626 · 域名 DR2 · 国家 US · 创立 2026-04-30"
-封面: "/case-site/cases/appshots/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $194 · 活跃订阅 16 · 近12个月营收 $2,626 · 累计营收 $2,626 · 域名 DR2
+  · 国家 US · 创立 2026-04-30
+封面: /case-site/cases/appshots/site.webp
 ---
+
 # Appshots
 
 

@@ -1,19 +1,23 @@
 ---
-name: "7Running"
-一句话: "AI生成跑步训练计划的法国SaaS产品"
-创始人地区: "由 Seven 创立，FR，2025 年成立"
-营收模式: "Free: diagnostic and allures, Club: €13/mo or €107/yr (-31%), Lifetime: €247 one-time."
-月收入估算: "$362/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2C 受众；官网 https://7running.coach/"
-可迁移点: "① 免费诊断+订阅制的分层定价策略 ② 利用AI实现训练计划的动态调整 ③ 将专业领域知识（跑步训练）产品化为标准化服务"
-原文链接: "https://7running.coach/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:28:06.078Z；域名评分 DR1；原始页 https://trustmrr.com/startup/7running。"
-分类: "Health & Fitness、SaaS / B2C / 海外"
+name: 7Running
+一句话: AI生成跑步训练计划的法国SaaS产品
+创始人地区: 由 Seven 创立，FR，2025 年成立
+营收模式: 'Free: diagnostic and allures, Club: €13/mo or €107/yr (-31%), Lifetime: €247
+  one-time.'
+月收入估算: $362/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2C 受众；官网 https://7running.coach/
+可迁移点: ① 免费诊断+订阅制的分层定价策略 ② 利用AI实现训练计划的动态调整 ③ 将专业领域知识（跑步训练）产品化为标准化服务
+原文链接: https://7running.coach/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:28:06.078Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/7running。
+分类: Health & Fitness、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $362 · 活跃订阅 30 · 近12个月营收 $4,900 · 累计营收 $4,900 · 域名 DR1 · 国家 FR · 创立 2025-10-28"
-封面: "/case-site/cases/7running/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $362 · 活跃订阅 30 · 近12个月营收 $4,900 · 累计营收 $4,900 · 域名 DR1
+  · 国家 FR · 创立 2025-10-28
+封面: /case-site/cases/7running/site.webp
 ---
+
 
 ![7Running 官网](/cases/7running/site.webp)
 

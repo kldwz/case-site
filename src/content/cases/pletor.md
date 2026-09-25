@@ -1,18 +1,24 @@
 ---
 name: Pletor
 一句话: 让市场团队把多个 AI 模型拼成「创意 agent」的画布，改名重启后一半客户来自法国以外
-创始人地区: Ferdinand Terme（CEO）+ Maxime Fonsale（CPO）+ Antoine Sueur（CTO），2025 年创立于法国巴黎，总部在 Station F
+创始人地区: Ferdinand Terme（CEO）+ Maxime Fonsale（CPO）+ Antoine Sueur（CTO），2025 年创立于法国巴黎，总部在
+  Station F
 营收模式: 视觉营销 AI agent 平台订阅，按团队席位与用量收费，客户为品牌市场部与创意代理商
-月收入估算: 2025 年 6 月融资 200 万欧元（Atlantic Labs 领投，Kima Ventures 跟投）；客户包括 Fever、Dalma、BETC、Smartbox、Les Furets；50% 客户来自法国之外；团队 5 人，计划年内扩到 15 人；具体营收未披露
-流量来源: 创始人个人品牌（LinkedIn 1.5 万粉丝，公开 prompt 库与 agent 模板换邮箱引流）+ 前身 Lasqo 的积累与改名重启 + 客户案例国际化 + 豪华天使阵容传播（HubSpot 营销 SVP、Adobe 的 B2B VP、Revolut CMO 等）
-可迁移点: ① 工具越多，连接器越值钱——营销团队不缺生成器，缺的是把它们串成一个系统 ② 公开你的「独门配方」不会失去客户，反而会吸引客户 ③ 产品方向不对就改名重启，别舍不得沉没成本 ④ 第一天就做国际化的产品决策（英文界面、Stripe 收款）比事后补容易一百倍 ⑤ 从老东家一起离职创业，信任和默契是最大的早期资产
+月收入估算: 2025 年 6 月融资 200 万欧元（Atlantic Labs 领投，Kima Ventures 跟投）；客户包括 Fever、Dalma、BETC、Smartbox、Les
+  Furets；50% 客户来自法国之外；团队 5 人，计划年内扩到 15 人；具体营收未披露
+流量来源: 创始人个人品牌（LinkedIn 1.5 万粉丝，公开 prompt 库与 agent 模板换邮箱引流）+ 前身 Lasqo 的积累与改名重启 + 客户案例国际化
+  + 豪华天使阵容传播（HubSpot 营销 SVP、Adobe 的 B2B VP、Revolut CMO 等）
+可迁移点: ① 工具越多，连接器越值钱——营销团队不缺生成器，缺的是把它们串成一个系统 ② 公开你的「独门配方」不会失去客户，反而会吸引客户 ③ 产品方向不对就改名重启，别舍不得沉没成本
+  ④ 第一天就做国际化的产品决策（英文界面、Stripe 收款）比事后补容易一百倍 ⑤ 从老东家一起离职创业，信任和默契是最大的早期资产
 原文链接: https://pletor.ai
-数据口径: tech.eu 等欧洲科技媒体报道（2025-06 融资 200 万欧元、投资方、客户名单、50% 客户来自海外、团队规模）；创始人访谈（Marketing Monk）与个人公开资料
+数据口径: tech.eu 等欧洲科技媒体报道（2025-06 融资 200 万欧元、投资方、客户名单、50% 客户来自海外、团队规模）；创始人访谈（Marketing
+  Monk）与个人公开资料
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 营销 / 创意工具 / 欧洲 / B2B SaaS
 封面: /case-site/cases/pletor/site.png
 ---
+
 
 ![Pletor 官网](/cases/pletor/site.png)
 

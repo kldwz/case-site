@@ -1,19 +1,23 @@
 ---
-name: "Byrne Media Ltd"
-一句话: "Byrne Media Ltd 是一家专注于云和数据工程内容创作的 YouTube 频道，同时提供 Calendly 上的 1:1 教练服务。"
-创始人地区: "由 Luke Byrne 创立，GB，2025 年成立"
-营收模式: "Free proof: Free, Creator: $19/month, Studio: $49/month, Team: $99/month"
-月收入估算: "$9/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2C 受众；官网 https://scripti.ai/"
-可迁移点: "① 利用 YouTube 平台建立专业内容品牌 ② 通过 Calendly 提供付费 1:1 教练服务实现变现 ③ 开发 Scripti AI 工具解决视频创作者的内容生产痛点 ④ 采用分层订阅模式（Free/$19/$49/$99）满足不同用户需求"
-原文链接: "https://scripti.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:17:29.657Z；域名评分 DR1；原始页 https://trustmrr.com/startup/byrne-media-ltd。"
-分类: "Content Creation、AI、Productivity、Social Media / B2C / 海外"
+name: Byrne Media Ltd
+一句话: Byrne Media Ltd 是一家专注于云和数据工程内容创作的 YouTube 频道，同时提供 Calendly 上的 1:1 教练服务。
+创始人地区: 由 Luke Byrne 创立，GB，2025 年成立
+营收模式: 'Free proof: Free, Creator: $19/month, Studio: $49/month, Team: $99/month'
+月收入估算: $9/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2C 受众；官网 https://scripti.ai/
+可迁移点: ① 利用 YouTube 平台建立专业内容品牌 ② 通过 Calendly 提供付费 1:1 教练服务实现变现 ③ 开发 Scripti AI 工具解决视频创作者的内容生产痛点
+  ④ 采用分层订阅模式（Free/$19/$49/$99）满足不同用户需求
+原文链接: https://scripti.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:17:29.657Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/byrne-media-ltd。
+分类: Content Creation、AI、Productivity、Social Media / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $9 · 活跃订阅 1 · 近12个月营收 $5,015 · 累计营收 $8,266 · 域名 DR1 · 国家 GB · 创立 2025-01-06"
-封面: "/case-site/cases/byrne-media-ltd/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $9 · 活跃订阅 1 · 近12个月营收 $5,015 · 累计营收 $8,266 · 域名 DR1 · 国家
+  GB · 创立 2025-01-06
+封面: /case-site/cases/byrne-media-ltd/site.webp
 ---
+
 
 ![Byrne Media Ltd 官网](/cases/byrne-media-ltd/site.webp)
 

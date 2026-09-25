@@ -1,18 +1,23 @@
 ---
 name: Simile
 一句话: 用「数字孪生人」模拟真实用户行为：让 AI 在发布前先替你测一遍产品，上线 5 个月估值冲到 20 亿美金，B 轮 2 亿美金
-创始人地区: Joon Sung Park（CEO，斯坦福「Smallville」论文作者）+ Michael Bernstein、Percy Liang、Lainie Yallen，斯坦福衍生，2025 年末创立、2026 年 2 月上线，总部帕罗奥图
+创始人地区: Joon Sung Park（CEO，斯坦福「Smallville」论文作者）+ Michael Bernstein、Percy Liang、Lainie
+  Yallen，斯坦福衍生，2025 年末创立、2026 年 2 月上线，总部帕罗奥图
 营收模式: 企业订阅（按模拟规模/调用量），面向产品、设计、研究团队，提供「人类行为基础模型」驱动的虚拟用户测试
-月收入估算: 2026-07-31 完成 2 亿美金 B 轮、估值 20 亿美金（Greenoaks 领投），累计融资 3 亿美金；上线后营收增长 5 倍、团队 50+ 人
+月收入估算: 2026-07-31 完成 2 亿美金 B 轮、估值 20 亿美金（Greenoaks 领投），累计融资 3 亿美金；上线后营收增长 5 倍、团队 50+
+  人
 流量来源: 斯坦福学术光环 + 顶级 VC 追投（Index A 轮 1 亿、Greenoaks B 轮 2 亿）+ 企业客户口碑（CVS、Wealthfront、Deloitte、Gallup、Suntory、Itaú）
-可迁移点: ① 把「用户研究」做成可规模化的 AI 产品——虚拟用户 7×24 跑，比招真人便宜又快 ② 学术 IP 直接商业化：Smallville 论文 → 公司，研究者即创始人 ③ 不卖「聊天」，卖「行为预测」——更值钱的企业级场景 ④「数字孪生人」是比「问卷/焦点小组」高一个维度的洞察 ⑤ 融资节奏极快（A→B 仅半年），说明「可信人类行为模拟」是资本认定的稀缺方向
+可迁移点: ① 把「用户研究」做成可规模化的 AI 产品——虚拟用户 7×24 跑，比招真人便宜又快 ② 学术 IP 直接商业化：Smallville 论文 → 公司，研究者即创始人
+  ③ 不卖「聊天」，卖「行为预测」——更值钱的企业级场景 ④「数字孪生人」是比「问卷/焦点小组」高一个维度的洞察 ⑤ 融资节奏极快（A→B 仅半年），说明「可信人类行为模拟」是资本认定的稀缺方向
 原文链接: https://www.simile.com
-数据口径: TechFundingNews、QuantLogix AI 报道；B 轮 2 亿美金 @ 20 亿估值、累计 3 亿、营收 5 倍、客户名单为公开披露；「Agentic twins / 人类行为基础模型」为公司对外定位
+数据口径: TechFundingNews、QuantLogix AI 报道；B 轮 2 亿美金 @ 20 亿估值、累计 3 亿、营收 5 倍、客户名单为公开披露；「Agentic
+  twins / 人类行为基础模型」为公司对外定位
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 用户研究 / 企业订阅 / 英文 / 研发工具
 封面: /case-site/cases/simile/site.png
 ---
+
 
 ![Simile 官网](/cases/simile/site.png)
 

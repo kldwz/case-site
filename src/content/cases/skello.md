@@ -4,15 +4,25 @@ name: Skello
 创始人地区: Quitterie Mathelin-Moreaux（联合创始人）、Emmanuelle Fauchier-Magnan（联合创始人）、Samy Amar（联合创始人），总部法国巴黎，另在里尔与巴塞罗那设点
 营收模式: 面向一线员工（门店、餐饮、零售、医疗、建筑）的排班与 HR SaaS 订阅，按门店与员工数收费；2025 年起叠加 AI 助手 Skello Assistant
 月收入估算: ARR 超 5000 万欧元，2025 年实现盈利；服务约 3 万家企业客户、70 万日活用户，员工超 400 人
-流量来源: 从「排班即生死」的餐饮零售切口做起 + 欧洲约 55% 的劳动力是一线员工却长期被数字化工具忽视 + 客户名单的标杆效应（星巴克、Intermarché、Accor、Big Mamma、Groupe Bertrand、Krys）+ 先盈利再融资带来的议价权与买方身份
-可迁移点: ① 选一个「被主流忽略但占多数」的人群——欧洲 55% 的劳动力是一线员工，而主流 HR SaaS 是给坐办公室的受薪员工设计的 ② 在垂直里找那个唯一杠杆——餐饮零售里排班就是 margin 的唯一变量，抓住它就抓住了预算 ③ 先盈利再拿钱，融资条款会完全不同——Skello 因为不需要钱活下去，这轮融资后创始人持股比例反而上升 ④ 把资本用途从「活下去」改成「买别人」——他们从被整合者变成整合者，四五家并购标的已在名单上 ⑤ AI 定位成增强管理者而不是取代——Skello Assistant 为每位店长每月省约 35 小时，这个数字比「AI 排班」这个概念好卖得多
+流量来源: 从「排班即生死」的餐饮零售切口做起 + 欧洲约 55% 的劳动力是一线员工却长期被数字化工具忽视 + 客户名单的标杆效应（星巴克、Intermarché、Accor、Big
+  Mamma、Groupe Bertrand、Krys）+ 先盈利再融资带来的议价权与买方身份
+可迁移点: ① 选一个「被主流忽略但占多数」的人群——欧洲 55% 的劳动力是一线员工，而主流 HR SaaS 是给坐办公室的受薪员工设计的 ② 在垂直里找那个唯一杠杆——餐饮零售里排班就是
+  margin 的唯一变量，抓住它就抓住了预算 ③ 先盈利再拿钱，融资条款会完全不同——Skello 因为不需要钱活下去，这轮融资后创始人持股比例反而上升 ④ 把资本用途从「活下去」改成「买别人」——他们从被整合者变成整合者，四五家并购标的已在名单上
+  ⑤ AI 定位成增强管理者而不是取代——Skello Assistant 为每位店长每月省约 35 小时，这个数字比「AI 排班」这个概念好卖得多
 原文链接: https://www.skello.io
-数据口径: 融资——2026 年 7 月 2 亿欧元，由 Bridgepoint Development Capital 领投（通过其 BDC V 基金，股债结合），成为最大外部股东；历史投资人 Partech 与 XAnge 跟投，创始人与管理层同步增持，本轮后创始人相对持股比例上升（The Next Web、EU-Startups、The Marketing Loop、Businesslife）；营收——ARR 超 5000 万欧元，2025 年实现盈利；约 3 万家企业客户、70 万日活用户、超 400 名员工（The Next Web、Businesslife、IT Magazine）；产品与客户——覆盖排班、行政管理、劳动合规、工时追踪、薪资准备与 AI 流程自动化；2025 年推出 AI agent Skello Assistant，可标记加班、修正薪资错配、生成合规排班，为每位管理者每月节省约 35 小时；客户包括星巴克、Intermarché、Accor、Big Mamma、Groupe Bertrand、Krys（The Next Web、The Marketing Loop）；竞争格局——西班牙 Factorial 于 6 月以 25 亿美金估值融资 1.5 亿美金，瑞典 Quinyx 累计融资超 1 亿美金（The Next Web）
+数据口径: 融资——2026 年 7 月 2 亿欧元，由 Bridgepoint Development Capital 领投（通过其 BDC V 基金，股债结合），成为最大外部股东；历史投资人
+  Partech 与 XAnge 跟投，创始人与管理层同步增持，本轮后创始人相对持股比例上升（The Next Web、EU-Startups、The Marketing
+  Loop、Businesslife）；营收——ARR 超 5000 万欧元，2025 年实现盈利；约 3 万家企业客户、70 万日活用户、超 400 名员工（The
+  Next Web、Businesslife、IT Magazine）；产品与客户——覆盖排班、行政管理、劳动合规、工时追踪、薪资准备与 AI 流程自动化；2025
+  年推出 AI agent Skello Assistant，可标记加班、修正薪资错配、生成合规排班，为每位管理者每月节省约 35 小时；客户包括星巴克、Intermarché、Accor、Big
+  Mamma、Groupe Bertrand、Krys（The Next Web、The Marketing Loop）；竞争格局——西班牙 Factorial
+  于 6 月以 25 亿美金估值融资 1.5 亿美金，瑞典 Quinyx 累计融资超 1 亿美金（The Next Web）
 类型: 收入案例
 证据等级: 官方披露
 分类: 垂直 SaaS / 一线劳动力管理 / 英文 / 法国
 封面: /case-site/cases/skello/site.png
 ---
+
 
 ![Skello 官网](/cases/skello/site.png)
 

@@ -1,19 +1,23 @@
 ---
-name: "Claw Mart"
-一句话: "提供经过验证的AI角色与技能配置，跳过提示词工程直接获得可落地的自动化解决方案。"
-创始人地区: "由 Felix Craft 创立，US，2026 年成立"
-营收模式: "Skills range from $1 to $99"
-月收入估算: "$6,552/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR55），B2B 受众；官网 https://shopclawmart.com/"
-可迁移点: "① 标准化AI技能包的订阅制变现 ② 通过X平台（原Twitter）建立专业受众 ③ 分层定价策略覆盖$1-$99需求区间 ④ Stripe支付集成实现营收验证透明化 ⑤ 创作者分成模式激励内容生态"
-原文链接: "https://shopclawmart.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:47:22.259Z；域名评分 DR55；原始页 https://trustmrr.com/startup/claw-mart。"
-分类: "AI、Productivity、E-comm、SaaS、Content Creation / B2B / 海外"
+name: Claw Mart
+一句话: 提供经过验证的AI角色与技能配置，跳过提示词工程直接获得可落地的自动化解决方案。
+创始人地区: 由 Felix Craft 创立，US，2026 年成立
+营收模式: Skills range from $1 to $99
+月收入估算: $6,552/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR55），B2B 受众；官网 https://shopclawmart.com/
+可迁移点: ① 标准化AI技能包的订阅制变现 ② 通过X平台（原Twitter）建立专业受众 ③ 分层定价策略覆盖$1-$99需求区间 ④ Stripe支付集成实现营收验证透明化
+  ⑤ 创作者分成模式激励内容生态
+原文链接: https://shopclawmart.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:47:22.259Z；域名评分 DR55；原始页
+  https://trustmrr.com/startup/claw-mart。
+分类: AI、Productivity、E-comm、SaaS、Content Creation / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $6,552 · 活跃订阅 76 · 近12个月营收 $181,701 · 累计营收 $181,701 · 域名 DR55 · 国家 US · 创立 2026-02-05"
-封面: "/case-site/cases/claw-mart/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $6,552 · 活跃订阅 76 · 近12个月营收 $181,701 · 累计营收 $181,701 · 域名
+  DR55 · 国家 US · 创立 2026-02-05
+封面: /case-site/cases/claw-mart/site.webp
 ---
+
 
 ![Claw Mart 官网](/cases/claw-mart/site.webp)
 

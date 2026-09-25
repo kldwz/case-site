@@ -1,19 +1,23 @@
 ---
-name: "Claude Cowork Course"
-一句话: "一个完全通过Claude AI交互完成的免费协作课程，通过SEO获得自然流量并实现咨询变现。"
-创始人地区: "创始人未披露，US，2026 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$120/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR17），B2C 受众；官网 https://claudecoworkcourse.com/"
-可迁移点: "① 将AI工具本身作为教学载体 ② 针对长尾关键词（'Claude Cowork'）的精准SEO策略 ③ 用免费课程建立邮件列表作为核心资产 ④ 通过咨询/培训等后端服务实现轻量变现 ⑤ 内容库+课程包的可组合销售模式"
-原文链接: "https://claudecoworkcourse.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-17T00:08:10.365Z；域名评分 DR17；原始页 https://trustmrr.com/startup/claudecoworkcourse。"
-分类: "AI、Community、Content Creation、Education / B2C / 海外"
+name: Claude Cowork Course
+一句话: 一个完全通过Claude AI交互完成的免费协作课程，通过SEO获得自然流量并实现咨询变现。
+创始人地区: 创始人未披露，US，2026 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $120/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR17），B2C 受众；官网 https://claudecoworkcourse.com/
+可迁移点: ① 将AI工具本身作为教学载体 ② 针对长尾关键词（'Claude Cowork'）的精准SEO策略 ③ 用免费课程建立邮件列表作为核心资产 ④ 通过咨询/培训等后端服务实现轻量变现
+  ⑤ 内容库+课程包的可组合销售模式
+原文链接: https://claudecoworkcourse.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-17T00:08:10.365Z；域名评分 DR17；原始页
+  https://trustmrr.com/startup/claudecoworkcourse。
+分类: AI、Community、Content Creation、Education / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,660 · 累计营收 $2,660 · 域名 DR17 · 国家 US · 创立 2026-01-15"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,660 · 累计营收 $2,660 · 域名 DR17 ·
+  国家 US · 创立 2026-01-15
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Claude Cowork Course：一个完全通过Claude AI交互完成的免费协作课程，通过SEO获得自然流量并实现咨询变现。
 

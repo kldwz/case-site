@@ -4,15 +4,23 @@ name: Rork
 创始人地区: Daniel Dhawan（CEO）与 Levan Kvirkvelia（联合创始人），2024 年创立，总部美国旧金山
 营收模式: 面向非技术用户的 AI 移动 App 生成平台，按对话消息数计费，付费档解锁 GitHub 集成与分析等能力，生成 React Native 跨平台应用
 月收入估算: 未披露当前营收；爆帖后两个月内达到约 55 万美金 ARR（创始人公开自述），爆帖后五天内产生约 10 万美金收入；累计融资至少 1780 万美金
-流量来源: 投资人 Matt Shumer 的一条百万浏览爆帖 + 与竞品 Bolt 同日发布的Timing + 创始人十年的移动开发与分发经验 + App Store 生态的天然长尾搜索
-可迁移点: ① 当巨头占住正面战场时，换一个更难的细分——Lovable 已经拿下了网页端，他们转去做「移动端的 Lovable」 ② 被竞品抢先不等于出局，Bolt 发布移动端时他们选择同日发布，把「迟到」变成「同台」 ③ 现金快断的时候，唯一的策略是让产品在极短时间内可发布，而不是继续打磨 ④ 让早期用户成为传播节点，第一个天使 Matt Shumer 的一条帖子直接改写了公司命运 ⑤ 回到你真正擅长的地方——两位创始人从青少年时期就在做移动 App，移动是他们唯一有复利的战场 ⑥ 把「让消费者变成创业者」当成叙事，比讲技术参数更能穿越周期
+流量来源: 投资人 Matt Shumer 的一条百万浏览爆帖 + 与竞品 Bolt 同日发布的Timing + 创始人十年的移动开发与分发经验 + App Store
+  生态的天然长尾搜索
+可迁移点: ① 当巨头占住正面战场时，换一个更难的细分——Lovable 已经拿下了网页端，他们转去做「移动端的 Lovable」 ② 被竞品抢先不等于出局，Bolt
+  发布移动端时他们选择同日发布，把「迟到」变成「同台」 ③ 现金快断的时候，唯一的策略是让产品在极短时间内可发布，而不是继续打磨 ④ 让早期用户成为传播节点，第一个天使
+  Matt Shumer 的一条帖子直接改写了公司命运 ⑤ 回到你真正擅长的地方——两位创始人从青少年时期就在做移动 App，移动是他们唯一有复利的战场 ⑥ 把「让消费者变成创业者」当成叙事，比讲技术参数更能穿越周期
 原文链接: https://rork.app
-数据口径: 融资——280 万美金种子轮（2025-05，a16z Speedrun 领投，Andrew Chen 主导）、1500 万美金新一轮（2026-04，Left Lane Capital 领投），累计至少 1780 万美金，其他投资方含 Peak XV Partners、Goodwater Capital、True Ventures、Chapter One Ventures、Founders Inc、Hustle Fund 的 Elizabeth Yin、Austen Allred、Expo 的 Charlie Cheever 与 Evan Bacon、Runway 的 Siqi Chen；营收——爆帖后两个月约 55 万美金 ARR，前五天约 10 万美金收入；困境——两人各背 15000 美金信用卡债，Dhawan 借住 YC 创始人朋友家的床垫
+数据口径: 融资——280 万美金种子轮（2025-05，a16z Speedrun 领投，Andrew Chen 主导）、1500 万美金新一轮（2026-04，Left
+  Lane Capital 领投），累计至少 1780 万美金，其他投资方含 Peak XV Partners、Goodwater Capital、True Ventures、Chapter
+  One Ventures、Founders Inc、Hustle Fund 的 Elizabeth Yin、Austen Allred、Expo 的 Charlie
+  Cheever 与 Evan Bacon、Runway 的 Siqi Chen；营收——爆帖后两个月约 55 万美金 ARR，前五天约 10 万美金收入；困境——两人各背
+  15000 美金信用卡债，Dhawan 借住 YC 创始人朋友家的床垫
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 应用生成 / 移动开发 / 开发者工具 / 美国
 封面: /case-site/cases/rork/site.png
 ---
+
 
 ![Rork 官网](/cases/rork/site.png)
 

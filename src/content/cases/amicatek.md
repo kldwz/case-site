@@ -1,19 +1,22 @@
 ---
-name: "Amicatek"
-一句话: "巴西WordPress托管与开发服务商，提供AI驱动的企业技术解决方案"
-创始人地区: "创始人未披露，BR，2024 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$132/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR23），B2B 受众；官网 https://amicatek.com/en"
-可迁移点: "①专注WordPress技术栈的垂直领域服务 ②B2B模式结合AI概念提升服务溢价 ③Stripe验证的小额营收验证商业模式可行性"
-原文链接: "https://amicatek.com/en"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:22:01.434Z；域名评分 DR23；原始页 https://trustmrr.com/startup/amicatek。"
-分类: "Dev Tools、AI、SaaS / B2B / 海外"
+name: Amicatek
+一句话: 巴西WordPress托管与开发服务商，提供AI驱动的企业技术解决方案
+创始人地区: 创始人未披露，BR，2024 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $132/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR23），B2B 受众；官网 https://amicatek.com/en
+可迁移点: ①专注WordPress技术栈的垂直领域服务 ②B2B模式结合AI概念提升服务溢价 ③Stripe验证的小额营收验证商业模式可行性
+原文链接: https://amicatek.com/en
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:22:01.434Z；域名评分 DR23；原始页
+  https://trustmrr.com/startup/amicatek。
+分类: Dev Tools、AI、SaaS / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,592 · 累计营收 $2,404 · 域名 DR23 · 国家 BR · 创立 2024-07-31"
-封面: "/case-site/cases/amicatek/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,592 · 累计营收 $2,404 · 域名 DR23 ·
+  国家 BR · 创立 2024-07-31
+封面: /case-site/cases/amicatek/site.webp
 ---
+
 
 ![Amicatek 官网](/cases/amicatek/site.webp)
 

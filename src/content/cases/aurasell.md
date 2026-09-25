@@ -1,18 +1,31 @@
 ---
 name: Aurasell
 一句话: 一群 VMware、Nutanix、Twilio 老兵受不了销售工具泛滥，重做一个 AI 原生 CRM，3000 万美金种子轮 28 小时关账
-创始人地区: Jason Eubanks（联合创始人兼 CEO，前 VMware、Nutanix、Twilio、Harness 销售运营负责人）与 Srinivas Bandi（联合创始人兼 CTO），美国加州圣马特奥
+创始人地区: Jason Eubanks（联合创始人兼 CEO，前 VMware、Nutanix、Twilio、Harness 销售运营负责人）与 Srinivas
+  Bandi（联合创始人兼 CTO），美国加州圣马特奥
 营收模式: 面向中型企业的 AI 原生 CRM 与 GTM 平台订阅制，年费起价 2 万美金，用一套系统替代 10 到 15 个销售工具
-月收入估算: 未公开披露年度经常性收入；融资总额 3000 万美金；种子轮 3000 万美金于 2025 年 8 月宣布，28 小时内关闭，前 12 小时即锁定 2500 万美金，原计划 4000 万美金后主动缩减
-流量来源: 创始人在 Salesforce、VMware、Nutanix、Twilio、Harness 等公司积累的 GTM 人脉与口碑；主打「工具整合省一半成本」这一 CFO 能直接算账的价值主张；SaaStr 等社区渠道曝光
-可迁移点: ① 卖「整合」比卖「更好用」容易——CFO 能算出省了多少，但算不出「好用」值多少 ② 主动缩减融资额是一种信号管理——从 4000 万压到 3000 万，制造稀缺感 ③ 创始人自己就是被这个问题折磨过的人，这是最可信的产品动机 ④ 在成熟品类里，不要在旧架构上加 AI，而是从数据模型开始重做 ⑤ 定价锚定在客户现在的总支出上，而不是自己的功能数量上
+月收入估算: 未公开披露年度经常性收入；融资总额 3000 万美金；种子轮 3000 万美金于 2025 年 8 月宣布，28 小时内关闭，前 12 小时即锁定 2500
+  万美金，原计划 4000 万美金后主动缩减
+流量来源: 创始人在 Salesforce、VMware、Nutanix、Twilio、Harness 等公司积累的 GTM 人脉与口碑；主打「工具整合省一半成本」这一
+  CFO 能直接算账的价值主张；SaaStr 等社区渠道曝光
+可迁移点: ① 卖「整合」比卖「更好用」容易——CFO 能算出省了多少，但算不出「好用」值多少 ② 主动缩减融资额是一种信号管理——从 4000 万压到 3000
+  万，制造稀缺感 ③ 创始人自己就是被这个问题折磨过的人，这是最可信的产品动机 ④ 在成熟品类里，不要在旧架构上加 AI，而是从数据模型开始重做 ⑤ 定价锚定在客户现在的总支出上，而不是自己的功能数量上
 原文链接: https://www.aurasell.ai
-数据口径: 融资——总额 3000 万美金；种子轮 3000 万美金于 2025 年 8 月宣布，28 小时内关闭，前 12 小时锁定 2500 万美金，原计划 4000 万美金后主动缩减；由 N47（Next47）领投，Menlo Ventures、Unusual Ventures 等参投（SaaStr、Destination CRM、Startup Intros）；定价——面向中型企业年费起价 2 万美金；宣称可为客户降低 GTM 技术栈成本约 50%，并为销售代表节省 30% 到 40% 的行政时间（SaaStr、Destination CRM）；产品——AI 原生 CRM 与 GTM 平台，合并 CRM、销售互动、会话智能、预测、CPQ、数据富化等 12 到 15 类工具；内置数据覆盖 8500 万企业账户与 8.5 亿联系人；AI Agent 处理区域规划、线索挖掘、成交辅导、预测与会话捕获；2026 年 2 月推出 GTM OS，6 月推出 Agent Builder（Destination CRM、Startup Intros、Kurrant AI）；沿革——2024 年创立，2025 年 8 月 26 日公开上线脱离隐身模式（Destination CRM、Startup Intros）；创始人——Jason Eubanks 曾任 VMware、Nutanix、Meraki、Twilio、Harness 等高速增长公司的销售运营负责人，Srinivas Bandi 任 CTO（SaaStr、Startup Intros）
+数据口径: 融资——总额 3000 万美金；种子轮 3000 万美金于 2025 年 8 月宣布，28 小时内关闭，前 12 小时锁定 2500 万美金，原计划 4000
+  万美金后主动缩减；由 N47（Next47）领投，Menlo Ventures、Unusual Ventures 等参投（SaaStr、Destination
+  CRM、Startup Intros）；定价——面向中型企业年费起价 2 万美金；宣称可为客户降低 GTM 技术栈成本约 50%，并为销售代表节省 30% 到
+  40% 的行政时间（SaaStr、Destination CRM）；产品——AI 原生 CRM 与 GTM 平台，合并 CRM、销售互动、会话智能、预测、CPQ、数据富化等
+  12 到 15 类工具；内置数据覆盖 8500 万企业账户与 8.5 亿联系人；AI Agent 处理区域规划、线索挖掘、成交辅导、预测与会话捕获；2026 年
+  2 月推出 GTM OS，6 月推出 Agent Builder（Destination CRM、Startup Intros、Kurrant AI）；沿革——2024
+  年创立，2025 年 8 月 26 日公开上线脱离隐身模式（Destination CRM、Startup Intros）；创始人——Jason Eubanks
+  曾任 VMware、Nutanix、Meraki、Twilio、Harness 等高速增长公司的销售运营负责人，Srinivas Bandi 任 CTO（SaaStr、Startup
+  Intros）
 类型: 收入案例
 证据等级: 官方披露
 分类: 企业软件 / AI 原生 CRM / 英文 / 美国
 封面: /case-site/cases/aurasell/site.png
 ---
+
 
 ![Aurasell 官网](/cases/aurasell/site.png)
 

@@ -1,19 +1,20 @@
 ---
-name: "Evernote Web Clipper"
-一句话: "印象笔记官方推出的Chrome网页剪藏扩展工具。"
-创始人地区: "Chrome 扩展 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "①官方生态的浏览器扩展能增强核心产品粘性 ②工具类插件可作为入口为SaaS产品导流 ③跨国企业可通过浏览器商店实现全球化分发"
-原文链接: "https://evernote.com/"
-数据口径: "公开资料整理（来源：https://evernote.com/），2026-09-17 抓取。收入未官方披露。"
-分类: "Chrome插件/剪藏 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://evernote.com/）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: Evernote Web Clipper
+一句话: 印象笔记官方推出的Chrome网页剪藏扩展工具。
+创始人地区: Chrome 扩展 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ①官方生态的浏览器扩展能增强核心产品粘性 ②工具类插件可作为入口为SaaS产品导流 ③跨国企业可通过浏览器商店实现全球化分发
+原文链接: https://evernote.com/
+数据口径: 公开资料整理（来源：https://evernote.com/），2026-09-17 抓取。收入未官方披露。
+分类: Chrome插件/剪藏 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://evernote.com/）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Evernote Web Clipper：印象笔记官方推出的Chrome网页剪藏扩展工具。
 

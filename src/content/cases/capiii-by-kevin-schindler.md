@@ -1,19 +1,22 @@
 ---
-name: "Capiii by Kevin Schindler"
-一句话: "Capiii 是一款为 Canva 视频添加字幕的即用即付工具，用户通过购买积分来获得字幕分钟数。"
-创始人地区: "由 Kevin Michael Schindler 创立，DE，2024 年成立"
-营收模式: "Pay-as-you-go model with 2 free minutes and $5 for 12 additional minutes."
-月收入估算: "$99/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR29），B2C 受众；官网 https://www.capiii.com/"
-可迁移点: "① 针对特定平台（Canva）的垂直需求开发工具 ② 采用即用即付模式降低用户使用门槛 ③ 提供免费试用额度（2分钟）促进转化"
-原文链接: "https://www.capiii.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:12:26.366Z；域名评分 DR29；原始页 https://trustmrr.com/startup/capiii-by-kevin-schindler。"
-分类: "Content Creation、Social Media / B2C / 海外"
+name: Capiii by Kevin Schindler
+一句话: Capiii 是一款为 Canva 视频添加字幕的即用即付工具，用户通过购买积分来获得字幕分钟数。
+创始人地区: 由 Kevin Michael Schindler 创立，DE，2024 年成立
+营收模式: Pay-as-you-go model with 2 free minutes and $5 for 12 additional minutes.
+月收入估算: $99/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR29），B2C 受众；官网 https://www.capiii.com/
+可迁移点: ① 针对特定平台（Canva）的垂直需求开发工具 ② 采用即用即付模式降低用户使用门槛 ③ 提供免费试用额度（2分钟）促进转化
+原文链接: https://www.capiii.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:12:26.366Z；域名评分 DR29；原始页
+  https://trustmrr.com/startup/capiii-by-kevin-schindler。
+分类: Content Creation、Social Media / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,311 · 累计营收 $3,416 · 域名 DR29 · 国家 DE · 创立 2024-09-20"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,311 · 累计营收 $3,416 · 域名 DR29 ·
+  国家 DE · 创立 2024-09-20
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Capiii by Kevin Schindler
 
 

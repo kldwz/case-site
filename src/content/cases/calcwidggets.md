@@ -1,19 +1,22 @@
 ---
-name: "Calcwidggets"
-一句话: "为澳大利亚和新西兰的金融经纪人提供可嵌入的白标抵押贷款计算器，将网站转化为潜在客户生成工具。"
-创始人地区: "由 Sagar Jani 创立，AU，2026 年成立"
-营收模式: "Start free trial"
-月收入估算: "$160/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR6），B2B 受众；官网 https://calcwidgets.com/"
-可迁移点: "① 针对特定地区（澳新）的金融计算需求设计 ② 白标解决方案帮助客户强化品牌形象 ③ 通过CRM集成实现自动化线索管理 ④ 移动优先设计适配现代使用场景"
-原文链接: "https://calcwidgets.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:37:19.296Z；域名评分 DR6；原始页 https://trustmrr.com/startup/calcwidggets。"
-分类: "Fintech、SaaS、Real Estate、Productivity、No-Code / B2B / 海外"
+name: Calcwidggets
+一句话: 为澳大利亚和新西兰的金融经纪人提供可嵌入的白标抵押贷款计算器，将网站转化为潜在客户生成工具。
+创始人地区: 由 Sagar Jani 创立，AU，2026 年成立
+营收模式: Start free trial
+月收入估算: $160/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR6），B2B 受众；官网 https://calcwidgets.com/
+可迁移点: ① 针对特定地区（澳新）的金融计算需求设计 ② 白标解决方案帮助客户强化品牌形象 ③ 通过CRM集成实现自动化线索管理 ④ 移动优先设计适配现代使用场景
+原文链接: https://calcwidgets.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:37:19.296Z；域名评分 DR6；原始页
+  https://trustmrr.com/startup/calcwidggets。
+分类: Fintech、SaaS、Real Estate、Productivity、No-Code / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $160 · 活跃订阅 3 · 近12个月营收 $1,782 · 累计营收 $1,782 · 域名 DR6 · 国家 AU · 创立 2026-04-24"
-封面: "/case-site/cases/calcwidggets/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $160 · 活跃订阅 3 · 近12个月营收 $1,782 · 累计营收 $1,782 · 域名 DR6 ·
+  国家 AU · 创立 2026-04-24
+封面: /case-site/cases/calcwidggets/site.webp
 ---
+
 # Calcwidggets
 
 

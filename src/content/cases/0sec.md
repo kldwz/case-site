@@ -1,19 +1,22 @@
 ---
-name: "0sec"
-一句话: "0sec 是一款通过语音指令管理日程的 AI 日历应用。"
-创始人地区: "由 potemin 创立，RU，2025 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$152/月（RevenueCat 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR7），B2C 受众；官网 http://0sec.app/"
-可迁移点: "① 语音交互简化日程管理场景 ② 轻量化工具型产品验证需求 ③ RevenueCat 实现支付验证标准化"
-原文链接: "http://0sec.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:04:42.065Z；域名评分 DR7；原始页 https://trustmrr.com/startup/0sec。"
-分类: "AI、Mobile Apps、Productivity、SaaS / B2C / 海外"
-类型: "收入案例"
-证据等级: "官方披露"
-平台数据: "支付验证：RevenueCat · 当前 MRR $152 · 活跃订阅 13 · 近12个月营收 $688 · 累计营收 $688 · 域名 DR7 · 国家 RU · 创立 2025-08-22"
-封面: "/case-site/cases/0sec/site.webp"
+name: 0sec
+一句话: 0sec 是一款通过语音指令管理日程的 AI 日历应用。
+创始人地区: 由 potemin 创立，RU，2025 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $152/月（RevenueCat 验证）
+流量来源: SEO 自然流量为主（域名评分 DR7），B2C 受众；官网 http://0sec.app/
+可迁移点: ① 语音交互简化日程管理场景 ② 轻量化工具型产品验证需求 ③ RevenueCat 实现支付验证标准化
+原文链接: http://0sec.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T09:04:42.065Z；域名评分
+  DR7；原始页 https://trustmrr.com/startup/0sec。
+分类: AI、Mobile Apps、Productivity、SaaS / B2C / 海外
+类型: 收入案例
+证据等级: 官方披露
+平台数据: 支付验证：RevenueCat · 当前 MRR $152 · 活跃订阅 13 · 近12个月营收 $688 · 累计营收 $688 · 域名 DR7
+  · 国家 RU · 创立 2025-08-22
+封面: /case-site/cases/0sec/site.webp
 ---
+
 # 0sec
 
 

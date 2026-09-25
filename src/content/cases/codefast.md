@@ -1,19 +1,22 @@
 ---
-name: "CodeFast"
-一句话: "A course to learn how to code in days, not years"
-创始人地区: "由 Marc Lou 创立，SG，2024 年成立"
-营收模式: "$299 USD for CodeFast Course, $299 USD for CodeFast Course + ShipFast bundle"
-月收入估算: "$6,422/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR53），B2C 受众；官网 https://codefa.st/"
-可迁移点: "① 聚焦特定用户痛点（传统编程课程过长） ② 明确的价值主张（快速构建真实业务） ③ 捆绑销售策略（课程+工具组合包） ④ 定价直接对标结果（$299一次性付费）"
-原文链接: "https://codefa.st/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T20:00:57.743Z；域名评分 DR53；原始页 https://trustmrr.com/startup/codefast。"
-分类: "Education、Dev Tools、SaaS、AI、Productivity / B2C / 海外"
+name: CodeFast
+一句话: A course to learn how to code in days, not years
+创始人地区: 由 Marc Lou 创立，SG，2024 年成立
+营收模式: $299 USD for CodeFast Course, $299 USD for CodeFast Course + ShipFast bundle
+月收入估算: $6,422/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR53），B2C 受众；官网 https://codefa.st/
+可迁移点: ① 聚焦特定用户痛点（传统编程课程过长） ② 明确的价值主张（快速构建真实业务） ③ 捆绑销售策略（课程+工具组合包） ④ 定价直接对标结果（$299一次性付费）
+原文链接: https://codefa.st/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T20:00:57.743Z；域名评分 DR53；原始页
+  https://trustmrr.com/startup/codefast。
+分类: Education、Dev Tools、SaaS、AI、Productivity / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $163,805 · 累计营收 $828,569 · 域名 DR53 · 国家 SG · 创立 2024-08-14"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $163,805 · 累计营收 $828,569 · 域名 DR53
+  · 国家 SG · 创立 2024-08-14
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # CodeFast：A course to learn how to code in days, not years
 

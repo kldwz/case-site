@@ -1,18 +1,31 @@
 ---
 name: HyperVerge
 一句话: 五个 IIT 马德拉斯校友只融过 110 万美金，把印度 KYC 做到 1900 万美金以上 ARR，累计验证身份超 10 亿次
-创始人地区: Kedar Kulkarni（联合创始人兼 CEO）、Kishore Natarajan（联合创始人）、Vignesh Krishnakumar（联合创始人兼 CTO）、Saivenkatesh Ashokkumar、Praveen Kumar，总部印度金奈并在美国帕洛阿尔托设点
+创始人地区: Kedar Kulkarni（联合创始人兼 CEO）、Kishore Natarajan（联合创始人）、Vignesh Krishnakumar（联合创始人兼
+  CTO）、Saivenkatesh Ashokkumar、Praveen Kumar，总部印度金奈并在美国帕洛阿尔托设点
 营收模式: AI 身份核验、视频 KYC 与 OCR 平台，按核验次数计费；印度 BFSI 客户的年合同规模约 50 万至 2 亿卢比
 月收入估算: ARR 约 1900 万美金以上；印度实体 FY25（截至 2025 年 3 月 31 日）收入约 14.9 亿卢比；累计融资仅约 110 万美金
-流量来源: 源自 IIT 马德拉斯计算机视觉实验室 + 专为印度人脸、印度证件与 2G 低带宽优化的本地化模型 + 国家级项目背书（印度 AI 使命国家考试人脸识别项目全国两个中标方之一，1 亿卢比两年合同）+ 客户名单（Jio、SBI、LIC、Bajaj、Aditya Birla Capital、CRED、Swiggy、Grab）
-可迁移点: ① 通用模型打不过本地化模型——印度 KYC 卡在印度人脸训练、印度证件 OCR 和农村低带宽三件事上，全球大厂没做，这就是机会 ② 资本效率可以是产品策略而不是妥协——融 110 万美金做到 1900 万美金 ARR，意味着每一个决策都必须自负盈亏，反而筛掉了所有伪需求 ③ 为最低端的设备做优化，会意外打开最大的市场——他们支持约 100 万种售价低于 150 美金的机型，而竞品只服务 250 美金以上的高端机 ④ 从校园实验室长出来的技术团队，护城河在时间而不在钱——团队源自 2009 年的 IIT 马德拉斯计算机视觉小组，这个积累花钱买不到 ⑤ 政府背书在新兴市场是最硬的信任状——拿下印度 AI 使命的国家级合同，等于向所有国有银行证明这家公司经得起采购审查
+流量来源: 源自 IIT 马德拉斯计算机视觉实验室 + 专为印度人脸、印度证件与 2G 低带宽优化的本地化模型 + 国家级项目背书（印度 AI 使命国家考试人脸识别项目全国两个中标方之一，1
+  亿卢比两年合同）+ 客户名单（Jio、SBI、LIC、Bajaj、Aditya Birla Capital、CRED、Swiggy、Grab）
+可迁移点: ① 通用模型打不过本地化模型——印度 KYC 卡在印度人脸训练、印度证件 OCR 和农村低带宽三件事上，全球大厂没做，这就是机会 ② 资本效率可以是产品策略而不是妥协——融
+  110 万美金做到 1900 万美金 ARR，意味着每一个决策都必须自负盈亏，反而筛掉了所有伪需求 ③ 为最低端的设备做优化，会意外打开最大的市场——他们支持约
+  100 万种售价低于 150 美金的机型，而竞品只服务 250 美金以上的高端机 ④ 从校园实验室长出来的技术团队，护城河在时间而不在钱——团队源自 2009
+  年的 IIT 马德拉斯计算机视觉小组，这个积累花钱买不到 ⑤ 政府背书在新兴市场是最硬的信任状——拿下印度 AI 使命的国家级合同，等于向所有国有银行证明这家公司经得起采购审查
 原文链接: https://www.hyperverge.co
-数据口径: 营收与融资——ARR 超 1900 万美金，累计融资约 110 万美金（来自 NEA、Naya Ventures、Milliways Ventures、Dallas Venture Capital）；印度实体 FY25（截至 2025 年 3 月 31 日）收入约 14.9 亿卢比（HyperVerge 官网关于我们页、productgrowth 公司档案、Inventiva）；规模——累计验证身份超 10 亿次，服务 200 家以上客户，覆盖 195 个以上国家；2023 年处理身份数超 7.5 亿次，为当时全球核验平台最高纪录；2024 年推出端到端开户平台 HyperVerge ONE（HyperVerge 官网、Inventiva）；客户——Jio、SBI、LIC、Bajaj、Aditya Birla Capital、CRED、Swiggy、Grab、Vodafone、Home Credit、L&T Financial Services（HyperVerge 官网、Times of India 对 CEO Kedar Kulkarni 的专访）；技术——OCR、人脸比对与活体检测精度全球领先，OCR 新证件训练样本可低至 10 个；支持约 100 万种售价低于 150 美金的机型，可在 2G 与 3G 网络下运行（Times of India 专访、productgrowth）；背书——从 25 支以上竞标团队中胜出，成为印度 AI 使命国家公共考试人脸识别项目的两个中标方之一，合同金额 1 亿卢比、为期两年（productgrowth）
+数据口径: 营收与融资——ARR 超 1900 万美金，累计融资约 110 万美金（来自 NEA、Naya Ventures、Milliways Ventures、Dallas
+  Venture Capital）；印度实体 FY25（截至 2025 年 3 月 31 日）收入约 14.9 亿卢比（HyperVerge 官网关于我们页、productgrowth
+  公司档案、Inventiva）；规模——累计验证身份超 10 亿次，服务 200 家以上客户，覆盖 195 个以上国家；2023 年处理身份数超 7.5 亿次，为当时全球核验平台最高纪录；2024
+  年推出端到端开户平台 HyperVerge ONE（HyperVerge 官网、Inventiva）；客户——Jio、SBI、LIC、Bajaj、Aditya
+  Birla Capital、CRED、Swiggy、Grab、Vodafone、Home Credit、L&T Financial Services（HyperVerge
+  官网、Times of India 对 CEO Kedar Kulkarni 的专访）；技术——OCR、人脸比对与活体检测精度全球领先，OCR 新证件训练样本可低至
+  10 个；支持约 100 万种售价低于 150 美金的机型，可在 2G 与 3G 网络下运行（Times of India 专访、productgrowth）；背书——从
+  25 支以上竞标团队中胜出，成为印度 AI 使命国家公共考试人脸识别项目的两个中标方之一，合同金额 1 亿卢比、为期两年（productgrowth）
 类型: 收入案例
 证据等级: 官方披露
 分类: 垂直 AI / 身份核验与 KYC / 英文 / 印度
 封面: /case-site/cases/hyperverge/site.png
 ---
+
 
 ![HyperVerge 官网](/cases/hyperverge/site.png)
 

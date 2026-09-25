@@ -1,19 +1,23 @@
 ---
-name: "Analyse"
-一句话: "Analyse 是一个集网站分析、AI SEO 内容引擎和数据助手于一体的订阅制 SaaS 工具。"
-创始人地区: "由 Analyse 创立，GR，2026 年成立"
-营收模式: "Starter: $29/mo, Pro: $89/mo, Autopilot: $249/mo"
-月收入估算: "$494/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR29），B2B 受众；官网 https://analyse.net/"
-可迁移点: "① 将多个增长工具（分析、SEO、数据查询）整合为统一工作流 ② 通过免 SQL 的交互式分析降低使用门槛 ③ 提供从数据洞察到内容生产的闭环解决方案 ④ 采用符合隐私规范的欧盟服务器托管 ⑤ 通过主流 AI 工具（Claude/Cursor）扩展使用场景"
-原文链接: "https://analyse.net/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:36:48.582Z；域名评分 DR29；原始页 https://trustmrr.com/startup/analyse。"
-分类: "Analytics、SaaS、AI / B2B / 海外"
+name: Analyse
+一句话: Analyse 是一个集网站分析、AI SEO 内容引擎和数据助手于一体的订阅制 SaaS 工具。
+创始人地区: 由 Analyse 创立，GR，2026 年成立
+营收模式: 'Starter: $29/mo, Pro: $89/mo, Autopilot: $249/mo'
+月收入估算: $494/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR29），B2B 受众；官网 https://analyse.net/
+可迁移点: ① 将多个增长工具（分析、SEO、数据查询）整合为统一工作流 ② 通过免 SQL 的交互式分析降低使用门槛 ③ 提供从数据洞察到内容生产的闭环解决方案
+  ④ 采用符合隐私规范的欧盟服务器托管 ⑤ 通过主流 AI 工具（Claude/Cursor）扩展使用场景
+原文链接: https://analyse.net/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:36:48.582Z；域名评分 DR29；原始页
+  https://trustmrr.com/startup/analyse。
+分类: Analytics、SaaS、AI / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $494 · 活跃订阅 21 · 近12个月营收 $1,356 · 累计营收 $1,356 · 域名 DR29 · 国家 GR · 创立 2026-01-01"
-封面: "/case-site/cases/analyse/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $494 · 活跃订阅 21 · 近12个月营收 $1,356 · 累计营收 $1,356 · 域名 DR29
+  · 国家 GR · 创立 2026-01-01
+封面: /case-site/cases/analyse/site.webp
 ---
+
 
 ![Analyse 官网](/cases/analyse/site.webp)
 

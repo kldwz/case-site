@@ -1,19 +1,22 @@
 ---
-name: "AI Renamer"
-一句话: "AI Renamer 是一款利用 AI 根据文件内容自动重命名的工具，适合高效整理图片和文档。"
-创始人地区: "由 Ozgur Ozer 创立，TR，2025 年成立"
-营收模式: "Local Mode: $19 one-time, Cloud Mode: $10/200 credits"
-月收入估算: "$100/月（Polar 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR35），B2C 受众；官网 https://airenamer.app/"
-可迁移点: "① 一次性付费与按需付费结合的混合定价模式 ② 针对文件管理这一具体场景的 AI 应用 ③ 通过 Polar 进行支付验证增加可信度"
-原文链接: "https://airenamer.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-15T08:24:21.863Z；域名评分 DR35；原始页 https://trustmrr.com/startup/ai-renamer。"
-分类: "AI、Productivity、Utilities / B2C / 海外"
+name: AI Renamer
+一句话: AI Renamer 是一款利用 AI 根据文件内容自动重命名的工具，适合高效整理图片和文档。
+创始人地区: 由 Ozgur Ozer 创立，TR，2025 年成立
+营收模式: 'Local Mode: $19 one-time, Cloud Mode: $10/200 credits'
+月收入估算: $100/月（Polar 验证）
+流量来源: SEO 自然流量为主（域名评分 DR35），B2C 受众；官网 https://airenamer.app/
+可迁移点: ① 一次性付费与按需付费结合的混合定价模式 ② 针对文件管理这一具体场景的 AI 应用 ③ 通过 Polar 进行支付验证增加可信度
+原文链接: https://airenamer.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-15T08:24:21.863Z；域名评分 DR35；原始页
+  https://trustmrr.com/startup/ai-renamer。
+分类: AI、Productivity、Utilities / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Polar · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $5,094 · 累计营收 $7,435 · 域名 DR35 · 国家 TR · 创立 2025-02-09"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Polar · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $5,094 · 累计营收 $7,435 · 域名 DR35 · 国家
+  TR · 创立 2025-02-09
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # AI Renamer：是一款利用 AI 根据文件内容自动重命名的工具，适合高效整理图片和文档。
 

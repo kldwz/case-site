@@ -1,19 +1,23 @@
 ---
-name: "Angular Material Blocks"
-一句话: "Angular Material Blocks 是一个提供预构建 UI 块和模板的 Angular 开发工具，附带 CLI 工具。"
-创始人地区: "由 Dharmen Shah 😎 创立，IN，2023 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$237/月（Paddle 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR37），未披露 受众；官网 https://ui.angular-material.dev/"
-可迁移点: "① 通过多个相关域名（angular-ui.com, angular-material.dev 等）分散流量来源 ② 提供 CLI 工具增强开发者体验 ③ 采用 Paddle 作为支付验证服务商"
-原文链接: "https://ui.angular-material.dev/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T10:29:59.211Z；域名评分 DR37；原始页 https://trustmrr.com/startup/angular-material-blocks。"
-分类: "Dev Tools / 未披露 / 海外"
+name: Angular Material Blocks
+一句话: Angular Material Blocks 是一个提供预构建 UI 块和模板的 Angular 开发工具，附带 CLI 工具。
+创始人地区: 由 Dharmen Shah 😎 创立，IN，2023 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $237/月（Paddle 验证）
+流量来源: SEO 自然流量为主（域名评分 DR37），未披露 受众；官网 https://ui.angular-material.dev/
+可迁移点: ① 通过多个相关域名（angular-ui.com, angular-material.dev 等）分散流量来源 ② 提供 CLI 工具增强开发者体验
+  ③ 采用 Paddle 作为支付验证服务商
+原文链接: https://ui.angular-material.dev/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T10:29:59.211Z；域名评分 DR37；原始页
+  https://trustmrr.com/startup/angular-material-blocks。
+分类: Dev Tools / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Paddle · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $4,088 · 累计营收 $9,422 · 域名 DR37 · 国家 IN · 创立 2023-08-15"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Paddle · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $4,088 · 累计营收 $9,422 · 域名 DR37 ·
+  国家 IN · 创立 2023-08-15
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Angular Material Blocks：是一个提供预构建 UI 块和模板的 Angular 开发工具，附带 CLI 工具。
 

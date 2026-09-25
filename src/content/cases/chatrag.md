@@ -1,19 +1,22 @@
 ---
-name: "ChatRAG"
-一句话: "Ship AI chatbots in hours, not months"
-创始人地区: "由 Carlos Marcial 创立"
-营收模式: "ChatRAG Starter $299$199 USD, ChatRAG Complete $369$269 USD"
-月收入估算: "$0/月（Polar 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR13），B2B 受众；官网 https://www.chatrag.ai/"
-可迁移点: "① 提供一次性付费的Next.js样板代码，降低SaaS开发门槛 ② 瞄准B2B市场，通过RAG技术帮助客户将数据转化为收入 ③ 采用高价买断制（$199-$269），而非订阅模式"
-原文链接: "https://www.chatrag.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-16T20:23:10.111Z；域名评分 DR13；原始页 https://trustmrr.com/startup/chatrag。"
-分类: "AI、Dev Tools、SaaS、Content Creation、Customer Support / B2B / 海外"
+name: ChatRAG
+一句话: Ship AI chatbots in hours, not months
+创始人地区: 由 Carlos Marcial 创立
+营收模式: ChatRAG Starter $299$199 USD, ChatRAG Complete $369$269 USD
+月收入估算: $0/月（Polar 验证）
+流量来源: SEO 自然流量为主（域名评分 DR13），B2B 受众；官网 https://www.chatrag.ai/
+可迁移点: ① 提供一次性付费的Next.js样板代码，降低SaaS开发门槛 ② 瞄准B2B市场，通过RAG技术帮助客户将数据转化为收入 ③ 采用高价买断制（$199-$269），而非订阅模式
+原文链接: https://www.chatrag.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-16T20:23:10.111Z；域名评分 DR13；原始页
+  https://trustmrr.com/startup/chatrag。
+分类: AI、Dev Tools、SaaS、Content Creation、Customer Support / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Polar · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $8,669 · 累计营收 $8,669 · 域名 DR13 · 国家 PT · 创立 未披露"
-封面: "/case-site/cases/chatrag/site.webp"
+平台数据: 支付验证：Polar · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $8,669 · 累计营收 $8,669 · 域名 DR13 · 国家
+  PT · 创立 未披露
+封面: /case-site/cases/chatrag/site.webp
 ---
+
 
 ![ChatRAG 官网](/cases/chatrag/site.webp)
 

@@ -1,19 +1,22 @@
 ---
-name: "Coach-Halo"
-一句话: "Coach-Halo是一个帮助职业和生活教练与潜在客户匹配的SaaS平台。"
-创始人地区: "创始人未披露，US，2024 年成立"
-营收模式: "$35 / mo"
-月收入估算: "$205/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR4），B2B 受众；官网 https://coach-halo.com/"
-可迁移点: "① 聚焦B2B细分市场（教练行业）的获客痛点 ② 采用订阅制定价（$35/月）实现稳定现金流 ③ 通过自动化匹配减少客户主动推销时间 ④ 初期验证阶段采用Stripe快速接入支付"
-原文链接: "https://coach-halo.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:19:19.227Z；域名评分 DR4；原始页 https://trustmrr.com/startup/coach-halo。"
-分类: "Health & Fitness、SaaS、AI、Recruiting & HR / B2B / 海外"
+name: Coach-Halo
+一句话: Coach-Halo是一个帮助职业和生活教练与潜在客户匹配的SaaS平台。
+创始人地区: 创始人未披露，US，2024 年成立
+营收模式: $35 / mo
+月收入估算: $205/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR4），B2B 受众；官网 https://coach-halo.com/
+可迁移点: ① 聚焦B2B细分市场（教练行业）的获客痛点 ② 采用订阅制定价（$35/月）实现稳定现金流 ③ 通过自动化匹配减少客户主动推销时间 ④ 初期验证阶段采用Stripe快速接入支付
+原文链接: https://coach-halo.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:19:19.227Z；域名评分 DR4；原始页
+  https://trustmrr.com/startup/coach-halo。
+分类: Health & Fitness、SaaS、AI、Recruiting & HR / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $205 · 活跃订阅 10 · 近12个月营收 $3,121 · 累计营收 $3,726 · 域名 DR4 · 国家 US · 创立 2024-05-01"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $205 · 活跃订阅 10 · 近12个月营收 $3,121 · 累计营收 $3,726 · 域名 DR4
+  · 国家 US · 创立 2024-05-01
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Coach-Halo：是一个帮助职业和生活教练与潜在客户匹配的SaaS平台。
 

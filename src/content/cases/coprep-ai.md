@@ -1,19 +1,22 @@
 ---
-name: "CoPrep AI"
-一句话: "AI驱动的职业助手，提供面试辅导和简历优化服务"
-创始人地区: "由 Rajat Sachdeva 创立，CA，2025 年成立"
-营收模式: "Starter: $12/120 credits, Pro: $24/360 credits, Elite: $48/840 credits"
-月收入估算: "$620/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR27），B2C 受众；官网 https://coprep.ai/"
-可迁移点: "① 采用积分制订阅模式实现分层变现 ② 聚焦垂直领域（求职辅导）的AI应用场景 ③ 通过Stripe实现轻量级支付验证体系"
-原文链接: "https://coprep.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:57:41.939Z；域名评分 DR27；原始页 https://trustmrr.com/startup/coprep-ai。"
-分类: "AI、SaaS、Education、Productivity、Recruiting & HR / B2C / 海外"
+name: CoPrep AI
+一句话: AI驱动的职业助手，提供面试辅导和简历优化服务
+创始人地区: 由 Rajat Sachdeva 创立，CA，2025 年成立
+营收模式: 'Starter: $12/120 credits, Pro: $24/360 credits, Elite: $48/840 credits'
+月收入估算: $620/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR27），B2C 受众；官网 https://coprep.ai/
+可迁移点: ① 采用积分制订阅模式实现分层变现 ② 聚焦垂直领域（求职辅导）的AI应用场景 ③ 通过Stripe实现轻量级支付验证体系
+原文链接: https://coprep.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:57:41.939Z；域名评分 DR27；原始页
+  https://trustmrr.com/startup/coprep-ai。
+分类: AI、SaaS、Education、Productivity、Recruiting & HR / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $620 · 活跃订阅 11 · 近12个月营收 $14,881 · 累计营收 $14,881 · 域名 DR27 · 国家 CA · 创立 2025-09-01"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $620 · 活跃订阅 11 · 近12个月营收 $14,881 · 累计营收 $14,881 · 域名 DR27
+  · 国家 CA · 创立 2025-09-01
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # CoPrep AI
 
 

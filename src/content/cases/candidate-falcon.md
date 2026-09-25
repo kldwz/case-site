@@ -1,19 +1,22 @@
 ---
-name: "Candidate Falcon"
-一句话: "Candidate Falcon 为求职者提供 HireVue 等现代招聘评估平台的模拟练习服务。"
-创始人地区: "由 Luca Ardito 创立，IT，2026 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$220/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR19），B2C 受众；官网 https://www.candidatefalcon.com/"
-可迁移点: "① 瞄准特定痛点：74%合格候选人因不熟悉评估形式而失败 ② 聚焦垂直领域：专注视频面试平台模拟这一细分场景 ③ 轻量化验证：通过 Stripe 实现支付闭环的最小可行性验证"
-原文链接: "https://www.candidatefalcon.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:36:03.693Z；域名评分 DR19；原始页 https://trustmrr.com/startup/candidate-falcon。"
-分类: "Education、Recruiting & HR、Productivity / B2C / 海外"
+name: Candidate Falcon
+一句话: Candidate Falcon 为求职者提供 HireVue 等现代招聘评估平台的模拟练习服务。
+创始人地区: 由 Luca Ardito 创立，IT，2026 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $220/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR19），B2C 受众；官网 https://www.candidatefalcon.com/
+可迁移点: ① 瞄准特定痛点：74%合格候选人因不熟悉评估形式而失败 ② 聚焦垂直领域：专注视频面试平台模拟这一细分场景 ③ 轻量化验证：通过 Stripe 实现支付闭环的最小可行性验证
+原文链接: https://www.candidatefalcon.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:36:03.693Z；域名评分 DR19；原始页
+  https://trustmrr.com/startup/candidate-falcon。
+分类: Education、Recruiting & HR、Productivity / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $220 · 活跃订阅 11 · 近12个月营收 $2,165 · 累计营收 $2,165 · 域名 DR19 · 国家 IT · 创立 2026-03-10"
-封面: "/case-site/cases/candidate-falcon/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $220 · 活跃订阅 11 · 近12个月营收 $2,165 · 累计营收 $2,165 · 域名 DR19
+  · 国家 IT · 创立 2026-03-10
+封面: /case-site/cases/candidate-falcon/site.webp
 ---
+
 # Candidate Falcon
 
 

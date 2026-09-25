@@ -1,19 +1,20 @@
 ---
-name: "Print Friendly"
-一句话: "Print Friendly 是一款帮助用户优化网页打印效果的 Chrome 扩展。"
-创始人地区: "Chrome 扩展 · 公开资料可查"
-营收模式: "未官方披露"
-月收入估算: "未官方披露"
-流量来源: "公开资料可查，具体流量数据未官方披露"
-可迁移点: "① 解决特定场景下的用户痛点（网页打印格式混乱） ② 轻量级工具型产品开发模式 ③ 浏览器扩展作为低门槛产品形态"
-原文链接: "https://www.printfriendly.com/"
-数据口径: "公开资料整理（来源：https://www.printfriendly.com/），2026-09-17 抓取。收入未官方披露。"
-分类: "Chrome插件/打印 / 中文 / 国内"
-类型: "国内实践"
-证据等级: "公开资料"
-平台数据: "公开资料（https://www.printfriendly.com/）"
-封面: "/case-site/cases/_placeholder/site.png"
+name: Print Friendly
+一句话: Print Friendly 是一款帮助用户优化网页打印效果的 Chrome 扩展。
+创始人地区: Chrome 扩展 · 公开资料可查
+营收模式: 未官方披露
+月收入估算: 未官方披露
+流量来源: 公开资料可查，具体流量数据未官方披露
+可迁移点: ① 解决特定场景下的用户痛点（网页打印格式混乱） ② 轻量级工具型产品开发模式 ③ 浏览器扩展作为低门槛产品形态
+原文链接: https://www.printfriendly.com/
+数据口径: 公开资料整理（来源：https://www.printfriendly.com/），2026-09-17 抓取。收入未官方披露。
+分类: Chrome插件/打印 / 中文 / 国内
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: 公开资料（https://www.printfriendly.com/）
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Print Friendly：Print Friendly 是一款帮助用户优化网页打印效果的 Chrome 扩展。
 

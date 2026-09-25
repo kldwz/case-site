@@ -1,11 +1,15 @@
 ---
 name: Mad Street Den
-一句话: 2014 年从钦奈起步，用计算机视觉给时尚电商做"自动 tagging + 搭配推荐"，客户含 Thredup / Tata CLiQ，Sequoia India 投了 A 轮
-创始人地区: Ashwini Asokan（CEO，ex-Intel，CMU）+ Anand Chandrasekaran（CTO，IIT Madras，神经科学 PhD，ex-Stanford），2014 创立，钦奈
+一句话: 2014 年从钦奈起步，用计算机视觉给时尚电商做"自动 tagging + 搭配推荐"，客户含 Thredup / Tata CLiQ，Sequoia India
+  投了 A 轮
+创始人地区: Ashwini Asokan（CEO，ex-Intel，CMU）+ Anand Chandrasekaran（CTO，IIT Madras，神经科学
+  PhD，ex-Stanford），2014 创立，钦奈
 营收模式: 企业级 API / 平台订阅（MADstack 视觉平台 / Vue.ai 时尚零售 AI），按调用量或模块年费收费
 月收入估算: 2015 年 1 月 150 万美金种子（Exfinity + GrowX）；2016 年 Sequoia India Series A（金额未披露）；营收未公开披露
 流量来源: 时尚零售大客户直签（Thredup / Tata CLiQ / Craftsvilla / Voonik）+ 印度 SaaS 出海口碑
-可迁移点: ① 2014 年就开始做"垂直视觉 AI"，比这波生成式 AI 早了快十年——垂直深耕的先发优势是真金 ② 选"时尚电商"这个"图多、标签乱、人贵"的行业，CV 的 ROI 一眼可见 ③ 把内部 CV 能力平台化（MADstack）再对外卖，从项目制变平台制 ④ 印度团队也能做企业级 AI 卖给欧美客户，地理位置不是天花板 ⑤ 用"自动 tagging"这种具体小痛点切入，比空谈"AI 赋能零售"好卖一百倍
+可迁移点: ① 2014 年就开始做"垂直视觉 AI"，比这波生成式 AI 早了快十年——垂直深耕的先发优势是真金 ② 选"时尚电商"这个"图多、标签乱、人贵"的行业，CV
+  的 ROI 一眼可见 ③ 把内部 CV 能力平台化（MADstack）再对外卖，从项目制变平台制 ④ 印度团队也能做企业级 AI 卖给欧美客户，地理位置不是天花板
+  ⑤ 用"自动 tagging"这种具体小痛点切入，比空谈"AI 赋能零售"好卖一百倍
 原文链接: https://madstreetden.com
 数据口径: Crunchbase / Tracxn 融资记录（2015 种子、2016 Sequoia India A 轮）、madstreetden.com 官网客户页；营收未披露
 类型: 收入案例
@@ -13,6 +17,7 @@ name: Mad Street Den
 分类: 计算机视觉 / 时尚电商 / 企业服务 / 英文
 封面: /case-site/cases/mad-street-den/site.png
 ---
+
 
 ![Mad Street Den 官网](/cases/mad-street-den/site.png)
 

@@ -1,19 +1,22 @@
 ---
-name: "Ad Machine"
-一句话: "AI驱动的创意代理工具，通过单张产品照片快速生成多平台广告素材"
-创始人地区: "由 Jake Baumann 创立，US，2025 年成立"
-营收模式: "Freelancer: $59/mo, Studio: $129/mo, Growth: $300/mo"
-月收入估算: "$1,870/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://admachine.xyz/"
-可迁移点: "① 聚焦垂直场景（电商广告素材生成） ② 分层订阅模式覆盖不同规模客户 ③ 完全依赖AI替代传统设计流程 ④ 最小化用户输入（单图上传） ⑤ 明确产出物适配主流广告平台"
-原文链接: "https://admachine.xyz/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:41:55.809Z；域名评分 DR1；原始页 https://trustmrr.com/startup/ad-machine。"
-分类: "Marketing、AI、SaaS、Content Creation / B2B / 海外"
+name: Ad Machine
+一句话: AI驱动的创意代理工具，通过单张产品照片快速生成多平台广告素材
+创始人地区: 由 Jake Baumann 创立，US，2025 年成立
+营收模式: 'Freelancer: $59/mo, Studio: $129/mo, Growth: $300/mo'
+月收入估算: $1,870/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://admachine.xyz/
+可迁移点: ① 聚焦垂直场景（电商广告素材生成） ② 分层订阅模式覆盖不同规模客户 ③ 完全依赖AI替代传统设计流程 ④ 最小化用户输入（单图上传） ⑤ 明确产出物适配主流广告平台
+原文链接: https://admachine.xyz/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:41:55.809Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/ad-machine。
+分类: Marketing、AI、SaaS、Content Creation / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $1,870 · 活跃订阅 21 · 近12个月营收 $30,386 · 累计营收 $30,386 · 域名 DR1 · 国家 US · 创立 2025-12-06"
-封面: "/case-site/cases/ad-machine/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $1,870 · 活跃订阅 21 · 近12个月营收 $30,386 · 累计营收 $30,386 · 域名
+  DR1 · 国家 US · 创立 2025-12-06
+封面: /case-site/cases/ad-machine/site.webp
 ---
+
 
 ![Ad Machine 官网](/cases/ad-machine/site.webp)
 

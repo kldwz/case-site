@@ -1,19 +1,23 @@
 ---
-name: "CodeAI Studio"
-一句话: "AI驱动的多产品线编程助手平台，含网页应用、API服务、VS Code插件和营销落地页，技术栈完整但当前免费运营。"
-创始人地区: "由 Zahid 创立，GB，2023 年成立"
-营收模式: "Free"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR5），B2C 受众；官网 https://www.codeai.studio/"
-可迁移点: "① 多形态产品矩阵覆盖开发者工作流全场景 ② 技术栈选择体现生产环境成熟度(Next.js/Express/Socket.IO) ③ 有机流量获取策略初见成效(~4K周搜索曝光) ④ 支付/认证等基础设施预集成降低商业化门槛"
-原文链接: "https://www.codeai.studio/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:45:02.249Z；域名评分 DR5；原始页 https://trustmrr.com/startup/codeai-studio。"
-分类: "AI、Dev Tools、SaaS、No-Code / B2C / 海外"
+name: CodeAI Studio
+一句话: AI驱动的多产品线编程助手平台，含网页应用、API服务、VS Code插件和营销落地页，技术栈完整但当前免费运营。
+创始人地区: 由 Zahid 创立，GB，2023 年成立
+营收模式: Free
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR5），B2C 受众；官网 https://www.codeai.studio/
+可迁移点: ① 多形态产品矩阵覆盖开发者工作流全场景 ② 技术栈选择体现生产环境成熟度(Next.js/Express/Socket.IO) ③ 有机流量获取策略初见成效(~4K周搜索曝光)
+  ④ 支付/认证等基础设施预集成降低商业化门槛
+原文链接: https://www.codeai.studio/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:45:02.249Z；域名评分 DR5；原始页
+  https://trustmrr.com/startup/codeai-studio。
+分类: AI、Dev Tools、SaaS、No-Code / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,032 · 累计营收 $3,573 · 域名 DR5 · 国家 GB · 创立 2023-07-07"
-封面: "/case-site/cases/codeai-studio/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,032 · 累计营收 $3,573 · 域名 DR5 · 国家
+  GB · 创立 2023-07-07
+封面: /case-site/cases/codeai-studio/site.webp
 ---
+
 
 ![CodeAI Studio 官网](/cases/codeai-studio/site.webp)
 

@@ -1,19 +1,22 @@
 ---
-name: "AI Natural Write"
-一句话: "AI Natural Write 是一款将AI生成文本转化为类人内容的工具，主打绕过AI检测功能。"
-创始人地区: "创始人未披露，US，2025 年成立"
-营收模式: "Free: 0 credits, paid plans available"
-月收入估算: "$180/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR29），B2C 受众；官网 https://ainaturalwrite.com/"
-可迁移点: "① 聚焦AI内容检测的垂直痛点 ② 采用免费+付费的信用额度模式 ③ 通过TrustPilot评分建立信任背书"
-原文链接: "https://ainaturalwrite.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:43:40.325Z；域名评分 DR29；原始页 https://trustmrr.com/startup/ai-natural-write。"
-分类: "AI、Content Creation、Productivity、SaaS / B2C / 海外"
+name: AI Natural Write
+一句话: AI Natural Write 是一款将AI生成文本转化为类人内容的工具，主打绕过AI检测功能。
+创始人地区: 创始人未披露，US，2025 年成立
+营收模式: 'Free: 0 credits, paid plans available'
+月收入估算: $180/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR29），B2C 受众；官网 https://ainaturalwrite.com/
+可迁移点: ① 聚焦AI内容检测的垂直痛点 ② 采用免费+付费的信用额度模式 ③ 通过TrustPilot评分建立信任背书
+原文链接: https://ainaturalwrite.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:43:40.325Z；域名评分 DR29；原始页
+  https://trustmrr.com/startup/ai-natural-write。
+分类: AI、Content Creation、Productivity、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $180 · 活跃订阅 10 · 近12个月营收 $1,529 · 累计营收 $1,529 · 域名 DR29 · 国家 US · 创立 2025-11-21"
-封面: "/case-site/cases/ai-natural-write/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $180 · 活跃订阅 10 · 近12个月营收 $1,529 · 累计营收 $1,529 · 域名 DR29
+  · 国家 US · 创立 2025-11-21
+封面: /case-site/cases/ai-natural-write/site.webp
 ---
+
 
 ![AI Natural Write 官网](/cases/ai-natural-write/site.webp)
 

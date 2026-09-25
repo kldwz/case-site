@@ -1,18 +1,24 @@
 ---
 name: Omilia
 一句话: 塞浦路斯起家的企业级语音 AI 客服平台，自举 18 年后才拿第一轮融资，2026 年 ARR 破 6000 万美元
-创始人地区: Dimitris Vassos（CEO 兼首席架构师）+ Pelias Ioannidis（CFO）+ John Nikolaidis（首席商务官），2002 年创立于塞浦路斯拉纳卡
+创始人地区: Dimitris Vassos（CEO 兼首席架构师）+ Pelias Ioannidis（CFO）+ John Nikolaidis（首席商务官），2002
+  年创立于塞浦路斯拉纳卡
 营收模式: 企业级对话式 AI 平台订阅（Omilia Cloud Platform），按部署规模与用量向银行、保险、医疗、政府、快餐连锁等大客户收费
-月收入估算: 2026-08 B 轮后公开数据为 ARR 超 5200 万欧元（约 6000 万美元），较 A 轮时增长逾 10 倍；累计融资约 8700 万美元；约 500 名员工，2026 年底目标 600 人
-流量来源: 20 余年自研语音技术栈积累的口碑 + Forrester Wave / Gartner 魔力象限 / IDC MarketScape 三项权威评级背书 + 超大客户标杆（Capital One、Discover、Taco Bell、RBC、英国 DWP）
-可迁移点: ① 自举 18 年不是落后，是把最难的底层能力磨成护城河 ② 全栈自研而非拼装第三方，才扛得住单客户 5 万路并发 ③ 先啃最难的受监管行业，后来者进不来 ④ 融资不是里程碑，是可以一直往后推的选项 ⑤ 语音 AI 的胜负手是延迟和成本可预测性，不是模型多新
+月收入估算: 2026-08 B 轮后公开数据为 ARR 超 5200 万欧元（约 6000 万美元），较 A 轮时增长逾 10 倍；累计融资约 8700 万美元；约
+  500 名员工，2026 年底目标 600 人
+流量来源: 20 余年自研语音技术栈积累的口碑 + Forrester Wave / Gartner 魔力象限 / IDC MarketScape 三项权威评级背书
+  + 超大客户标杆（Capital One、Discover、Taco Bell、RBC、英国 DWP）
+可迁移点: ① 自举 18 年不是落后，是把最难的底层能力磨成护城河 ② 全栈自研而非拼装第三方，才扛得住单客户 5 万路并发 ③ 先啃最难的受监管行业，后来者进不来
+  ④ 融资不是里程碑，是可以一直往后推的选项 ⑤ 语音 AI 的胜负手是延迟和成本可预测性，不是模型多新
 原文链接: https://www.omilia.com
-数据口径: 公司融资公告与主流媒体报道（2026-08 B 轮 5810 万欧元由 Expedition Growth Capital 领投、2020-05 A 轮 2000 万美元由 Grafton Capital 投资）；企业数据库估算（累计融资约 8700 万美元、约 500 人、ARR 口径）
+数据口径: 公司融资公告与主流媒体报道（2026-08 B 轮 5810 万欧元由 Expedition Growth Capital 领投、2020-05 A 轮
+  2000 万美元由 Grafton Capital 投资）；企业数据库估算（累计融资约 8700 万美元、约 500 人、ARR 口径）
 类型: 收入案例
 证据等级: 官方披露
 分类: 企业服务 / 语音 AI / 客服科技 / 欧洲
 封面: /case-site/cases/omilia/site.png
 ---
+
 
 ![Omilia 官网](/cases/omilia/site.png)
 

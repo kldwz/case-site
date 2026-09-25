@@ -2,17 +2,28 @@
 name: Lovable
 一句话: 两个瑞典人把开源项目 GPT Engineer 做成「说句话就生成全栈应用」的氛围编程工具，成立两年从 0 干到 2 亿美金 ARR、66 亿美金估值
 创始人地区: Anton Osika（CEO）与 Fabian Hedin（CTO），瑞典斯德哥尔摩；Osika 曾任职 CERN、Sana Labs
-营收模式: 基于积分的订阅，免费层 30 积分/月，Pro 起价 25 美金/月，Business 50 美金/月，最高 10,000 积分 2250 美金/月；面向无编程基础用户生成可运行 Web 应用并云端托管
-月收入估算: 约 2 亿美金 ARR（2025 年 12 月披露，Bloomberg/Reuters 核实）；230 万活跃用户、18 万+ 付费订阅；2025 年 7 月约 7500 万 ARR，2024 年 11 月产品发布三个月内 1700 万 ARR
-流量来源: 产品力本身（自然口碑+社媒病毒传播）；早期靠创始人背景与 YC 网络（Depict.ai S20）；与 Klarna、HubSpot 等企业合作背书；媒体大量报道（Forbes、TechCrunch 等）
-可迁移点: ① 把「不会写代码但有想法」的人变成用户——降门槛到对话级 ② 从开源项目起家再商业化，天然有早期用户和信任 ③ 增速本身就是融资叙事——一年 1M→200M ARR ④ 聚焦一个清晰场景（全栈 Web 应用）而非什么都做 ⑤ 欧洲也能长出 AI 超级独角兽，不一定要去硅谷
+营收模式: 基于积分的订阅，免费层 30 积分/月，Pro 起价 25 美金/月，Business 50 美金/月，最高 10,000 积分 2250 美金/月；面向无编程基础用户生成可运行
+  Web 应用并云端托管
+月收入估算: 约 2 亿美金 ARR（2025 年 12 月披露，Bloomberg/Reuters 核实）；230 万活跃用户、18 万+ 付费订阅；2025 年
+  7 月约 7500 万 ARR，2024 年 11 月产品发布三个月内 1700 万 ARR
+流量来源: 产品力本身（自然口碑+社媒病毒传播）；早期靠创始人背景与 YC 网络（Depict.ai S20）；与 Klarna、HubSpot 等企业合作背书；媒体大量报道（Forbes、TechCrunch
+  等）
+可迁移点: ① 把「不会写代码但有想法」的人变成用户——降门槛到对话级 ② 从开源项目起家再商业化，天然有早期用户和信任 ③ 增速本身就是融资叙事——一年 1M→200M
+  ARR ④ 聚焦一个清晰场景（全栈 Web 应用）而非什么都做 ⑤ 欧洲也能长出 AI 超级独角兽，不一定要去硅谷
 原文链接: https://lovable.dev
-数据口径: 融资——种子轮 2024-10 约 750 万美金；Pre-A 2025-02 约 1500 万美金（Creandum 领投）；A 轮 2025-07 约 2 亿美金（Accel 领投，估值 18 亿美金）；B 轮 2025-12 约 3.3 亿美金（CapitalG、Menlo Ventures 领投，估值 66 亿美金，Google、NVIDIA 风投参投），累计融资约 5.5 亿美金；ARR——2024-11 发布三个月 1700 万 ARR，2025-07 7500 万 ARR、230 万活跃用户、18 万付费，2025-12 披露 2 亿 ARR（Bloomberg/Reuters 核实）；产品——自然语言生成全栈 Web 应用（前端 React、后端+Supabase），2025 推自主代码编辑 Agent；定价免费 30 积分/月，Pro 25 起、最高 2250/月（aiwiki、techstartups、夸克百科）；创始人——Anton Osika（前 CERN、Sana Labs 工程师）与 Fabian Hedin（前 Depict.ai 前端负责人、曾为 Stephen Hawking 做辅助技术），各持约 24% 股份，2025-12 双双成十亿富豪（Forbes、aiwiki）
+数据口径: 融资——种子轮 2024-10 约 750 万美金；Pre-A 2025-02 约 1500 万美金（Creandum 领投）；A 轮 2025-07
+  约 2 亿美金（Accel 领投，估值 18 亿美金）；B 轮 2025-12 约 3.3 亿美金（CapitalG、Menlo Ventures 领投，估值
+  66 亿美金，Google、NVIDIA 风投参投），累计融资约 5.5 亿美金；ARR——2024-11 发布三个月 1700 万 ARR，2025-07 7500
+  万 ARR、230 万活跃用户、18 万付费，2025-12 披露 2 亿 ARR（Bloomberg/Reuters 核实）；产品——自然语言生成全栈 Web
+  应用（前端 React、后端+Supabase），2025 推自主代码编辑 Agent；定价免费 30 积分/月，Pro 25 起、最高 2250/月（aiwiki、techstartups、夸克百科）；创始人——Anton
+  Osika（前 CERN、Sana Labs 工程师）与 Fabian Hedin（前 Depict.ai 前端负责人、曾为 Stephen Hawking 做辅助技术），各持约
+  24% 股份，2025-12 双双成十亿富豪（Forbes、aiwiki）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 应用 / 氛围编程 / 英文 / 瑞典
 封面: /case-site/cases/lovable/site.png
 ---
+
 
 ![Lovable 官网](/cases/lovable/site.png)
 

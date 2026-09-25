@@ -1,19 +1,24 @@
 ---
-name: "Babelbot"
-一句话: "BabelBot 是一款 Discord 实时翻译机器人，利用 AI 技术即时翻译消息。"
-创始人地区: "由 Bram 创立，NL，2025 年成立"
-营收模式: "Free: €0/month, Pro: €9.99/month, Ultra: €19.99/month, Founder Access: €199 one-time"
-月收入估算: "$505/月（Polar (API key), Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR37），B2C 受众；官网 https://babelbot.xyz/"
-可迁移点: "① 针对特定平台（Discord）的垂直需求开发工具 ② 采用阶梯定价策略（免费/专业版/高级版/创始人版） ③ 通过一次性付费选项（Founder Access）获取早期现金流 ④ 集成 Stripe 实现支付自动化 ⑤ 支持 130+ 语言满足国际化社区需求"
-原文链接: "https://babelbot.xyz/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Polar (API key), Stripe）验证，最后同步于 2026-09-15T08:58:07.088Z；域名评分 DR37；原始页 https://trustmrr.com/startup/babelbot。"
-分类: "AI、Social Media、Content Creation、Community、Crypto & Web3 / B2C / 海外"
+name: Babelbot
+一句话: BabelBot 是一款 Discord 实时翻译机器人，利用 AI 技术即时翻译消息。
+创始人地区: 由 Bram 创立，NL，2025 年成立
+营收模式: 'Free: €0/month, Pro: €9.99/month, Ultra: €19.99/month, Founder Access: €199
+  one-time'
+月收入估算: $505/月（Polar (API key), Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR37），B2C 受众；官网 https://babelbot.xyz/
+可迁移点: ① 针对特定平台（Discord）的垂直需求开发工具 ② 采用阶梯定价策略（免费/专业版/高级版/创始人版） ③ 通过一次性付费选项（Founder Access）获取早期现金流
+  ④ 集成 Stripe 实现支付自动化 ⑤ 支持 130+ 语言满足国际化社区需求
+原文链接: https://babelbot.xyz/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Polar (API key), Stripe）验证，最后同步于 2026-09-15T08:58:07.088Z；域名评分
+  DR37；原始页 https://trustmrr.com/startup/babelbot。
+分类: AI、Social Media、Content Creation、Community、Crypto & Web3 / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Polar (API key), Stripe · 当前 MRR $505 · 活跃订阅 40 · 近12个月营收 $3,981 · 累计营收 $4,011 · 域名 DR37 · 国家 NL · 创立 2025-05-21"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Polar (API key), Stripe · 当前 MRR $505 · 活跃订阅 40 · 近12个月营收 $3,981 · 累计营收
+  $4,011 · 域名 DR37 · 国家 NL · 创立 2025-05-21
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Babelbot：BabelBot 是一款 Discord 实时翻译机器人，利用 AI 技术即时翻译消息。
 

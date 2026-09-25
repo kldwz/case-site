@@ -1,11 +1,13 @@
 ---
 name: Bustem
 一句话: 24 岁美国青年做的「AI 打假 + 人工执法」，帮 120+ 品牌下架 10 万+ 假货、挽回 100 万+ 美金
-创始人地区: Oliver Brocato（24 岁，美国人，前 Tabs Chocolate 增长，$11M 营收、零付费广告），2024 年创立 Bustem；团队含 Yair Slasky（COO）/ Toni（品牌保护）/ Mayank Jain（CTO）
+创始人地区: Oliver Brocato（24 岁，美国人，前 Tabs Chocolate 增长，$11M 营收、零付费广告），2024 年创立 Bustem；团队含
+  Yair Slasky（COO）/ Toni（品牌保护）/ Mayank Jain（CTO）
 营收模式: B2B SaaS + 按效果收费，帮电商品牌发现并下架仿品，按月订阅
 月收入估算: 未官方披露具体 ARR（早期）；公司官网披露已服务 160+ 电商品牌、下架 100K+ 假货、挽回 1M+ 美金
 流量来源: 创始人自带流量（Tabs Chocolate 时期攒的社媒粉丝）+ 品牌方口碑转介绍
-可迁移点: ① 「AI 检测 + 人工执法」组合，机器筛、人落地，补上纯 AI 最后一公里 ② 年轻人用已有粉丝盘冷启动，比从零投广告快 ③ 选「品牌方痛到肯付钱」的防守型需求 ④ 口号即定位：「Zero Mercy」让客户记住你站哪边 ⑤ 用战绩数字（下架数 / 挽回额）作信任状
+可迁移点: ① 「AI 检测 + 人工执法」组合，机器筛、人落地，补上纯 AI 最后一公里 ② 年轻人用已有粉丝盘冷启动，比从零投广告快 ③ 选「品牌方痛到肯付钱」的防守型需求
+  ④ 口号即定位：「Zero Mercy」让客户记住你站哪边 ⑤ 用战绩数字（下架数 / 挽回额）作信任状
 原文链接: https://bustem.com
 数据口径: 公司官网披露（120+ 品牌、100K+ 假货下架、1M+ 美金挽回）；Oliver Brocato 公开社媒与 Tabs Chocolate 背景
 类型: 收入案例
@@ -13,6 +15,7 @@ name: Bustem
 分类: AI 品牌保护 / 电商服务 / 英文 / 企业服务
 封面: /case-site/cases/bustem/site.png
 ---
+
 
 ![Bustem 官网](/cases/bustem/site.png)
 

@@ -1,19 +1,22 @@
 ---
-name: "Agensi"
-一句话: "AI技能商店Agensi通过订阅制销售专家预制的AI工作流模板。"
-创始人地区: "由 Samuel Rose \\\\| Agensi.io 创立，NL，2026 年成立"
-营收模式: "One-time purchase and subscriptions"
-月收入估算: "$38/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR72），B2C 受众；官网 https://www.agensi.io/"
-可迁移点: "① 基于开源标准SKILL.md构建可扩展的技能生态 ② 30秒快速安装的极简用户体验设计 ③ 混合定价模式（一次性购买+订阅）覆盖不同需求场景 ④ 专注垂直领域（AI工具工作流）的微SaaS策略"
-原文链接: "https://www.agensi.io/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:29:23.262Z；域名评分 DR72；原始页 https://trustmrr.com/startup/agensi。"
-分类: "AI、Dev Tools、Productivity、SaaS、Content Creation / B2C / 海外"
+name: Agensi
+一句话: AI技能商店Agensi通过订阅制销售专家预制的AI工作流模板。
+创始人地区: 由 Samuel Rose \\| Agensi.io 创立，NL，2026 年成立
+营收模式: One-time purchase and subscriptions
+月收入估算: $38/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR72），B2C 受众；官网 https://www.agensi.io/
+可迁移点: ① 基于开源标准SKILL.md构建可扩展的技能生态 ② 30秒快速安装的极简用户体验设计 ③ 混合定价模式（一次性购买+订阅）覆盖不同需求场景 ④ 专注垂直领域（AI工具工作流）的微SaaS策略
+原文链接: https://www.agensi.io/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:29:23.262Z；域名评分 DR72；原始页
+  https://trustmrr.com/startup/agensi。
+分类: AI、Dev Tools、Productivity、SaaS、Content Creation / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $38 · 活跃订阅 3 · 近12个月营收 $2,709 · 累计营收 $2,709 · 域名 DR72 · 国家 NL · 创立 2026-03-04"
-封面: "/case-site/cases/agensi/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $38 · 活跃订阅 3 · 近12个月营收 $2,709 · 累计营收 $2,709 · 域名 DR72 ·
+  国家 NL · 创立 2026-03-04
+封面: /case-site/cases/agensi/site.webp
 ---
+
 # Agensi
 
 

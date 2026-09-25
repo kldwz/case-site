@@ -1,18 +1,28 @@
 ---
 name: Sapiom
-一句话: 把 Shop Pay 做到千亿 GMV 的支付老兵再创业——给 AI agent 装「钱包」，让软件能自己付钱买算力和 API，Accel 领投 1575 万美金种子轮
+一句话: 把 Shop Pay 做到千亿 GMV 的支付老兵再创业——给 AI agent 装「钱包」，让软件能自己付钱买算力和 API，Accel 领投 1575
+  万美金种子轮
 创始人地区: Ilan Zerbib（CEO，前 Shopify 支付工程总监、Earny 联创），总部美国
 营收模式: 面向 agent 开发者与企业的基础设施平台，按调用量 / 消费额计费，先做成本可观测与治理，再走向完整的金融编排
-月收入估算: 未披露营收；2026 年宣布 1575 万美金种子轮，由 Accel 领投，Gradient Ventures、Array Ventures、Okta Ventures、Menlo Ventures、Anthropic、Coinbase Ventures、Formus Capital、Operator Collective 参投；早期客户为 vibe coding 平台、部署 agent  workforce 的企业与垂直 AI 公司
-流量来源: 创始人在 Shopify 把 Shop Pay 做到 1000 亿美金 GMV 的硬履历 + Earny 被收购的连续创业背书 + 豪华投资人组合自带传播（Anthropic、Coinbase Ventures、Okta Ventures 同台）+ 「下一个万亿买家不是人」这一清晰叙事 + 开发者优先的产品设计
-可迁移点: ① 找「新玩家进不来」的那道门——agent 会写代码却买不到算力，「支付」就是整个 agentic 经济的通用 API key ② 用历史类比说服市场：线下商务要塑料卡、互联网商务要 Stripe、机器商务要新的支出层，投资人一听就懂 ③ 先从「成本可观测」这种即时痛点切，再扩到完整金融编排，用短期 ROI 换长期入口 ④ 把身份、策略、风控、结算打包成一个集成，开发者接一次就够了，摩擦力决定 adoption ⑤ 选连 Anthropic、Coinbase、Okta 都愿意站台的赛道——让生态方成为你的分销渠道
+月收入估算: 未披露营收；2026 年宣布 1575 万美金种子轮，由 Accel 领投，Gradient Ventures、Array Ventures、Okta
+  Ventures、Menlo Ventures、Anthropic、Coinbase Ventures、Formus Capital、Operator Collective
+  参投；早期客户为 vibe coding 平台、部署 agent  workforce 的企业与垂直 AI 公司
+流量来源: 创始人在 Shopify 把 Shop Pay 做到 1000 亿美金 GMV 的硬履历 + Earny 被收购的连续创业背书 + 豪华投资人组合自带传播（Anthropic、Coinbase
+  Ventures、Okta Ventures 同台）+ 「下一个万亿买家不是人」这一清晰叙事 + 开发者优先的产品设计
+可迁移点: ① 找「新玩家进不来」的那道门——agent 会写代码却买不到算力，「支付」就是整个 agentic 经济的通用 API key ② 用历史类比说服市场：线下商务要塑料卡、互联网商务要
+  Stripe、机器商务要新的支出层，投资人一听就懂 ③ 先从「成本可观测」这种即时痛点切，再扩到完整金融编排，用短期 ROI 换长期入口 ④ 把身份、策略、风控、结算打包成一个集成，开发者接一次就够了，摩擦力决定
+  adoption ⑤ 选连 Anthropic、Coinbase、Okta 都愿意站台的赛道——让生态方成为你的分销渠道
 原文链接: https://www.sapiom.ai
-数据口径: 融资——1575 万美金种子轮由 Accel 领投，Gradient Ventures、Array Ventures、Okta Ventures、Menlo Ventures、Anthropic、Coinbase Ventures、Formus Capital、Operator Collective 参投，另有来自 Shopify、OpenAI、Vercel、GitHub、Circle、Mercury 的战略天使（Operator Collective、Computer Weekly、公司公告）；创始人背景——Shopify 支付工程总监近五年，将 Shop Pay 做到 1000 亿美金 GMV、从零搭建 Shop Cash，此前联创 Earny 并于 2021 年被收购（Okta、Unite.AI）
+数据口径: 融资——1575 万美金种子轮由 Accel 领投，Gradient Ventures、Array Ventures、Okta Ventures、Menlo
+  Ventures、Anthropic、Coinbase Ventures、Formus Capital、Operator Collective 参投，另有来自
+  Shopify、OpenAI、Vercel、GitHub、Circle、Mercury 的战略天使（Operator Collective、Computer Weekly、公司公告）；创始人背景——Shopify
+  支付工程总监近五年，将 Shop Pay 做到 1000 亿美金 GMV、从零搭建 Shop Cash，此前联创 Earny 并于 2021 年被收购（Okta、Unite.AI）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 支付基础设施 / Agent 经济 / 英文 / 美国
 封面: /case-site/cases/sapiom/site.png
 ---
+
 
 ![Sapiom 官网](/cases/sapiom/site.png)
 

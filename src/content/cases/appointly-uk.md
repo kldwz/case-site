@@ -1,19 +1,22 @@
 ---
-name: "Appointly UK"
-一句话: "英国服务提供商的预约管理平台，提供免费试用和年费订阅模式。"
-创始人地区: "由 mitch478.eth 创立，GB，2025 年成立"
-营收模式: "Free: 3 months free trial, Standard: £74.99/year, Pro: £149.99/year"
-月收入估算: "$40/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR20），B2C 受众；官网 https://appointlyuk.app/"
-可迁移点: "① 提供3个月免费试用吸引早期用户 ② 采用阶梯定价策略（标准版和专业版） ③ 通过Stripe实现支付验证和营收透明化 ④ 针对特定国家（英国）的垂直领域需求"
-原文链接: "https://appointlyuk.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:10:24.361Z；域名评分 DR20；原始页 https://trustmrr.com/startup/appointly-uk。"
-分类: "Productivity / B2C / 海外"
+name: Appointly UK
+一句话: 英国服务提供商的预约管理平台，提供免费试用和年费订阅模式。
+创始人地区: 由 mitch478.eth 创立，GB，2025 年成立
+营收模式: 'Free: 3 months free trial, Standard: £74.99/year, Pro: £149.99/year'
+月收入估算: $40/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR20），B2C 受众；官网 https://appointlyuk.app/
+可迁移点: ① 提供3个月免费试用吸引早期用户 ② 采用阶梯定价策略（标准版和专业版） ③ 通过Stripe实现支付验证和营收透明化 ④ 针对特定国家（英国）的垂直领域需求
+原文链接: https://appointlyuk.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:10:24.361Z；域名评分 DR20；原始页
+  https://trustmrr.com/startup/appointly-uk。
+分类: Productivity / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $40 · 活跃订阅 3 · 近12个月营收 $4,133 · 累计营收 $4,133 · 域名 DR20 · 国家 GB · 创立 2025-12-10"
-封面: "/case-site/cases/appointly-uk/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $40 · 活跃订阅 3 · 近12个月营收 $4,133 · 累计营收 $4,133 · 域名 DR20 ·
+  国家 GB · 创立 2025-12-10
+封面: /case-site/cases/appointly-uk/site.webp
 ---
+
 # Appointly UK
 
 

@@ -1,19 +1,23 @@
 ---
-name: "Chatwith"
-一句话: "无需编程的定制化AI客服机器人，支持与6000+应用集成，5分钟即可部署到网站。"
-创始人地区: "创始人未披露"
-营收模式: "Hobby: $19/mo, Standard: $99/mo, Business: $399/mo"
-月收入估算: "$3,891/月（Paddle 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR56），B2B 受众；官网 https://chatwith.tools/"
-可迁移点: "① 聚焦B2B场景中重复性客服咨询的痛点 ② 采用阶梯定价覆盖不同规模企业需求 ③ 通过Paddle实现支付验证提升可信度 ④ 强调'零代码'降低用户使用门槛 ⑤ 突出'5分钟部署'的快速启动优势"
-原文链接: "https://chatwith.tools/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T11:28:19.740Z；域名评分 DR56；原始页 https://trustmrr.com/startup/chatwith。"
-分类: "Customer Support、AI、SaaS、Productivity、No-Code / B2B / 海外"
+name: Chatwith
+一句话: 无需编程的定制化AI客服机器人，支持与6000+应用集成，5分钟即可部署到网站。
+创始人地区: 创始人未披露
+营收模式: 'Hobby: $19/mo, Standard: $99/mo, Business: $399/mo'
+月收入估算: $3,891/月（Paddle 验证）
+流量来源: SEO 自然流量为主（域名评分 DR56），B2B 受众；官网 https://chatwith.tools/
+可迁移点: ① 聚焦B2B场景中重复性客服咨询的痛点 ② 采用阶梯定价覆盖不同规模企业需求 ③ 通过Paddle实现支付验证提升可信度 ④ 强调'零代码'降低用户使用门槛
+  ⑤ 突出'5分钟部署'的快速启动优势
+原文链接: https://chatwith.tools/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T11:28:19.740Z；域名评分 DR56；原始页
+  https://trustmrr.com/startup/chatwith。
+分类: Customer Support、AI、SaaS、Productivity、No-Code / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Paddle · 当前 MRR $3,891 · 活跃订阅 46 · 近12个月营收 $60,698 · 累计营收 $108,396 · 域名 DR56 · 国家 US · 创立 未披露"
-封面: "/case-site/cases/chatwith/site.webp"
+平台数据: 支付验证：Paddle · 当前 MRR $3,891 · 活跃订阅 46 · 近12个月营收 $60,698 · 累计营收 $108,396 · 域名
+  DR56 · 国家 US · 创立 未披露
+封面: /case-site/cases/chatwith/site.webp
 ---
+
 
 ![Chatwith 官网](/cases/chatwith/site.webp)
 

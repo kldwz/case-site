@@ -1,18 +1,23 @@
 ---
 name: Rogo
 一句话: 三个前投行青年做的 AI 金融分析师，2 年冲到 20 亿美金估值、250+ 机构抢着用
-创始人地区: Gabriel Stengel（CEO，前 Lazard 投行，Princeton 2020）、John Willett（COO，前 JPMorgan / Lazard）、Tumas Rackaitis（CTO），2021–22 纽约创立，总部纽约
+创始人地区: Gabriel Stengel（CEO，前 Lazard 投行，Princeton 2020）、John Willett（COO，前 JPMorgan
+  / Lazard）、Tumas Rackaitis（CTO），2021–22 纽约创立，总部纽约
 营收模式: 面向投行、PE、对冲基金的 AI 金融分析师平台，按席位年费订阅，另推 Felix 自主 agent 按用量计费
-月收入估算: 2026 年 4 月完成 1.6 亿美金 D 轮（Kleiner Perkins 领投，Sequoia / Thrive / Khosla / JPMorgan 跟投），估值约 20 亿美金；35K+ 用户、250+ 机构客户
+月收入估算: 2026 年 4 月完成 1.6 亿美金 D 轮（Kleiner Perkins 领投，Sequoia / Thrive / Khosla / JPMorgan
+  跟投），估值约 20 亿美金；35K+ 用户、250+ 机构客户
 流量来源: 自上而下地推 + 华尔街顶尖机构圈口碑；创始人本身就是 Lazard / JPMorgan 出身，直接切进买方卖方的决策层
-可迁移点: ① 挑「高薪人力 + 高频复用」的场景，AI 替代的不是边缘岗位，是年薪百万的分析师 ② 创始人背景即渠道：做 B 端先问「我认识这个行业的人吗」 ③ 用「自主 agent」把一次性查询变成持续工作流，留存和客单价一起涨 ④ 先拿下灯塔客户（顶级投行），再让口碑替你铺中小机构 ⑤ 冷启动别先造通用模型，先把一个垂直工作流做透
+可迁移点: ① 挑「高薪人力 + 高频复用」的场景，AI 替代的不是边缘岗位，是年薪百万的分析师 ② 创始人背景即渠道：做 B 端先问「我认识这个行业的人吗」 ③
+  用「自主 agent」把一次性查询变成持续工作流，留存和客单价一起涨 ④ 先拿下灯塔客户（顶级投行），再让口碑替你铺中小机构 ⑤ 冷启动别先造通用模型，先把一个垂直工作流做透
 原文链接: https://rogo.ai
-数据口径: TechCrunch / Forbes 2026-04 D 轮报道（1.6 亿美金、估值约 20 亿、Kleiner Perkins 领投）；公司官网披露用户数与机构数；⚠️ 素材库曾误传为 Finchat / Anomaly，本篇以 Rogo 官方与融资报道为准
+数据口径: TechCrunch / Forbes 2026-04 D 轮报道（1.6 亿美金、估值约 20 亿、Kleiner Perkins 领投）；公司官网披露用户数与机构数；⚠️
+  素材库曾误传为 Finchat / Anomaly，本篇以 Rogo 官方与融资报道为准
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 垂直 SaaS / 金融 / 英文 / 企业服务
 封面: /case-site/cases/rogo/site.png
 ---
+
 
 ![Rogo 官网](/cases/rogo/site.png)
 

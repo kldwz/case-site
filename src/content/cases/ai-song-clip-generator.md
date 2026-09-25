@@ -1,19 +1,23 @@
 ---
-name: "AI Song & Clip Generator"
-一句话: "一款集AI音乐创作、人声翻唱、混音及MV生成为一体的移动端工具，采用订阅制变现，上线18个月累计营收4.6万美元。"
-创始人地区: "创始人未披露，地区未披露，2025 年成立"
-营收模式: "Weekly Plan $8.99, Yearly Offer $59.99, In‑App Purchases"
-月收入估算: "$1,486/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/ai-music-song-generator-tune/id6726998562"
-可迁移点: "① 将AI音乐生成、人声克隆、混音等专业功能整合为移动端一站式解决方案 ② 通过周订阅（8.99美元）和年订阅（59.99美元）实现阶梯变现 ③ 产品页强调数据隐私保护（仅使用匿名数据优化性能）作为差异化卖点 ④ 选择RevenueCat处理支付流程降低技术负债"
-原文链接: "https://apps.apple.com/app/ai-music-song-generator-tune/id6726998562"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:31:18.937Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/ai-song-clip-generator。"
-分类: "Mobile Apps、AI、Content Creation、Entertainment / B2C / 海外"
+name: AI Song & Clip Generator
+一句话: 一款集AI音乐创作、人声翻唱、混音及MV生成为一体的移动端工具，采用订阅制变现，上线18个月累计营收4.6万美元。
+创始人地区: 创始人未披露，地区未披露，2025 年成立
+营收模式: Weekly Plan $8.99, Yearly Offer $59.99, In‑App Purchases
+月收入估算: $1,486/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/ai-music-song-generator-tune/id6726998562
+可迁移点: ① 将AI音乐生成、人声克隆、混音等专业功能整合为移动端一站式解决方案 ② 通过周订阅（8.99美元）和年订阅（59.99美元）实现阶梯变现 ③ 产品页强调数据隐私保护（仅使用匿名数据优化性能）作为差异化卖点
+  ④ 选择RevenueCat处理支付流程降低技术负债
+原文链接: https://apps.apple.com/app/ai-music-song-generator-tune/id6726998562
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:31:18.937Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/ai-song-clip-generator。
+分类: Mobile Apps、AI、Content Creation、Entertainment / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $1,486 · 活跃订阅 367 · 近12个月营收 $35,263 · 累计营收 $46,294 · 域名 DR未披露 · 国家 未披露 · 创立 2025-02-01"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：RevenueCat · 当前 MRR $1,486 · 活跃订阅 367 · 近12个月营收 $35,263 · 累计营收 $46,294
+  · 域名 DR未披露 · 国家 未披露 · 创立 2025-02-01
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # AI Song & Clip Generator：一款集AI音乐创作、人声翻唱、混音及MV生成为一体的移动端工具，采用订阅制变现，上线18个月累计营收4.6万美元。
 

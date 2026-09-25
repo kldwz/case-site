@@ -1,19 +1,22 @@
 ---
-name: "AiCasaDesign.com"
-一句话: "AiCasaDesign.com 帮助房地产经纪人通过AI快速生成专业房产视频，加速销售。"
-创始人地区: "由 Cesare D'Adamo 创立，地区未披露，2019 年成立"
-营收模式: "2 free transformations on signup • No credit card required"
-月收入估算: "$1,505/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR4），B2B 受众；官网 https://www.aicasadesign.com/"
-可迁移点: "① 利用AI技术简化专业内容生产流程 ② 针对房地产行业特定需求设计工具 ③ 采用免费试用+订阅制的商业模式 ④ 通过社交媒体(X平台)建立品牌影响力"
-原文链接: "https://www.aicasadesign.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:50:16.195Z；域名评分 DR4；原始页 https://trustmrr.com/startup/aicasadesign-com。"
-分类: "AI、Design Tools、Real Estate、Social Media、Content Creation / B2B / 海外"
+name: AiCasaDesign.com
+一句话: AiCasaDesign.com 帮助房地产经纪人通过AI快速生成专业房产视频，加速销售。
+创始人地区: 由 Cesare D'Adamo 创立，地区未披露，2019 年成立
+营收模式: 2 free transformations on signup • No credit card required
+月收入估算: $1,505/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR4），B2B 受众；官网 https://www.aicasadesign.com/
+可迁移点: ① 利用AI技术简化专业内容生产流程 ② 针对房地产行业特定需求设计工具 ③ 采用免费试用+订阅制的商业模式 ④ 通过社交媒体(X平台)建立品牌影响力
+原文链接: https://www.aicasadesign.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:50:16.195Z；域名评分 DR4；原始页
+  https://trustmrr.com/startup/aicasadesign-com。
+分类: AI、Design Tools、Real Estate、Social Media、Content Creation / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $1,505 · 活跃订阅 35 · 近12个月营收 $25,347 · 累计营收 $32,450 · 域名 DR4 · 国家 未披露 · 创立 2019-01-05"
-封面: "/case-site/cases/aicasadesign-com/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $1,505 · 活跃订阅 35 · 近12个月营收 $25,347 · 累计营收 $32,450 · 域名
+  DR4 · 国家 未披露 · 创立 2019-01-05
+封面: /case-site/cases/aicasadesign-com/site.webp
 ---
+
 # AiCasaDesign.com
 
 

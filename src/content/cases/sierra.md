@@ -1,18 +1,27 @@
 ---
 name: Sierra
-一句话: Salesforce 前联席 CEO Bret Taylor 与 ex-Google 高管 Clay Bavor 联手的「企业客服 AI agent」公司，按结果收费（解决一次对话才收钱），2025 年 11 月 ARR 破 1 亿美金，估值冲到 150 亿+
-创始人地区: Bret Taylor（联合创始人，前 Salesforce 联席 CEO、OpenAI 董事会主席、Facebook 前 CTO、Google Maps 联创）+ Clay Bavor（联合创始人，前 Google 副总裁、Reality Labs 负责人），2023 年创立于旧金山
+一句话: Salesforce 前联席 CEO Bret Taylor 与 ex-Google 高管 Clay Bavor 联手的「企业客服 AI agent」公司，按结果收费（解决一次对话才收钱），2025
+  年 11 月 ARR 破 1 亿美金，估值冲到 150 亿+
+创始人地区: Bret Taylor（联合创始人，前 Salesforce 联席 CEO、OpenAI 董事会主席、Facebook 前 CTO、Google Maps
+  联创）+ Clay Bavor（联合创始人，前 Google 副总裁、Reality Labs 负责人），2023 年创立于旧金山
 营收模式: 按对话量或按结果付费（outcome-based / pay-per-resolution），客户为成功解决的客服对话、挽回的退订、追加销售等具体结果付钱，而非按席位
-月收入估算: ARR 2025 年 11 月破 1 亿美金（上线后 7 个季度达成），2026 年 2 月超 1.5 亿美金；2026 年 5 月 Sacra 估算约 2 亿美金 ARR；2026 年 5 月完成 9.5 亿美金 E 轮、估值超 150 亿美金
-流量来源: 创始人顶级人脉（Taylor 的 Salesforce/OpenAI 关系网直接敲开财富 50 强门）+ 按结果付费零风险切入 + 服务超 40% 财富 50 强形成的标杆效应 + 连续收购 Opera Tech（东京）、Fragment（巴黎）扩张全球
-可迁移点: ① 按结果付费把「卖软件」变成「卖结果」，客户零风险试用，销售周期从几个月压到几周 ② 创始人关系网是 To B 最强的分销渠道——Taylor 一句话能约到别人约不到的 CIO ③ 先打高频客服场景（退货、改签、开票）立住，再横向扩到销售、留存、复杂交易 ④ 把 AI agent 做成「OS」而非单点工具，用 Agent Studio 让非工程团队也能搭流程，筑起替换壁垒 ⑤ 语音 agent 上线不到一年就超过文字成主渠道，说明企业呼叫中心上云速度比预期快
+月收入估算: ARR 2025 年 11 月破 1 亿美金（上线后 7 个季度达成），2026 年 2 月超 1.5 亿美金；2026 年 5 月 Sacra 估算约
+  2 亿美金 ARR；2026 年 5 月完成 9.5 亿美金 E 轮、估值超 150 亿美金
+流量来源: 创始人顶级人脉（Taylor 的 Salesforce/OpenAI 关系网直接敲开财富 50 强门）+ 按结果付费零风险切入 + 服务超 40% 财富
+  50 强形成的标杆效应 + 连续收购 Opera Tech（东京）、Fragment（巴黎）扩张全球
+可迁移点: ① 按结果付费把「卖软件」变成「卖结果」，客户零风险试用，销售周期从几个月压到几周 ② 创始人关系网是 To B 最强的分销渠道——Taylor 一句话能约到别人约不到的
+  CIO ③ 先打高频客服场景（退货、改签、开票）立住，再横向扩到销售、留存、复杂交易 ④ 把 AI agent 做成「OS」而非单点工具，用 Agent Studio
+  让非工程团队也能搭流程，筑起替换壁垒 ⑤ 语音 agent 上线不到一年就超过文字成主渠道，说明企业呼叫中心上云速度比预期快
 原文链接: https://sierra.ai
-数据口径: 估值与融资——2026 年 5 月 E 轮 9.5 亿美金、GV 与 Tiger Global 领投、估值超 150 亿（TechCrunch/CNBC/Dealroom）；2025 年 9 月 3.5 亿美金、Greenoaks 领投、估值 100 亿；2024 年 10 月 1.75 亿、估值 45 亿；ARR——官方 2025 年 11 月破 1 亿、2026 年 2 月超 1.5 亿，Sacra 2026 年 5 月估约 2 亿；服务超 40% 财富 50 强（官方与报道）
+数据口径: 估值与融资——2026 年 5 月 E 轮 9.5 亿美金、GV 与 Tiger Global 领投、估值超 150 亿（TechCrunch/CNBC/Dealroom）；2025
+  年 9 月 3.5 亿美金、Greenoaks 领投、估值 100 亿；2024 年 10 月 1.75 亿、估值 45 亿；ARR——官方 2025 年 11
+  月破 1 亿、2026 年 2 月超 1.5 亿，Sacra 2026 年 5 月估约 2 亿；服务超 40% 财富 50 强（官方与报道）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 客服 Agent / 按结果付费 / 英文 / 美国
 封面: /case-site/cases/sierra/site.png
 ---
+
 
 ![Sierra 官网](/cases/sierra/site.png)
 

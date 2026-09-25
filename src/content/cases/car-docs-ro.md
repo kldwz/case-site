@@ -1,19 +1,23 @@
 ---
-name: "car-docs.ro"
-一句话: "Car-docs.ro 是一个罗马尼亚的在线平台，自动生成符合法律要求的车辆买卖合同，简化了汽车交易中的文件准备过程。"
-创始人地区: "创始人未披露，RO，2025 年成立"
-营收模式: "29,99 LEI"
-月收入估算: "$795/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2C 受众；官网 https://www.car-docs.ro/"
-可迁移点: "① 专注于特定国家（罗马尼亚）的法律文件生成需求 ② 提供快速（一分钟内）生成合同的服务 ③ 定价模式简单透明（固定29.99 LEI） ④ 无需订阅，按次付费模式 ⑤ 解决特定场景下的行政手续痛点（汽车买卖文件）"
-原文链接: "https://www.car-docs.ro/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:41:27.271Z；域名评分 DR1；原始页 https://trustmrr.com/startup/car-docs-ro。"
-分类: "Legal、Utilities / B2C / 海外"
+name: car-docs.ro
+一句话: Car-docs.ro 是一个罗马尼亚的在线平台，自动生成符合法律要求的车辆买卖合同，简化了汽车交易中的文件准备过程。
+创始人地区: 创始人未披露，RO，2025 年成立
+营收模式: 29,99 LEI
+月收入估算: $795/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2C 受众；官网 https://www.car-docs.ro/
+可迁移点: ① 专注于特定国家（罗马尼亚）的法律文件生成需求 ② 提供快速（一分钟内）生成合同的服务 ③ 定价模式简单透明（固定29.99 LEI） ④ 无需订阅，按次付费模式
+  ⑤ 解决特定场景下的行政手续痛点（汽车买卖文件）
+原文链接: https://www.car-docs.ro/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:41:27.271Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/car-docs-ro。
+分类: Legal、Utilities / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $11,098 · 累计营收 $13,865 · 域名 DR1 · 国家 RO · 创立 2025-04-29"
-封面: "/case-site/cases/car-docs-ro/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $11,098 · 累计营收 $13,865 · 域名 DR1 ·
+  国家 RO · 创立 2025-04-29
+封面: /case-site/cases/car-docs-ro/site.webp
 ---
+
 
 ![car-docs.ro 官网](/cases/car-docs-ro/site.webp)
 

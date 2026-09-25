@@ -1,11 +1,16 @@
 ---
 name: Decagon
-一句话: 给企业做 AI 客服 agent（对话/邮件/语音），按解决量计费，2025 年底 ARR 约 4400 万美金、2026 年中冲到 1 亿美金，估值 45 亿
-创始人地区: Jesse Zhang（CEO，Harvard CS，前 Lowkey 被 Niantic 收购）+ Ashwin Sreenivas（CTO，Stanford CS，Helia 卖 Scale AI），2023 年 8 月旧金山创立
+一句话: 给企业做 AI 客服 agent（对话/邮件/语音），按解决量计费，2025 年底 ARR 约 4400 万美金、2026 年中冲到 1 亿美金，估值 45
+  亿
+创始人地区: Jesse Zhang（CEO，Harvard CS，前 Lowkey 被 Niantic 收购）+ Ashwin Sreenivas（CTO，Stanford
+  CS，Helia 卖 Scale AI），2023 年 8 月旧金山创立
 营收模式: 按对话 / 按解决量计费（per-conversation / per-resolution），面向大企业客服中心，办成一件事收一份钱
-月收入估算: ARR 约 4400 万美金（2025 年底）；Sacra 估 2026 年 7 月达 1 亿美金；2026 年 1 月 2.5 亿美金 D 轮（Coatue + Index 领投）、估值 45 亿美金；2025 年 6 月 C 轮 1.31 亿 @ 15 亿估值
-流量来源: PLG（自助试用）+ 大客户销售，100+ 企业客户含 Notion / Duolingo / Avis Budget / Deutsche Telekom / Block / Chime / Hertz / Oura
-可迁移点: ① 把"按座位收费"换成"按解决量收费"，客户只为结果买单，也倒逼你把准确率做上去 ② 客服 agent 的真正壁垒是"接系统"（调 API 办退款/改订单），不是会聊天 ③ 语音用 ElevenLabs 等现成引擎、自己只做编排，避免重资产自研 ④ 大客户先用一个高痛场景（退款/密码）打穿，再横向铺开 ⑤ 哈佛/斯坦福+被收购经历的创始人组合，融资和签单都自带信用背书
+月收入估算: ARR 约 4400 万美金（2025 年底）；Sacra 估 2026 年 7 月达 1 亿美金；2026 年 1 月 2.5 亿美金 D 轮（Coatue
+  + Index 领投）、估值 45 亿美金；2025 年 6 月 C 轮 1.31 亿 @ 15 亿估值
+流量来源: PLG（自助试用）+ 大客户销售，100+ 企业客户含 Notion / Duolingo / Avis Budget / Deutsche Telekom
+  / Block / Chime / Hertz / Oura
+可迁移点: ① 把"按座位收费"换成"按解决量收费"，客户只为结果买单，也倒逼你把准确率做上去 ② 客服 agent 的真正壁垒是"接系统"（调 API 办退款/改订单），不是会聊天
+  ③ 语音用 ElevenLabs 等现成引擎、自己只做编排，避免重资产自研 ④ 大客户先用一个高痛场景（退款/密码）打穿，再横向铺开 ⑤ 哈佛/斯坦福+被收购经历的创始人组合，融资和签单都自带信用背书
 原文链接: https://decagon.ai
 数据口径: Sacra 2025–2026 公司报告、TechCrunch/Fortune 融资报道、decagon.ai 官网客户页；ARR/估值/客户均可交叉验证
 类型: 收入案例
@@ -13,6 +18,7 @@ name: Decagon
 分类: AI Agent / 企业服务 / 客服 / 英文
 封面: /case-site/cases/decagon/site.png
 ---
+
 
 ![Decagon 官网](/cases/decagon/site.png)
 

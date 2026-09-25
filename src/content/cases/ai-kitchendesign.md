@@ -1,19 +1,22 @@
 ---
-name: "KitchenDesign"
-一句话: "AI室内设计工具KitchenDesign通过照片快速生成多种风格的空间设计方案，实现有机增长并达到$2,440 MRR"
-创始人地区: "创始人未披露"
-营收模式: "$14/month (Mini), $18/month (Personal), $36/month (Premium), $72/month (Business)"
-月收入估算: "$2,440/月（Paddle 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR8），Both 受众；官网 https://kitchendesign.io/"
-可迁移点: "① 纯自然增长模式验证了产品市场匹配度 ② 多层级订阅定价覆盖个人到企业需求 ③ AI+垂直场景的轻量化解决方案设计 ④ 未使用付费广告的冷启动路径"
-原文链接: "https://kitchendesign.io/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T12:41:41.277Z；域名评分 DR8；原始页 https://trustmrr.com/startup/ai-kitchendesign。"
-分类: "SaaS、Real Estate、AI / Both / 海外"
+name: KitchenDesign
+一句话: AI室内设计工具KitchenDesign通过照片快速生成多种风格的空间设计方案，实现有机增长并达到$2,440 MRR
+创始人地区: 创始人未披露
+营收模式: $14/month (Mini), $18/month (Personal), $36/month (Premium), $72/month (Business)
+月收入估算: $2,440/月（Paddle 验证）
+流量来源: SEO 自然流量为主（域名评分 DR8），Both 受众；官网 https://kitchendesign.io/
+可迁移点: ① 纯自然增长模式验证了产品市场匹配度 ② 多层级订阅定价覆盖个人到企业需求 ③ AI+垂直场景的轻量化解决方案设计 ④ 未使用付费广告的冷启动路径
+原文链接: https://kitchendesign.io/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Paddle）验证，最后同步于 2026-09-15T12:41:41.277Z；域名评分 DR8；原始页
+  https://trustmrr.com/startup/ai-kitchendesign。
+分类: SaaS、Real Estate、AI / Both / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Paddle · 当前 MRR $2,440 · 活跃订阅 107 · 近12个月营收 $35,406 · 累计营收 $39,483 · 域名 DR8 · 国家 未披露 · 创立 未披露"
-封面: "/case-site/cases/ai-kitchendesign/site.webp"
+平台数据: 支付验证：Paddle · 当前 MRR $2,440 · 活跃订阅 107 · 近12个月营收 $35,406 · 累计营收 $39,483 · 域名
+  DR8 · 国家 未披露 · 创立 未披露
+封面: /case-site/cases/ai-kitchendesign/site.webp
 ---
+
 # KitchenDesign
 
 

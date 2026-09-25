@@ -1,19 +1,23 @@
 ---
-name: "BreadSync"
-一句话: "BreadSync 是一款云端分析仪表盘，帮助用户追踪跨平台投资组合表现、盈亏和交易历史，提供一次性购买和订阅选项。"
-创始人地区: "创始人未披露，US，2026 年成立"
-营收模式: "Free: $0/mo, Pro: $197/mo"
-月收入估算: "$4,952/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR10），B2C 受众；官网 https://www.breadsync.com/"
-可迁移点: "① 提供跨平台数据整合功能，解决用户数据分散的痛点 ② 采用免费+高价订阅模式（$0/$197），筛选高价值用户 ③ 聚焦垂直领域（体育博彩资金管理），避免与大平台直接竞争 ④ 通过Stripe实现支付验证，增强数据可信度"
-原文链接: "https://www.breadsync.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:44:04.902Z；域名评分 DR10；原始页 https://trustmrr.com/startup/breadsync。"
-分类: "Fintech、Analytics、SaaS / B2C / 海外"
+name: BreadSync
+一句话: BreadSync 是一款云端分析仪表盘，帮助用户追踪跨平台投资组合表现、盈亏和交易历史，提供一次性购买和订阅选项。
+创始人地区: 创始人未披露，US，2026 年成立
+营收模式: 'Free: $0/mo, Pro: $197/mo'
+月收入估算: $4,952/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR10），B2C 受众；官网 https://www.breadsync.com/
+可迁移点: ① 提供跨平台数据整合功能，解决用户数据分散的痛点 ② 采用免费+高价订阅模式（$0/$197），筛选高价值用户 ③ 聚焦垂直领域（体育博彩资金管理），避免与大平台直接竞争
+  ④ 通过Stripe实现支付验证，增强数据可信度
+原文链接: https://www.breadsync.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:44:04.902Z；域名评分 DR10；原始页
+  https://trustmrr.com/startup/breadsync。
+分类: Fintech、Analytics、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $4,952 · 活跃订阅 54 · 近12个月营收 $37,047 · 累计营收 $37,047 · 域名 DR10 · 国家 US · 创立 2026-03-07"
-封面: "/case-site/cases/breadsync/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $4,952 · 活跃订阅 54 · 近12个月营收 $37,047 · 累计营收 $37,047 · 域名
+  DR10 · 国家 US · 创立 2026-03-07
+封面: /case-site/cases/breadsync/site.webp
 ---
+
 # BreadSync
 
 

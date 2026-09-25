@@ -1,19 +1,23 @@
 ---
-name: "Apparate Pty Ltd"
-一句话: "澳大利亚B2B领域提供AI工程师嵌入服务的SaaS公司，采用高客单价订阅模式。"
-创始人地区: "由 Louis Blythe 创立，AU，2023 年成立"
-营收模式: "Start: $2,000/mo per rep, Grow: $4,000/mo per rep, Pro: $6,000/mo per rep, Max: $8,000/mo per rep"
-月收入估算: "$11/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR29），B2B 受众；官网 https://apparate.com.au/"
-可迁移点: "① 高客单价订阅模式（$2,000-$8,000/月/工程师） ② 精准定位企业工程效率痛点 ③ Stripe支付验证提升可信度"
-原文链接: "https://apparate.com.au/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:19:33.991Z；域名评分 DR29；原始页 https://trustmrr.com/startup/apparate-pty-ltd。"
-分类: "AI、Productivity、SaaS / B2B / 海外"
+name: Apparate Pty Ltd
+一句话: 澳大利亚B2B领域提供AI工程师嵌入服务的SaaS公司，采用高客单价订阅模式。
+创始人地区: 由 Louis Blythe 创立，AU，2023 年成立
+营收模式: 'Start: $2,000/mo per rep, Grow: $4,000/mo per rep, Pro: $6,000/mo per rep,
+  Max: $8,000/mo per rep'
+月收入估算: $11/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR29），B2B 受众；官网 https://apparate.com.au/
+可迁移点: ① 高客单价订阅模式（$2,000-$8,000/月/工程师） ② 精准定位企业工程效率痛点 ③ Stripe支付验证提升可信度
+原文链接: https://apparate.com.au/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:19:33.991Z；域名评分 DR29；原始页
+  https://trustmrr.com/startup/apparate-pty-ltd。
+分类: AI、Productivity、SaaS / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $11 · 活跃订阅 1 · 近12个月营收 $38,921 · 累计营收 $43,237 · 域名 DR29 · 国家 AU · 创立 2023-03-01"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $11 · 活跃订阅 1 · 近12个月营收 $38,921 · 累计营收 $43,237 · 域名 DR29
+  · 国家 AU · 创立 2023-03-01
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Apparate Pty Ltd：澳大利亚B2B领域提供AI工程师嵌入服务的SaaS公司，采用高客单价订阅模式。
 

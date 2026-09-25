@@ -1,19 +1,22 @@
 ---
-name: "AdPunk.AI"
-一句话: "AdPunk.AI 是一款面向 B2B 市场的 AI 视频剪辑工具，通过自动化粗剪、B-roll 匹配和项目导出，帮助用户更快完成长视频编辑。"
-创始人地区: "创始人未披露，HK，2026 年成立"
-营收模式: "Get started — it's free"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR0），B2B 受众；官网 https://www.adpunk.ai/"
-可迁移点: "① 聚焦垂直场景（长视频剪辑）的 AI 自动化方案 ② 采用免费模式降低使用门槛 ③ 直接输出 Premiere 工程文件的专业级兼容性"
-原文链接: "https://www.adpunk.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-08-07T16:18:23.517Z；域名评分 DR0；原始页 https://trustmrr.com/startup/adpunk-ai。"
-分类: "Content Creation、AI / B2B / 海外"
+name: AdPunk.AI
+一句话: AdPunk.AI 是一款面向 B2B 市场的 AI 视频剪辑工具，通过自动化粗剪、B-roll 匹配和项目导出，帮助用户更快完成长视频编辑。
+创始人地区: 创始人未披露，HK，2026 年成立
+营收模式: Get started — it's free
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR0），B2B 受众；官网 https://www.adpunk.ai/
+可迁移点: ① 聚焦垂直场景（长视频剪辑）的 AI 自动化方案 ② 采用免费模式降低使用门槛 ③ 直接输出 Premiere 工程文件的专业级兼容性
+原文链接: https://www.adpunk.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-08-07T16:18:23.517Z；域名评分
+  DR0；原始页 https://trustmrr.com/startup/adpunk-ai。
+分类: Content Creation、AI / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,717 · 累计营收 $2,842 · 域名 DR0 · 国家 HK · 创立 2026-01-01"
-封面: "/case-site/cases/adpunk-ai/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,717 · 累计营收 $2,842 · 域名 DR0 · 国家
+  HK · 创立 2026-01-01
+封面: /case-site/cases/adpunk-ai/site.webp
 ---
+
 
 ![AdPunk.AI 官网](/cases/adpunk-ai/site.webp)
 

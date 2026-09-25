@@ -1,19 +1,22 @@
 ---
-name: "Bogatu Ion"
-一句话: "Bogatu Ion 是一家从美国批发商直接向消费者销售家居用品的电商网站。"
-创始人地区: "创始人未披露，RO，2017 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$36/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR0），未披露 受众；官网 https://perquri.com/"
-可迁移点: "① 直接从批发商采购，减少中间环节 ② 明确的物流时效承诺（处理2天，运输3-5天） ③ 使用Stripe作为支付验证工具"
-原文链接: "https://perquri.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:25:01.776Z；域名评分 DR0；原始页 https://trustmrr.com/startup/bogatu-ion。"
-分类: "E-comm / 未披露 / 海外"
+name: Bogatu Ion
+一句话: Bogatu Ion 是一家从美国批发商直接向消费者销售家居用品的电商网站。
+创始人地区: 创始人未披露，RO，2017 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $36/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR0），未披露 受众；官网 https://perquri.com/
+可迁移点: ① 直接从批发商采购，减少中间环节 ② 明确的物流时效承诺（处理2天，运输3-5天） ③ 使用Stripe作为支付验证工具
+原文链接: https://perquri.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:25:01.776Z；域名评分 DR0；原始页
+  https://trustmrr.com/startup/bogatu-ion。
+分类: E-comm / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $347 · 累计营收 $2,724 · 域名 DR0 · 国家 RO · 创立 2017-12-29"
-封面: "/case-site/cases/bogatu-ion/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $347 · 累计营收 $2,724 · 域名 DR0 · 国家
+  RO · 创立 2017-12-29
+封面: /case-site/cases/bogatu-ion/site.webp
 ---
+
 # Bogatu Ion
 
 

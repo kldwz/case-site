@@ -1,11 +1,15 @@
 ---
 name: Sanas
 一句话: 实时语音 AI——把口音和语言转成清晰母语、降噪、加语音智能，做客服中心的「声音翻译层」，累计融资 1.21 亿美元
-创始人地区: Shawn Zhang（CTO）+ Sharath Keshava Narayana（CEO）+ Max Serebryakov + Andrés Pérez Soderi；2020 年创立于斯坦福
+创始人地区: Shawn Zhang（CTO）+ Sharath Keshava Narayana（CEO）+ Max Serebryakov + Andrés Pérez
+  Soderi；2020 年创立于斯坦福
 营收模式: 实时语音 AI 平台——口音转换（accent translation）、语言转换、降噪、语音智能（实时字幕/质检）；面向客服与 BPO 中心按席位与用量订阅
-月收入估算: 累计融资 1.21 亿美元（$5M Seed 2021、$32M A 2022、$65M B 2025 @ $500M+ 估值，Quadrille 领投 + Teleperformance/Alorica）；ARR 约 2100 万–6200 万美元（Inc 记 2 年做到 6200 万、2026 冲 1.3 亿）；75 万+ 用户、3 万+ 客服坐席；收购 InTone 技术
+月收入估算: 累计融资 1.21 亿美元（$5M Seed 2021、$32M A 2022、$65M B 2025 @ $500M+ 估值，Quadrille 领投
+  + Teleperformance/Alorica）；ARR 约 2100 万–6200 万美元（Inc 记 2 年做到 6200 万、2026 冲 1.3 亿）；75
+  万+ 用户、3 万+ 客服坐席；收购 InTone 技术
 流量来源: BPO 与客服中心直销（Teleperformance、Alorica 等既是客户也是投资人）+ 企业口碑；语音层嵌入现有呼叫系统，部署即扩散
-可迁移点: ①「声音」是被忽略的 AI 接口，口音与语言壁垒真实存在，转成母语即创造价值 ② 不做独立产品，做「嵌入现有呼叫系统的翻译层」，入口即场景 ③ 把大客户（BPO 巨头）变成投资人，订单与资本同锁 ④ 实时性与低延迟是护城河，语音处理容不得卡顿 ⑤ 收购 InTone 补技术短板，用 M&A 比自研更快
+可迁移点: ①「声音」是被忽略的 AI 接口，口音与语言壁垒真实存在，转成母语即创造价值 ② 不做独立产品，做「嵌入现有呼叫系统的翻译层」，入口即场景 ③ 把大客户（BPO
+  巨头）变成投资人，订单与资本同锁 ④ 实时性与低延迟是护城河，语音处理容不得卡顿 ⑤ 收购 InTone 补技术短板，用 M&A 比自研更快
 原文链接: https://sanas.ai
 数据口径: 融资新闻（Seed/A/B 轮次与领投方）、Inc. 营收报道、官网用户与坐席规模、收购 InTone 公告
 类型: 收入案例
@@ -13,6 +17,7 @@ name: Sanas
 分类: AI 工具 / 语音 / 客服 / 美国
 封面: /case-site/cases/sanas/site.png
 ---
+
 
 ![Sanas 官网](/cases/sanas/site.png)
 

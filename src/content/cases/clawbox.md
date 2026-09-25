@@ -1,19 +1,23 @@
 ---
-name: "ClawBox"
-一句话: "ClawBox 是一个提供托管 AI 聊天机器人基础设施的 SaaS 平台，客户按月订阅即可在 WhatsApp 和 Telegram 等消息渠道上部署和运行 AI 助手。"
-创始人地区: "由 IT guy 创立，US，2026 年成立"
-营收模式: "$29/month"
-月收入估算: "$515/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR5），B2C 受众；官网 https://www.tryclawbox.com/"
-可迁移点: "① 专注于简化 AI 部署流程，提供一键式解决方案 ② 采用订阅制模式，确保稳定的收入流 ③ 利用开源技术（OpenClaw）构建，降低开发成本 ④ 提供专属服务器托管，解决用户技术门槛问题"
-原文链接: "https://www.tryclawbox.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:46:09.213Z；域名评分 DR5；原始页 https://trustmrr.com/startup/clawbox。"
-分类: "AI、SaaS、Productivity、Social Media / B2C / 海外"
+name: ClawBox
+一句话: ClawBox 是一个提供托管 AI 聊天机器人基础设施的 SaaS 平台，客户按月订阅即可在 WhatsApp 和 Telegram 等消息渠道上部署和运行
+  AI 助手。
+创始人地区: 由 IT guy 创立，US，2026 年成立
+营收模式: $29/month
+月收入估算: $515/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR5），B2C 受众；官网 https://www.tryclawbox.com/
+可迁移点: ① 专注于简化 AI 部署流程，提供一键式解决方案 ② 采用订阅制模式，确保稳定的收入流 ③ 利用开源技术（OpenClaw）构建，降低开发成本 ④ 提供专属服务器托管，解决用户技术门槛问题
+原文链接: https://www.tryclawbox.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:46:09.213Z；域名评分 DR5；原始页
+  https://trustmrr.com/startup/clawbox。
+分类: AI、SaaS、Productivity、Social Media / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $515 · 活跃订阅 10 · 近12个月营收 $2,547 · 累计营收 $2,547 · 域名 DR5 · 国家 US · 创立 2026-02-01"
-封面: "/case-site/cases/clawbox/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $515 · 活跃订阅 10 · 近12个月营收 $2,547 · 累计营收 $2,547 · 域名 DR5
+  · 国家 US · 创立 2026-02-01
+封面: /case-site/cases/clawbox/site.webp
 ---
+
 
 ![ClawBox 官网](/cases/clawbox/site.webp)
 

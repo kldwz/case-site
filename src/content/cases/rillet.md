@@ -3,16 +3,22 @@ name: Rillet
 一句话: 前 N26 美国区 CEO 重做财务系统，让 AI agent 在账本里自动记账对账，48 小时融到 1 亿美金进独角兽
 创始人地区: Nicolas Kopp（联合创始人兼 CEO），前德国数字银行 N26 美国区 CEO，2024 年从隐身模式推出，总部纽约 / 旧金山
 营收模式: AI 原生 ERP 订阅（替代 NetSuite / Sage Intacct / SAP），按客户规模与模块计费；企业版另收合规与治理功能费用
-月收入估算: 公司未披露具体金额，官方口径为「近三个月新 ARR 翻倍」+ 600+ 客户；2026-08-17 完成 1 亿美金 C 轮、估值 10 亿美金（ICONIQ 领投），累计融资超 2 亿美金（A 轮 2500 万 Sequoia 领投、B 轮 7000 万 a16z 与 ICONIQ 联合领投）
-流量来源: 客户主动替换传统 ERP（约 50% 来自 Intuit、30% 来自 NetSuite 与 Sage Intacct、20% 来自 Oracle/SAP/Workday/Microsoft）+ 与安永（EY）、KPMG、RSM 等会计师事务所结盟背书 + 客户口碑（Mercor、Neuralink、Skild AI 等高增长公司）
-可迁移点: ① AI 重写企业软件，最先动手的是后台——财务每家都有、几十年没人敢动，门槛高但一旦跑通护城河深 ② 你卖的是时间不是软件，20 天关账压成 3 天，省下的是整个团队的时间 ③ 创始人不必是行业专家，但团队必须全是——Kopp 没当过一天会计，拉了一支全是 Big Four CPA 的队伍 ④ 信任生意靠背书，会计师事务所结盟比广告管用一万倍 ⑤ 客户最敏感的系统要设计成「先并行后替换」，新旧同时跑三个月账对上了再切
+月收入估算: 公司未披露具体金额，官方口径为「近三个月新 ARR 翻倍」+ 600+ 客户；2026-08-17 完成 1 亿美金 C 轮、估值 10 亿美金（ICONIQ
+  领投），累计融资超 2 亿美金（A 轮 2500 万 Sequoia 领投、B 轮 7000 万 a16z 与 ICONIQ 联合领投）
+流量来源: 客户主动替换传统 ERP（约 50% 来自 Intuit、30% 来自 NetSuite 与 Sage Intacct、20% 来自 Oracle/SAP/Workday/Microsoft）+
+  与安永（EY）、KPMG、RSM 等会计师事务所结盟背书 + 客户口碑（Mercor、Neuralink、Skild AI 等高增长公司）
+可迁移点: ① AI 重写企业软件，最先动手的是后台——财务每家都有、几十年没人敢动，门槛高但一旦跑通护城河深 ② 你卖的是时间不是软件，20 天关账压成 3 天，省下的是整个团队的时间
+  ③ 创始人不必是行业专家，但团队必须全是——Kopp 没当过一天会计，拉了一支全是 Big Four CPA 的队伍 ④ 信任生意靠背书，会计师事务所结盟比广告管用一万倍
+  ⑤ 客户最敏感的系统要设计成「先并行后替换」，新旧同时跑三个月账对上了再切
 原文链接: https://rillet.com
-数据口径: Rillet 官方 C 轮公告（2026-08-17）、TechCrunch 与 Fortune 对 Nicolas Kopp 的采访、Reuters（2025-05 A 轮）、VentureCapitalTracker 融资记录；600+ 客户与「新 ARR 三个月翻倍」为公司披露，未公布具体美元金额
+数据口径: Rillet 官方 C 轮公告（2026-08-17）、TechCrunch 与 Fortune 对 Nicolas Kopp 的采访、Reuters（2025-05
+  A 轮）、VentureCapitalTracker 融资记录；600+ 客户与「新 ARR 三个月翻倍」为公司披露，未公布具体美元金额
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 企业软件 / 订阅制 / 英文 / 财务
 封面: /case-site/cases/rillet/site.png
 ---
+
 
 ![Rillet 官网](/cases/rillet/site.png)
 

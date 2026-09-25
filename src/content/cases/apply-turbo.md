@@ -1,19 +1,22 @@
 ---
-name: "Apply Turbo"
-一句话: "AI驱动的求职效率工具平台Apply Turbo，提供简历优化、求职信生成等SaaS服务。"
-创始人地区: "由 Adam 创立，US，2025 年成立"
-营收模式: "Risk-Free"
-月收入估算: "$288/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR0），B2B 受众；官网 https://www.promaxads.com/"
-可迁移点: "① 聚焦垂直场景的AI工具开发 ② 采用Risk-Free定价降低用户决策门槛 ③ Stripe集成实现支付验证 ④ 自助式SaaS产品形态"
-原文链接: "https://www.promaxads.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-07-08T10:37:47.708Z；域名评分 DR0；原始页 https://trustmrr.com/startup/apply-turbo。"
-分类: "Marketing、Sales / B2B / 海外"
+name: Apply Turbo
+一句话: AI驱动的求职效率工具平台Apply Turbo，提供简历优化、求职信生成等SaaS服务。
+创始人地区: 由 Adam 创立，US，2025 年成立
+营收模式: Risk-Free
+月收入估算: $288/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR0），B2B 受众；官网 https://www.promaxads.com/
+可迁移点: ① 聚焦垂直场景的AI工具开发 ② 采用Risk-Free定价降低用户决策门槛 ③ Stripe集成实现支付验证 ④ 自助式SaaS产品形态
+原文链接: https://www.promaxads.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-07-08T10:37:47.708Z；域名评分
+  DR0；原始页 https://trustmrr.com/startup/apply-turbo。
+分类: Marketing、Sales / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $288 · 活跃订阅 17 · 近12个月营收 $3,172 · 累计营收 $3,172 · 域名 DR0 · 国家 US · 创立 2025-11-18"
-封面: "/case-site/cases/apply-turbo/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $288 · 活跃订阅 17 · 近12个月营收 $3,172 · 累计营收 $3,172 · 域名 DR0
+  · 国家 US · 创立 2025-11-18
+封面: /case-site/cases/apply-turbo/site.webp
 ---
+
 
 ![Apply Turbo 官网](/cases/apply-turbo/site.webp)
 

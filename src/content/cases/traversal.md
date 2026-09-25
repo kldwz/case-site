@@ -1,18 +1,27 @@
 ---
 name: Traversal
-一句话: 哥伦比亚教授带着因果机器学习研究下海做的「AI SRE」——自动侦测、排查、修复生产事故，把平均恢复时间（MTTR）砍掉 85%，出道就拿 Sequoia 与 Kleiner Perkins 领投的 4800 万美金
-创始人地区: Anish Agarwal（CEO，哥伦比亚大学运筹学教授、MIT 博士）+ Raj Agrawal、Ahmed Lone（哥伦比亚硕士）、Raaz Dwivedi（康奈尔理工副教授）等联创，2024 年创立于纽约
+一句话: 哥伦比亚教授带着因果机器学习研究下海做的「AI SRE」——自动侦测、排查、修复生产事故，把平均恢复时间（MTTR）砍掉 85%，出道就拿 Sequoia
+  与 Kleiner Perkins 领投的 4800 万美金
+创始人地区: Anish Agarwal（CEO，哥伦比亚大学运筹学教授、MIT 博士）+ Raj Agrawal、Ahmed Lone（哥伦比亚硕士）、Raaz
+  Dwivedi（康奈尔理工副教授）等联创，2024 年创立于纽约
 营收模式: 面向财富 500 强与金融机构的 B2B 企业级 SRE 平台，按企业部署订阅（具体定价未公开），主打「减少停机损失」的高 ROI
-月收入估算: 未披露绝对营收；2025 年 6 月出 stealth 即宣布 4800 万美金种子 + A 轮，由 Sequoia 与 Kleiner Perkins 联合领投；2026 年 3 月获 American Express（Amex Ventures）战略投资并达成合作
-流量来源: 学术圈顶级声誉（创始人团队来自 Columbia/MIT/UC Berkeley，研究因果机器学习）+ Sequoia/KP 双星领投的强背书 + 企业客户（American Express、DigitalOcean、Eventbrite 等）标杆 + 「vibe coding 越多、系统越难调试」的时代红利
-可迁移点: ① 把博士论文变成产品——因果推断解决「找根因」这个监控工具 decades 没解决的难题，研究壁垒即商业壁垒 ② 不做又一个仪表盘，而是做「自主排查 + 修复」的 agent，直接替 on-call 工程解放 ③ 卡住「AI 写代码越多、系统越难debug」的时机，痛点随 vibe coding 爆发而放大 ④ 安全优先架构 + 灵活部署，才能进金融机构这种最保守的客户 ⑤ 学术创业要「在场」——团队全在纽约，面对面把研究转产品的速度拉满
+月收入估算: 未披露绝对营收；2025 年 6 月出 stealth 即宣布 4800 万美金种子 + A 轮，由 Sequoia 与 Kleiner Perkins
+  联合领投；2026 年 3 月获 American Express（Amex Ventures）战略投资并达成合作
+流量来源: 学术圈顶级声誉（创始人团队来自 Columbia/MIT/UC Berkeley，研究因果机器学习）+ Sequoia/KP 双星领投的强背书 + 企业客户（American
+  Express、DigitalOcean、Eventbrite 等）标杆 + 「vibe coding 越多、系统越难调试」的时代红利
+可迁移点: ① 把博士论文变成产品——因果推断解决「找根因」这个监控工具 decades 没解决的难题，研究壁垒即商业壁垒 ② 不做又一个仪表盘，而是做「自主排查
+  + 修复」的 agent，直接替 on-call 工程解放 ③ 卡住「AI 写代码越多、系统越难debug」的时机，痛点随 vibe coding 爆发而放大
+  ④ 安全优先架构 + 灵活部署，才能进金融机构这种最保守的客户 ⑤ 学术创业要「在场」——团队全在纽约，面对面把研究转产品的速度拉满
 原文链接: https://www.traversal.com
-数据口径: 融资——2025 年 6 月出 stealth、4800 万美金种子+A 轮、Sequoia 与 Kleiner Perkins 领投（TechCrunch/Cornell/Traversal 官方）；2026 年 3 月 Amex Ventures 战略投资（Traversal 官方稿）；MTTR 降 85%（官方口径）；客户（American Express/DigitalOcean/Eventbrite）（官方与报道）；创始人学术背景（Columbia/Cornell 报道）
+数据口径: 融资——2025 年 6 月出 stealth、4800 万美金种子+A 轮、Sequoia 与 Kleiner Perkins 领投（TechCrunch/Cornell/Traversal
+  官方）；2026 年 3 月 Amex Ventures 战略投资（Traversal 官方稿）；MTTR 降 85%（官方口径）；客户（American Express/DigitalOcean/Eventbrite）（官方与报道）；创始人学术背景（Columbia/Cornell
+  报道）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI SRE / 运维智能体 / 英文 / 美国
 封面: /case-site/cases/traversal/site.png
 ---
+
 
 ![Traversal 官网](/cases/traversal/site.png)
 

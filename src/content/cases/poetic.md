@@ -1,18 +1,24 @@
 ---
 name: Poetic
 一句话: 把企业流程写成「能跑的代码」：像 AI 一样学、像代码一样确定性执行，用在反欺诈/KYC/核保，A 轮 5000 万、估值 5 亿
-创始人地区: Markie Wagner（CEO，Thiel Fellow，ex-Google/Waymo，曾营 Delphi Labs），2023 年创立（原名 Forge），总部旧金山
+创始人地区: Markie Wagner（CEO，Thiel Fellow，ex-Google/Waymo，曾营 Delphi Labs），2023 年创立（原名
+  Forge），总部旧金山
 营收模式: 企业订阅 + 按用量，面向金融/保险等强合规行业，提供「确定性企业流程自动化」（反欺诈、KYC、核保等）
-月收入估算: 2026-06-10 完成 5000 万美金 A 轮、估值 5 亿美金（Kleiner Perkins 领投），Founders Fund、First Harmonic、OpenAI 跟投；2025 年仅凭 4 人团队达 8 位数 run rate，100% 试点转生产
+月收入估算: 2026-06-10 完成 5000 万美金 A 轮、估值 5 亿美金（Kleiner Perkins 领投），Founders Fund、First
+  Harmonic、OpenAI 跟投；2025 年仅凭 4 人团队达 8 位数 run rate，100% 试点转生产
 流量来源: 标杆金融客户案例（SoFi、AIG、Chime）+ 顶级 VC 背书（KP/Founders Fund/OpenAI）+ 强合规行业的「确定性」刚需
-可迁移点: ① 在「不能出错」的行业卖「确定性」而不是「聪明」——金融/保险要的是可审计、可复现 ②「像代码一样跑」把模糊的 AI 输出变成可信赖的 SOP，正中合规痛点 ③ 4 人团队先跑出 8 位数收入再融资，议价权在自己手里 ④ 反欺诈/KYC 是 AI 落地最快的现金牛场景，每笔交易都在省钱 ⑤ Thiel Fellow 出身的连续创业者，执行力 + 叙事力双高
+可迁移点: ① 在「不能出错」的行业卖「确定性」而不是「聪明」——金融/保险要的是可审计、可复现 ②「像代码一样跑」把模糊的 AI 输出变成可信赖的 SOP，正中合规痛点
+  ③ 4 人团队先跑出 8 位数收入再融资，议价权在自己手里 ④ 反欺诈/KYC 是 AI 落地最快的现金牛场景，每笔交易都在省钱 ⑤ Thiel Fellow
+  出身的连续创业者，执行力 + 叙事力双高
 原文链接: https://www.poetic.com
-数据口径: PR Newswire、TechFundingNews、Benzinga 报道；A 轮 5000 万 @ 5 亿估值、投资方、客户效果为公开披露；「4 人 8 位数 run rate / 100% 试点转生产」为公司对外口径
+数据口径: PR Newswire、TechFundingNews、Benzinga 报道；A 轮 5000 万 @ 5 亿估值、投资方、客户效果为公开披露；「4
+  人 8 位数 run rate / 100% 试点转生产」为公司对外口径
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 企业流程自动化 / 企业订阅+用量 / 英文 / 金融科技
 封面: /case-site/cases/poetic/site.png
 ---
+
 
 ![Poetic 官网](/cases/poetic/site.png)
 

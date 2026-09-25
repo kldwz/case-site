@@ -1,19 +1,22 @@
 ---
-name: "Algomax"
-一句话: "Algomax 是一个提供高质量教程的开源平台，帮助开发者和创始人利用 AI 创建应用并优化社交媒体发布效率。"
-创始人地区: "由 Virgile RIETSCH 创立，FR，2024 年成立"
-营收模式: "Free: $0/mo"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR19），B2C 受众；官网 https://algomax.fr/"
-可迁移点: "① 开源模式可降低初期开发成本 ② 免费策略适合工具类产品早期用户积累 ③ 垂直领域教程内容具备天然 SEO 优势 ④ Stripe 支付验证增加营收数据可信度"
-原文链接: "https://algomax.fr/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:04:36.035Z；域名评分 DR19；原始页 https://trustmrr.com/startup/algomax。"
-分类: "Education、AI、Dev Tools、Content Creation、Social Media / B2C / 海外"
+name: Algomax
+一句话: Algomax 是一个提供高质量教程的开源平台，帮助开发者和创始人利用 AI 创建应用并优化社交媒体发布效率。
+创始人地区: 由 Virgile RIETSCH 创立，FR，2024 年成立
+营收模式: 'Free: $0/mo'
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR19），B2C 受众；官网 https://algomax.fr/
+可迁移点: ① 开源模式可降低初期开发成本 ② 免费策略适合工具类产品早期用户积累 ③ 垂直领域教程内容具备天然 SEO 优势 ④ Stripe 支付验证增加营收数据可信度
+原文链接: https://algomax.fr/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:04:36.035Z；域名评分 DR19；原始页
+  https://trustmrr.com/startup/algomax。
+分类: Education、AI、Dev Tools、Content Creation、Social Media / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $533 · 累计营收 $1,843 · 域名 DR19 · 国家 FR · 创立 2024-01-14"
-封面: "/case-site/cases/algomax/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $533 · 累计营收 $1,843 · 域名 DR19 · 国家
+  FR · 创立 2024-01-14
+封面: /case-site/cases/algomax/site.webp
 ---
+
 
 ![Algomax 官网](/cases/algomax/site.webp)
 

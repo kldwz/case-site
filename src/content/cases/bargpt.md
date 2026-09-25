@@ -1,19 +1,22 @@
 ---
-name: "BarGPT"
-一句话: "AI驱动的鸡尾酒配方定制服务，通过情绪、基酒或场合生成个性化调酒方案。"
-创始人地区: "由 BarGPT 创立，US，2023 年成立"
-营收模式: "Free: $0/mo, Premium: $3.99/mo or $29.99/yr"
-月收入估算: "$218/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR29），B2C 受众；官网 https://www.bargpt.app/"
-可迁移点: "① 将AI技术垂直应用于生活娱乐场景 ② 免费+订阅制的混合变现模式 ③ 通过Stripe实现轻量化支付验证 ④ 基础功能免费吸引用户，高级配方付费转化"
-原文链接: "https://www.bargpt.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:50:08.036Z；域名评分 DR29；原始页 https://trustmrr.com/startup/bargpt。"
-分类: "Utilities、Entertainment / B2C / 海外"
+name: BarGPT
+一句话: AI驱动的鸡尾酒配方定制服务，通过情绪、基酒或场合生成个性化调酒方案。
+创始人地区: 由 BarGPT 创立，US，2023 年成立
+营收模式: 'Free: $0/mo, Premium: $3.99/mo or $29.99/yr'
+月收入估算: $218/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR29），B2C 受众；官网 https://www.bargpt.app/
+可迁移点: ① 将AI技术垂直应用于生活娱乐场景 ② 免费+订阅制的混合变现模式 ③ 通过Stripe实现轻量化支付验证 ④ 基础功能免费吸引用户，高级配方付费转化
+原文链接: https://www.bargpt.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:50:08.036Z；域名评分 DR29；原始页
+  https://trustmrr.com/startup/bargpt。
+分类: Utilities、Entertainment / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $218 · 活跃订阅 73 · 近12个月营收 $3,039 · 累计营收 $15,633 · 域名 DR29 · 国家 US · 创立 2023-04-28"
-封面: "/case-site/cases/bargpt/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $218 · 活跃订阅 73 · 近12个月营收 $3,039 · 累计营收 $15,633 · 域名 DR29
+  · 国家 US · 创立 2023-04-28
+封面: /case-site/cases/bargpt/site.webp
 ---
+
 
 ![BarGPT 官网](/cases/bargpt/site.webp)
 

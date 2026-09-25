@@ -1,19 +1,23 @@
 ---
-name: "AgentsKit"
-一句话: "your AI engineering & marketing team in one command"
-创始人地区: "由 Mohit Vaswani 创立，IN，2026 年成立"
-营收模式: "Engineer Kit: $49 one-time, Marketing Kit: $49 one-time, Complete Bundle: $89 one-time (launch price)"
-月收入估算: "$1,036/月（Polar 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR13），B2C 受众；官网 https://agentskit.co/"
-可迁移点: "① 采用一次性付费模式降低用户决策门槛 ② 通过捆绑销售提升客单价 ③ 产品定位明确聚焦AI工程与营销场景 ④ 域名DR值13.0显示SEO基础薄弱"
-原文链接: "https://agentskit.co/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-16T23:36:35.216Z；域名评分 DR13；原始页 https://trustmrr.com/startup/claudethings。"
-分类: "AI、Dev Tools、Productivity、SaaS / B2C / 海外"
+name: AgentsKit
+一句话: your AI engineering & marketing team in one command
+创始人地区: 由 Mohit Vaswani 创立，IN，2026 年成立
+营收模式: 'Engineer Kit: $49 one-time, Marketing Kit: $49 one-time, Complete Bundle: $89
+  one-time (launch price)'
+月收入估算: $1,036/月（Polar 验证）
+流量来源: SEO 自然流量为主（域名评分 DR13），B2C 受众；官网 https://agentskit.co/
+可迁移点: ① 采用一次性付费模式降低用户决策门槛 ② 通过捆绑销售提升客单价 ③ 产品定位明确聚焦AI工程与营销场景 ④ 域名DR值13.0显示SEO基础薄弱
+原文链接: https://agentskit.co/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-16T23:36:35.216Z；域名评分 DR13；原始页
+  https://trustmrr.com/startup/claudethings。
+分类: AI、Dev Tools、Productivity、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Polar · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $3,300 · 累计营收 $3,300 · 域名 DR13 · 国家 IN · 创立 2026-07-01"
-封面: "/case-site/cases/claudethings/site.webp"
+平台数据: 支付验证：Polar · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $3,300 · 累计营收 $3,300 · 域名 DR13 · 国家
+  IN · 创立 2026-07-01
+封面: /case-site/cases/claudethings/site.webp
 ---
+
 # AgentsKit
 
 

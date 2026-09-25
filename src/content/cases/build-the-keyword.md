@@ -1,19 +1,22 @@
 ---
-name: "Build The Keyword"
-一句话: "Find app ideas with proven demand"
-创始人地区: "由 Katt 💎buildthekeyword.com 创立，GB，2024 年成立"
-营收模式: "Free"
-月收入估算: "$98/月（Lemon Squeezy 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR25），B2C 受众；官网 https://www.buildthekeyword.com/"
-可迁移点: "① 通过关键词验证市场需求 ② 免费模式吸引用户后再探索变现 ③ 聚焦开发者工具与营销交叉领域 ④ 利用创始人社交媒体影响力（X粉丝12,607）"
-原文链接: "https://www.buildthekeyword.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Lemon Squeezy）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-07-11T21:19:57.340Z；域名评分 DR25；原始页 https://trustmrr.com/startup/build-the-keyword。"
-分类: "Dev Tools、Marketing、Productivity、SaaS / B2C / 海外"
+name: Build The Keyword
+一句话: Find app ideas with proven demand
+创始人地区: 由 Katt 💎buildthekeyword.com 创立，GB，2024 年成立
+营收模式: Free
+月收入估算: $98/月（Lemon Squeezy 验证）
+流量来源: SEO 自然流量为主（域名评分 DR25），B2C 受众；官网 https://www.buildthekeyword.com/
+可迁移点: ① 通过关键词验证市场需求 ② 免费模式吸引用户后再探索变现 ③ 聚焦开发者工具与营销交叉领域 ④ 利用创始人社交媒体影响力（X粉丝12,607）
+原文链接: https://www.buildthekeyword.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Lemon Squeezy）验证（凭证已过期，数据停留在最后同步日），最后同步于 2026-07-11T21:19:57.340Z；域名评分
+  DR25；原始页 https://trustmrr.com/startup/build-the-keyword。
+分类: Dev Tools、Marketing、Productivity、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Lemon Squeezy · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,865 · 累计营收 $25,453 · 域名 DR25 · 国家 GB · 创立 2024-03-13"
-封面: "/case-site/cases/build-the-keyword/site.webp"
+平台数据: 支付验证：Lemon Squeezy · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,865 · 累计营收 $25,453 · 域名
+  DR25 · 国家 GB · 创立 2024-03-13
+封面: /case-site/cases/build-the-keyword/site.webp
 ---
+
 # Build The Keyword
 
 

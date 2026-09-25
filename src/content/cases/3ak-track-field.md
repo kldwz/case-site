@@ -1,19 +1,23 @@
 ---
-name: "3AK Track & Field"
-一句话: "3AK Track & Field 是一款面向田径运动员的 AI 训练应用，通过个性化指导帮助用户提升表现。"
-创始人地区: "由 Christian Rac 创立，US，2025 年成立"
-营收模式: "In-App Purchases: Yearly $39.99, Yearly $29.99, Monthly $9.99, Weekly Pro $9.99, Weekly $6.99"
-月收入估算: "$11,804/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6756290066"
-可迁移点: "① 聚焦垂直领域（田径训练）的付费订阅模式 ② 多档定价策略覆盖不同付费意愿用户（周/月/年订阅） ③ 通过技术手段（AI+数据分析）将专业级训练方案产品化"
-原文链接: "https://apps.apple.com/app/id6756290066"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:24:41.234Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/3ak-track-field。"
-分类: "Health & Fitness、AI、Analytics、Mobile Apps / B2C / 海外"
+name: 3AK Track & Field
+一句话: 3AK Track & Field 是一款面向田径运动员的 AI 训练应用，通过个性化指导帮助用户提升表现。
+创始人地区: 由 Christian Rac 创立，US，2025 年成立
+营收模式: 'In-App Purchases: Yearly $39.99, Yearly $29.99, Monthly $9.99, Weekly Pro $9.99,
+  Weekly $6.99'
+月收入估算: $11,804/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6756290066
+可迁移点: ① 聚焦垂直领域（田径训练）的付费订阅模式 ② 多档定价策略覆盖不同付费意愿用户（周/月/年订阅） ③ 通过技术手段（AI+数据分析）将专业级训练方案产品化
+原文链接: https://apps.apple.com/app/id6756290066
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:24:41.234Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/3ak-track-field。
+分类: Health & Fitness、AI、Analytics、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $11,804 · 活跃订阅 3,441 · 近12个月营收 $132,895 · 累计营收 $132,895 · 域名 DR未披露 · 国家 US · 创立 2025-12-16"
-封面: "/case-site/cases/3ak-track-field/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $11,804 · 活跃订阅 3,441 · 近12个月营收 $132,895 · 累计营收 $132,895
+  · 域名 DR未披露 · 国家 US · 创立 2025-12-16
+封面: /case-site/cases/3ak-track-field/site.webp
 ---
+
 
 ![3AK Track & Field 官网](/cases/3ak-track-field/site.webp)
 

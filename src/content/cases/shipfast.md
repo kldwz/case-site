@@ -5,7 +5,8 @@ name: ShipFast
 营收模式: 一次性买断（$199/249/299 三档），无订阅；副收入：与 Vercel/Resend/Stripe 等的会员专属折扣（联盟+导流）
 月收入估算: 创始人自披露：ShipFast 和 CodeFast 各自约 $20K/月，2025 年全产品线合计 $1,032,000
 流量来源: X (Twitter) 13.5 万粉丝作为主分发渠道；ProductHunt 首页推荐；持续 build in public
-可迁移点: ① 卖"省下的时间"而不是卖代码 ② build in public 本身是分发：每天公开收入就是信任 ③ 产品矩阵互导流 ④ 反面也要讲：2025 年收入比 2024 年低 20%
+可迁移点: ① 卖"省下的时间"而不是卖代码 ② build in public 本身是分发：每天公开收入就是信任 ③ 产品矩阵互导流 ④ 反面也要讲：2025 年收入比
+  2024 年低 20%
 原文链接: https://shipfa.st
 数据口径: Marc Lou Newsletter "I made $1,032,000 in 2025"（创始人自报，无第三方审计）
 类型: 收入案例
@@ -13,6 +14,7 @@ name: ShipFast
 分类: 买断制模板 / 个人开发者 / 英文
 封面: /case-site/cases/shipfast/site.png
 ---
+
 
 ![ShipFast 官网首页](/cases/shipfast/site.png)
 

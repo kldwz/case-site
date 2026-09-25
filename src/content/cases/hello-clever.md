@@ -1,18 +1,29 @@
 ---
 name: Hello Clever
 一句话: 两个越南裔高中同学把返现做进支付本身，开创「买了就赚」品类，年化收入冲到 5000 万美金
-创始人地区: Caroline Tran（联合创始人兼 CEO，越南裔，悉尼科技大学金融会计背景，曾任职 WPP、IPG、James Hardie）与 Gavin Nguyen（联合创始人兼 CTO，FPT 大学软件工程第一名毕业、RMIT 信息技术硕士第一名毕业），澳大利亚悉尼
-营收模式: 面向商家的支付网关加忠诚度基础设施，按交易抽成并辅以订阅与跨境服务；澳洲定价为 PayID 银行支付 0.6% 加 0.7 澳元、本地 Visa/Mastercard 1.5% 加 0.25 澳元、国际卡 3.2% 加 0.3 澳元；Pro 版每月 299 澳元可降费率
+创始人地区: Caroline Tran（联合创始人兼 CEO，越南裔，悉尼科技大学金融会计背景，曾任职 WPP、IPG、James Hardie）与 Gavin
+  Nguyen（联合创始人兼 CTO，FPT 大学软件工程第一名毕业、RMIT 信息技术硕士第一名毕业），澳大利亚悉尼
+营收模式: 面向商家的支付网关加忠诚度基础设施，按交易抽成并辅以订阅与跨境服务；澳洲定价为 PayID 银行支付 0.6% 加 0.7 澳元、本地 Visa/Mastercard
+  1.5% 加 0.25 澳元、国际卡 3.2% 加 0.3 澳元；Pro 版每月 299 澳元可降费率
 月收入估算: 年化收入约 5000 万美金（2026 年 8 月）；累计处理支付规模官网称 50 亿美金；融资约 950 万澳元
 流量来源: 抢先接入澳洲央行新支付基建 PayTo 拿到「首个」新闻点；与 Tyro 合作把即时返现铺进 7 万台线下 POS 终端；靠 AFR 增速榜第二名与福布斯亚洲百强等榜单建立信任
-可迁移点: ① 把「奖励」从积分变成即时现金，改的是心理账户不是功能 ② 新政基建开放的窗口期属于最快动手的人——PayTo 一上线他们就接入了 ③ 让商家自己出返现的钱，平台只提供基础设施，成本结构上就不背奖励包袱 ④ 用榜单和奖项建信任，在金融这种强监管赛道里比广告有用 ⑤ 主战场在澳洲，但研发放在越南，用地理套利撑住成本结构
+可迁移点: ① 把「奖励」从积分变成即时现金，改的是心理账户不是功能 ② 新政基建开放的窗口期属于最快动手的人——PayTo 一上线他们就接入了 ③ 让商家自己出返现的钱，平台只提供基础设施，成本结构上就不背奖励包袱
+  ④ 用榜单和奖项建信任，在金融这种强监管赛道里比广告有用 ⑤ 主战场在澳洲，但研发放在越南，用地理套利撑住成本结构
 原文链接: https://helloclever.co
-数据口径: 营收——Sacra 估算 2026 年 8 月年化收入约 5000 万美金；官网称累计处理总价值 50 亿美金（Sacra、Hello Clever 官网）；融资——累计约 950 万澳元，含 2024 年底 500 万澳元一轮；2022 年完成超额认购的 450 万澳元种子轮，由 Vectr Fintech Partners 领投，CrossFund、Yolo Investments、Magnivia Ventures、Son Tech Ventures、Boson Ventures 及天使投资人参投（Sacra、Australian FinTech、公司公告、Tuoi Tre News）；规模——1000 多家商户、200 万用户、累计支付量超 20 亿美金，覆盖 20 多个市场，支持 54 种以上支付方式与 25 种以上货币（Sacra）；里程碑——2022 年完成澳洲首笔消费者对商户的 PayTo 交易；2023 年获 Finnies 年度新兴金融科技公司、Caroline Tran 获 Atlassian 颁发的女性科技领导力奖；2024 年复合增长 2300%、位列 AFR 高速成长初创榜第二、入选福布斯亚洲 100 家值得关注企业，并与 Tyro 合作接入 7 万台终端（Hello Clever 官网、Australian FinTech）；团队——约 100 人，5 个办公室，技术研发团队主要在越南（Hello Clever 官网、Tuoi Tre News）
+数据口径: 营收——Sacra 估算 2026 年 8 月年化收入约 5000 万美金；官网称累计处理总价值 50 亿美金（Sacra、Hello Clever 官网）；融资——累计约
+  950 万澳元，含 2024 年底 500 万澳元一轮；2022 年完成超额认购的 450 万澳元种子轮，由 Vectr Fintech Partners 领投，CrossFund、Yolo
+  Investments、Magnivia Ventures、Son Tech Ventures、Boson Ventures 及天使投资人参投（Sacra、Australian
+  FinTech、公司公告、Tuoi Tre News）；规模——1000 多家商户、200 万用户、累计支付量超 20 亿美金，覆盖 20 多个市场，支持 54
+  种以上支付方式与 25 种以上货币（Sacra）；里程碑——2022 年完成澳洲首笔消费者对商户的 PayTo 交易；2023 年获 Finnies 年度新兴金融科技公司、Caroline
+  Tran 获 Atlassian 颁发的女性科技领导力奖；2024 年复合增长 2300%、位列 AFR 高速成长初创榜第二、入选福布斯亚洲 100 家值得关注企业，并与
+  Tyro 合作接入 7 万台终端（Hello Clever 官网、Australian FinTech）；团队——约 100 人，5 个办公室，技术研发团队主要在越南（Hello
+  Clever 官网、Tuoi Tre News）
 类型: 收入案例
 证据等级: 官方披露
 分类: 金融科技 / 支付与忠诚度 / 英文 / 澳大利亚
 封面: /case-site/cases/hello-clever/site.png
 ---
+
 
 ![Hello Clever 官网](/cases/hello-clever/site.png)
 

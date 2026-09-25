@@ -4,15 +4,23 @@ name: Spott
 创始人地区: Lander Degrève、Manu Vanderveeren、Samuel Smeys，比利时鲁汶 / 美国旧金山
 营收模式: SaaS 订阅。面向招聘与猎头公司的 AI 原生 ATS/CRM 一体化平台，按坐席与模块收费
 月收入估算: 未公开月收入；2025 年 5 月完成 320 万美元种子轮，已为多个客户生成 1000+ 候选人档案，处付费试用早期扩张阶段
-流量来源: YC W25 背书 + Product Hunt 曝光 + 招聘行业口碑（Pauwels Consulting、Stanton Chase 等案例）；白手套迁移（4 周上线）降低采购门槛
-可迁移点: ① 不做单点 AI 工具，做「一体化 AI 原生平台」消除碎片化——这是垂直 SaaS 重写旧工作流的正确姿势 ② 创始人亲身痛点比市场调研可信：他们在麦肯锡/BCG 亲眼见招聘团队被老旧系统拖累 ③ YC 背书 + 白手套迁移，是冷启动垂直 SaaS 的两大杠杆 ④ 把 AI 嵌进架构最底层（「at the core, not bolted on」），而不是事后贴一层
+流量来源: YC W25 背书 + Product Hunt 曝光 + 招聘行业口碑（Pauwels Consulting、Stanton Chase 等案例）；白手套迁移（4
+  周上线）降低采购门槛
+可迁移点: ① 不做单点 AI 工具，做「一体化 AI 原生平台」消除碎片化——这是垂直 SaaS 重写旧工作流的正确姿势 ② 创始人亲身痛点比市场调研可信：他们在麦肯锡/BCG
+  亲眼见招聘团队被老旧系统拖累 ③ YC 背书 + 白手套迁移，是冷启动垂直 SaaS 的两大杠杆 ④ 把 AI 嵌进架构最底层（「at the core, not
+  bolted on」），而不是事后贴一层
 原文链接: https://spott.io
-数据口径: 融资——2025 年 5 月 28 日完成 320 万美元种子轮，由 Base10 Partners 领投，Y Combinator、Fortino Capital、True Equity 及多位天使参投（Fortino Capital 新闻稿、chatgate.ai 引 YC）；产品与运营——YC W25 批次，AI 原生 ATS/CRM，覆盖候选人语义匹配、自动外联、面试笔记摘要、候选人演示生成、分析；已为 Growing 客户列表生成 1000+ 候选人档案，与 Stanton Chase 等进入付费试用（Fortino Capital、PSG 案例）；创始人——Lander Degrève（CEO）、Manu Vanderveeren（COO）、Samuel Smeys，均具招聘科技与软件工程背景；总部旧金山，团队 11-50 人（PromptLoop、Fortino Capital、chatgate.ai）
+数据口径: 融资——2025 年 5 月 28 日完成 320 万美元种子轮，由 Base10 Partners 领投，Y Combinator、Fortino Capital、True
+  Equity 及多位天使参投（Fortino Capital 新闻稿、chatgate.ai 引 YC）；产品与运营——YC W25 批次，AI 原生 ATS/CRM，覆盖候选人语义匹配、自动外联、面试笔记摘要、候选人演示生成、分析；已为
+  Growing 客户列表生成 1000+ 候选人档案，与 Stanton Chase 等进入付费试用（Fortino Capital、PSG 案例）；创始人——Lander
+  Degrève（CEO）、Manu Vanderveeren（COO）、Samuel Smeys，均具招聘科技与软件工程背景；总部旧金山，团队 11-50 人（PromptLoop、Fortino
+  Capital、chatgate.ai）
 类型: 收入案例
 证据等级: 官方披露
 分类: 招聘 SaaS / AI 原生 ATS / 英文 / 比利时
 封面: /case-site/cases/spott/site.png
 ---
+
 
 ![Spott 官网](/cases/spott/site.png)
 

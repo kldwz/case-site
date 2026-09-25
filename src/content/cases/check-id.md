@@ -1,19 +1,23 @@
 ---
-name: "Check ID"
-一句话: "Check ID 是一个专门验证南非身份证号码的在线工具，提供网页界面和API接口，帮助开发者轻松集成到现有系统中。"
-创始人地区: "由 Pieter van Wyk 创立，ZA，2024 年成立"
-营收模式: "Start with 10 free checks."
-月收入估算: "$529/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR5），B2B 受众；官网 https://checkid.co.za/"
-可迁移点: "① 专注于特定国家/地区的身份验证需求，解决本地化问题 ② 提供免费试用（10次免费验证）降低用户尝试门槛 ③ 通过API形式实现B2B变现 ④ 设计符合当地隐私法规(POPIA)的产品特性 ⑤ 采用零数据存储架构增强安全性信任"
-原文链接: "https://checkid.co.za/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:02:48.789Z；域名评分 DR5；原始页 https://trustmrr.com/startup/check-id。"
-分类: "Dev Tools、Security、SaaS / B2B / 海外"
+name: Check ID
+一句话: Check ID 是一个专门验证南非身份证号码的在线工具，提供网页界面和API接口，帮助开发者轻松集成到现有系统中。
+创始人地区: 由 Pieter van Wyk 创立，ZA，2024 年成立
+营收模式: Start with 10 free checks.
+月收入估算: $529/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR5），B2B 受众；官网 https://checkid.co.za/
+可迁移点: ① 专注于特定国家/地区的身份验证需求，解决本地化问题 ② 提供免费试用（10次免费验证）降低用户尝试门槛 ③ 通过API形式实现B2B变现 ④ 设计符合当地隐私法规(POPIA)的产品特性
+  ⑤ 采用零数据存储架构增强安全性信任
+原文链接: https://checkid.co.za/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:02:48.789Z；域名评分 DR5；原始页
+  https://trustmrr.com/startup/check-id。
+分类: Dev Tools、Security、SaaS / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $529 · 活跃订阅 62 · 近12个月营收 $5,766 · 累计营收 $7,492 · 域名 DR5 · 国家 ZA · 创立 2024-12-05"
-封面: "/case-site/cases/check-id/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $529 · 活跃订阅 62 · 近12个月营收 $5,766 · 累计营收 $7,492 · 域名 DR5
+  · 国家 ZA · 创立 2024-12-05
+封面: /case-site/cases/check-id/site.webp
 ---
+
 
 ![Check ID 官网](/cases/check-id/site.webp)
 

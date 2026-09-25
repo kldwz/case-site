@@ -1,19 +1,24 @@
 ---
-name: "AppAlchemy"
-一句话: "AppAlchemy是一个AI驱动的无代码构建器，将文本描述转化为可运行的iOS和Android应用。"
-创始人地区: "由 Dro 🇺🇸 🇸🇻 创立，US，2025 年成立"
-营收模式: "Design tool: $29.99/mo Starter, $49.99/mo Pro, $99.99/mo Ultimate, annual plans at $210/$350/$700. App builder: $20/mo Pro, $100/mo Max"
-月收入估算: "$6,441/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR18），Both 受众；官网 https://appalchemy.ai/"
-可迁移点: "① 通过AI技术将文本描述转化为应用，降低非技术用户的使用门槛 ② 提供设计工具和应用构建器两个产品，共享同一支付系统 ③ 高利润率（90%+），主要成本为LLM使用费用 ④ 单人运营，无员工，实现高效运作"
-原文链接: "https://appalchemy.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:56:41.122Z；域名评分 DR18；原始页 https://trustmrr.com/startup/appalchemy。"
-分类: "AI / Both / 海外"
+name: AppAlchemy
+一句话: AppAlchemy是一个AI驱动的无代码构建器，将文本描述转化为可运行的iOS和Android应用。
+创始人地区: 由 Dro 🇺🇸 🇸🇻 创立，US，2025 年成立
+营收模式: 'Design tool: $29.99/mo Starter, $49.99/mo Pro, $99.99/mo Ultimate, annual plans
+  at $210/$350/$700. App builder: $20/mo Pro, $100/mo Max'
+月收入估算: $6,441/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR18），Both 受众；官网 https://appalchemy.ai/
+可迁移点: ① 通过AI技术将文本描述转化为应用，降低非技术用户的使用门槛 ② 提供设计工具和应用构建器两个产品，共享同一支付系统 ③ 高利润率（90%+），主要成本为LLM使用费用
+  ④ 单人运营，无员工，实现高效运作
+原文链接: https://appalchemy.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:56:41.122Z；域名评分 DR18；原始页
+  https://trustmrr.com/startup/appalchemy。
+分类: AI / Both / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $6,441 · 活跃订阅 222 · 近12个月营收 $131,630 · 累计营收 $238,531 · 域名 DR18 · 国家 US · 创立 2025-02-11"
-封面: "/case-site/cases/appalchemy/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $6,441 · 活跃订阅 222 · 近12个月营收 $131,630 · 累计营收 $238,531 ·
+  域名 DR18 · 国家 US · 创立 2025-02-11
+封面: /case-site/cases/appalchemy/site.webp
 ---
+
 
 ![AppAlchemy 官网](/cases/appalchemy/site.webp)
 

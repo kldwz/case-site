@@ -1,19 +1,22 @@
 ---
-name: "axis-labv2025"
-一句话: "AI驱动的SaaS产品分发与发现平台，帮助独立开发者高效推广产品。"
-创始人地区: "由 Axis Wang 创立，地区未披露，2024 年成立"
-营收模式: "Free: $0, Pro: $9.9, Sponsor: $19.9/week"
-月收入估算: "$177/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://fabu.dev/"
-可迁移点: "① 采用阶梯定价策略（免费/专业/赞助）测试市场接受度 ② 通过AI Agent技术实现多平台一键分发 ③ 精准定位B2B领域的独立开发者需求 ④ 利用Stripe实现轻量化支付验证"
-原文链接: "https://fabu.dev/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:12:03.268Z；域名评分 DR1；原始页 https://trustmrr.com/startup/axis-labv2025。"
-分类: "AI、SaaS、Productivity / B2B / 海外"
+name: axis-labv2025
+一句话: AI驱动的SaaS产品分发与发现平台，帮助独立开发者高效推广产品。
+创始人地区: 由 Axis Wang 创立，地区未披露，2024 年成立
+营收模式: 'Free: $0, Pro: $9.9, Sponsor: $19.9/week'
+月收入估算: $177/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2B 受众；官网 https://fabu.dev/
+可迁移点: ① 采用阶梯定价策略（免费/专业/赞助）测试市场接受度 ② 通过AI Agent技术实现多平台一键分发 ③ 精准定位B2B领域的独立开发者需求 ④ 利用Stripe实现轻量化支付验证
+原文链接: https://fabu.dev/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:12:03.268Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/axis-labv2025。
+分类: AI、SaaS、Productivity / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $6,225 · 累计营收 $6,225 · 域名 DR1 · 国家 未披露 · 创立 2024-09-15"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $6,225 · 累计营收 $6,225 · 域名 DR1 · 国家
+  未披露 · 创立 2024-09-15
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # axis-labv2025：AI驱动的SaaS产品分发与发现平台，帮助独立开发者高效推广产品。
 

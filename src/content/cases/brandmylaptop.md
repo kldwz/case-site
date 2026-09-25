@@ -1,19 +1,22 @@
 ---
-name: "BrandMyLaptop"
-一句话: "BrandMyLaptop是一个连接品牌方与个人用户的笔记本电脑广告位租赁平台。"
-创始人地区: "由 Vincent 创立，FR，2026 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$5,271/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR34），未披露 受众；官网 https://brandmylaptop.com/"
-可迁移点: "① 利用闲置物品表面（笔记本A面）创造广告价值 ② 轻资产模式：平台仅需匹配供需双方，无需库存 ③ 通过实体媒介建立线下广告网络的可能性"
-原文链接: "https://brandmylaptop.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:36:51.921Z；域名评分 DR34；原始页 https://trustmrr.com/startup/brandmylaptop。"
-分类: "Marketplace、Marketing / 未披露 / 海外"
+name: BrandMyLaptop
+一句话: BrandMyLaptop是一个连接品牌方与个人用户的笔记本电脑广告位租赁平台。
+创始人地区: 由 Vincent 创立，FR，2026 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $5,271/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR34），未披露 受众；官网 https://brandmylaptop.com/
+可迁移点: ① 利用闲置物品表面（笔记本A面）创造广告价值 ② 轻资产模式：平台仅需匹配供需双方，无需库存 ③ 通过实体媒介建立线下广告网络的可能性
+原文链接: https://brandmylaptop.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:36:51.921Z；域名评分 DR34；原始页
+  https://trustmrr.com/startup/brandmylaptop。
+分类: Marketplace、Marketing / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $5,271 · 累计营收 $5,271 · 域名 DR34 · 国家 FR · 创立 2026-08-27"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $5,271 · 累计营收 $5,271 · 域名 DR34 ·
+  国家 FR · 创立 2026-08-27
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # BrandMyLaptop
 
 

@@ -1,18 +1,26 @@
 ---
 name: Reweb
-一句话: 一个意大利独立开发者把 Framer/Webflow 的拖拽体验与纯代码灵活性合二为一，做出「所见即所得生成 Next.js+Tailwind 源码」的可视化建站工具，上线 4 个月吸引 2 万开发者
+一句话: 一个意大利独立开发者把 Framer/Webflow 的拖拽体验与纯代码灵活性合二为一，做出「所见即所得生成 Next.js+Tailwind 源码」的可视化建站工具，上线
+  4 个月吸引 2 万开发者
 创始人地区: Mattia Pomelli（意大利开发者）与合伙人 Niko，2024 年 10 月推出；团队极轻量
-营收模式: 免费 Hobby 层 + Pro 层（约 12 美金/月），可一键导出生产级 Next.js + Tailwind + TypeScript 源码，部署到 Vercel/Netlify 或自托管
+营收模式: 免费 Hobby 层 + Pro 层（约 12 美金/月），可一键导出生产级 Next.js + Tailwind + TypeScript 源码，部署到
+  Vercel/Netlify 或自托管
 月收入估算: 未公开具体 ARR；2024 年 10 月上线 4 个月吸引 2 万+ 开发者；定位 indie/小团队提效工具
-流量来源: 产品契合开发者痛点（Figma→代码、可视化调样式）；Magic UI、Shadcn/ui 等热门组件库内置；开发者社区（X、Product Hunt 类渠道）；CLI 注入工作流降低采用门槛
-可迁移点: ① 不做「又一种低代码」，而是「设计即代码」——导出真源码而非锁定平台 ② 站在成熟技术栈（Next.js+Tailwind+Shadcn）肩膀上，生态即护城河 ③ 用免费层获客、Pro 层变现，开发者工具经典路径 ④ indie 也能打开发者工具赛道，靠精准痛点而非融资 ⑤ 内置组件市场降低从 0 到 1 的摩擦力
+流量来源: 产品契合开发者痛点（Figma→代码、可视化调样式）；Magic UI、Shadcn/ui 等热门组件库内置；开发者社区（X、Product Hunt
+  类渠道）；CLI 注入工作流降低采用门槛
+可迁移点: ① 不做「又一种低代码」，而是「设计即代码」——导出真源码而非锁定平台 ② 站在成熟技术栈（Next.js+Tailwind+Shadcn）肩膀上，生态即护城河
+  ③ 用免费层获客、Pro 层变现，开发者工具经典路径 ④ indie 也能打开发者工具赛道，靠精准痛点而非融资 ⑤ 内置组件市场降低从 0 到 1 的摩擦力
 原文链接: https://reweb.so
-数据口径: 产品——AI 驱动的可视化建站工具，面向 Next.js + Tailwind CSS 开发者，所见即所得编辑器，一键导出生产级 Next.js + Tailwind + TypeScript 源码，支持 Figma 导入、Magic UI/Shadcn 组件库、响应式预览、主题变量、团队协作、AI 辅助生成、CLI 注入（gongke.net、slashdot、toolverto）；规模——2024-10 推出，上线 4 个月 2 万+ 开发者（gongke.net、topbusinesssoftware）；定价——免费 Hobby 层 + Pro 约 12 美金/月（slashdot、toolverto）；创始人——Mattia Pomelli 与 Niko，意大利（gongke.net）
+数据口径: 产品——AI 驱动的可视化建站工具，面向 Next.js + Tailwind CSS 开发者，所见即所得编辑器，一键导出生产级 Next.js + Tailwind
+  + TypeScript 源码，支持 Figma 导入、Magic UI/Shadcn 组件库、响应式预览、主题变量、团队协作、AI 辅助生成、CLI 注入（gongke.net、slashdot、toolverto）；规模——2024-10
+  推出，上线 4 个月 2 万+ 开发者（gongke.net、topbusinesssoftware）；定价——免费 Hobby 层 + Pro 约 12 美金/月（slashdot、toolverto）；创始人——Mattia
+  Pomelli 与 Niko，意大利（gongke.net）
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 应用 / 可视化建站 / 英文 / 意大利
 封面: /case-site/cases/reweb/site.png
 ---
+
 
 ![Reweb 官网](/cases/reweb/site.png)
 

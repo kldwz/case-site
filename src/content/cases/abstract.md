@@ -1,18 +1,24 @@
 ---
 name: Abstract Security
-一句话: 把"买一堆安全工具自己拼"变成"AI 自动搭好可运行的防御体系"——前 ArcSight/Mandiant 老兵创业，ARR 年增 380%、净收入留存 264%，2026 年 7 月拿下 2500 万美金 A 轮扩展
-创始人地区: Colby DeRodeff，美国，CEO 兼联合创始人；团队来自 ArcSight、Mandiant、Palo Alto Networks、美国银行；2023 年创立
+一句话: 把"买一堆安全工具自己拼"变成"AI 自动搭好可运行的防御体系"——前 ArcSight/Mandiant 老兵创业，ARR 年增 380%、净收入留存
+  264%，2026 年 7 月拿下 2500 万美金 A 轮扩展
+创始人地区: Colby DeRodeff，美国，CEO 兼联合创始人；团队来自 ArcSight、Mandiant、Palo Alto Networks、美国银行；2023
+  年创立
 营收模式: 订阅（"AI-Gen Security Operations" 可组合 SIEM / 安全运营平台，按席位与用量）
-月收入估算: ARR 约数千万美金量级（未公开精确数）；2026 年 7 月完成 2500 万美金 Series A 扩展轮（Cheyenne Ventures 与 AVP 共同领投），累计融资约 5000 万美金；ARR 年增 380%、净收入留存 264%、客户数翻三倍
+月收入估算: ARR 约数千万美金量级（未公开精确数）；2026 年 7 月完成 2500 万美金 Series A 扩展轮（Cheyenne Ventures 与
+  AVP 共同领投），累计融资约 5000 万美金；ARR 年增 380%、净收入留存 264%、客户数翻三倍
 流量来源: 安全行业口碑 + 前大厂人脉 + 垂直销售（面向中大型企业的安全团队）
-可迁移点: ① 把"一堆工具拼装"做成"一个可运行体系"——卖结果不卖零件 ② 用 AI 把高门槛专家活（安全编排）产品化、自动化 ③ 老兵创业：深耕一个自己干过 15 年的领域 ④ 高 NRR（264%）说明产品真长在客户工作流里 ⑤ 融资节奏配增长里程碑
+可迁移点: ① 把"一堆工具拼装"做成"一个可运行体系"——卖结果不卖零件 ② 用 AI 把高门槛专家活（安全编排）产品化、自动化 ③ 老兵创业：深耕一个自己干过
+  15 年的领域 ④ 高 NRR（264%）说明产品真长在客户工作流里 ⑤ 融资节奏配增长里程碑
 原文链接: https://www.abstract.security
-数据口径: Abstract Security 官方公告（2026-07 Series A 扩展轮）+ 行业媒体对 Colby DeRodeff 及团队的报道；ARR 增速 / 264% NRR / 客户三倍为公开披露口径
+数据口径: Abstract Security 官方公告（2026-07 Series A 扩展轮）+ 行业媒体对 Colby DeRodeff 及团队的报道；ARR
+  增速 / 264% NRR / 客户三倍为公开披露口径
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 垂直 SaaS / 订阅 / 英文 / 网络安全 / 老兵创业
 封面: /case-site/cases/abstract/site.png
 ---
+
 
 ![Abstract Security 官网](/cases/abstract/site.png)
 

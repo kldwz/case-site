@@ -1,19 +1,23 @@
 ---
-name: "BrandMyMac"
-一句话: "Your brand, on my Mac. 10M+ views in 7 days. NEW SPOTS AVAILABLE! 🚨"
-创始人地区: "由 Vincent 创立，FR，2026 年成立"
-营收模式: "Auction-based pricing with spots starting at $146 for Small, $234 for Medium, $468 for Large."
-月收入估算: "$12,980/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR38），B2B 受众；官网 https://brandmymac.com/"
-可迁移点: "① 创造独特的广告位概念 ② 拍卖定价模式增加稀缺性 ③ 利用苹果品牌光环效应 ④ 瞄准B2B市场的高端品牌展示需求"
-原文链接: "https://brandmymac.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:34:29.997Z；域名评分 DR38；原始页 https://trustmrr.com/startup/brandmymac。"
-分类: "Marketing、Content Creation / B2B / 海外"
+name: BrandMyMac
+一句话: Your brand, on my Mac. 10M+ views in 7 days. NEW SPOTS AVAILABLE! 🚨
+创始人地区: 由 Vincent 创立，FR，2026 年成立
+营收模式: Auction-based pricing with spots starting at $146 for Small, $234 for Medium,
+  $468 for Large.
+月收入估算: $12,980/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR38），B2B 受众；官网 https://brandmymac.com/
+可迁移点: ① 创造独特的广告位概念 ② 拍卖定价模式增加稀缺性 ③ 利用苹果品牌光环效应 ④ 瞄准B2B市场的高端品牌展示需求
+原文链接: https://brandmymac.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:34:29.997Z；域名评分 DR38；原始页
+  https://trustmrr.com/startup/brandmymac。
+分类: Marketing、Content Creation / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $13,080 · 累计营收 $13,080 · 域名 DR38 · 国家 FR · 创立 2026-08-26"
-封面: "/case-site/cases/brandmymac/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $13,080 · 累计营收 $13,080 · 域名 DR38
+  · 国家 FR · 创立 2026-08-26
+封面: /case-site/cases/brandmymac/site.webp
 ---
+
 # BrandMyMac
 
 

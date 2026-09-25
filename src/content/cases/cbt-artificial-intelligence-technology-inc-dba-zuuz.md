@@ -1,19 +1,22 @@
 ---
-name: "CBT ARTIFICIAL INTELLIGENCE TECHNOLOGY INC DBA ZUUZ"
-一句话: "ZUUZ是一款通过AI自动处理销售邮件、生成回复并同步至CRM的B2B SaaS工具。"
-创始人地区: "创始人未披露，US，2026 年成立"
-营收模式: "Solo $99/mo, Team-3 $249/mo, Growth $349/mo, Scale $649/mo, Enterprise Custom"
-月收入估算: "$7,628/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR20），B2B 受众；官网 https://zuuz.ai/"
-可迁移点: "① AI+CRM自动化是明确的效率痛点 ② 分层定价覆盖不同规模客户需求 ③ SOC 2认证增强企业客户信任 ④ 聚焦邮件场景而非全渠道销售"
-原文链接: "https://zuuz.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:05:34.706Z；域名评分 DR20；原始页 https://trustmrr.com/startup/cbt-artificial-intelligence-technology-inc-dba-zuuz。"
-分类: "AI、SaaS、Sales / B2B / 海外"
+name: CBT ARTIFICIAL INTELLIGENCE TECHNOLOGY INC DBA ZUUZ
+一句话: ZUUZ是一款通过AI自动处理销售邮件、生成回复并同步至CRM的B2B SaaS工具。
+创始人地区: 创始人未披露，US，2026 年成立
+营收模式: Solo $99/mo, Team-3 $249/mo, Growth $349/mo, Scale $649/mo, Enterprise Custom
+月收入估算: $7,628/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR20），B2B 受众；官网 https://zuuz.ai/
+可迁移点: ① AI+CRM自动化是明确的效率痛点 ② 分层定价覆盖不同规模客户需求 ③ SOC 2认证增强企业客户信任 ④ 聚焦邮件场景而非全渠道销售
+原文链接: https://zuuz.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:05:34.706Z；域名评分 DR20；原始页
+  https://trustmrr.com/startup/cbt-artificial-intelligence-technology-inc-dba-zuuz。
+分类: AI、SaaS、Sales / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $7,628 · 活跃订阅 23 · 近12个月营收 $10,290 · 累计营收 $10,290 · 域名 DR20 · 国家 US · 创立 2026-05-03"
-封面: "/case-site/cases/cbt-artificial-intelligence-technology-inc-dba-zuuz/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $7,628 · 活跃订阅 23 · 近12个月营收 $10,290 · 累计营收 $10,290 · 域名
+  DR20 · 国家 US · 创立 2026-05-03
+封面: /case-site/cases/cbt-artificial-intelligence-technology-inc-dba-zuuz/site.webp
 ---
+
 # CBT ARTIFICIAL INTELLIGENCE TECHNOLOGY INC DBA ZUUZ
 
 

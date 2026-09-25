@@ -1,19 +1,22 @@
 ---
-name: "Anchor: No Contact Tracker"
-一句话: "一款帮助用户度过分手期的消费级应用，提供无联系追踪、AI支持教练等功能。"
-创始人地区: "由 Timi 创立，地区未披露，2025 年成立"
-营收模式: "Free · In-App Purchases"
-月收入估算: "$75/月（Superwall 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://anchor-nocontactracker.netlify.app/"
-可迁移点: "① 针对特定情感需求（分手恢复）设计垂直工具 ② 结合AI教练提升产品粘性 ③ 通过虚构消息功能提供情绪宣泄出口 ④ 采用订阅制变现模式 ⑤ 利用Superwall实现支付验证"
-原文链接: "https://anchor-nocontactracker.netlify.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Superwall）验证，最后同步于 2026-09-15T10:52:19.483Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/anchor-no-contact-tracker。"
-分类: "Mobile Apps、Health & Fitness、Productivity、AI / B2C / 海外"
+name: 'Anchor: No Contact Tracker'
+一句话: 一款帮助用户度过分手期的消费级应用，提供无联系追踪、AI支持教练等功能。
+创始人地区: 由 Timi 创立，地区未披露，2025 年成立
+营收模式: Free · In-App Purchases
+月收入估算: $75/月（Superwall 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://anchor-nocontactracker.netlify.app/
+可迁移点: ① 针对特定情感需求（分手恢复）设计垂直工具 ② 结合AI教练提升产品粘性 ③ 通过虚构消息功能提供情绪宣泄出口 ④ 采用订阅制变现模式 ⑤ 利用Superwall实现支付验证
+原文链接: https://anchor-nocontactracker.netlify.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Superwall）验证，最后同步于 2026-09-15T10:52:19.483Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/anchor-no-contact-tracker。
+分类: Mobile Apps、Health & Fitness、Productivity、AI / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Superwall · 当前 MRR $75 · 活跃订阅 5 · 近12个月营收 $1,510 · 累计营收 $1,510 · 域名 DR未披露 · 国家 未披露 · 创立 2025-12-29"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Superwall · 当前 MRR $75 · 活跃订阅 5 · 近12个月营收 $1,510 · 累计营收 $1,510 · 域名 DR未披露
+  · 国家 未披露 · 创立 2025-12-29
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Anchor: No Contact Tracker：一款帮助用户度过分手期的消费级应用，提供无联系追踪、AI支持教练等功能。
 

@@ -1,19 +1,22 @@
 ---
-name: "AfroVibrations"
-一句话: "AfroVibrations 是德国科隆地区为非洲侨民提供音乐派对和娱乐服务的活动系列。"
-创始人地区: "由 Babajide 创立，DE，2024 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$5,117/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR4），B2C 受众；官网 https://afrovibrations.com/"
-可迁移点: "① 聚焦特定文化群体（非洲侨民）的娱乐需求 ② 通过音乐和派对活动建立社区归属感 ③ 在移民社区中创造'家外之家'的体验"
-原文链接: "https://afrovibrations.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:05:47.226Z；域名评分 DR4；原始页 https://trustmrr.com/startup/afrovibrations。"
-分类: "Entertainment、Community / B2C / 海外"
+name: AfroVibrations
+一句话: AfroVibrations 是德国科隆地区为非洲侨民提供音乐派对和娱乐服务的活动系列。
+创始人地区: 由 Babajide 创立，DE，2024 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $5,117/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR4），B2C 受众；官网 https://afrovibrations.com/
+可迁移点: ① 聚焦特定文化群体（非洲侨民）的娱乐需求 ② 通过音乐和派对活动建立社区归属感 ③ 在移民社区中创造'家外之家'的体验
+原文链接: https://afrovibrations.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:05:47.226Z；域名评分 DR4；原始页
+  https://trustmrr.com/startup/afrovibrations。
+分类: Entertainment、Community / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $30,942 · 累计营收 $33,945 · 域名 DR4 · 国家 DE · 创立 2024-07-29"
-封面: "/case-site/cases/afrovibrations/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $30,942 · 累计营收 $33,945 · 域名 DR4 ·
+  国家 DE · 创立 2024-07-29
+封面: /case-site/cases/afrovibrations/site.webp
 ---
+
 # AfroVibrations
 
 

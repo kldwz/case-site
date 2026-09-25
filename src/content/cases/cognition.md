@@ -3,9 +3,11 @@ name: Cognition
 一句话: AI 编程 agent Devin 的母公司，估值 102 亿美元（2025-09），Devin ARR 从 100 万冲到 7300 万美元，并收购 Windsurf
 创始人地区: Scott Wu（CEO）+ Steven Hao（CTO）+ Walden Yan（CPO）；2023-11 创立于旧金山
 营收模式: AI 编程 agent（Devin）——自主写代码、修 bug、开 PR；面向工程团队订阅；另含 agent 平台
-月收入估算: 估值 102 亿美元（2025-09，$400M Founders Fund 领投），累计融资 6 亿美元+；Devin ARR 100 万（2024-09）→ 7300 万（2025-06）；2025-07 收购 Windsurf；约 200 人
+月收入估算: 估值 102 亿美元（2025-09，$400M Founders Fund 领投），累计融资 6 亿美元+；Devin ARR 100 万（2024-09）→
+  7300 万（2025-06）；2025-07 收购 Windsurf；约 200 人
 流量来源: 技术品牌 + 开发者口碑 + 融资与收购新闻自带流量；Devin demo 即广告
-可迁移点: ①「会干活的 agent」比「会聊天的 bot」估值高一个量级 ② 工程场景是 agent 最先跑通的垂直，任务边界清晰可验证 ③ 收购 Windsurf 补人才与产品，用资本抢时间 ④ 估值靠 ARR 增速，7300 万 ARR 撑 102 亿估值 ⑤ 三人联创（CEO/CTO/CPO）技术浓度即护城河
+可迁移点: ①「会干活的 agent」比「会聊天的 bot」估值高一个量级 ② 工程场景是 agent 最先跑通的垂直，任务边界清晰可验证 ③ 收购 Windsurf
+  补人才与产品，用资本抢时间 ④ 估值靠 ARR 增速，7300 万 ARR 撑 102 亿估值 ⑤ 三人联创（CEO/CTO/CPO）技术浓度即护城河
 原文链接: https://cognition.ai
 数据口径: 融资新闻（Founders Fund 领投、估值）、Devin ARR 公开口径、收购 Windsurf 公告、团队规模
 类型: 收入案例
@@ -13,6 +15,7 @@ name: Cognition
 分类: AI 工具 / 编程 Agent / 美国
 封面: /case-site/cases/cognition/site.png
 ---
+
 
 ![Cognition 官网](/cases/cognition/site.png)
 

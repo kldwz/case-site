@@ -1,19 +1,22 @@
 ---
-name: "AdCar"
-一句话: "AdCar 提供在私人车辆上展示广告的实体营销服务。"
-创始人地区: "由 Dan ⚡️ 创立，DK，2026 年成立"
-营收模式: "From $50 · only 50 spots · 12 months on the car"
-月收入估算: "$2,850/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR18），B2B 受众；官网 https://adcar.tv/"
-可迁移点: "① 利用私人车辆作为广告载体创造新营销场景 ② 采用限量供应策略（仅50个广告位）制造稀缺性 ③ 12个月固定展示周期提供稳定曝光承诺 ④ 最低50美元的低门槛企业广告投放方案"
-原文链接: "https://adcar.tv/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:38:01.710Z；域名评分 DR18；原始页 https://trustmrr.com/startup/adcar。"
-分类: "Marketing / B2B / 海外"
+name: AdCar
+一句话: AdCar 提供在私人车辆上展示广告的实体营销服务。
+创始人地区: 由 Dan ⚡️ 创立，DK，2026 年成立
+营收模式: From $50 · only 50 spots · 12 months on the car
+月收入估算: $2,850/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR18），B2B 受众；官网 https://adcar.tv/
+可迁移点: ① 利用私人车辆作为广告载体创造新营销场景 ② 采用限量供应策略（仅50个广告位）制造稀缺性 ③ 12个月固定展示周期提供稳定曝光承诺 ④ 最低50美元的低门槛企业广告投放方案
+原文链接: https://adcar.tv/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:38:01.710Z；域名评分 DR18；原始页
+  https://trustmrr.com/startup/adcar。
+分类: Marketing / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,850 · 累计营收 $2,850 · 域名 DR18 · 国家 DK · 创立 2026-08-27"
-封面: "/case-site/cases/adcar/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $2,850 · 累计营收 $2,850 · 域名 DR18 ·
+  国家 DK · 创立 2026-08-27
+封面: /case-site/cases/adcar/site.webp
 ---
+
 # AdCar
 
 

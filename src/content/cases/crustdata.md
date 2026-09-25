@@ -1,11 +1,16 @@
 ---
 name: Crustdata
 一句话: 三个前 Uber / Postmates 工程师，把实时 B2B 数据做成 AI agent 的燃料——7 个月营收从 77 万冲到 400 万+
-创始人地区: Abhilash Chowdhary（CEO，前 Uber / Postmates 机器人）、Chris Pisarski（前 PrivCo CEO）、Manmohan Grewal，YC Fall 2024，总部旧金山
+创始人地区: Abhilash Chowdhary（CEO，前 Uber / Postmates 机器人）、Chris Pisarski（前 PrivCo CEO）、Manmohan
+  Grewal，YC Fall 2024，总部旧金山
 营收模式: B2B 数据 API 订阅，面向 VC、投行、AI agent 公司，按调用量 / 席位年费
-月收入估算: 1.5 年内 ARR 从 50 万美金做到 1000 万美金（公司官网披露「We hit $10M ARR! $500k to $10m in 1.5 years」）；2024 年 12 月 600 万美金种子轮（YC + A Capital + GC + SV Angel + Phosphor）
-流量来源: 开发者社区口碑 + 数据产品自带网络效应（越用越准）+ 公司官网称「Our entire GTM is powered by our own APIs」，基本靠 PLG + 大客户地推
-可迁移点: ① 站在 AI agent 浪潮的「卖铲子」位置，不直接做应用做基础设施 ② 实时数据比静态快照值钱，新鲜度就是壁垒 ③ 官网亲自喊「全 GTM 都由自家 API 驱动」——把客户案例用在自己身上，最强广告 ④ 创始人组合要互补：机器人 + 数据公司 CEO + 工程 ⑤ 1.5 年从 50 万做到 1000 万美金 ARR，说明窄到极致也能爆
+月收入估算: 1.5 年内 ARR 从 50 万美金做到 1000 万美金（公司官网披露「We hit $10M ARR! $500k to $10m in 1.5
+  years」）；2024 年 12 月 600 万美金种子轮（YC + A Capital + GC + SV Angel + Phosphor）
+流量来源: 开发者社区口碑 + 数据产品自带网络效应（越用越准）+ 公司官网称「Our entire GTM is powered by our own APIs」，基本靠
+  PLG + 大客户地推
+可迁移点: ① 站在 AI agent 浪潮的「卖铲子」位置，不直接做应用做基础设施 ② 实时数据比静态快照值钱，新鲜度就是壁垒 ③ 官网亲自喊「全 GTM 都由自家
+  API 驱动」——把客户案例用在自己身上，最强广告 ④ 创始人组合要互补：机器人 + 数据公司 CEO + 工程 ⑤ 1.5 年从 50 万做到 1000 万美金
+  ARR，说明窄到极致也能爆
 原文链接: https://crustdata.com
 数据口径: YC / TechCrunch 报道；公司披露（6000 万公司 / 10 亿+ 人实时数据、营收曲线 77 万 → 400 万+）；种子轮 2024-12
 类型: 收入案例
@@ -13,6 +18,7 @@ name: Crustdata
 分类: AI 数据基础设施 / API / 英文 / 开发者
 封面: /case-site/cases/crustdata/site.png
 ---
+
 
 ![Crustdata 官网](/cases/crustdata/site.png)
 

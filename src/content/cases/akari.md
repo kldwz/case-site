@@ -1,19 +1,23 @@
 ---
-name: "Akari"
-一句话: "Akari 是一款面向票务转售和投资领域的尖端软件解决方案。"
-创始人地区: "由 Massi — oss/acc 创立，地区未披露，2023 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$0/月（Whop 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://whop.com/cornettopazzo"
-可迁移点: "① 专注于特定垂直领域（票务转售和投资）的软件开发 ② 通过 Whop 平台进行支付验证和营收管理 ③ 在 X（原 Twitter）上建立了初步的粉丝基础（1,245 人）"
-原文链接: "https://whop.com/cornettopazzo"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Whop）验证，最后同步于 2026-09-15T11:16:57.073Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/akari。"
-分类: "Dev Tools / 未披露 / 海外"
+name: Akari
+一句话: Akari 是一款面向票务转售和投资领域的尖端软件解决方案。
+创始人地区: 由 Massi — oss/acc 创立，地区未披露，2023 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $0/月（Whop 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://whop.com/cornettopazzo
+可迁移点: ① 专注于特定垂直领域（票务转售和投资）的软件开发 ② 通过 Whop 平台进行支付验证和营收管理 ③ 在 X（原 Twitter）上建立了初步的粉丝基础（1,245
+  人）
+原文链接: https://whop.com/cornettopazzo
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Whop）验证，最后同步于 2026-09-15T11:16:57.073Z；域名评分 DR未披露；原始页
+  https://trustmrr.com/startup/akari。
+分类: Dev Tools / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Whop · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $0 · 累计营收 $207,222 · 域名 DR未披露 · 国家 未披露 · 创立 2023-06-28"
-封面: "/case-site/cases/akari/site.webp"
+平台数据: 支付验证：Whop · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $0 · 累计营收 $207,222 · 域名 DR未披露 · 国家
+  未披露 · 创立 2023-06-28
+封面: /case-site/cases/akari/site.webp
 ---
+
 # Akari
 
 

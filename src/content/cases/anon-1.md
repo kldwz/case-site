@@ -1,19 +1,22 @@
 ---
-name: "anon-1"
-一句话: "scale mode 🚀"
-创始人地区: "由 Aby 创立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$19,660/月（Stripe 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://trustmrr.com/founder/piprocket"
-可迁移点: "① Stripe验证的支付数据可作为第三方营收凭证 ② 近30天营收$19,660显示短期变现能力 ③ 累计营收$511,705反映长期商业潜力"
-原文链接: "https://trustmrr.com/founder/piprocket"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:48:42.186Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/anon-1。"
-分类: "未披露 / 未披露 / 海外"
+name: anon-1
+一句话: scale mode 🚀
+创始人地区: 由 Aby 创立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $19,660/月（Stripe 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://trustmrr.com/founder/piprocket
+可迁移点: ① Stripe验证的支付数据可作为第三方营收凭证 ② 近30天营收$19,660显示短期变现能力 ③ 累计营收$511,705反映长期商业潜力
+原文链接: https://trustmrr.com/founder/piprocket
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:48:42.186Z；域名评分 DR未披露；原始页
+  https://trustmrr.com/startup/anon-1。
+分类: 未披露 / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $511,705 · 累计营收 $511,705 · 域名 DR未披露 · 国家 未披露 · 创立 未披露"
-封面: "/case-site/cases/anon-1/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $511,705 · 累计营收 $511,705 · 域名 DR未披露
+  · 国家 未披露 · 创立 未披露
+封面: /case-site/cases/anon-1/site.webp
 ---
+
 # anon-1
 
 

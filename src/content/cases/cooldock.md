@@ -1,19 +1,22 @@
 ---
-name: "Cooldock"
-一句话: "Cooldock 是一款将音乐、待办事项、天气等实用工具集成到 Mac Dock 旁的小组件扩展工具。"
-创始人地区: "创始人未披露，HU，2026 年成立"
-营收模式: "$15 one-time purchase"
-月收入估算: "$3,028/月（Polar 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR27），B2C 受众；官网 https://dock.cool/"
-可迁移点: "① 一次性买断制（$15）配合终身更新承诺 ② 将高频工具（音乐/天气/搜索等）聚合在系统级入口 ③ 通过增强原生 Dock 功能创造增量价值"
-原文链接: "https://dock.cool/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-15T11:28:18.022Z；域名评分 DR27；原始页 https://trustmrr.com/startup/cooldock。"
-分类: "Productivity、Utilities、Mobile Apps / B2C / 海外"
+name: Cooldock
+一句话: Cooldock 是一款将音乐、待办事项、天气等实用工具集成到 Mac Dock 旁的小组件扩展工具。
+创始人地区: 创始人未披露，HU，2026 年成立
+营收模式: $15 one-time purchase
+月收入估算: $3,028/月（Polar 验证）
+流量来源: SEO 自然流量为主（域名评分 DR27），B2C 受众；官网 https://dock.cool/
+可迁移点: ① 一次性买断制（$15）配合终身更新承诺 ② 将高频工具（音乐/天气/搜索等）聚合在系统级入口 ③ 通过增强原生 Dock 功能创造增量价值
+原文链接: https://dock.cool/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-15T11:28:18.022Z；域名评分 DR27；原始页
+  https://trustmrr.com/startup/cooldock。
+分类: Productivity、Utilities、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Polar · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $18,379 · 累计营收 $18,379 · 域名 DR27 · 国家 HU · 创立 2026-06-22"
-封面: "/case-site/cases/cooldock/site.webp"
+平台数据: 支付验证：Polar · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $18,379 · 累计营收 $18,379 · 域名 DR27 ·
+  国家 HU · 创立 2026-06-22
+封面: /case-site/cases/cooldock/site.webp
 ---
+
 # Cooldock
 
 

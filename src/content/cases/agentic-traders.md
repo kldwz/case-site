@@ -1,19 +1,23 @@
 ---
-name: "Agentic Traders"
-一句话: "一个允许用户创建和部署24/7交易代理的AI金融科技SaaS平台。"
-创始人地区: "创始人未披露，AU，2026 年成立"
-营收模式: "Free, $19/month (Pro), $39/month (Elite) + token add-ons from $5"
-月收入估算: "$136/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2C 受众；官网 https://agentictraders.io/"
-可迁移点: "① 利用OpenRouter整合多LLM模型降低AI开发门槛 ② 通过MT5/TradingView对接实现轻量级金融产品架构 ③ 采用Supabase行级权限确保交易策略数据隔离 ④ 默认模拟交易降低用户使用心理门槛 ⑤ 代币附加销售模式增加ARPU值"
-原文链接: "https://agentictraders.io/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:02:01.325Z；域名评分 DR1；原始页 https://trustmrr.com/startup/agentic-traders。"
-分类: "AI、Fintech、No-Code、SaaS / B2C / 海外"
+name: Agentic Traders
+一句话: 一个允许用户创建和部署24/7交易代理的AI金融科技SaaS平台。
+创始人地区: 创始人未披露，AU，2026 年成立
+营收模式: Free, $19/month (Pro), $39/month (Elite) + token add-ons from $5
+月收入估算: $136/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2C 受众；官网 https://agentictraders.io/
+可迁移点: ① 利用OpenRouter整合多LLM模型降低AI开发门槛 ② 通过MT5/TradingView对接实现轻量级金融产品架构 ③ 采用Supabase行级权限确保交易策略数据隔离
+  ④ 默认模拟交易降低用户使用心理门槛 ⑤ 代币附加销售模式增加ARPU值
+原文链接: https://agentictraders.io/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:02:01.325Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/agentic-traders。
+分类: AI、Fintech、No-Code、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $136 · 活跃订阅 4 · 近12个月营收 $1,221 · 累计营收 $1,221 · 域名 DR1 · 国家 AU · 创立 2026-02-11"
-封面: "/case-site/cases/agentic-traders/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $136 · 活跃订阅 4 · 近12个月营收 $1,221 · 累计营收 $1,221 · 域名 DR1 ·
+  国家 AU · 创立 2026-02-11
+封面: /case-site/cases/agentic-traders/site.webp
 ---
+
 
 ![Agentic Traders 官网](/cases/agentic-traders/site.webp)
 

@@ -1,19 +1,23 @@
 ---
-name: "Bolsai"
-一句话: "为巴西市场提供金融数据API的服务，直接从官方机构获取数据，避免爬虫需求。"
-创始人地区: "创始人未披露，BR，2026 年成立"
-营收模式: "Free: R$ 0/forever, Pro: R$ 129/quarter, Enterprise: R$ 499/quarter starting"
-月收入估算: "$604/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR4），B2B 受众；官网 https://usebolsai.com/"
-可迁移点: "① 专注于特定国家市场（巴西）的金融数据需求 ② 提供官方数据源的直接访问，增加可信度 ③ 采用季度订阅模式，定价结构简单清晰 ④ 同时服务股票和房地产投资信托基金(FIIs)市场 ⑤ 提供TTM计算等预处理数据，增加产品价值"
-原文链接: "https://usebolsai.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:52:17.946Z；域名评分 DR4；原始页 https://trustmrr.com/startup/bolsai。"
-分类: "Fintech、Dev Tools、Analytics、AI / B2B / 海外"
+name: Bolsai
+一句话: 为巴西市场提供金融数据API的服务，直接从官方机构获取数据，避免爬虫需求。
+创始人地区: 创始人未披露，BR，2026 年成立
+营收模式: 'Free: R$ 0/forever, Pro: R$ 129/quarter, Enterprise: R$ 499/quarter starting'
+月收入估算: $604/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR4），B2B 受众；官网 https://usebolsai.com/
+可迁移点: ① 专注于特定国家市场（巴西）的金融数据需求 ② 提供官方数据源的直接访问，增加可信度 ③ 采用季度订阅模式，定价结构简单清晰 ④ 同时服务股票和房地产投资信托基金(FIIs)市场
+  ⑤ 提供TTM计算等预处理数据，增加产品价值
+原文链接: https://usebolsai.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:52:17.946Z；域名评分 DR4；原始页
+  https://trustmrr.com/startup/bolsai。
+分类: Fintech、Dev Tools、Analytics、AI / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $604 · 活跃订阅 76 · 近12个月营收 $1,948 · 累计营收 $1,948 · 域名 DR4 · 国家 BR · 创立 2026-03-24"
-封面: "/case-site/cases/bolsai/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $604 · 活跃订阅 76 · 近12个月营收 $1,948 · 累计营收 $1,948 · 域名 DR4
+  · 国家 BR · 创立 2026-03-24
+封面: /case-site/cases/bolsai/site.webp
 ---
+
 # Bolsai
 
 

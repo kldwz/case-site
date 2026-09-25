@@ -1,19 +1,22 @@
 ---
-name: "Arcton"
-一句话: "基于苏黎世的B2B销售自动化SaaS工具，通过端到端外联活动帮助客户获取销售线索和预约会议。"
-创始人地区: "由 Fra 创立，CH，2023 年成立"
-营收模式: "Start with a pilot: 1,000 Leads / mo, 1 Campaign, 1 CRM"
-月收入估算: "$6,273/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR9），B2B 受众；官网 https://www.arcton.com/"
-可迁移点: "① GDPR合规设计可快速进入欧洲市场 ② Stripe支付集成实现轻量化营收验证 ③ 从试点方案(1000条线索/月)切入的定价策略 ④ 冷启动阶段专注单一价值主张(从潜在客户到预约会议的全流程)"
-原文链接: "https://www.arcton.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:11:48.022Z；域名评分 DR9；原始页 https://trustmrr.com/startup/arcton。"
-分类: "Sales、SaaS、Productivity、Analytics / B2B / 海外"
+name: Arcton
+一句话: 基于苏黎世的B2B销售自动化SaaS工具，通过端到端外联活动帮助客户获取销售线索和预约会议。
+创始人地区: 由 Fra 创立，CH，2023 年成立
+营收模式: 'Start with a pilot: 1,000 Leads / mo, 1 Campaign, 1 CRM'
+月收入估算: $6,273/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR9），B2B 受众；官网 https://www.arcton.com/
+可迁移点: ① GDPR合规设计可快速进入欧洲市场 ② Stripe支付集成实现轻量化营收验证 ③ 从试点方案(1000条线索/月)切入的定价策略 ④ 冷启动阶段专注单一价值主张(从潜在客户到预约会议的全流程)
+原文链接: https://www.arcton.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:11:48.022Z；域名评分 DR9；原始页
+  https://trustmrr.com/startup/arcton。
+分类: Sales、SaaS、Productivity、Analytics / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $6,273 · 活跃订阅 19 · 近12个月营收 $68,703 · 累计营收 $69,362 · 域名 DR9 · 国家 CH · 创立 2023-05-25"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $6,273 · 活跃订阅 19 · 近12个月营收 $68,703 · 累计营收 $69,362 · 域名
+  DR9 · 国家 CH · 创立 2023-05-25
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Arcton
 
 

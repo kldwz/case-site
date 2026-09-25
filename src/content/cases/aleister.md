@@ -1,19 +1,22 @@
 ---
-name: "Aleister"
-一句话: "Zero-Human Company"
-创始人地区: "由 Aleister 创立，US，2025 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$2,109/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR21），未披露 受众；官网 https://thealeister.com/"
-可迁移点: "① 完全自主运行的AI代理系统 ② 非订阅制的营收模式 ③ Stripe验证的真实交易数据"
-原文链接: "https://thealeister.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:01:10.533Z；域名评分 DR21；原始页 https://trustmrr.com/startup/aleister。"
-分类: "AI、SaaS、Dev Tools / 未披露 / 海外"
+name: Aleister
+一句话: Zero-Human Company
+创始人地区: 由 Aleister 创立，US，2025 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $2,109/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR21），未披露 受众；官网 https://thealeister.com/
+可迁移点: ① 完全自主运行的AI代理系统 ② 非订阅制的营收模式 ③ Stripe验证的真实交易数据
+原文链接: https://thealeister.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:01:10.533Z；域名评分 DR21；原始页
+  https://trustmrr.com/startup/aleister。
+分类: AI、SaaS、Dev Tools / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $20,590 · 累计营收 $20,590 · 域名 DR21 · 国家 US · 创立 2025-03-11"
-封面: "/case-site/cases/aleister/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $20,590 · 累计营收 $20,590 · 域名 DR21
+  · 国家 US · 创立 2025-03-11
+封面: /case-site/cases/aleister/site.webp
 ---
+
 # Aleister
 
 

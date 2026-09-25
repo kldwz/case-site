@@ -1,18 +1,23 @@
 ---
 name: Comp AI
-一句话: 把"合规认证（SOC 2/ISO 27001/HIPAA/GDPR）"从几个月咨询费变成几周自动跑——开源 AGPLv3，2025 年 1 月创立，ARR 破 750 万、950+ 公司，拿了 260 万 pre-seed
+一句话: 把"合规认证（SOC 2/ISO 27001/HIPAA/GDPR）"从几个月咨询费变成几周自动跑——开源 AGPLv3，2025 年 1 月创立，ARR
+  破 750 万、950+ 公司，拿了 260 万 pre-seed
 创始人地区: Lewis Carhart（CEO）、Claudio Fuentes、Mariano Fuentes；2025 年 1 月创立
 营收模式: 订阅（合规自动化 SaaS）+ 开源社区（AGPLv3，"合规界的 Vercel"）
-月收入估算: ARR 超 750 万美金（2025–2026）；服务 950+ 公司；260 万美金 pre-seed（OSS Capital + Grand Ventures，天使含 David Cramer、Ben Tossell）
+月收入估算: ARR 超 750 万美金（2025–2026）；服务 950+ 公司；260 万美金 pre-seed（OSS Capital + Grand Ventures，天使含
+  David Cramer、Ben Tossell）
 流量来源: 开源社区 + 开发者口碑 + 合规刚需（startups 融资 / 接大客户的前置条件）
-可迁移点: ① 把一个"又贵又慢的人力咨询"做成"自动跑的 SaaS" ② 开源获客（AGPLv3）建立信任再转付费 ③ "合规"是 B2B 的刚需 gate——过了才能接大单 ④ 找准"融资期 startup"这个高频痛点人群 ⑤ 用知名天使背书补早期信用
+可迁移点: ① 把一个"又贵又慢的人力咨询"做成"自动跑的 SaaS" ② 开源获客（AGPLv3）建立信任再转付费 ③ "合规"是 B2B 的刚需 gate——过了才能接大单
+  ④ 找准"融资期 startup"这个高频痛点人群 ⑤ 用知名天使背书补早期信用
 原文链接: https://www.trycomp.ai
-数据口径: Comp AI 官方 / 创始人对公开数据；ARR、公司数、pre-seed 轮次与领投方为公开口径；David Cramer / Ben Tossell 为披露天使
+数据口径: Comp AI 官方 / 创始人对公开数据；ARR、公司数、pre-seed 轮次与领投方为公开口径；David Cramer / Ben Tossell
+  为披露天使
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 工具 / 订阅 / 英文 / 合规自动化 / 开源
 封面: /case-site/cases/comp/site.png
 ---
+
 
 ![Comp AI 官网](/cases/comp/site.png)
 

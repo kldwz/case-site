@@ -1,19 +1,23 @@
 ---
-name: "Alphascope"
-一句话: "#1 Prediction Markets Research Platform"
-创始人地区: "由 Stefan 创立，地区未披露，2026 年成立"
-营收模式: "Freemium subscription model with monthly, annual, and lifetime plans. Current public pricing includes $19.99/month, $49.99/year, and a $199 lifetime o"
-月收入估算: "$435/月（Whop 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://whop.com/alphascope-2e16"
-可迁移点: "① AI驱动的垂直领域研究工具存在市场需求 ② 将分散的多平台数据聚合展示能创造价值 ③ 终身订阅模式可快速回收开发成本 ④ 预测市场等新兴领域存在工具链空白"
-原文链接: "https://whop.com/alphascope-2e16"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Whop）验证，最后同步于 2026-09-15T12:09:47.535Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/alphascope。"
-分类: "AI、Analytics、Fintech、Crypto & Web3 / 未披露 / 海外"
+name: Alphascope
+一句话: '#1 Prediction Markets Research Platform'
+创始人地区: 由 Stefan 创立，地区未披露，2026 年成立
+营收模式: Freemium subscription model with monthly, annual, and lifetime plans. Current
+  public pricing includes $19.99/month, $49.99/year, and a $199 lifetime o
+月收入估算: $435/月（Whop 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），未披露 受众；官网 https://whop.com/alphascope-2e16
+可迁移点: ① AI驱动的垂直领域研究工具存在市场需求 ② 将分散的多平台数据聚合展示能创造价值 ③ 终身订阅模式可快速回收开发成本 ④ 预测市场等新兴领域存在工具链空白
+原文链接: https://whop.com/alphascope-2e16
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Whop）验证，最后同步于 2026-09-15T12:09:47.535Z；域名评分 DR未披露；原始页
+  https://trustmrr.com/startup/alphascope。
+分类: AI、Analytics、Fintech、Crypto & Web3 / 未披露 / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Whop · 当前 MRR $435 · 活跃订阅 25 · 近12个月营收 $8,428 · 累计营收 $8,428 · 域名 DR未披露 · 国家 未披露 · 创立 2026-03-16"
-封面: "/case-site/cases/alphascope/site.webp"
+平台数据: 支付验证：Whop · 当前 MRR $435 · 活跃订阅 25 · 近12个月营收 $8,428 · 累计营收 $8,428 · 域名 DR未披露
+  · 国家 未披露 · 创立 2026-03-16
+封面: /case-site/cases/alphascope/site.webp
 ---
+
 # Alphascope
 
 

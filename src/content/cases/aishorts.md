@@ -1,19 +1,22 @@
 ---
-name: "Aishorts"
-一句话: "Aishorts 是一款帮助创作者快速生成动态短视频和逼真动画的 AI 工具，无需手动编辑。"
-创始人地区: "由 Jesse 创立，US，2020 年成立"
-营收模式: "Start for Free — no credit card required."
-月收入估算: "$11/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR1），B2C 受众；官网 https://aishorts.store/"
-可迁移点: "① 瞄准内容创作者对快速生成短视频的需求 ② 提供无需手动编辑的自动化解决方案 ③ 采用免费试用+订阅的定价模式 ④ 专注 B2C 市场的小众工具开发"
-原文链接: "https://aishorts.store/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:53:22.106Z；域名评分 DR1；原始页 https://trustmrr.com/startup/aishorts。"
-分类: "Content Creation、AI / B2C / 海外"
+name: Aishorts
+一句话: Aishorts 是一款帮助创作者快速生成动态短视频和逼真动画的 AI 工具，无需手动编辑。
+创始人地区: 由 Jesse 创立，US，2020 年成立
+营收模式: Start for Free — no credit card required.
+月收入估算: $11/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR1），B2C 受众；官网 https://aishorts.store/
+可迁移点: ① 瞄准内容创作者对快速生成短视频的需求 ② 提供无需手动编辑的自动化解决方案 ③ 采用免费试用+订阅的定价模式 ④ 专注 B2C 市场的小众工具开发
+原文链接: https://aishorts.store/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:53:22.106Z；域名评分 DR1；原始页
+  https://trustmrr.com/startup/aishorts。
+分类: Content Creation、AI / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $11 · 活跃订阅 5 · 近12个月营收 $5,019 · 累计营收 $209,582 · 域名 DR1 · 国家 US · 创立 2020-09-01"
-封面: "/case-site/cases/aishorts/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $11 · 活跃订阅 5 · 近12个月营收 $5,019 · 累计营收 $209,582 · 域名 DR1
+  · 国家 US · 创立 2020-09-01
+封面: /case-site/cases/aishorts/site.webp
 ---
+
 
 ![Aishorts 官网](/cases/aishorts/site.webp)
 

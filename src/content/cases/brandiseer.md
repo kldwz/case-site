@@ -1,19 +1,23 @@
 ---
-name: "BRANDISEER"
-一句话: "BRANDISEER是一款AI驱动的品牌视觉设计工具，通过上传品牌元素自动生成符合品牌风格的视觉内容。"
-创始人地区: "由 SRKDAN 创立，GB，2025 年成立"
-营收模式: "3-day trial · then $24/mo · cancel anytime"
-月收入估算: "$566/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR23），B2B 受众；官网 https://brandiseer.com/"
-可迁移点: "① 采用3天试用+24美元/月的订阅模式 ② 通过Stripe实现支付验证和营收追踪 ③ 专注于解决小型团队和初创公司品牌视觉一致性问题 ④ 利用Brand Memory Graph™技术实现品牌风格学习"
-原文链接: "https://brandiseer.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:10:02.045Z；域名评分 DR23；原始页 https://trustmrr.com/startup/brandiseer。"
-分类: "Design Tools、AI、Content Creation、SaaS、Marketing / B2B / 海外"
+name: BRANDISEER
+一句话: BRANDISEER是一款AI驱动的品牌视觉设计工具，通过上传品牌元素自动生成符合品牌风格的视觉内容。
+创始人地区: 由 SRKDAN 创立，GB，2025 年成立
+营收模式: 3-day trial · then $24/mo · cancel anytime
+月收入估算: $566/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR23），B2B 受众；官网 https://brandiseer.com/
+可迁移点: ① 采用3天试用+24美元/月的订阅模式 ② 通过Stripe实现支付验证和营收追踪 ③ 专注于解决小型团队和初创公司品牌视觉一致性问题 ④ 利用Brand
+  Memory Graph™技术实现品牌风格学习
+原文链接: https://brandiseer.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:10:02.045Z；域名评分 DR23；原始页
+  https://trustmrr.com/startup/brandiseer。
+分类: Design Tools、AI、Content Creation、SaaS、Marketing / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $566 · 活跃订阅 14 · 近12个月营收 $3,533 · 累计营收 $3,573 · 域名 DR23 · 国家 GB · 创立 2025-05-18"
-封面: "/case-site/cases/brandiseer/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $566 · 活跃订阅 14 · 近12个月营收 $3,533 · 累计营收 $3,573 · 域名 DR23
+  · 国家 GB · 创立 2025-05-18
+封面: /case-site/cases/brandiseer/site.webp
 ---
+
 
 ![BRANDISEER 官网](/cases/brandiseer/site.webp)
 

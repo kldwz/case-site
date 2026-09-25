@@ -1,19 +1,23 @@
 ---
-name: "Audixa AI"
-一句话: "Generate hyper-realistic, human-like text-to-speech for your content in seconds."
-创始人地区: "由 Anurag Sharma 创立"
-营收模式: "Pay As You Go: $0.01/min Base, $0.08/min Advanced; Starter: $14/month; Pro: $29/month; Creator: $79/month; Enterprise: Contact Sales"
-月收入估算: "$70/月（Dodo Payments 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR15），B2B 受众；官网 https://audixa.ai/"
-可迁移点: "① 采用灵活的定价模式（按量付费+订阅制） ② 明确针对B2B场景的成本痛点（高额TTS账单） ③ 通过支付服务商API实现营收数据透明化"
-原文链接: "https://audixa.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Dodo Payments）验证，最后同步于 2026-09-15T08:52:38.336Z；域名评分 DR15；原始页 https://trustmrr.com/startup/audixa-ai。"
-分类: "AI、SaaS、Dev Tools、Content Creation、Productivity / B2B / 海外"
+name: Audixa AI
+一句话: Generate hyper-realistic, human-like text-to-speech for your content in seconds.
+创始人地区: 由 Anurag Sharma 创立
+营收模式: 'Pay As You Go: $0.01/min Base, $0.08/min Advanced; Starter: $14/month; Pro:
+  $29/month; Creator: $79/month; Enterprise: Contact Sales'
+月收入估算: $70/月（Dodo Payments 验证）
+流量来源: SEO 自然流量为主（域名评分 DR15），B2B 受众；官网 https://audixa.ai/
+可迁移点: ① 采用灵活的定价模式（按量付费+订阅制） ② 明确针对B2B场景的成本痛点（高额TTS账单） ③ 通过支付服务商API实现营收数据透明化
+原文链接: https://audixa.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Dodo Payments）验证，最后同步于 2026-09-15T08:52:38.336Z；域名评分
+  DR15；原始页 https://trustmrr.com/startup/audixa-ai。
+分类: AI、SaaS、Dev Tools、Content Creation、Productivity / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Dodo Payments · 当前 MRR $70 · 活跃订阅 5 · 近12个月营收 $2,758 · 累计营收 $2,758 · 域名 DR15 · 国家 IN · 创立 未披露"
-封面: "/case-site/cases/audixa-ai/site.webp"
+平台数据: 支付验证：Dodo Payments · 当前 MRR $70 · 活跃订阅 5 · 近12个月营收 $2,758 · 累计营收 $2,758 · 域名
+  DR15 · 国家 IN · 创立 未披露
+封面: /case-site/cases/audixa-ai/site.webp
 ---
+
 # Audixa AI
 
 

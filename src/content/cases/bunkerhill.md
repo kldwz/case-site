@@ -1,18 +1,23 @@
 ---
 name: Bunkerhill Health
 一句话: 帮医院把自己的想法变成生产级 AI agent 的平台，客户包括克利夫兰诊所和斯坦福，累计融资 5500 万美元
-创始人地区: Nishith Khandwala（CEO，斯坦福计算机本科 + 人工智能硕士，福布斯 30 岁以下精英）+ 联合创始人 David，2020 年创立于美国加州帕洛阿尔托；YC W19 批次
+创始人地区: Nishith Khandwala（CEO，斯坦福计算机本科 + 人工智能硕士，福布斯 30 岁以下精英）+ 联合创始人 David，2020 年创立于美国加州帕洛阿尔托；YC
+  W19 批次
 营收模式: 面向医疗系统的 agentic AI 平台（Carebricks）订阅，按机构合同收费；已取得心内科等方向的 FDA 认证
 月收入估算: B 轮由 Khosla Ventures 领投，累计融资 5500 万美元；Sequoia、Felicis、Optum Ventures、YC 持续跟投；具体营收未公开披露
 流量来源: 医疗系统企业直销 + 标杆客户背书（克利夫兰诊所、斯坦福、UCSF、UTMB、Intermountain 等 25 家以上机构）+ 临床成果故事（找出数千名从未看过心内科的高风险患者）
-可迁移点: ① 真正的痛点往往不是「没有好算法」，而是「好算法烂在论文里」——他自己的 Nature 级算法在笔记本上躺了两年 ② 别卖点解决方案，卖平台——让客户自己长出一堆用例，比你说服他买一个容易十倍 ③ 从身边最痛的那件事出发，创始人父亲的经历就是最真实的市场验证 ④ 医疗这类强监管行业，牌照和认证不是障碍，是护城河 ⑤ 一个客户的 15 个用例，比 15 个客户各 1 个用例值钱
+可迁移点: ① 真正的痛点往往不是「没有好算法」，而是「好算法烂在论文里」——他自己的 Nature 级算法在笔记本上躺了两年 ② 别卖点解决方案，卖平台——让客户自己长出一堆用例，比你说服他买一个容易十倍
+  ③ 从身边最痛的那件事出发，创始人父亲的经历就是最真实的市场验证 ④ 医疗这类强监管行业，牌照和认证不是障碍，是护城河 ⑤ 一个客户的 15 个用例，比 15
+  个客户各 1 个用例值钱
 原文链接: https://bunkerhill.ai
-数据口径: 公司公告与行业媒体报道（B 轮 Khosla Ventures 领投、累计融资 5500 万美元）；创始人公开访谈（DGTL Voices 播客、This Week Health、Healthcare AI Guy）
+数据口径: 公司公告与行业媒体报道（B 轮 Khosla Ventures 领投、累计融资 5500 万美元）；创始人公开访谈（DGTL Voices 播客、This
+  Week Health、Healthcare AI Guy）
 类型: 收入案例
 证据等级: 官方披露
 分类: 医疗 AI / AI Agent / 英文 / 企业服务
 封面: /case-site/cases/bunkerhill/site.png
 ---
+
 
 ![Bunkerhill Health 官网](/cases/bunkerhill/site.png)
 

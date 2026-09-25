@@ -1,19 +1,23 @@
 ---
-name: "BasinCheck"
-一句话: "BasinCheck 是一款面向石油天然气承包商的移动优先安全审计平台，用数字化方案替代纸质检查表和电子表格。"
-创始人地区: "由 jayCobski 创立，PL，2025 年成立"
-营收模式: "Starter: $125/mo, Standard: $250/mo, Pro: $500/mo"
-月收入估算: "$1,294/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR31），B2B 受众；官网 https://basincheck.com/"
-可迁移点: "① 聚焦垂直领域（石油天然气承包商）的数字化痛点 ② 提供离线模式和合规文档自动生成（OSHA标准） ③ 将审计问题自动转化为可追踪的整改项 ④ 采用阶梯定价策略（$125-$500/月）覆盖不同规模客户 ⑤ 通过行业协会背书增强可信度（ASSP/Texas Alliance会员）"
-原文链接: "https://basincheck.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:26:56.208Z；域名评分 DR31；原始页 https://trustmrr.com/startup/basincheck。"
-分类: "Analytics、SaaS、Dev Tools、IoT & Hardware / B2B / 海外"
+name: BasinCheck
+一句话: BasinCheck 是一款面向石油天然气承包商的移动优先安全审计平台，用数字化方案替代纸质检查表和电子表格。
+创始人地区: 由 jayCobski 创立，PL，2025 年成立
+营收模式: 'Starter: $125/mo, Standard: $250/mo, Pro: $500/mo'
+月收入估算: $1,294/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR31），B2B 受众；官网 https://basincheck.com/
+可迁移点: ① 聚焦垂直领域（石油天然气承包商）的数字化痛点 ② 提供离线模式和合规文档自动生成（OSHA标准） ③ 将审计问题自动转化为可追踪的整改项 ④ 采用阶梯定价策略（$125-$500/月）覆盖不同规模客户
+  ⑤ 通过行业协会背书增强可信度（ASSP/Texas Alliance会员）
+原文链接: https://basincheck.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T09:26:56.208Z；域名评分 DR31；原始页
+  https://trustmrr.com/startup/basincheck。
+分类: Analytics、SaaS、Dev Tools、IoT & Hardware / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $1,294 · 活跃订阅 6 · 近12个月营收 $3,341 · 累计营收 $3,341 · 域名 DR31 · 国家 PL · 创立 2025-12-21"
-封面: "/case-site/cases/basincheck/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $1,294 · 活跃订阅 6 · 近12个月营收 $3,341 · 累计营收 $3,341 · 域名 DR31
+  · 国家 PL · 创立 2025-12-21
+封面: /case-site/cases/basincheck/site.webp
 ---
+
 
 ![BasinCheck 官网](/cases/basincheck/site.webp)
 

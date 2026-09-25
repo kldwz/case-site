@@ -37,7 +37,7 @@ API_URL = "https://api.siliconflow.cn/v1/chat/completions"
 API_KEY = os.environ.get("OPENAI_API_KEY")
 MODEL = "deepseek-ai/DeepSeek-V3"
 PROXY = "http://127.0.0.1:1082"
-TODAY = "2026-09-17"
+TODAY = "2026-09-25"
 
 KIND_CN = {
     "app": "App",

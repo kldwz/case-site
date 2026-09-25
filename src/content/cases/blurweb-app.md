@@ -1,19 +1,22 @@
 ---
-name: "Blurweb.app"
-一句话: "Blurweb.app 是一款帮助用户在屏幕共享或录制时即时模糊敏感信息的浏览器扩展。"
-创始人地区: "由 Sanskar Tiwari 创立，IN，2022 年成立"
-营收模式: "Professional: $67 pay once use forever, Startup: $127 pay once use forever"
-月收入估算: "$237/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR33），B2C 受众；官网 https://www.blurweb.app/"
-可迁移点: "① 解决屏幕共享时的隐私痛点，无需后期编辑 ② 采用一次性付费模式，降低用户决策门槛 ③ 精准定位远程办公场景下的B2C需求 ④ 通过浏览器扩展形式实现轻量化部署"
-原文链接: "https://www.blurweb.app/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:21:29.198Z；域名评分 DR33；原始页 https://trustmrr.com/startup/blurweb-app。"
-分类: "Security、Productivity、SaaS、Content Creation / B2C / 海外"
+name: Blurweb.app
+一句话: Blurweb.app 是一款帮助用户在屏幕共享或录制时即时模糊敏感信息的浏览器扩展。
+创始人地区: 由 Sanskar Tiwari 创立，IN，2022 年成立
+营收模式: 'Professional: $67 pay once use forever, Startup: $127 pay once use forever'
+月收入估算: $237/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR33），B2C 受众；官网 https://www.blurweb.app/
+可迁移点: ① 解决屏幕共享时的隐私痛点，无需后期编辑 ② 采用一次性付费模式，降低用户决策门槛 ③ 精准定位远程办公场景下的B2C需求 ④ 通过浏览器扩展形式实现轻量化部署
+原文链接: https://www.blurweb.app/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:21:29.198Z；域名评分 DR33；原始页
+  https://trustmrr.com/startup/blurweb-app。
+分类: Security、Productivity、SaaS、Content Creation / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $237 · 活跃订阅 65 · 近12个月营收 $6,135 · 累计营收 $33,216 · 域名 DR33 · 国家 IN · 创立 2022-10-18"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Stripe · 当前 MRR $237 · 活跃订阅 65 · 近12个月营收 $6,135 · 累计营收 $33,216 · 域名 DR33
+  · 国家 IN · 创立 2022-10-18
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 # Blurweb.app
 
 

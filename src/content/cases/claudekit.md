@@ -1,19 +1,22 @@
 ---
-name: "ClaudeKit"
-一句话: "ClaudeKit 提供基于 Claude Code 的多角色 AI 代理工具集，自动化开发与营销流程。"
-创始人地区: "由 Duy /zuey/ 创立，VN，2025 年成立"
-营收模式: "Engineer Kit - $99, Marketing Kit - $99, Combo - $149"
-月收入估算: "$4/月（Polar 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR45），B2B 受众；官网 https://claudekit.cc/"
-可迁移点: "① 垂直领域 AI 代理的模块化组合 ② 通过技术栈兼容性强调零锁定 ③ 开发/营销场景的捆绑定价策略"
-原文链接: "https://claudekit.cc/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-16T20:26:38.220Z；域名评分 DR45；原始页 https://trustmrr.com/startup/claudekit。"
-分类: "Dev Tools、AI、Productivity、Marketing、SaaS / B2B / 海外"
+name: ClaudeKit
+一句话: ClaudeKit 提供基于 Claude Code 的多角色 AI 代理工具集，自动化开发与营销流程。
+创始人地区: 由 Duy /zuey/ 创立，VN，2025 年成立
+营收模式: Engineer Kit - $99, Marketing Kit - $99, Combo - $149
+月收入估算: $4/月（Polar 验证）
+流量来源: SEO 自然流量为主（域名评分 DR45），B2B 受众；官网 https://claudekit.cc/
+可迁移点: ① 垂直领域 AI 代理的模块化组合 ② 通过技术栈兼容性强调零锁定 ③ 开发/营销场景的捆绑定价策略
+原文链接: https://claudekit.cc/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Polar）验证，最后同步于 2026-09-16T20:26:38.220Z；域名评分 DR45；原始页
+  https://trustmrr.com/startup/claudekit。
+分类: Dev Tools、AI、Productivity、Marketing、SaaS / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Polar · 当前 MRR $4 · 活跃订阅 1 · 近12个月营收 $79,523 · 累计营收 $79,523 · 域名 DR45 · 国家 VN · 创立 2025-10-07"
-封面: "/case-site/cases/claudekit/site.webp"
+平台数据: 支付验证：Polar · 当前 MRR $4 · 活跃订阅 1 · 近12个月营收 $79,523 · 累计营收 $79,523 · 域名 DR45 ·
+  国家 VN · 创立 2025-10-07
+封面: /case-site/cases/claudekit/site.webp
 ---
+
 
 ![ClaudeKit 官网](/cases/claudekit/site.webp)
 

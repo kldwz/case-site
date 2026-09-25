@@ -3,16 +3,20 @@ name: beehiiv
 一句话: 三个前 Morning Brew 工程师做的 newsletter 平台，不抽成，做到 3000 万美金 ARR、13 万+ newsletter
 创始人地区: Tyler Denk（CEO，前 Morning Brew 增长工程师）、Ben Hargett、Jake Hurd，2021 年创立，总部纽约
 营收模式: 免费 + 付费档（按订阅规模），平台不抽成（对比 Substack 抽 10%），靠订阅费 + 广告网络
-月收入估算: 3000 万美金 ARR（2025 / 26）；3300 万美金 B 轮（2024-03，NEA 领投）估值 2.25 亿美金；约 120 人、5.5 万活跃用户、13 万+ newsletter
+月收入估算: 3000 万美金 ARR（2025 / 26）；3300 万美金 B 轮（2024-03，NEA 领投）估值 2.25 亿美金；约 120 人、5.5
+  万活跃用户、13 万+ newsletter
 流量来源: 创作者社区口碑 + 推荐计划（refer-a-creator）+ 内容营销；前 Morning Brew 光环带来初始信任
-可迁移点: ① 用「不抽成」正面刚对手的抽成，差异化一句话讲清 ② 从自己干过的行当里长产品，Denk 懂 newsletter 增长才做平台 ③ 推荐计划把创作者变成销售 ④ 广告网络是订阅之外的第二曲线，不靠单点收入 ⑤ 先做被验证的需求（newsletter 已火）再优化体验
+可迁移点: ① 用「不抽成」正面刚对手的抽成，差异化一句话讲清 ② 从自己干过的行当里长产品，Denk 懂 newsletter 增长才做平台 ③ 推荐计划把创作者变成销售
+  ④ 广告网络是订阅之外的第二曲线，不靠单点收入 ⑤ 先做被验证的需求（newsletter 已火）再优化体验
 原文链接: https://beehiiv.com
-数据口径: beehiiv 官方博客 / TechCrunch 2024 B 轮报道（3300 万美金、估值 2.25 亿、NEA 领投）；ARR 与用户数为公司披露（2025 / 26）
+数据口径: beehiiv 官方博客 / TechCrunch 2024 B 轮报道（3300 万美金、估值 2.25 亿、NEA 领投）；ARR 与用户数为公司披露（2025
+  / 26）
 类型: 收入案例
 证据等级: 官方披露
 分类: 创作者经济 / SaaS 订阅 / 英文 / newsletter
 封面: /case-site/cases/beehiiv/site.png
 ---
+
 
 ![beehiiv 官网](/cases/beehiiv/site.png)
 

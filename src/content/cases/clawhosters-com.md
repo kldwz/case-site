@@ -1,19 +1,22 @@
 ---
-name: "Clawhosters.com"
-一句话: "为开源AI框架OpenClaw提供零维护的托管服务"
-创始人地区: "由 Yixn.io 创立，DE，2026 年成立"
-营收模式: "Budget €19/month, Balanced €35/month, Pro €59/month"
-月收入估算: "$1,055/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR18），B2C 受众；官网 https://clawhosters.com/"
-可迁移点: "① 瞄准开源项目配套服务的空白需求 ② 将技术复杂性封装为即用型产品 ③ 阶梯定价覆盖不同预算用户群"
-原文链接: "https://clawhosters.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:34:29.441Z；域名评分 DR18；原始页 https://trustmrr.com/startup/clawhosters-com。"
-分类: "AI、SaaS、Dev Tools / B2C / 海外"
+name: Clawhosters.com
+一句话: 为开源AI框架OpenClaw提供零维护的托管服务
+创始人地区: 由 Yixn.io 创立，DE，2026 年成立
+营收模式: Budget €19/month, Balanced €35/month, Pro €59/month
+月收入估算: $1,055/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR18），B2C 受众；官网 https://clawhosters.com/
+可迁移点: ① 瞄准开源项目配套服务的空白需求 ② 将技术复杂性封装为即用型产品 ③ 阶梯定价覆盖不同预算用户群
+原文链接: https://clawhosters.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-16T21:34:29.441Z；域名评分 DR18；原始页
+  https://trustmrr.com/startup/clawhosters-com。
+分类: AI、SaaS、Dev Tools / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $1,055 · 活跃订阅 32 · 近12个月营收 $17,280 · 累计营收 $17,280 · 域名 DR18 · 国家 DE · 创立 2026-02-08"
-封面: "/case-site/cases/clawhosters-com/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $1,055 · 活跃订阅 32 · 近12个月营收 $17,280 · 累计营收 $17,280 · 域名
+  DR18 · 国家 DE · 创立 2026-02-08
+封面: /case-site/cases/clawhosters-com/site.webp
 ---
+
 
 ![Clawhosters.com 官网](/cases/clawhosters-com/site.webp)
 

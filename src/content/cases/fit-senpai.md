@@ -1,19 +1,24 @@
 ---
-name: "Fit Senpai"
-一句话: "Fit Senpai 提供个性化的健身和饮食计划，旨在简化健身过程并降低成本。"
-创始人地区: "由 Sharie 创立，US，2023 年成立"
-营收模式: "Monthly: $9.99/mo, Annual: $4.99/mo billed annually, Lifetime: $99 one-time payment"
-月收入估算: "$135/月（Lemon Squeezy 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR17），B2C 受众；官网 https://fitsenpai.com/"
-可迁移点: "① 提供多种定价模式（月付、年付、一次性终身付费）以适应不同用户需求 ② 通过解决健身过程中的复杂性和高成本问题来吸引用户 ③ 使用 Lemon Squeezy 作为支付验证来源，增加营收数据的可信度"
-原文链接: "https://fitsenpai.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Lemon Squeezy）验证，最后同步于 2026-09-15T14:41:48.349Z；域名评分 DR17；原始页 https://trustmrr.com/startup/fit-senpai。"
-分类: "Health & Fitness、Mobile Apps、SaaS / B2C / 海外"
+name: Fit Senpai
+一句话: Fit Senpai 提供个性化的健身和饮食计划，旨在简化健身过程并降低成本。
+创始人地区: 由 Sharie 创立，US，2023 年成立
+营收模式: 'Monthly: $9.99/mo, Annual: $4.99/mo billed annually, Lifetime: $99 one-time
+  payment'
+月收入估算: $135/月（Lemon Squeezy 验证）
+流量来源: SEO 自然流量为主（域名评分 DR17），B2C 受众；官网 https://fitsenpai.com/
+可迁移点: ① 提供多种定价模式（月付、年付、一次性终身付费）以适应不同用户需求 ② 通过解决健身过程中的复杂性和高成本问题来吸引用户 ③ 使用 Lemon Squeezy
+  作为支付验证来源，增加营收数据的可信度
+原文链接: https://fitsenpai.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Lemon Squeezy）验证，最后同步于 2026-09-15T14:41:48.349Z；域名评分
+  DR17；原始页 https://trustmrr.com/startup/fit-senpai。
+分类: Health & Fitness、Mobile Apps、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Lemon Squeezy · 当前 MRR $135 · 活跃订阅 20 · 近12个月营收 $1,540 · 累计营收 $7,327 · 域名 DR17 · 国家 US · 创立 2023-06-26"
-封面: "/case-site/cases/_placeholder/site.png"
+平台数据: 支付验证：Lemon Squeezy · 当前 MRR $135 · 活跃订阅 20 · 近12个月营收 $1,540 · 累计营收 $7,327 ·
+  域名 DR17 · 国家 US · 创立 2023-06-26
+封面: /case-site/cases/_placeholder/site.png
 ---
+
 
 # Fit Senpai：提供个性化的健身和饮食计划，旨在简化健身过程并降低成本。
 

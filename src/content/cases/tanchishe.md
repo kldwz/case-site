@@ -1,19 +1,21 @@
 ---
-name: "贪吃蛇"
-一句话: "经典贪吃蛇游戏的移动端复刻版，获得超200万次评分。"
-创始人地区: "Wuhan Weipai Network Technology Co., Ltd.，2016-06-08 上架 App Store 中国区"
-营收模式: "免费下载 + 内购（具体档位未披露）"
-月收入估算: "未官方披露（App Store 不公开下载量与收入，本站不做估算）"
-流量来源: "App Store 中国区搜索与榜单（评分 4.51，2,049,875 个评分）；Games 类目长尾流量"
-可迁移点: "① 经典游戏机制的现代化复刻 ② 免费模式降低用户门槛 ③ 高评分显示用户满意度"
-原文链接: "https://apps.apple.com/cn/app/%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98/id1120536875?uo=4"
-数据口径: "Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者 Wuhan Weipai Network Technology Co., Ltd.、价格 免费、评分 4.51、评分人数 2,049,875、上架日期 2016-06-08。收入未官方披露。"
-分类: "Games / 免费+内购 / 中文 / 游戏"
-类型: "国内实践"
-证据等级: "平台数据可查"
-平台数据: "App Store 中国区 ★4.51（2,049,875 个评分）· 免费 · 上架 2016-06-08（iTunes 官方 API）"
-封面: "/case-site/cases/tanchishe/site.png"
+name: 贪吃蛇
+一句话: 经典贪吃蛇游戏的移动端复刻版，获得超200万次评分。
+创始人地区: Wuhan Weipai Network Technology Co., Ltd.，2016-06-08 上架 App Store 中国区
+营收模式: 免费下载 + 内购（具体档位未披露）
+月收入估算: 未官方披露（App Store 不公开下载量与收入，本站不做估算）
+流量来源: App Store 中国区搜索与榜单（评分 4.51，2,049,875 个评分）；Games 类目长尾流量
+可迁移点: ① 经典游戏机制的现代化复刻 ② 免费模式降低用户门槛 ③ 高评分显示用户满意度
+原文链接: https://apps.apple.com/cn/app/%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98/id1120536875?uo=4
+数据口径: Apple iTunes 官方搜索 API（itunes.apple.com/search?country=cn），2026-09-17 抓取：开发者
+  Wuhan Weipai Network Technology Co., Ltd.、价格 免费、评分 4.51、评分人数 2,049,875、上架日期 2016-06-08。收入未官方披露。
+分类: Games / 免费+内购 / 中文 / 游戏
+类型: 国内实践
+证据等级: 平台数据可查
+平台数据: App Store 中国区 ★4.51（2,049,875 个评分）· 免费 · 上架 2016-06-08（iTunes 官方 API）
+封面: /case-site/cases/tanchishe/site.png
 ---
+
 # 贪吃蛇
 
 

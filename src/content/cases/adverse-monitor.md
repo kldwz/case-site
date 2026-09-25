@@ -1,19 +1,24 @@
 ---
-name: "Adverse Monitor"
-一句话: "面向企业的实时网络威胁情报监控平台，提供暗网数据泄露追踪服务。"
-创始人地区: "由 AdverseMonitor 创立，MY，2025 年成立"
-营收模式: "Free domain lookup and a 14-day trial with no credit card. Published annual plans: Detection $388, Protection $3,888, and Defend $20,000."
-月收入估算: "$356/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR22），B2B 受众；官网 https://adversemonitor.com/"
-可迁移点: "① 采用14天免信用卡试用机制降低体验门槛 ② 通过公开29,858条威胁记录研究建立专业可信度 ③ 年费订阅模式设计匹配企业安全预算周期 ④ 免费域名查询功能作为获客漏斗 ⑤ 分层定价策略覆盖不同规模企业需求"
-原文链接: "https://adversemonitor.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:32:00.693Z；域名评分 DR22；原始页 https://trustmrr.com/startup/adverse-monitor。"
-分类: "Security / B2B / 海外"
+name: Adverse Monitor
+一句话: 面向企业的实时网络威胁情报监控平台，提供暗网数据泄露追踪服务。
+创始人地区: 由 AdverseMonitor 创立，MY，2025 年成立
+营收模式: 'Free domain lookup and a 14-day trial with no credit card. Published annual
+  plans: Detection $388, Protection $3,888, and Defend $20,000.'
+月收入估算: $356/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR22），B2B 受众；官网 https://adversemonitor.com/
+可迁移点: ① 采用14天免信用卡试用机制降低体验门槛 ② 通过公开29,858条威胁记录研究建立专业可信度 ③ 年费订阅模式设计匹配企业安全预算周期 ④ 免费域名查询功能作为获客漏斗
+  ⑤ 分层定价策略覆盖不同规模企业需求
+原文链接: https://adversemonitor.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T12:32:00.693Z；域名评分 DR22；原始页
+  https://trustmrr.com/startup/adverse-monitor。
+分类: Security / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $356 · 活跃订阅 2 · 近12个月营收 $3,985 · 累计营收 $3,985 · 域名 DR22 · 国家 MY · 创立 2025-08-31"
-封面: "/case-site/cases/adverse-monitor/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $356 · 活跃订阅 2 · 近12个月营收 $3,985 · 累计营收 $3,985 · 域名 DR22
+  · 国家 MY · 创立 2025-08-31
+封面: /case-site/cases/adverse-monitor/site.webp
 ---
+
 
 ![Adverse Monitor 官网](/cases/adverse-monitor/site.webp)
 

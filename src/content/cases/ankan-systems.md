@@ -1,19 +1,22 @@
 ---
-name: "Ankan Systems"
-一句话: "Ankan Systems是一家开发销售生产力与健康类软件工具的B2C独立开发工作室"
-创始人地区: "由 Anagh 创立，US，2025 年成立"
-营收模式: "订阅制（具体档位未披露）"
-月收入估算: "$19/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR0），B2C 受众；官网 https://ankansystems.com/"
-可迁移点: "① Stripe集成实现实时支付验证 ② 多赛道产品矩阵尝试（SaaS/AI/Fintech） ③ 极简官网直接导向产品购买 ④ 通过X账号建立基础开发者形象"
-原文链接: "https://ankansystems.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:12:25.669Z；域名评分 DR0；原始页 https://trustmrr.com/startup/ankan-systems。"
-分类: "SaaS、AI、Dev Tools、Fintech、Productivity / B2C / 海外"
+name: Ankan Systems
+一句话: Ankan Systems是一家开发销售生产力与健康类软件工具的B2C独立开发工作室
+创始人地区: 由 Anagh 创立，US，2025 年成立
+营收模式: 订阅制（具体档位未披露）
+月收入估算: $19/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR0），B2C 受众；官网 https://ankansystems.com/
+可迁移点: ① Stripe集成实现实时支付验证 ② 多赛道产品矩阵尝试（SaaS/AI/Fintech） ③ 极简官网直接导向产品购买 ④ 通过X账号建立基础开发者形象
+原文链接: https://ankansystems.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:12:25.669Z；域名评分 DR0；原始页
+  https://trustmrr.com/startup/ankan-systems。
+分类: SaaS、AI、Dev Tools、Fintech、Productivity / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $19 · 活跃订阅 1 · 近12个月营收 $2,207 · 累计营收 $2,207 · 域名 DR0 · 国家 US · 创立 2025-05-06"
-封面: "/case-site/cases/ankan-systems/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $19 · 活跃订阅 1 · 近12个月营收 $2,207 · 累计营收 $2,207 · 域名 DR0 ·
+  国家 US · 创立 2025-05-06
+封面: /case-site/cases/ankan-systems/site.webp
 ---
+
 
 ![Ankan Systems 官网](/cases/ankan-systems/site.webp)
 

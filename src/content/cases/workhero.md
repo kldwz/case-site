@@ -1,18 +1,27 @@
 ---
 name: WorkHero
-一句话: 三个哈佛系创业者盯上「20 人以下的 HVAC 小店」，用 AI Agent + 真人办公室经理接管开票、报批、退税、保修，帮老板每周省 15–20 小时，种子轮 500 万美金
+一句话: 三个哈佛系创业者盯上「20 人以下的 HVAC 小店」，用 AI Agent + 真人办公室经理接管开票、报批、退税、保修，帮老板每周省 15–20 小时，种子轮
+  500 万美金
 创始人地区: Furman Haynes、Kyler Evitt、Gerald Chertavian，总部美国波士顿/剑桥；2024 年成立，团队 11 人
 营收模式: 订阅制「AI 后台外包」服务（AI Agent 执行 + 真人行业专家复核），按客户规模收费；成本约为全职办公室经理 5 万美金的零头
 月收入估算: 招聘启事自述数月内做到 50 万+ 美金 ARR（2025 年秋，Built In 职位页）；第三方数据库 Datanyze 记约 200 万美金年营收（估测口径）
-流量来源: 与 HVAC School 联合调研发布行业数据（「老板每周花 20+ 小时做行政」）做成内容；创始人出身 Year Up（Chertavian 是该非营利组织创始人）带来社会影响力叙事与媒体（波士顿环球报）；Workshop Ventures 孵化 + Navitas Capital 等机构资源
-可迁移点: ① AI 不替代人而是「AI 执行 + 行业专家复核」，解决最后 10% 的信任问题 ② 选「太小请不起人、太大用不上软件」的中间市场（missing middle）③ 用行业联合调研数据做内容，权威性远高于自吹 ④ 把气候政策（热泵退税）变成产品刚性需求 ⑤ 社会影响力叙事（帮小老板对抗 PE 资本）自带传播力
+流量来源: 与 HVAC School 联合调研发布行业数据（「老板每周花 20+ 小时做行政」）做成内容；创始人出身 Year Up（Chertavian 是该非营利组织创始人）带来社会影响力叙事与媒体（波士顿环球报）；Workshop
+  Ventures 孵化 + Navitas Capital 等机构资源
+可迁移点: ① AI 不替代人而是「AI 执行 + 行业专家复核」，解决最后 10% 的信任问题 ② 选「太小请不起人、太大用不上软件」的中间市场（missing
+  middle）③ 用行业联合调研数据做内容，权威性远高于自吹 ④ 把气候政策（热泵退税）变成产品刚性需求 ⑤ 社会影响力叙事（帮小老板对抗 PE 资本）自带传播力
 原文链接: https://www.workhero.pro
-数据口径: 融资——2025 年 10 月宣布 500 万美金种子轮，Navitas Capital 领投，Workshop Ventures、York IE 及多位天使（含前 ServiceTitan 高管）参投（ACCESS Newswire 通稿、波士顿环球报 2025-10-27）；营收——招聘启事自述「数月内做到 50 万+ ARR」（Built In 职位页）；产品——AI Agent 自动完成开票、拉取施工许可、申报退税、注册保修、维护价格表，配 HVAC 行业资深办公室经理复核与财务辅导；成效——每周为客户省 15–20 小时、成本比全职雇佣低约 60%、热泵退税处理时间缩短 50% 且近乎 100% 通过率；市场——美国 HVAC 行业规模 1000 亿+ 美金，85% 公司员工少于 20 人；创始人——Furman Haynes、Kyler Evitt（均为 HBS 毕业生，曾在 Year Up 实习时结识）、Gerald Chertavian（Year Up 创始人，任董事长）（波士顿环球报、ACCESS Newswire）
+数据口径: 融资——2025 年 10 月宣布 500 万美金种子轮，Navitas Capital 领投，Workshop Ventures、York IE 及多位天使（含前
+  ServiceTitan 高管）参投（ACCESS Newswire 通稿、波士顿环球报 2025-10-27）；营收——招聘启事自述「数月内做到 50 万+
+  ARR」（Built In 职位页）；产品——AI Agent 自动完成开票、拉取施工许可、申报退税、注册保修、维护价格表，配 HVAC 行业资深办公室经理复核与财务辅导；成效——每周为客户省
+  15–20 小时、成本比全职雇佣低约 60%、热泵退税处理时间缩短 50% 且近乎 100% 通过率；市场——美国 HVAC 行业规模 1000 亿+ 美金，85%
+  公司员工少于 20 人；创始人——Furman Haynes、Kyler Evitt（均为 HBS 毕业生，曾在 Year Up 实习时结识）、Gerald Chertavian（Year
+  Up 创始人，任董事长）（波士顿环球报、ACCESS Newswire）
 类型: 收入案例
 证据等级: 官方披露
 分类: 垂直行业 / 蓝领与 HVAC / 英文 / 美国
 封面: /case-site/cases/workhero/site.png
 ---
+
 
 ![WorkHero 官网](/cases/workhero/site.png)
 

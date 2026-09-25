@@ -1,19 +1,22 @@
 ---
-name: "Cornerman"
-一句话: "AI驱动的求职助手Cornerman，以1美元试用切入39美元/月的求职全流程服务。"
-创始人地区: "由 AnonBuilder 创立，US，2024 年成立"
-营收模式: "$1 trial, then $39/mo, unlimited everything"
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR27），B2C 受众；官网 https://trycornerman.com/"
-可迁移点: "① 1美元试用降低决策门槛 ② AI全流程覆盖求职痛点（职位发现-简历优化-面试辅导） ③ 针对经济下行期的求职焦虑设计价值主张"
-原文链接: "https://trycornerman.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:23:32.426Z；域名评分 DR27；原始页 https://trustmrr.com/startup/cornerman。"
-分类: "AI、Productivity、SaaS、Recruiting & HR / B2C / 海外"
+name: Cornerman
+一句话: AI驱动的求职助手Cornerman，以1美元试用切入39美元/月的求职全流程服务。
+创始人地区: 由 AnonBuilder 创立，US，2024 年成立
+营收模式: $1 trial, then $39/mo, unlimited everything
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR27），B2C 受众；官网 https://trycornerman.com/
+可迁移点: ① 1美元试用降低决策门槛 ② AI全流程覆盖求职痛点（职位发现-简历优化-面试辅导） ③ 针对经济下行期的求职焦虑设计价值主张
+原文链接: https://trycornerman.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:23:32.426Z；域名评分 DR27；原始页
+  https://trustmrr.com/startup/cornerman。
+分类: AI、Productivity、SaaS、Recruiting & HR / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,491 · 累计营收 $1,936 · 域名 DR27 · 国家 US · 创立 2024-04-17"
-封面: "/case-site/cases/cornerman/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $1,491 · 累计营收 $1,936 · 域名 DR27 ·
+  国家 US · 创立 2024-04-17
+封面: /case-site/cases/cornerman/site.webp
 ---
+
 
 ![Cornerman 官网](/cases/cornerman/site.webp)
 

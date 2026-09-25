@@ -1,19 +1,24 @@
 ---
-name: "ClearCut"
-一句话: "ClearCut 是一款 macOS 本地多功能媒体处理工具，提供 45 种视频/音频/图片/PDF 工具，5 周零付费营销获 1.7K 下载量。"
-创始人地区: "由 Milad Atef 创立，EG，2026 年成立"
-营收模式: "Free: 3 files per day, Pro Monthly: $4.99, Pro Lifetime: $24.99"
-月收入估算: "$20/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6759205521"
-可迁移点: "① 本地化处理工具满足隐私敏感用户需求 ② 34 种语言本地化降低国际用户使用门槛 ③ 免费+订阅+买断组合定价测试市场接受度 ④ Swift/SwiftUI 技术栈实现原生体验与高毛利 ⑤ 未开发的 SEO/团队计划等增长渠道显潜力"
-原文链接: "https://apps.apple.com/app/id6759205521"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-16T22:38:46.137Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/clearcut。"
-分类: "Content Creation、Mobile Apps、Productivity、Utilities、SaaS、Design Tools / B2C / 海外"
+name: ClearCut
+一句话: ClearCut 是一款 macOS 本地多功能媒体处理工具，提供 45 种视频/音频/图片/PDF 工具，5 周零付费营销获 1.7K 下载量。
+创始人地区: 由 Milad Atef 创立，EG，2026 年成立
+营收模式: 'Free: 3 files per day, Pro Monthly: $4.99, Pro Lifetime: $24.99'
+月收入估算: $20/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6759205521
+可迁移点: ① 本地化处理工具满足隐私敏感用户需求 ② 34 种语言本地化降低国际用户使用门槛 ③ 免费+订阅+买断组合定价测试市场接受度 ④ Swift/SwiftUI
+  技术栈实现原生体验与高毛利 ⑤ 未开发的 SEO/团队计划等增长渠道显潜力
+原文链接: https://apps.apple.com/app/id6759205521
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-16T22:38:46.137Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/clearcut。
+分类: Content Creation、Mobile Apps、Productivity、Utilities、SaaS、Design Tools / B2C /
+  海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $20 · 活跃订阅 4 · 近12个月营收 $2,345 · 累计营收 $2,345 · 域名 DR未披露 · 国家 EG · 创立 2026-03-11"
-封面: "/case-site/cases/clearcut/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $20 · 活跃订阅 4 · 近12个月营收 $2,345 · 累计营收 $2,345 · 域名 DR未披露
+  · 国家 EG · 创立 2026-03-11
+封面: /case-site/cases/clearcut/site.webp
 ---
+
 # ClearCut
 
 

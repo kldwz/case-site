@@ -1,19 +1,23 @@
 ---
-name: "ApplyAll"
-一句话: "We get people jobs."
-创始人地区: "由 Tal Flanchraych 创立，US，2023 年成立"
-营收模式: "Standard: $249 one-time, Premium: $299 one-time, VIP Coaching: Apply for a spot"
-月收入估算: "$1,745/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR16），B2C 受众；官网 https://www.applyall.com/"
-可迁移点: "① 采用一次性付费模式（$249-$299）降低用户决策门槛 ② 提供\"不成功退款\"承诺强化价值主张 ③ 通过VIP Coaching服务实现分层变现"
-原文链接: "https://www.applyall.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:19:54.834Z；域名评分 DR16；原始页 https://trustmrr.com/startup/applyall。"
-分类: "Recruiting & HR、Productivity、SaaS / B2C / 海外"
+name: ApplyAll
+一句话: We get people jobs.
+创始人地区: 由 Tal Flanchraych 创立，US，2023 年成立
+营收模式: 'Standard: $249 one-time, Premium: $299 one-time, VIP Coaching: Apply for a
+  spot'
+月收入估算: $1,745/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR16），B2C 受众；官网 https://www.applyall.com/
+可迁移点: ① 采用一次性付费模式（$249-$299）降低用户决策门槛 ② 提供"不成功退款"承诺强化价值主张 ③ 通过VIP Coaching服务实现分层变现
+原文链接: https://www.applyall.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T11:19:54.834Z；域名评分 DR16；原始页
+  https://trustmrr.com/startup/applyall。
+分类: Recruiting & HR、Productivity、SaaS / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $1,745 · 活跃订阅 3 · 近12个月营收 $358,685 · 累计营收 $818,627 · 域名 DR16 · 国家 US · 创立 2023-04-30"
-封面: "/case-site/cases/applyall/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $1,745 · 活跃订阅 3 · 近12个月营收 $358,685 · 累计营收 $818,627 · 域名
+  DR16 · 国家 US · 创立 2023-04-30
+封面: /case-site/cases/applyall/site.webp
 ---
+
 
 ![ApplyAll 官网](/cases/applyall/site.webp)
 

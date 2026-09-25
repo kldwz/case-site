@@ -1,18 +1,26 @@
 ---
 name: Geordie AI
-一句话: 给「会自己干活的 AI agent」套上安全绳：前 Darktrace 班底做的 agent 治理平台，5 个月 ARR 涨 13 倍、拿下 RSAC 2026 冠军、A 轮 3000 万
-创始人地区: Henry Comfort（CEO，ex-Darktrace 美洲区 COO）+ Hanah-Marie Darley（ex-Darktrace）+ Benji Weber（CTO，ex-Snyk），2025 年初创立，总部伦敦
+一句话: 给「会自己干活的 AI agent」套上安全绳：前 Darktrace 班底做的 agent 治理平台，5 个月 ARR 涨 13 倍、拿下 RSAC 2026
+  冠军、A 轮 3000 万
+创始人地区: Henry Comfort（CEO，ex-Darktrace 美洲区 COO）+ Hanah-Marie Darley（ex-Darktrace）+
+  Benji Weber（CTO，ex-Snyk），2025 年初创立，总部伦敦
 营收模式: 企业订阅，面向已部署 AI agent 的大企业，提供 agent 安全治理平台 + Beam 运行时（权限、审计、行为约束）
-月收入估算: 2026-05-28 完成 3000 万美金 A 轮（Balderton 领投），Crosspoint 新进、General Catalyst 与 Ten Eleven 跟投，累计 3650 万美金，投后估值约 1.8 亿美金；2026 年前 5 个月 ARR 增长 1300%
-流量来源: 安全圈标杆客户（Owkin、AlphaSense、Xapo Bank、Fitch、Synthesia、OakNorth）+ RSAC 2026 Innovation Sandbox 冠军光环 + 前 Darktrace 团队信誉
-可迁移点: ① 当所有人都在「造 agent」，你去「管 agent」——基建红利藏在反面 ② 前大厂班底（Darktrace/Snyk）的信誉直接转化为企业客户信任 ③ 拿 RSAC 这种行业权威奖项 = 免费的顶级信任背书，比广告管用 ④「agent 安全」是强合规行业的刚需，金融/医药客户一签就是大单 ⑤ 伦敦也能长出世界级 AI 安全公司，不必挤硅谷
+月收入估算: 2026-05-28 完成 3000 万美金 A 轮（Balderton 领投），Crosspoint 新进、General Catalyst 与 Ten
+  Eleven 跟投，累计 3650 万美金，投后估值约 1.8 亿美金；2026 年前 5 个月 ARR 增长 1300%
+流量来源: 安全圈标杆客户（Owkin、AlphaSense、Xapo Bank、Fitch、Synthesia、OakNorth）+ RSAC 2026 Innovation
+  Sandbox 冠军光环 + 前 Darktrace 团队信誉
+可迁移点: ① 当所有人都在「造 agent」，你去「管 agent」——基建红利藏在反面 ② 前大厂班底（Darktrace/Snyk）的信誉直接转化为企业客户信任
+  ③ 拿 RSAC 这种行业权威奖项 = 免费的顶级信任背书，比广告管用 ④「agent 安全」是强合规行业的刚需，金融/医药客户一签就是大单 ⑤ 伦敦也能长出世界级
+  AI 安全公司，不必挤硅谷
 原文链接: https://geordie.ai
-数据口径: geordie.ai 官方、TechFundingNews、Fortune 报道；A 轮 3000 万、累计 3650 万、ARR 增长 1300%、RSAC 2026 冠军、客户名单为公开披露；估值约 1.8 亿为非官方推算
+数据口径: geordie.ai 官方、TechFundingNews、Fortune 报道；A 轮 3000 万、累计 3650 万、ARR 增长 1300%、RSAC
+  2026 冠军、客户名单为公开披露；估值约 1.8 亿为非官方推算
 类型: 收入案例
 证据等级: 官方披露
 分类: AI 安全治理 / 企业订阅 / 英文 / 安全
 封面: /case-site/cases/geordie/site.png
 ---
+
 
 ![Geordie AI 官网](/cases/geordie/site.png)
 

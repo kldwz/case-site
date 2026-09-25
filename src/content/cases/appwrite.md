@@ -15,6 +15,7 @@ name: Appwrite
 封面: /case-site/cases/appwrite/site.png
 ---
 
+
 ![Appwrite 官网](/cases/appwrite/site.png)
 
 # Appwrite：如何用「开源Firebase」吸引开发者，靠托管云变现

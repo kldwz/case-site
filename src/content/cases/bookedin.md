@@ -1,19 +1,23 @@
 ---
-name: "Bookedin"
-一句话: "Bookedin 是一个无代码 AI 平台，帮助机构创建和管理跨渠道的 AI 接待员和销售代理。"
-创始人地区: "由 Samin Yasar 创立，US，2023 年成立"
-营收模式: "Starter: $75/mo, Pro: $208/mo, Agency: $291/mo"
-月收入估算: "$12,931/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR23），B2B 受众；官网 https://bookedin.ai/"
-可迁移点: "① 无代码平台降低技术门槛 ② 跨渠道（语音、短信、邮件、社交媒体）集成 ③ 自动化潜在客户跟进和会议预约 ④ 分层定价策略（$75-$291/月） ⑤ 专注 B2B 销售效率提升"
-原文链接: "https://bookedin.ai/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:45:27.360Z；域名评分 DR23；原始页 https://trustmrr.com/startup/bookedin。"
-分类: "Sales、SaaS、Productivity、No-Code、Customer Support / B2B / 海外"
+name: Bookedin
+一句话: Bookedin 是一个无代码 AI 平台，帮助机构创建和管理跨渠道的 AI 接待员和销售代理。
+创始人地区: 由 Samin Yasar 创立，US，2023 年成立
+营收模式: 'Starter: $75/mo, Pro: $208/mo, Agency: $291/mo'
+月收入估算: $12,931/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR23），B2B 受众；官网 https://bookedin.ai/
+可迁移点: ① 无代码平台降低技术门槛 ② 跨渠道（语音、短信、邮件、社交媒体）集成 ③ 自动化潜在客户跟进和会议预约 ④ 分层定价策略（$75-$291/月） ⑤
+  专注 B2B 销售效率提升
+原文链接: https://bookedin.ai/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T08:45:27.360Z；域名评分 DR23；原始页
+  https://trustmrr.com/startup/bookedin。
+分类: Sales、SaaS、Productivity、No-Code、Customer Support / B2B / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $12,931 · 活跃订阅 98 · 近12个月营收 $126,159 · 累计营收 $305,910 · 域名 DR23 · 国家 US · 创立 2023-06-22"
-封面: "/case-site/cases/bookedin/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $12,931 · 活跃订阅 98 · 近12个月营收 $126,159 · 累计营收 $305,910 ·
+  域名 DR23 · 国家 US · 创立 2023-06-22
+封面: /case-site/cases/bookedin/site.webp
 ---
+
 
 ![Bookedin 官网](/cases/bookedin/site.webp)
 

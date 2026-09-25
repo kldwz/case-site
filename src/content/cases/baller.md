@@ -1,19 +1,22 @@
 ---
-name: "Baller"
-一句话: "Baller是一款AI驱动的足球训练应用，提供个性化训练计划、营养指导和视频分析。"
-创始人地区: "由 Lino 创立，US，2026 年成立"
-营收模式: "Free to download with optional subscriptions starting at $9.99/month."
-月收入估算: "$2,263/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://appballerai.com/"
-可迁移点: "① AI技术可迁移到其他体育训练领域 ② 订阅制模式适用于内容型产品 ③ 进度追踪机制可增强用户粘性"
-原文链接: "https://appballerai.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T12:35:36.018Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/baller。"
-分类: "AI、Health & Fitness、Mobile Apps / B2C / 海外"
+name: Baller
+一句话: Baller是一款AI驱动的足球训练应用，提供个性化训练计划、营养指导和视频分析。
+创始人地区: 由 Lino 创立，US，2026 年成立
+营收模式: Free to download with optional subscriptions starting at $9.99/month.
+月收入估算: $2,263/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://appballerai.com/
+可迁移点: ① AI技术可迁移到其他体育训练领域 ② 订阅制模式适用于内容型产品 ③ 进度追踪机制可增强用户粘性
+原文链接: https://appballerai.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T12:35:36.018Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/baller。
+分类: AI、Health & Fitness、Mobile Apps / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $2,263 · 活跃订阅 376 · 近12个月营收 $13,126 · 累计营收 $13,126 · 域名 DR未披露 · 国家 US · 创立 2026-06-08"
-封面: "/case-site/cases/baller/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $2,263 · 活跃订阅 376 · 近12个月营收 $13,126 · 累计营收 $13,126
+  · 域名 DR未披露 · 国家 US · 创立 2026-06-08
+封面: /case-site/cases/baller/site.webp
 ---
+
 # Baller
 
 

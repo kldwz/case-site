@@ -1,19 +1,22 @@
 ---
-name: "AI Detector - Image Checker"
-一句话: "一款能在三秒内通过颜色编码置信度分数快速检测照片是否由AI生成的应用。"
-创始人地区: "创始人未披露"
-营收模式: "In-App Purchases: AI Detector Pro Weekly $6.99, AI Detector Pro Yearly $39.99"
-月收入估算: "$418/月（RevenueCat 验证）"
-流量来源: "流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6747576181"
-可迁移点: "① 聚焦垂直需求（AI生成图片检测） ② 采用企业级机器学习模型提升专业性 ③ 订阅制+双周期定价（周付/年付） ④ 完全依赖应用商店自然流量（无X运营）"
-原文链接: "https://apps.apple.com/app/id6747576181"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:09:45.333Z；域名评分 DR未披露；原始页 https://trustmrr.com/startup/ai-detector-image-checker。"
-分类: "AI、Mobile Apps、Utilities、Education、Content Creation / B2C / 海外"
+name: AI Detector - Image Checker
+一句话: 一款能在三秒内通过颜色编码置信度分数快速检测照片是否由AI生成的应用。
+创始人地区: 创始人未披露
+营收模式: 'In-App Purchases: AI Detector Pro Weekly $6.99, AI Detector Pro Yearly $39.99'
+月收入估算: $418/月（RevenueCat 验证）
+流量来源: 流量来源未披露（域名评分 DR未披露），B2C 受众；官网 https://apps.apple.com/app/id6747576181
+可迁移点: ① 聚焦垂直需求（AI生成图片检测） ② 采用企业级机器学习模型提升专业性 ③ 订阅制+双周期定价（周付/年付） ④ 完全依赖应用商店自然流量（无X运营）
+原文链接: https://apps.apple.com/app/id6747576181
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（RevenueCat）验证，最后同步于 2026-09-15T11:09:45.333Z；域名评分
+  DR未披露；原始页 https://trustmrr.com/startup/ai-detector-image-checker。
+分类: AI、Mobile Apps、Utilities、Education、Content Creation / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：RevenueCat · 当前 MRR $418 · 活跃订阅 33 · 近12个月营收 $2,439 · 累计营收 $2,509 · 域名 DR未披露 · 国家 AU · 创立 未披露"
-封面: "/case-site/cases/ai-detector-image-checker/site.webp"
+平台数据: 支付验证：RevenueCat · 当前 MRR $418 · 活跃订阅 33 · 近12个月营收 $2,439 · 累计营收 $2,509 · 域名
+  DR未披露 · 国家 AU · 创立 未披露
+封面: /case-site/cases/ai-detector-image-checker/site.webp
 ---
+
 
 ![AI Detector - Image Checker 官网](/cases/ai-detector-image-checker/site.webp)
 

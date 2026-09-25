@@ -1,19 +1,23 @@
 ---
-name: "Blipix"
-一句话: "Blipix 是一个 AI 驱动的无露脸病毒视频生成平台，帮助用户快速制作适合社交媒体的短视频。"
-创始人地区: "由 Brian Millot 创立，FR，2025 年成立"
-营收模式: "Creator: €39/mo, Pro: €69/mo, Premium: €129/mo. 4 months free with yearly plans."
-月收入估算: "$1,549/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR25），B2C 受众；官网 https://blipix.pro/"
-可迁移点: "① 聚焦社交媒体视频制作的痛点（耗时、昂贵、专业门槛高） ② 提供从脚本到发布的完整 AI 自动化流程 ③ 采用订阅制分层定价（月费 €39-€129）并附年费优惠 ④ 明确锁定 TikTok/YouTube Shorts/Instagram Reels 的创作者需求"
-原文链接: "https://blipix.pro/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:22:36.980Z；域名评分 DR25；原始页 https://trustmrr.com/startup/blipix。"
-分类: "Content Creation、AI、Social Media / B2C / 海外"
+name: Blipix
+一句话: Blipix 是一个 AI 驱动的无露脸病毒视频生成平台，帮助用户快速制作适合社交媒体的短视频。
+创始人地区: 由 Brian Millot 创立，FR，2025 年成立
+营收模式: 'Creator: €39/mo, Pro: €69/mo, Premium: €129/mo. 4 months free with yearly plans.'
+月收入估算: $1,549/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR25），B2C 受众；官网 https://blipix.pro/
+可迁移点: ① 聚焦社交媒体视频制作的痛点（耗时、昂贵、专业门槛高） ② 提供从脚本到发布的完整 AI 自动化流程 ③ 采用订阅制分层定价（月费 €39-€129）并附年费优惠
+  ④ 明确锁定 TikTok/YouTube Shorts/Instagram Reels 的创作者需求
+原文链接: https://blipix.pro/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T14:22:36.980Z；域名评分 DR25；原始页
+  https://trustmrr.com/startup/blipix。
+分类: Content Creation、AI、Social Media / B2C / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $1,549 · 活跃订阅 43 · 近12个月营收 $31,896 · 累计营收 $36,538 · 域名 DR25 · 国家 FR · 创立 2025-02-08"
-封面: "/case-site/cases/blipix/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $1,549 · 活跃订阅 43 · 近12个月营收 $31,896 · 累计营收 $36,538 · 域名
+  DR25 · 国家 FR · 创立 2025-02-08
+封面: /case-site/cases/blipix/site.webp
 ---
+
 # Blipix
 
 

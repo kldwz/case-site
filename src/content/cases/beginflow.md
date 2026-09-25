@@ -1,19 +1,23 @@
 ---
-name: "BeginFlow"
-一句话: "BeginFlow是一个AI驱动的移动应用工厂，通过描述想法或上传PRD自动生成完整的React Native + Expo项目。"
-创始人地区: "由 Süleyman KASIKCI 创立，US，2026 年成立"
-营收模式: "Free plan: 10% per sale. Pro plan: $19/month + 5% per sale."
-月收入估算: "$0/月（Stripe 验证）"
-流量来源: "SEO 自然流量为主（域名评分 DR0），Both 受众；官网 https://beginflow.com/"
-可迁移点: "① AI生成完整项目代码（含界面、数据模型、集成等） ② 支持实时预览和内置QA检查 ③ 提供多种导出方式（EAS Build/GitHub/ZIP） ④ 无供应商锁定，代码完全自主 ⑤ 混合定价模式（订阅费+销售分成）"
-原文链接: "https://beginflow.com/"
-数据口径: "营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:54:45.349Z；域名评分 DR0；原始页 https://trustmrr.com/startup/beginflow。"
-分类: "AI、Design Tools、Dev Tools、SaaS、E-comm / Both / 海外"
+name: BeginFlow
+一句话: BeginFlow是一个AI驱动的移动应用工厂，通过描述想法或上传PRD自动生成完整的React Native + Expo项目。
+创始人地区: 由 Süleyman KASIKCI 创立，US，2026 年成立
+营收模式: 'Free plan: 10% per sale. Pro plan: $19/month + 5% per sale.'
+月收入估算: $0/月（Stripe 验证）
+流量来源: SEO 自然流量为主（域名评分 DR0），Both 受众；官网 https://beginflow.com/
+可迁移点: ① AI生成完整项目代码（含界面、数据模型、集成等） ② 支持实时预览和内置QA检查 ③ 提供多种导出方式（EAS Build/GitHub/ZIP）
+  ④ 无供应商锁定，代码完全自主 ⑤ 混合定价模式（订阅费+销售分成）
+原文链接: https://beginflow.com/
+数据口径: 营收数据来自 TrustMRR 对接的支付服务商 API（Stripe）验证，最后同步于 2026-09-15T10:54:45.349Z；域名评分 DR0；原始页
+  https://trustmrr.com/startup/beginflow。
+分类: AI、Design Tools、Dev Tools、SaaS、E-comm / Both / 海外
 类型: 收入案例
 证据等级: 官方披露
-平台数据: "支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $3,287 · 累计营收 $3,287 · 域名 DR0 · 国家 US · 创立 2026-01-12"
-封面: "/case-site/cases/beginflow/site.webp"
+平台数据: 支付验证：Stripe · 当前 MRR $0 · 活跃订阅 0 · 近12个月营收 $3,287 · 累计营收 $3,287 · 域名 DR0 · 国家
+  US · 创立 2026-01-12
+封面: /case-site/cases/beginflow/site.webp
 ---
+
 
 ![BeginFlow 官网](/cases/beginflow/site.webp)
 
